@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2001427825421844536",
+    "created_at": "2026-06-23T00:06:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-23T01:06:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069210353733714104"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1609907541861076994",
+          "start": 0,
+          "username": "Inwal3310"
+        },
+        {
+          "end": 24,
+          "id": "1263250188757426176",
+          "start": 11,
+          "username": "yunyunyunnya"
+        },
+        {
+          "end": 33,
+          "id": "1770420226582269952",
+          "start": 25,
+          "username": "6huazhu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069210353733714104",
+    "in_reply_to_user_id": "1609907541861076994",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2001437435478110440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Inwal3310 @yunyunyunnya @6huazhu"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2001437435478110440].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2001437435478110440",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2001437435478110440"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2001427825421844536",
+        "created_at": "2026-06-23T00:06:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-23T01:06:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069210353733714104"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1609907541861076994",
+              "start": 0,
+              "username": "Inwal3310"
+            },
+            {
+              "end": 24,
+              "id": "1263250188757426176",
+              "start": 11,
+              "username": "yunyunyunnya"
+            },
+            {
+              "end": 33,
+              "id": "1770420226582269952",
+              "start": 25,
+              "username": "6huazhu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069210353733714104",
+        "in_reply_to_user_id": "1609907541861076994",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2001437435478110440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Inwal3310 @yunyunyunnya @6huazhu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶\n\nAnime | Minecraft | Aerospace | Girls Band | Game | Journey | Natural Science",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2129,
+          "following_count": 3124,
+          "like_count": 41379,
+          "listed_count": 10,
+          "media_count": 371,
+          "tweet_count": 13035
+        },
+        "url": "",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-02T13:40:56.000Z",
+        "description": "MTFlora/伐兰在左，企鹅在右/里推@_sarcophagi/永远在一起的🤍🐧@Silent121_5/🌸@Cavaradossi1008/🍂@fallenleavesw/🌷@cy79p/💮@zuifeiwu/🐈@hoshi_asuka0089",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "_sarcophagi"
+              },
+              {
+                "end": 53,
+                "start": 41,
+                "username": "Silent121_5"
+              },
+              {
+                "end": 71,
+                "start": 55,
+                "username": "Cavaradossi1008"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "fallenleavesw"
+              },
+              {
+                "end": 95,
+                "start": 89,
+                "username": "cy79p"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "zuifeiwu"
+              },
+              {
+                "end": 124,
+                "start": 108,
+                "username": "hoshi_asuka0089"
+              }
+            ]
+          }
+        },
+        "id": "1609907541861076994",
+        "location": "企鹅巢",
+        "name": "近花🌸",
+        "pinned_tweet_id": "2008134563911045257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006959754740924416/yGiliDIW_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1039,
+          "following_count": 1099,
+          "like_count": 64598,
+          "listed_count": 15,
+          "media_count": 926,
+          "tweet_count": 33381
+        },
+        "url": "",
+        "username": "Inwal3310",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-20T23:28:22.000Z",
+        "description": "这个想法是从什么地方来的？是某次具体的经历，还是一种更累积性的厌倦感？",
+        "id": "1263250188757426176",
+        "location": "有鲨鲨枕头酱和很多玩偶的地方",
+        "name": "口腔溃疡！！！！！！",
+        "pinned_tweet_id": "2037079005460127859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009444201516421124/rZsdho6X_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 1522,
+          "like_count": 164098,
+          "listed_count": 4,
+          "media_count": 976,
+          "tweet_count": 11994
+        },
+        "url": "",
+        "username": "yunyunyunnya",
+        "verified": true
+      },
+      {
+        "created_at": "2024-03-20T12:01:48.000Z",
+        "description": "坚定的六花主义者/永远永远爱你哦",
+        "id": "1770420226582269952",
+        "location": "Uji-shi, Kyoto",
+        "name": "坂下りっか🌸萌萌出击💕",
+        "pinned_tweet_id": "1901627308861174088",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1899804792291225600/8jXype4P_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1100,
+          "following_count": 909,
+          "like_count": 17142,
+          "listed_count": 4,
+          "media_count": 175,
+          "tweet_count": 9801
+        },
+        "url": "",
+        "username": "6huazhu",
+        "verified": false
+      }
+    ]
+  }
+}

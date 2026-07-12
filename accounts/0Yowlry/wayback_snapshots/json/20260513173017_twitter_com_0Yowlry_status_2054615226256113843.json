@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1999438501755199986",
+    "created_at": "2026-05-13T17:30:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-13T18:30:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054615226256113843"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1999360558223831040",
+          "start": 0,
+          "username": "Zerstoorer23__"
+        },
+        {
+          "end": 29,
+          "id": "1518613067050807296",
+          "start": 16,
+          "username": "Zerstoorer23"
+        },
+        {
+          "end": 45,
+          "id": "1565558808998383621",
+          "start": 30,
+          "username": "KantaiYukikaze"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054615226256113843",
+    "in_reply_to_user_id": "1999360558223831040",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999438501755199986",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Zerstoorer23__ @Zerstoorer23 @KantaiYukikaze fk🐎🐜🐉"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Zerstoorer23].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Zerstoorer23",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Zerstoorer23"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 608,
+        "media_key": "3_1999435148123865093",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G79rrHtagAU3dEM.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1999435565092261888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G79sDZCbUAAhLQs.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1301,
+        "media_key": "3_1999435480098824192",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G79r-caaYAAhUes.jpg",
+        "width": 1075
+      },
+      {
+        "height": 1080,
+        "media_key": "3_1999438312717844483",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G79ujUvagAMergV.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1999438501755199986",
+        "created_at": "2026-05-13T17:30:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-13T18:30:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054615226256113843"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1999360558223831040",
+              "start": 0,
+              "username": "Zerstoorer23__"
+            },
+            {
+              "end": 29,
+              "id": "1518613067050807296",
+              "start": 16,
+              "username": "Zerstoorer23"
+            },
+            {
+              "end": 45,
+              "id": "1565558808998383621",
+              "start": 30,
+              "username": "KantaiYukikaze"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054615226256113843",
+        "in_reply_to_user_id": "1999360558223831040",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999438501755199986",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Zerstoorer23__ @Zerstoorer23 @KantaiYukikaze fk🐎🐜🐉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999435148123865093",
+            "3_1999435565092261888",
+            "3_1999435480098824192",
+            "3_1999438312717844483"
+          ]
+        },
+        "author_id": "1999360558223831040",
+        "conversation_id": "1999438501755199986",
+        "created_at": "2025-12-12T11:17:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-12T12:17:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1999438501755199986"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 161,
+              "start": 156,
+              "tag": "推友寻回"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1518613067050807296",
+              "start": 3,
+              "username": "Zerstoorer23"
+            },
+            {
+              "end": 153,
+              "id": "1565558808998383621",
+              "start": 138,
+              "username": "KantaiYukikaze"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/a4SACwCpVS",
+              "end": 185,
+              "expanded_url": "https://x.com/JiatouYu10497/status/1999438501755199986/photo/1",
+              "media_key": "3_1999435148123865093",
+              "start": 162,
+              "url": "https://t.co/a4SACwCpVS"
+            },
+            {
+              "display_url": "pic.x.com/a4SACwCpVS",
+              "end": 185,
+              "expanded_url": "https://x.com/JiatouYu10497/status/1999438501755199986/photo/1",
+              "media_key": "3_1999435565092261888",
+              "start": 162,
+              "url": "https://t.co/a4SACwCpVS"
+            },
+            {
+              "display_url": "pic.x.com/a4SACwCpVS",
+              "end": 185,
+              "expanded_url": "https://x.com/JiatouYu10497/status/1999438501755199986/photo/1",
+              "media_key": "3_1999435480098824192",
+              "start": 162,
+              "url": "https://t.co/a4SACwCpVS"
+            },
+            {
+              "display_url": "pic.x.com/a4SACwCpVS",
+              "end": 185,
+              "expanded_url": "https://x.com/JiatouYu10497/status/1999438501755199986/photo/1",
+              "media_key": "3_1999438312717844483",
+              "start": 162,
+              "url": "https://t.co/a4SACwCpVS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999438501755199986",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 14837,
+          "like_count": 54,
+          "quote_count": 1,
+          "reply_count": 10,
+          "retweet_count": 14
+        },
+        "reply_settings": "everyone",
+        "text": "这里是@Zerstoorer23 的新账号\n\n出于一个荒唐的理由，我的账号于昨日突然被X冻结\n\n我对此感到很震惊，但我也没办法，只得尽可能去申诉，虽然明知希望渺茫\n\n不过令人欣慰的是我重新注册了一个新账号，我将在这里开启二周目\n\n烦请转发此贴文，助我寻回昔日推友！\n\n（内阁：@KantaiYukikaze）\n\n#推友寻回 https://t.co/a4SACwCpVS"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2014,
+          "following_count": 2840,
+          "like_count": 32365,
+          "listed_count": 10,
+          "media_count": 337,
+          "tweet_count": 10975
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-12T06:08:11.000Z",
+        "description": "17/高中生/中国人/ACGN爱好者\n\n很高兴能够认识你！☺️\n\n原账号@Zerstoorer23 二次转世",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 36,
+                "username": "Zerstoorer23"
+              }
+            ]
+          }
+        },
+        "id": "1999360558223831040",
+        "location": "Shanghai",
+        "name": "KMS Zerstörer23",
+        "pinned_tweet_id": "1999438501755199986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043236136030547968/YE-hrJQ7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 248,
+          "following_count": 233,
+          "like_count": 22736,
+          "listed_count": 0,
+          "media_count": 1091,
+          "tweet_count": 2208
+        },
+        "username": "Zerstoorer23__",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-02T04:35:08.000Z",
+        "description": "主人格@Zerstoorer23",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "Zerstoorer23"
+              }
+            ]
+          }
+        },
+        "id": "1565558808998383621",
+        "location": "東京帝国大学",
+        "name": "雪風 𝒴𝓊𝓀𝒾𝓀𝒶𝓏ℯ 🚢⚓️",
+        "pinned_tweet_id": "1999440076011635166",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979816690264203264/YLTYzCfU_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 75,
+          "following_count": 85,
+          "like_count": 18292,
+          "listed_count": 0,
+          "media_count": 320,
+          "tweet_count": 1988
+        },
+        "username": "KantaiYukikaze",
+        "verified": false
+      }
+    ]
+  }
+}

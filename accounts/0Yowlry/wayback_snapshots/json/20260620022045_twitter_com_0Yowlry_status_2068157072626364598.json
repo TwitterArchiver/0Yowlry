@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2066061493272301975",
+    "created_at": "2026-06-20T02:20:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-20T03:20:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068157072626364598"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1835282674455613440",
+          "start": 0,
+          "username": "Amamiya_kksk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068157072626364598",
+    "in_reply_to_user_id": "1835282674455613440",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066061493272301975",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Amamiya_kksk TO SAY: FUCK OFF!!!"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2066061493272301975].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2066061493272301975",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2066061493272301975"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2066061493272301975",
+        "created_at": "2026-06-20T02:20:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-20T03:20:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068157072626364598"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1835282674455613440",
+              "start": 0,
+              "username": "Amamiya_kksk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068157072626364598",
+        "in_reply_to_user_id": "1835282674455613440",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066061493272301975",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Amamiya_kksk TO SAY: FUCK OFF!!!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2119,
+          "following_count": 3116,
+          "like_count": 40939,
+          "listed_count": 10,
+          "media_count": 370,
+          "tweet_count": 12925
+        },
+        "url": "",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-15T11:41:25.000Z",
+        "description": "(仅熟人 Friends only!) Non-binary💛🤍💜🖤/Any pronoun/中文🇨🇳🇹🇼/English🇬🇧🇺🇲/日本語🇯🇵/自我认同为废物/某人的第二人格/主要内容是碎碎念",
+        "id": "1835282674455613440",
+        "location": "srn",
+        "name": "🌙月餅兎🎀",
+        "pinned_tweet_id": "2048413872898580643",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043706094183399424/t1bFCGZJ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 57,
+          "following_count": 146,
+          "like_count": 1873,
+          "listed_count": 1,
+          "media_count": 160,
+          "tweet_count": 1231
+        },
+        "url": "",
+        "username": "Amamiya_kksk",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,807 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "1280550787207147521",
+          "name": "Arts & culture"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Cosplay",
+          "id": "1047106191829028865",
+          "name": "Cosplay"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      }
+    ],
+    "conversation_id": "2052004682479161434",
+    "created_at": "2026-05-06T12:36:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-06T13:36:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2052004682479161434"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 61,
+          "start": 55,
+          "tag": "飞鸟山之战"
+        },
+        {
+          "end": 67,
+          "start": 62,
+          "tag": "バンドリ"
+        },
+        {
+          "end": 73,
+          "start": 68,
+          "tag": "MyGO"
+        },
+        {
+          "end": 79,
+          "start": 74,
+          "tag": "長崎そよ"
+        },
+        {
+          "end": 85,
+          "start": 80,
+          "tag": "豊川祥子"
+        },
+        {
+          "end": 94,
+          "start": 86,
+          "tag": "soyorin"
+        },
+        {
+          "end": 103,
+          "start": 95,
+          "tag": "crychic"
+        },
+        {
+          "end": 112,
+          "start": 104,
+          "tag": "cosplay"
+        },
+        {
+          "end": 118,
+          "start": 113,
+          "tag": "コスプレ"
+        },
+        {
+          "end": 124,
+          "start": 119,
+          "tag": "バンドリ"
+        },
+        {
+          "end": 135,
+          "start": 125,
+          "tag": "BanGDream"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1992627685798137856",
+          "start": 3,
+          "username": "Yuiko114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2052004682479161434",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 7
+    },
+    "referenced_tweets": [
+      {
+        "id": "2029474996989640721",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Yuiko114514: 来点对邦的整活现场，感谢老师配合俺整活😋\nさきちゃんいないと、わたしorz\n#飞鸟山之战\n#バンドリ #MyGO #長崎そよ #豊川祥子 #soyorin #crychic #cosplay #コスプレ #バンドリ #BanGDream #长崎…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1683,
+        "media_key": "3_2029474950730661889",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCoktw7awAEBdkz.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1024,
+        "media_key": "3_2029474970951401472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HCoku8QawAAD1U4.jpg",
+        "width": 828
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2052004682479161434",
+        "created_at": "2026-05-06T12:36:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-06T13:36:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2052004682479161434"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 61,
+              "start": 55,
+              "tag": "飞鸟山之战"
+            },
+            {
+              "end": 67,
+              "start": 62,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 73,
+              "start": 68,
+              "tag": "MyGO"
+            },
+            {
+              "end": 79,
+              "start": 74,
+              "tag": "長崎そよ"
+            },
+            {
+              "end": 85,
+              "start": 80,
+              "tag": "豊川祥子"
+            },
+            {
+              "end": 94,
+              "start": 86,
+              "tag": "soyorin"
+            },
+            {
+              "end": 103,
+              "start": 95,
+              "tag": "crychic"
+            },
+            {
+              "end": 112,
+              "start": 104,
+              "tag": "cosplay"
+            },
+            {
+              "end": 118,
+              "start": 113,
+              "tag": "コスプレ"
+            },
+            {
+              "end": 124,
+              "start": 119,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 135,
+              "start": 125,
+              "tag": "BanGDream"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1992627685798137856",
+              "start": 3,
+              "username": "Yuiko114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2052004682479161434",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 7
+        },
+        "referenced_tweets": [
+          {
+            "id": "2029474996989640721",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Yuiko114514: 来点对邦的整活现场，感谢老师配合俺整活😋\nさきちゃんいないと、わたしorz\n#飞鸟山之战\n#バンドリ #MyGO #長崎そよ #豊川祥子 #soyorin #crychic #cosplay #コスプレ #バンドリ #BanGDream #长崎…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2029474950730661889",
+            "3_2029474970951401472"
+          ]
+        },
+        "author_id": "1992627685798137856",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Cosplay",
+              "id": "1047106191829028865",
+              "name": "Cosplay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2029474996989640721",
+        "created_at": "2026-03-05T08:31:59.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-05T09:28:56.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2029474230107304143",
+          "2029474996989640721"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 44,
+              "start": 38,
+              "tag": "飞鸟山之战"
+            },
+            {
+              "end": 50,
+              "start": 45,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 56,
+              "start": 51,
+              "tag": "MyGO"
+            },
+            {
+              "end": 62,
+              "start": 57,
+              "tag": "長崎そよ"
+            },
+            {
+              "end": 68,
+              "start": 63,
+              "tag": "豊川祥子"
+            },
+            {
+              "end": 77,
+              "start": 69,
+              "tag": "soyorin"
+            },
+            {
+              "end": 86,
+              "start": 78,
+              "tag": "crychic"
+            },
+            {
+              "end": 95,
+              "start": 87,
+              "tag": "cosplay"
+            },
+            {
+              "end": 101,
+              "start": 96,
+              "tag": "コスプレ"
+            },
+            {
+              "end": 107,
+              "start": 102,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 118,
+              "start": 108,
+              "tag": "BanGDream"
+            },
+            {
+              "end": 124,
+              "start": 119,
+              "tag": "长崎素世"
+            },
+            {
+              "end": 130,
+              "start": 125,
+              "tag": "丰川祥子"
+            },
+            {
+              "end": 134,
+              "start": 131,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/11PM9NtlaN",
+              "end": 158,
+              "expanded_url": "https://x.com/Yuiko114514/status/2029474996989640721/photo/1",
+              "media_key": "3_2029474950730661889",
+              "start": 135,
+              "url": "https://t.co/11PM9NtlaN"
+            },
+            {
+              "display_url": "pic.x.com/11PM9NtlaN",
+              "end": 158,
+              "expanded_url": "https://x.com/Yuiko114514/status/2029474996989640721/photo/1",
+              "media_key": "3_2029474970951401472",
+              "start": 135,
+              "url": "https://t.co/11PM9NtlaN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2029474996989640721",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 9,
+          "impression_count": 13403,
+          "like_count": 118,
+          "quote_count": 0,
+          "reply_count": 12,
+          "retweet_count": 7
+        },
+        "reply_settings": "everyone",
+        "text": "来点对邦的整活现场，感谢老师配合俺整活😋\nさきちゃんいないと、わたしorz\n#飞鸟山之战\n#バンドリ #MyGO #長崎そよ #豊川祥子 #soyorin #crychic #cosplay #コスプレ #バンドリ #BanGDream #长崎素世 #丰川祥子 #男娘 https://t.co/11PM9NtlaN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1980,
+          "following_count": 2790,
+          "like_count": 30822,
+          "listed_count": 10,
+          "media_count": 336,
+          "tweet_count": 10585
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2025-11-23T16:14:10.000Z",
+        "description": "🧭#一瞬一瞬で一生 🐱🍊🐧🌸🐼",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 9,
+                "start": 1,
+                "tag": "一瞬一瞬で一生"
+              }
+            ]
+          }
+        },
+        "id": "1992627685798137856",
+        "location": "月ノ森女子学園",
+        "name": "家人",
+        "pinned_tweet_id": "2029474996989640721",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042086484711489536/je29RfuM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1557,
+          "following_count": 565,
+          "like_count": 5827,
+          "listed_count": 5,
+          "media_count": 1731,
+          "tweet_count": 4440
+        },
+        "username": "Yuiko114514",
+        "verified": true
+      }
+    ]
+  }
+}

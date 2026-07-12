@@ -1,0 +1,156 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1944465184430624941",
+    "created_at": "2025-07-13T19:36:48.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-13T20:36:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944481152913547370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1263250188757426176",
+          "start": 0,
+          "username": "yunyunyunnya"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944481152913547370",
+    "in_reply_to_user_id": "1263250188757426176",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944465184430624941",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yunyunyunnya 😨"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1944465184430624941].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1944465184430624941",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1944465184430624941"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1944465184430624941",
+        "created_at": "2025-07-13T19:36:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T20:36:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944481152913547370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1263250188757426176",
+              "start": 0,
+              "username": "yunyunyunnya"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944481152913547370",
+        "in_reply_to_user_id": "1263250188757426176",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944465184430624941",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunyunyunnya 😨"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "Yowlry",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900279853762392066/nf5oFqCF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1702,
+          "following_count": 2299,
+          "like_count": 15875,
+          "listed_count": 6,
+          "media_count": 288,
+          "tweet_count": 6289
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-20T23:28:22.000Z",
+        "description": "💤",
+        "id": "1263250188757426176",
+        "name": "口腔溃疡！！！！！！",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1925180057993334786/DIfqYJRH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1306,
+          "following_count": 1230,
+          "like_count": 117402,
+          "listed_count": 3,
+          "media_count": 734,
+          "tweet_count": 8555
+        },
+        "username": "yunyunyunnya",
+        "verified": false
+      }
+    ]
+  }
+}

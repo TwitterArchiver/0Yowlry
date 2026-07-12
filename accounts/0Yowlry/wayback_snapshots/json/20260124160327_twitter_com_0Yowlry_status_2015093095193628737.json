@@ -1,0 +1,167 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2014928854062973100",
+    "created_at": "2026-01-24T16:03:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T17:03:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015093095193628737"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1626578993821675521",
+          "start": 0,
+          "username": "linmen589064"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015093095193628737",
+    "in_reply_to_user_id": "1626578993821675521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015092661519286771",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linmen589064 我可以睡觉吗"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2015092661519286771].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2015092661519286771",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2015092661519286771"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2014928854062973100",
+        "created_at": "2026-01-24T16:03:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T17:03:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015093095193628737"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1626578993821675521",
+              "start": 0,
+              "username": "linmen589064"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015093095193628737",
+        "in_reply_to_user_id": "1626578993821675521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015092661519286771",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linmen589064 我可以睡觉吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1834,
+          "following_count": 2485,
+          "like_count": 23044,
+          "listed_count": 10,
+          "media_count": 317,
+          "tweet_count": 8829
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-17T13:48:49.000Z",
+        "description": "一个普通的躺平教教主罢了|诚念躺平大法好，三不保平安不买房不生子享幸福人生l认真b滚，小狗@elonmusk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "elonmusk"
+              }
+            ]
+          }
+        },
+        "id": "1626578993821675521",
+        "name": "川和 丶秀策",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012024309192278018/s_JJc7qN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1791,
+          "following_count": 450,
+          "like_count": 67355,
+          "listed_count": 4,
+          "media_count": 1023,
+          "tweet_count": 19637
+        },
+        "username": "linmen589064",
+        "verified": false
+      }
+    ]
+  }
+}

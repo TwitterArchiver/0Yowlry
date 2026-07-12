@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1875823784596488633",
+    "created_at": "2026-05-12T18:14:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T19:14:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054263935680094315"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1841760490243956736",
+          "start": 0,
+          "username": "AkkoShina8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054263935680094315",
+    "in_reply_to_user_id": "1841760490243956736",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1875823784596488633",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "following",
+    "text": "@AkkoShina8964 还真是"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1875823784596488633].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1875823784596488633",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1875823784596488633"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1875823784596488633",
+        "created_at": "2026-05-12T18:14:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T19:14:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054263935680094315"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1841760490243956736",
+              "start": 0,
+              "username": "AkkoShina8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054263935680094315",
+        "in_reply_to_user_id": "1841760490243956736",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1875823784596488633",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "following",
+        "text": "@AkkoShina8964 还真是"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2013,
+          "following_count": 2835,
+          "like_count": 32286,
+          "listed_count": 10,
+          "media_count": 337,
+          "tweet_count": 10950
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-03T08:41:44.000Z",
+        "description": "天は人の上に人を造らず、人の下に人を造らず",
+        "id": "1841760490243956736",
+        "location": "japan",
+        "name": "akko_shina&ラサのハウンド",
+        "pinned_tweet_id": "1875823784596488633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1990093244504702977/AktfOxK4_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 307,
+          "following_count": 2248,
+          "like_count": 17241,
+          "listed_count": 11,
+          "media_count": 130,
+          "tweet_count": 4228
+        },
+        "username": "AkkoShina8964",
+        "verified": false
+      }
+    ]
+  }
+}

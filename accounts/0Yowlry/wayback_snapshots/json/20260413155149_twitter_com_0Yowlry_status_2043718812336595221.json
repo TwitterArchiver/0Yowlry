@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1895773334488408200",
+    "created_at": "2026-04-13T15:51:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T16:51:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043718812336595221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2508919105",
+          "start": 0,
+          "username": "ncysea"
+        },
+        {
+          "end": 24,
+          "id": "1717716021740736512",
+          "start": 8,
+          "username": "bigold377887788"
+        },
+        {
+          "end": 38,
+          "id": "1611344351313154049",
+          "start": 25,
+          "username": "hihikariyuna"
+        },
+        {
+          "end": 54,
+          "id": "1882563916632666112",
+          "start": 39,
+          "username": "hhjnjkoguyunmo"
+        },
+        {
+          "end": 69,
+          "id": "1894405357444730880",
+          "start": 55,
+          "username": "kawroii063_II"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043718812336595221",
+    "in_reply_to_user_id": "2508919105",
+    "lang": "in",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895775820373016871",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ncysea @bigold377887788 @hihikariyuna @hhjnjkoguyunmo @kawroii063_II mama"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [hihikariyuna].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "hihikariyuna",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "hihikariyuna"
+    },
+    {
+      "detail": "User has been suspended: [kawroii063_II].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "kawroii063_II",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "kawroii063_II"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1895773334488408200",
+        "created_at": "2026-04-13T15:51:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T16:51:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043718812336595221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2508919105",
+              "start": 0,
+              "username": "ncysea"
+            },
+            {
+              "end": 24,
+              "id": "1717716021740736512",
+              "start": 8,
+              "username": "bigold377887788"
+            },
+            {
+              "end": 38,
+              "id": "1611344351313154049",
+              "start": 25,
+              "username": "hihikariyuna"
+            },
+            {
+              "end": 54,
+              "id": "1882563916632666112",
+              "start": 39,
+              "username": "hhjnjkoguyunmo"
+            },
+            {
+              "end": 69,
+              "id": "1894405357444730880",
+              "start": 55,
+              "username": "kawroii063_II"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043718812336595221",
+        "in_reply_to_user_id": "2508919105",
+        "lang": "in",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895775820373016871",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ncysea @bigold377887788 @hihikariyuna @hhjnjkoguyunmo @kawroii063_II mama"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2508919105",
+        "conversation_id": "1895773334488408200",
+        "created_at": "2025-03-01T09:59:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-03-01T10:59:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1895775820373016871"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 29,
+              "id": "1717716021740736512",
+              "start": 13,
+              "username": "bigold377887788"
+            },
+            {
+              "end": 43,
+              "id": "1611344351313154049",
+              "start": 30,
+              "username": "hihikariyuna"
+            },
+            {
+              "end": 59,
+              "id": "1882563916632666112",
+              "start": 44,
+              "username": "hhjnjkoguyunmo"
+            },
+            {
+              "end": 74,
+              "id": "1894405357444730880",
+              "start": 60,
+              "username": "kawroii063_II"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1895775820373016871",
+        "in_reply_to_user_id": "1839263401845075974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 48,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895773334488408200",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rajal_HENAN @bigold377887788 @hihikariyuna @hhjnjkoguyunmo @kawroii063_II 叫爸爸！（誤 😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1886,
+          "following_count": 2642,
+          "like_count": 27773,
+          "listed_count": 11,
+          "media_count": 327,
+          "tweet_count": 9817
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2014-05-20T01:01:21.000Z",
+        "description": "🇺🇸 He/Him. Speak 🇬🇧🇭🇰🇹🇼🇯🇵🇪🇸.\nMSc in Computer Science.\nFounder, Federal Councillor and MOFA of @enchenia.\nGloria Encheniae a me defenditur.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 94,
+                "username": "enchenia"
+              }
+            ]
+          }
+        },
+        "id": "2508919105",
+        "location": "Federation of Enchenia 英雪尼亞聯邦",
+        "name": "Ngok Ching Ying Suet 樂正瑩雪",
+        "pinned_tweet_id": "1979023440695656567",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011658810264551424/jsDktjC-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1831,
+          "following_count": 2022,
+          "like_count": 49954,
+          "listed_count": 11,
+          "media_count": 4254,
+          "tweet_count": 37245
+        },
+        "username": "ncysea",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-27T01:33:53.000Z",
+        "description": "點進來偷窺的中國人全家得骨癌。\n\n大日本帝國萬歲！天皇陛下萬歲！藍鯨大吐沙萬歲！",
+        "id": "1717716021740736512",
+        "name": "大你媽個臭屄陸，叫支那！",
+        "pinned_tweet_id": "1983124700663627825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953600890553917440/4ZZ8_vFm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 102,
+          "like_count": 8331,
+          "listed_count": 7,
+          "media_count": 145,
+          "tweet_count": 2990
+        },
+        "username": "bigold377887788",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-23T23:00:12.000Z",
+        "description": "",
+        "id": "1882563916632666112",
+        "name": "顾云沫",
+        "pinned_tweet_id": "2031186524331716777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009577466348949504/Jb01L601_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 895,
+          "like_count": 520903,
+          "listed_count": 8,
+          "media_count": 428,
+          "tweet_count": 43214
+        },
+        "username": "hhjnjkoguyunmo",
+        "verified": false
+      }
+    ]
+  }
+}

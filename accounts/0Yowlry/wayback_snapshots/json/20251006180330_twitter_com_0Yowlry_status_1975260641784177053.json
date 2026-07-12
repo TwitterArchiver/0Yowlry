@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1885543866503233899",
+    "created_at": "2025-10-06T18:03:30.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T19:03:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975260641784177053"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1885436187046817792",
+          "start": 0,
+          "username": "CrimSeraph_QwQ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975260641784177053",
+    "in_reply_to_user_id": "1885436187046817792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1901308524489068874",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@CrimSeraph_QwQ 看看鞋（bushu👀"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1901308524489068874].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1901308524489068874",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1901308524489068874"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1885543866503233899",
+        "created_at": "2025-10-06T18:03:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T19:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975260641784177053"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1885436187046817792",
+              "start": 0,
+              "username": "CrimSeraph_QwQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975260641784177053",
+        "in_reply_to_user_id": "1885436187046817792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1901308524489068874",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@CrimSeraph_QwQ 看看鞋（bushu👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1838,
+          "following_count": 2452,
+          "like_count": 19805,
+          "listed_count": 9,
+          "media_count": 303,
+          "tweet_count": 7842
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-31T21:13:44.000Z",
+        "description": "INTJ-T/not good at English/详细信息点击下方链接👇(暂时停用更新)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "profile.crimsonseraph.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://profile.crimsonseraph.dpdns.org",
+                "start": 0,
+                "url": "https://t.co/BDfuvCTEqK"
+              }
+            ]
+          }
+        },
+        "id": "1885436187046817792",
+        "location": "Between Hell and Heaven",
+        "name": "𝒞𝓇𝒾𝓂𝓈𝑜𝓃𝒮𝑒𝓇𝒶𝓅𝒽✟升天✟",
+        "pinned_tweet_id": "1943685739914371330",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1901284911602073600/hPLri5uN_normal.png",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 98,
+          "following_count": 130,
+          "like_count": 10137,
+          "listed_count": 2,
+          "media_count": 456,
+          "tweet_count": 5701
+        },
+        "url": "https://t.co/BDfuvCTEqK",
+        "username": "CrimSeraph_QwQ",
+        "verified": false
+      }
+    ]
+  }
+}

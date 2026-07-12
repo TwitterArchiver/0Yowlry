@@ -1,0 +1,390 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2024723641506943447",
+    "created_at": "2026-07-02T19:13:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-02T20:13:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2072760627899347082"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1343543267439255553",
+          "start": 0,
+          "username": "nishi_haru02"
+        },
+        {
+          "end": 27,
+          "id": "1751084995312275456",
+          "start": 14,
+          "username": "mikumiku3648"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2072760627899347082",
+    "in_reply_to_user_id": "1343543267439255553",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2024723641506943447",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nishi_haru02 @mikumiku3648"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 826,
+        "media_key": "3_2024723634196201472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBlDaviaQAA2XNC.jpg",
+        "width": 1476
+      },
+      {
+        "height": 827,
+        "media_key": "3_2024723634070441989",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBlDavEbUAU4SQI.jpg",
+        "width": 1479
+      },
+      {
+        "height": 827,
+        "media_key": "3_2024723634083024896",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBlDavHbUAA3dnG.jpg",
+        "width": 1473
+      },
+      {
+        "height": 827,
+        "media_key": "3_2024723634087219200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBlDavIbUAAbKHb.jpg",
+        "width": 1469
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2024723641506943447",
+        "created_at": "2026-07-02T19:13:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T20:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2072760627899347082"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1343543267439255553",
+              "start": 0,
+              "username": "nishi_haru02"
+            },
+            {
+              "end": 27,
+              "id": "1751084995312275456",
+              "start": 14,
+              "username": "mikumiku3648"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072760627899347082",
+        "in_reply_to_user_id": "1343543267439255553",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2024723641506943447",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nishi_haru02 @mikumiku3648"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2024723634196201472",
+            "3_2024723634070441989",
+            "3_2024723634083024896",
+            "3_2024723634087219200"
+          ]
+        },
+        "author_id": "1343543267439255553",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1586039743082483712",
+              "name": "Sci-fi & fantasy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1586040452628721664",
+              "name": "Slice of life"
+            }
+          }
+        ],
+        "conversation_id": "2024723641506943447",
+        "created_at": "2026-02-20T05:51:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-20T06:51:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2024723641506943447"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g0l81z5cwU",
+              "end": 100,
+              "expanded_url": "https://x.com/nishi_haru02/status/2024723641506943447/photo/1",
+              "media_key": "3_2024723634196201472",
+              "start": 77,
+              "url": "https://t.co/g0l81z5cwU"
+            },
+            {
+              "display_url": "pic.x.com/g0l81z5cwU",
+              "end": 100,
+              "expanded_url": "https://x.com/nishi_haru02/status/2024723641506943447/photo/1",
+              "media_key": "3_2024723634070441989",
+              "start": 77,
+              "url": "https://t.co/g0l81z5cwU"
+            },
+            {
+              "display_url": "pic.x.com/g0l81z5cwU",
+              "end": 100,
+              "expanded_url": "https://x.com/nishi_haru02/status/2024723641506943447/photo/1",
+              "media_key": "3_2024723634083024896",
+              "start": 77,
+              "url": "https://t.co/g0l81z5cwU"
+            },
+            {
+              "display_url": "pic.x.com/g0l81z5cwU",
+              "end": 100,
+              "expanded_url": "https://x.com/nishi_haru02/status/2024723641506943447/photo/1",
+              "media_key": "3_2024723634087219200",
+              "start": 77,
+              "url": "https://t.co/g0l81z5cwU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2024723641506943447",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 270,
+          "impression_count": 381469,
+          "like_count": 1621,
+          "quote_count": 22,
+          "reply_count": 34,
+          "retweet_count": 231
+        },
+        "reply_settings": "everyone",
+        "text": "中国国産日常萌え萌えアニメ『呼唤少女』、過酷な競争社会ライフを送りながらこれを視聴する中国学生層はファンタジーアニメ以上にファンタジーなのかもしれない。 https://t.co/g0l81z5cwU"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶\n\nAnime | Minecraft | Aerospace | Girls Band | Game | Journey | Natural Science",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2158,
+          "following_count": 3206,
+          "like_count": 43561,
+          "listed_count": 10,
+          "media_count": 373,
+          "tweet_count": 13600
+        },
+        "url": "",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-28T13:04:24.000Z",
+        "description": "シュワシュワ生まれて シュワシュワ弾ける",
+        "id": "1343543267439255553",
+        "name": "西春　おしの森へようこそ！",
+        "pinned_tweet_id": "2006260036063092989",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1623161804234055688/w3D_QXEj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6052,
+          "following_count": 2355,
+          "like_count": 204014,
+          "listed_count": 56,
+          "media_count": 177,
+          "tweet_count": 9581
+        },
+        "url": "",
+        "username": "nishi_haru02",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T03:30:20.000Z",
+        "description": "「私たちが経験した平凡な日常は、連続して起こる奇跡かもしれません」 友達！：@meguruKirara Remi @miku_suki393939 对象：@Mikuloverr_新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 51,
+                "start": 38,
+                "username": "meguruKirara"
+              },
+              {
+                "end": 73,
+                "start": 57,
+                "username": "miku_suki393939"
+              },
+              {
+                "end": 89,
+                "start": 77,
+                "username": "Mikuloverr_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/Yuuteki",
+                "end": 23,
+                "expanded_url": "https://github.com/Yuuteki",
+                "start": 0,
+                "url": "https://t.co/Wcto2ghIDr"
+              }
+            ]
+          }
+        },
+        "id": "1751084995312275456",
+        "location": "「さよなら」じゃなく 「また明日ね」って言って",
+        "name": "Miku🥝✞",
+        "pinned_tweet_id": "2022938243470401923",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055371914752008192/buXiE2oc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3989,
+          "following_count": 1350,
+          "like_count": 39497,
+          "listed_count": 18,
+          "media_count": 2939,
+          "tweet_count": 15708
+        },
+        "url": "https://t.co/Wcto2ghIDr",
+        "username": "mikumiku3648",
+        "verified": true
+      }
+    ]
+  }
+}

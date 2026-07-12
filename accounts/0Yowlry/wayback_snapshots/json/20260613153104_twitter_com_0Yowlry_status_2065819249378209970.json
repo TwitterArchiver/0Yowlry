@@ -1,0 +1,714 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2065031775261516123",
+    "created_at": "2026-06-13T15:31:04.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T16:31:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065819249378209970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1690570637499154432",
+          "start": 0,
+          "username": "zhwevea"
+        },
+        {
+          "end": 18,
+          "id": "1545277694325116928",
+          "start": 9,
+          "username": "YongQuan"
+        },
+        {
+          "end": 29,
+          "id": "1368897611672018953",
+          "start": 19,
+          "username": "XUEQIUxka"
+        },
+        {
+          "end": 39,
+          "id": "2033504930707996672",
+          "start": 30,
+          "username": "Xyliaxka"
+        },
+        {
+          "end": 47,
+          "id": "1902568136450424832",
+          "start": 40,
+          "username": "aoim33"
+        },
+        {
+          "end": 57,
+          "id": "817373130075160577",
+          "start": 48,
+          "username": "juzi_you"
+        },
+        {
+          "end": 66,
+          "id": "2010625193467867136",
+          "start": 58,
+          "username": "nutsh33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065819249378209970",
+    "in_reply_to_user_id": "1690570637499154432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065818837464076404",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zhwevea @YongQuan @XUEQIUxka @Xyliaxka @aoim33 @juzi_you @nutsh33 可能吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2065031775261516123",
+        "created_at": "2026-06-13T15:31:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:31:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065819249378209970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1690570637499154432",
+              "start": 0,
+              "username": "zhwevea"
+            },
+            {
+              "end": 18,
+              "id": "1545277694325116928",
+              "start": 9,
+              "username": "YongQuan"
+            },
+            {
+              "end": 29,
+              "id": "1368897611672018953",
+              "start": 19,
+              "username": "XUEQIUxka"
+            },
+            {
+              "end": 39,
+              "id": "2033504930707996672",
+              "start": 30,
+              "username": "Xyliaxka"
+            },
+            {
+              "end": 47,
+              "id": "1902568136450424832",
+              "start": 40,
+              "username": "aoim33"
+            },
+            {
+              "end": 57,
+              "id": "817373130075160577",
+              "start": 48,
+              "username": "juzi_you"
+            },
+            {
+              "end": 66,
+              "id": "2010625193467867136",
+              "start": 58,
+              "username": "nutsh33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065819249378209970",
+        "in_reply_to_user_id": "1690570637499154432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065818837464076404",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zhwevea @YongQuan @XUEQIUxka @Xyliaxka @aoim33 @juzi_you @nutsh33 可能吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690570637499154432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1347260913552789506",
+              "name": "Apple iMessage"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2065031775261516123",
+        "created_at": "2026-06-13T15:29:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T16:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065818837464076404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1545277694325116928",
+              "start": 0,
+              "username": "YongQuan"
+            },
+            {
+              "end": 18,
+              "id": "1839263401845075974",
+              "start": 10,
+              "username": "0Yowlry"
+            },
+            {
+              "end": 29,
+              "id": "1368897611672018953",
+              "start": 19,
+              "username": "XUEQIUxka"
+            },
+            {
+              "end": 39,
+              "id": "2033504930707996672",
+              "start": 30,
+              "username": "Xyliaxka"
+            },
+            {
+              "end": 47,
+              "id": "1902568136450424832",
+              "start": 40,
+              "username": "aoim33"
+            },
+            {
+              "end": 57,
+              "id": "817373130075160577",
+              "start": 48,
+              "username": "juzi_you"
+            },
+            {
+              "end": 66,
+              "id": "2010625193467867136",
+              "start": 58,
+              "username": "nutsh33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065818837464076404",
+        "in_reply_to_user_id": "1545277694325116928",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065810896967139694",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YongQuan @0Yowlry @XUEQIUxka @Xyliaxka @aoim33 @juzi_you @nutsh33 iMessage出bug了？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2093,
+          "following_count": 3036,
+          "like_count": 39446,
+          "listed_count": 10,
+          "media_count": 364,
+          "tweet_count": 12491
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei 👋｜ 想要每天耍乐到处玩 ✈️｜❤想要成为技术大拿 📲💡｜👊：@lovelyshuimao",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 53,
+                "start": 39,
+                "username": "lovelyshuimao"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/zhweaa",
+                "end": 23,
+                "expanded_url": "https://github.com/zhweaa",
+                "start": 0,
+                "url": "https://t.co/Lsl0VyAvMl"
+              }
+            ]
+          }
+        },
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "Zhi Wei 🥥🧊",
+        "pinned_tweet_id": "2045171291104403596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061738719095476224/g1B5Ghy6_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7584,
+          "following_count": 434,
+          "like_count": 33517,
+          "listed_count": 23,
+          "media_count": 2598,
+          "tweet_count": 20367
+        },
+        "url": "https://t.co/Lsl0VyAvMl",
+        "username": "zhwevea",
+        "verified": true
+      },
+      {
+        "created_at": "2022-07-08T05:24:56.000Z",
+        "description": "日常在 @yqua_｜爱人 ❤️@XUEQIUxka\nEN/JP/CN｜Enby｜reHRT：2026.5.5\n休学中｜meme｜回复和亮点内容｜竞技体育\n#小铨的月季花 #铨在天津卫 #LPL #VALORANTMasters",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 85,
+                "start": 78,
+                "tag": "小铨的月季花"
+              },
+              {
+                "end": 92,
+                "start": 86,
+                "tag": "铨在天津卫"
+              },
+              {
+                "end": 97,
+                "start": 93,
+                "tag": "LPL"
+              },
+              {
+                "end": 114,
+                "start": 98,
+                "tag": "VALORANTMasters"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 10,
+                "start": 4,
+                "username": "yqua_"
+              },
+              {
+                "end": 26,
+                "start": 16,
+                "username": "XUEQIUxka"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/ryq59",
+                "end": 23,
+                "expanded_url": "http://linktr.ee/ryq59",
+                "start": 0,
+                "url": "https://t.co/LbGkYNpDZO"
+              }
+            ]
+          }
+        },
+        "id": "1545277694325116928",
+        "location": "天津王串场",
+        "name": "你是要气死铨酱么🍥｜雪秋重度依赖",
+        "pinned_tweet_id": "2054146631860371564",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063651253125832704/cM7WOQVl_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10620,
+          "following_count": 4536,
+          "like_count": 50031,
+          "listed_count": 35,
+          "media_count": 4246,
+          "tweet_count": 14204
+        },
+        "url": "https://t.co/LbGkYNpDZO",
+        "username": "YongQuan",
+        "verified": true
+      },
+      {
+        "created_at": "2021-03-08T12:13:29.000Z",
+        "description": "原：雪秋小可爱，看日常@Xyliaxka，淡圈，SRS：2025/11/12\n爱人：@YongQuan\n全平台账号名称：雪秋小可爱\n全平台账号ID：XUEQIUxka\n会分享一些奇奇怪怪的东西\n#家长党，#MTFT男娘，#HRT，#SRS，#Les，#双相，#ADHD，#持证残疾人（bushi）\n欢迎访问我的网页↓",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 101,
+                "start": 97,
+                "tag": "家长党"
+              },
+              {
+                "end": 109,
+                "start": 102,
+                "tag": "MTFT男娘"
+              },
+              {
+                "end": 114,
+                "start": 110,
+                "tag": "HRT"
+              },
+              {
+                "end": 119,
+                "start": 115,
+                "tag": "SRS"
+              },
+              {
+                "end": 124,
+                "start": 120,
+                "tag": "Les"
+              },
+              {
+                "end": 128,
+                "start": 125,
+                "tag": "双相"
+              },
+              {
+                "end": 134,
+                "start": 129,
+                "tag": "ADHD"
+              },
+              {
+                "end": 141,
+                "start": 135,
+                "tag": "持证残疾人"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 20,
+                "start": 11,
+                "username": "Xyliaxka"
+              },
+              {
+                "end": 51,
+                "start": 42,
+                "username": "YongQuan"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/3Sp5cPFjKi"
+              }
+            ]
+          }
+        },
+        "id": "1368897611672018953",
+        "location": "雪球工业园",
+        "name": "雪秋🍥",
+        "pinned_tweet_id": "1794216825783566349",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2054858765954850816/zwnegy8n_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9127,
+          "following_count": 2386,
+          "like_count": 31948,
+          "listed_count": 26,
+          "media_count": 1938,
+          "tweet_count": 6041
+        },
+        "url": "https://t.co/3Sp5cPFjKi",
+        "username": "XUEQIUxka",
+        "verified": true
+      },
+      {
+        "created_at": "2026-03-16T11:25:41.000Z",
+        "description": "这是一个自动化小号（逃生舱），会转发大号自己的日常\n全平台账号名称：雪秋小可爱\n全平台账号ID： @XUEQIUxka\n雪球的号：@XUEQIUsuki",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 59,
+                "start": 49,
+                "username": "XUEQIUxka"
+              },
+              {
+                "end": 76,
+                "start": 65,
+                "username": "XUEQIUsuki"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "xueqiuxka.cn",
+                "end": 23,
+                "expanded_url": "http://xueqiuxka.cn",
+                "start": 0,
+                "url": "https://t.co/PagTOPITpg"
+              }
+            ]
+          }
+        },
+        "id": "2033504930707996672",
+        "name": "Xylia",
+        "pinned_tweet_id": "2033510785411154266",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034187020449529856/Vm1fCZQt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 200,
+          "following_count": 5,
+          "like_count": 5,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 73
+        },
+        "url": "https://t.co/PagTOPITpg",
+        "username": "Xyliaxka",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "在语言、教育与心灵的细微处，陪人慢慢长出理解世界的能力 / @supernovaArcaea",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 30,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/msmaoi",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/msmaoi",
+                "start": 0,
+                "url": "https://t.co/aq2EJaU1SQ"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "西湖 杭州 浙江 & 徐汇 上海, 中国",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2057467584669515839",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047171181342867456/U6UAQBzF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6064,
+          "following_count": 3036,
+          "like_count": 52667,
+          "listed_count": 21,
+          "media_count": 3203,
+          "tweet_count": 13413
+        },
+        "url": "https://t.co/aq2EJaU1SQ",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2017-01-06T14:11:55.000Z",
+        "description": "曾前端杂鱼开发 | 一隻遇到困難擺大爛的人畜無害的社懼鹹魚 ，是個東方眾。繁/简体中文 | 不主动回Fo | 站內私訊大概率看不到請見諒",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "uuz.bid",
+                "end": 23,
+                "expanded_url": "http://uuz.bid",
+                "start": 0,
+                "url": "https://t.co/GD7HCeOsLy"
+              }
+            ]
+          }
+        },
+        "id": "817373130075160577",
+        "name": "🍊橘紙柚🫧",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1889109468023308288/ZvKrzrcV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6998,
+          "following_count": 639,
+          "like_count": 116279,
+          "listed_count": 45,
+          "media_count": 8607,
+          "tweet_count": 68181
+        },
+        "url": "https://t.co/GD7HCeOsLy",
+        "username": "juzi_you",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-12T08:09:55.000Z",
+        "description": "日向 夏 Himukai Natsu ‖ 数码圈 ‖ 健身圈 ‖ Trance ‖ \n可爱、有趣的、日常 ‖ @UNIQLO_JP Staff ‖ 小伙伴 @aoim33",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 65,
+                "start": 55,
+                "username": "UNIQLO_JP"
+              },
+              {
+                "end": 85,
+                "start": 78,
+                "username": "aoim33"
+              }
+            ]
+          }
+        },
+        "id": "2010625193467867136",
+        "location": "温州 浙江",
+        "name": "Natsu H",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037968637076844544/_IfjcZMz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 878,
+          "following_count": 808,
+          "like_count": 1195,
+          "listed_count": 2,
+          "media_count": 686,
+          "tweet_count": 1910
+        },
+        "username": "nutsh33",
+        "verified": true
+      }
+    ]
+  }
+}

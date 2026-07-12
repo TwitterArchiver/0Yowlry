@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2022727406570930687",
+    "created_at": "2026-02-16T15:29:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-16T16:29:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2023419413245087832"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1998655152824434688",
+          "start": 0,
+          "username": "izumi_konataovo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2023419413245087832",
+    "in_reply_to_user_id": "1998655152824434688",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2022727406570930687",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@izumi_konataovo 我也是😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2022727406570930687",
+        "created_at": "2026-02-16T15:29:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-16T16:29:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2023419413245087832"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1998655152824434688",
+              "start": 0,
+              "username": "izumi_konataovo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2023419413245087832",
+        "in_reply_to_user_id": "1998655152824434688",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022727406570930687",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@izumi_konataovo 我也是😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1998655152824434688",
+        "conversation_id": "2022727406570930687",
+        "created_at": "2026-02-14T17:39:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-14T18:39:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2022727406570930687"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2022727406570930687",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 75,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "白天睡太多了，所以晚上睡不着觉，难受啊，我该怎么办。😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1863,
+          "following_count": 2533,
+          "like_count": 24002,
+          "listed_count": 11,
+          "media_count": 321,
+          "tweet_count": 9022
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-10T07:25:13.000Z",
+        "description": "没有什么特别的地方捏。\n左。",
+        "id": "1998655152824434688",
+        "location": "银河社会主义联邦",
+        "name": "Konata",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999326189056339973/jn79huU8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 42,
+          "like_count": 510,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 303
+        },
+        "username": "izumi_konataovo",
+        "verified": false
+      }
+    ]
+  }
+}

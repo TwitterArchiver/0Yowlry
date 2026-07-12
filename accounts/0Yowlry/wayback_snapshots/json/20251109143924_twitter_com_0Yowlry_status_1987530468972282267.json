@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1846360572822278195",
+    "created_at": "2025-11-09T14:39:24.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-09T15:39:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1987530468972282267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1674350845444644864",
+          "start": 0,
+          "username": "zai_xin_yi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1987530468972282267",
+    "in_reply_to_user_id": "1674350845444644864",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1846360572822278195",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@zai_xin_yi 传不下去了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1846360572822278195].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1846360572822278195",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1846360572822278195"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1846360572822278195",
+        "created_at": "2025-11-09T14:39:24.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-09T15:39:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987530468972282267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1674350845444644864",
+              "start": 0,
+              "username": "zai_xin_yi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987530468972282267",
+        "in_reply_to_user_id": "1674350845444644864",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1846360572822278195",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zai_xin_yi 传不下去了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している\n\n@rosmarinou\n\nWE ARE ALWAYS WITH YOU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "rosmarinou"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1871,
+          "following_count": 2526,
+          "like_count": 22426,
+          "listed_count": 10,
+          "media_count": 315,
+          "tweet_count": 8605
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-29T09:35:45.000Z",
+        "description": "死人（男娘 已陨落） 会刻膛线（我没有 不要乱说） 空调师傅（什么）内向 孤僻\n想變成血霧！藍蝶 @zaixinyi.bsky.social\ntg群組 https://t.co/QOwi3ETJjj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "zaixinyi"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/KsnWsn",
+                "end": 99,
+                "expanded_url": "http://t.me/KsnWsn",
+                "start": 76,
+                "url": "https://t.co/QOwi3ETJjj"
+              }
+            ]
+          }
+        },
+        "id": "1674350845444644864",
+        "location": "Telegram",
+        "name": "zai_xin_yi",
+        "pinned_tweet_id": "1784070878688604635",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1761940373151293441/fBMVezgh_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 425,
+          "following_count": 318,
+          "like_count": 75108,
+          "listed_count": 2,
+          "media_count": 315,
+          "tweet_count": 6293
+        },
+        "username": "zai_xin_yi",
+        "verified": false
+      }
+    ]
+  }
+}

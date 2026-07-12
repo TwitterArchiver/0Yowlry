@@ -1,0 +1,266 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1925186790706823319",
+    "created_at": "2026-04-13T15:52:41.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T16:52:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043719027030364503"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1782063289675255808",
+          "start": 0,
+          "username": "Kisaragi_Momoe"
+        },
+        {
+          "end": 26,
+          "id": "1801524280943067136",
+          "start": 16,
+          "username": "z_compass"
+        },
+        {
+          "end": 40,
+          "id": "1611344351313154049",
+          "start": 27,
+          "username": "hihikariyuna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043719027030364503",
+    "in_reply_to_user_id": "1782063289675255808",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1925577035227046405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Kisaragi_Momoe @z_compass @hihikariyuna 我比较喜欢右边的（"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [hihikariyuna].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "hihikariyuna",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "hihikariyuna"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1925186790706823319",
+        "created_at": "2026-04-13T15:52:41.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T16:52:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043719027030364503"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1782063289675255808",
+              "start": 0,
+              "username": "Kisaragi_Momoe"
+            },
+            {
+              "end": 26,
+              "id": "1801524280943067136",
+              "start": 16,
+              "username": "z_compass"
+            },
+            {
+              "end": 40,
+              "id": "1611344351313154049",
+              "start": 27,
+              "username": "hihikariyuna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043719027030364503",
+        "in_reply_to_user_id": "1782063289675255808",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925577035227046405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Kisaragi_Momoe @z_compass @hihikariyuna 我比较喜欢右边的（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782063289675255808",
+        "conversation_id": "1925186790706823319",
+        "created_at": "2025-05-22T15:38:35.000Z",
+        "edit_controls": {
+          "editable_until": "2025-05-22T16:38:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1925577035227046405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1801524280943067136",
+              "start": 0,
+              "username": "z_compass"
+            },
+            {
+              "end": 24,
+              "id": "1611344351313154049",
+              "start": 11,
+              "username": "hihikariyuna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1925577035227046405",
+        "in_reply_to_user_id": "1801524280943067136",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 74,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1925573533306151290",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@z_compass @hihikariyuna @Cheshire_kwine 是呀……"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1886,
+          "following_count": 2643,
+          "like_count": 27778,
+          "listed_count": 11,
+          "media_count": 327,
+          "tweet_count": 9818
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-21T15:06:19.000Z",
+        "description": "焦虑型依恋&持续性想死｜无证含糖友跨男娘18岁女高｜我的挚爱姐姐妈妈主人烧仙草老婆 @nomexfirebullet",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 42,
+                "username": "nomexfirebullet"
+              }
+            ]
+          }
+        },
+        "id": "1782063289675255808",
+        "location": "在你心里",
+        "name": "如月 桃枝🍥🏳️‍⚧️🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑🍑",
+        "pinned_tweet_id": "2005503341976252873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1984682878085840897/6gda--vn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1669,
+          "following_count": 1607,
+          "like_count": 39300,
+          "listed_count": 3,
+          "media_count": 210,
+          "tweet_count": 4633
+        },
+        "username": "Kisaragi_Momoe",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-14T07:57:24.000Z",
+        "description": "白雪千夜、芹沢あさひ、有村麻央担当。dream journey为首的黄金一族推。我是一个普罗丢撒，前拖累纳，舞台制造者，草稿量产型小说家，前提督，炽天使部队队员",
+        "id": "1801524280943067136",
+        "name": "CompassZ",
+        "pinned_tweet_id": "2012541370800468006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1970704851853246464/vUiN_otI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 197,
+          "following_count": 4834,
+          "like_count": 82417,
+          "listed_count": 1,
+          "media_count": 63,
+          "tweet_count": 2444
+        },
+        "username": "z_compass",
+        "verified": false
+      }
+    ]
+  }
+}

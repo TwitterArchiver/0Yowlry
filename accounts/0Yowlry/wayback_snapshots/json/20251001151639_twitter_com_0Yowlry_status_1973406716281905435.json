@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1973404617015959767",
+    "created_at": "2025-10-01T15:16:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-01T16:16:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1973406716281905435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1690570637499154432",
+          "start": 0,
+          "username": "saonanaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1973406716281905435",
+    "in_reply_to_user_id": "1690570637499154432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1973404617015959767",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@saonanaa 之前因为经常熬夜我也是，心脏刺痛"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1973404617015959767",
+        "created_at": "2025-10-01T15:16:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T16:16:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1973406716281905435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1690570637499154432",
+              "start": 0,
+              "username": "saonanaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1973406716281905435",
+        "in_reply_to_user_id": "1690570637499154432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1973404617015959767",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@saonanaa 之前因为经常熬夜我也是，心脏刺痛"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1690570637499154432",
+        "conversation_id": "1973404617015959767",
+        "created_at": "2025-10-01T15:08:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-01T16:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1973404617015959767"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1973404617015959767",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 25,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "一瞬间心脏绞痛起来，好疼，我差点以为我要猝死了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1829,
+          "following_count": 2440,
+          "like_count": 19439,
+          "listed_count": 9,
+          "media_count": 305,
+          "tweet_count": 7775
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei｜男的 & 未翻车 & 不是男娘永不女装｜好无聊但什么都不想干｜浙江穷入 & 欢迎来找我玩",
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "我的浓痰有嚼劲",
+        "pinned_tweet_id": "1970838368197161412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959236243205804032/-RNaW-TY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6099,
+          "following_count": 424,
+          "like_count": 33104,
+          "listed_count": 16,
+          "media_count": 1963,
+          "tweet_count": 17857
+        },
+        "username": "saonanaa",
+        "verified": true
+      }
+    ]
+  }
+}

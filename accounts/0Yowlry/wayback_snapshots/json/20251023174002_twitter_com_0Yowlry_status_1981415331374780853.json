@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1897291438234476597",
+    "created_at": "2025-10-23T17:40:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-23T18:40:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1981415331374780853"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1845668678387515392",
+          "start": 0,
+          "username": "dilei114"
+        },
+        {
+          "end": 21,
+          "id": "1939372688432373760",
+          "start": 10,
+          "username": "Muoujiang_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1981415331374780853",
+    "in_reply_to_user_id": "1845668678387515392",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1897305726252671361",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@dilei114 @Muoujiang_ 😡"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1897305726252671361].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1897305726252671361",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1897305726252671361"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1897291438234476597",
+        "created_at": "2025-10-23T17:40:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-23T18:40:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1981415331374780853"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1845668678387515392",
+              "start": 0,
+              "username": "dilei114"
+            },
+            {
+              "end": 21,
+              "id": "1939372688432373760",
+              "start": 10,
+              "username": "Muoujiang_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981415331374780853",
+        "in_reply_to_user_id": "1845668678387515392",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1897305726252671361",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@dilei114 @Muoujiang_ 😡"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1854,
+          "following_count": 2483,
+          "like_count": 20995,
+          "listed_count": 9,
+          "media_count": 305,
+          "tweet_count": 8093
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-14T03:31:27.000Z",
+        "description": "会很友善的对待大家的哟 ✧(≖ ◡ ≖✿)｜偶尔是小男娘 ?丨不对线｜无明确意识形态｜拒绝一切极端人｜会尽最大努力避免与任何人发生冲突｜做个萌萌人｜绝对不会主动骂人或人身攻击｜不会因立场不同而屏蔽或辱骂他人｜会屏蔽乱骂人的账号｜可能会出现误屏蔽的情况｜善待每一位能好好说话的推友❤️丨🔞小号@baojiangdilei",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 159,
+                "start": 145,
+                "username": "baojiangdilei"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "18comic.vip",
+                "end": 23,
+                "expanded_url": "http://18comic.vip",
+                "start": 0,
+                "url": "https://t.co/li0aYkyZOF"
+              }
+            ]
+          }
+        },
+        "id": "1845668678387515392",
+        "location": "D.P.R.KOREN",
+        "name": "爆浆地雷😘",
+        "pinned_tweet_id": "1913817499562639368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1928477544153759744/blr9epX7_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1362,
+          "following_count": 682,
+          "like_count": 178429,
+          "listed_count": 5,
+          "media_count": 1065,
+          "tweet_count": 10956
+        },
+        "url": "https://t.co/li0aYkyZOF",
+        "username": "dilei114",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-29T17:17:42.000Z",
+        "description": "关注 @huahuojiang_  在这里！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 3,
+                "username": "huahuojiang_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/huahuojiang_?s…",
+                "end": 23,
+                "expanded_url": "https://x.com/huahuojiang_?s=21",
+                "start": 0,
+                "url": "https://t.co/NOxdO9bJ4C"
+              }
+            ]
+          }
+        },
+        "id": "1939372688432373760",
+        "location": "穆斯林绿绿没有一个是蘑菇🍄‍🟫的",
+        "name": "🇮🇱 Benjamin Netanyahu UTTS 🇮🇱",
+        "pinned_tweet_id": "1939777032856162773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939372769591844864/EzX-OOAf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20,
+          "following_count": 17,
+          "like_count": 34,
+          "listed_count": 1,
+          "media_count": 1,
+          "tweet_count": 28
+        },
+        "url": "https://t.co/NOxdO9bJ4C",
+        "username": "Muoujiang_",
+        "verified": false
+      }
+    ]
+  }
+}

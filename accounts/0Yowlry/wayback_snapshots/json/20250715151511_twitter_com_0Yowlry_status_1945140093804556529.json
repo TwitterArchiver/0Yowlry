@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1945040966898810973",
+    "created_at": "2025-07-15T15:15:11.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-15T16:15:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945140093804556529"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1862018067691413504",
+          "start": 0,
+          "username": "baka8964qwq"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945140093804556529",
+    "in_reply_to_user_id": "1862018067691413504",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945042743043960849",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@baka8964qwq 粉qu哪有那么厉害，除非背后是CPC的粉qu"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1945042743043960849].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1945042743043960849",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1945042743043960849"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1945040966898810973",
+        "created_at": "2025-07-15T15:15:11.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T16:15:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945140093804556529"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1862018067691413504",
+              "start": 0,
+              "username": "baka8964qwq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945140093804556529",
+        "in_reply_to_user_id": "1862018067691413504",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945042743043960849",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@baka8964qwq 粉qu哪有那么厉害，除非背后是CPC的粉qu"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "Yowlry",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900279853762392066/nf5oFqCF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1713,
+          "following_count": 2290,
+          "like_count": 16251,
+          "listed_count": 6,
+          "media_count": 288,
+          "tweet_count": 6564
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-28T06:18:03.000Z",
+        "description": "00後男生【左翼三民主義🇹🇼】【進步主義/社會民主主義🌹】【社會自由主義🗽】【對🏳️‍🌈🏳️‍⚧️友好】【自由泛亞主義🇰🇷🇹🇼🇯🇵】【中立主義⚖️（偏自由派）】【和平主義🌍🌏🌎🇺🇦❤️🇵🇸🤝🇮🇱】【繁體/簡體/English/日本語】 小號及逃生艙：@Milkqwq666",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 136,
+                "start": 125,
+                "username": "Milkqwq666"
+              }
+            ]
+          }
+        },
+        "id": "1862018067691413504",
+        "location": "Australia",
+        "name": "baka （暫時保護狀態，請關注小號）🇹🇼🇯🇵🇦🇺🇺🇦🌹🚩",
+        "pinned_tweet_id": "1945040966898810973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1926493715050213376/BEWaspK6_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 826,
+          "following_count": 1246,
+          "like_count": 5169,
+          "listed_count": 3,
+          "media_count": 166,
+          "tweet_count": 1584
+        },
+        "username": "baka8964qwq",
+        "verified": false
+      }
+    ]
+  }
+}

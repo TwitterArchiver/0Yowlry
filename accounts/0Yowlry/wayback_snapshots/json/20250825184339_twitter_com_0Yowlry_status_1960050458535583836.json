@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1959976883212231046",
+    "created_at": "2025-08-25T18:43:39.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T19:43:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960050458535583836"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1621761267068473344",
+          "start": 0,
+          "username": "moriyomiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960050458535583836",
+    "in_reply_to_user_id": "1621761267068473344",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959976883212231046",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@moriyomiko 我也是"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1959976883212231046",
+        "created_at": "2025-08-25T18:43:39.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T19:43:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960050458535583836"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1621761267068473344",
+              "start": 0,
+              "username": "moriyomiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960050458535583836",
+        "in_reply_to_user_id": "1621761267068473344",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959976883212231046",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@moriyomiko 我也是"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1621761267068473344",
+        "conversation_id": "1959976883212231046",
+        "created_at": "2025-08-25T13:51:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T14:51:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959976883212231046"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959976883212231046",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 585,
+          "like_count": 26,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "好难过呀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "Yowlry",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960048268525858816/MjMpG-1y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1809,
+          "following_count": 2397,
+          "like_count": 18240,
+          "listed_count": 10,
+          "media_count": 296,
+          "tweet_count": 7458
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-04T06:43:27.000Z",
+        "description": "♪ 宁作我，岂其卿 ♪ 保持自我很重要！｜汉本位保守右派🔅宋朝遗民🎴温和法友｜中国古典文化｜书法爱好者｜ACG兴趣｜🏵️cos只是趣味非专业coser🫶🏻无论你什么立场能友好理智交流我就不反对你 不线下不搞黄别问了",
+        "id": "1621761267068473344",
+        "location": "大宋行在临安杭州城",
+        "name": "便利屋臭脸😌",
+        "pinned_tweet_id": "1953266617477128486",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946875730144473088/pQaBEk_k_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 681,
+          "following_count": 451,
+          "like_count": 12167,
+          "listed_count": 4,
+          "media_count": 587,
+          "tweet_count": 3754
+        },
+        "username": "moriyomiko",
+        "verified": false
+      }
+    ]
+  }
+}

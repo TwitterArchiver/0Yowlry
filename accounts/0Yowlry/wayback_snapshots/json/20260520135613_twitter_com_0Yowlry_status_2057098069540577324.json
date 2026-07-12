@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2056292878247477724",
+    "created_at": "2026-05-20T13:56:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T14:56:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057098069540577324"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1789586690400800769",
+          "start": 0,
+          "username": "ameear8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057098069540577324",
+    "in_reply_to_user_id": "1789586690400800769",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056292878247477724",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ameear8964 前天是518，你怎么看🤔"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 10410,
+        "height": 720,
+        "media_key": "13_2056292812396924928",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2056292812396924928/img/aK30ZkRIDbcHiVpy.jpg",
+        "public_metrics": {
+          "view_count": 401
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056292812396924928/vid/avc1/480x270/_MgI12eWbyq9gBey.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056292812396924928/vid/avc1/640x360/-AxEWRdJKIU_tGdS.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2056292812396924928/vid/avc1/1280x720/AAQbDI4a3n4_Zc9d.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2056292812396924928/pl/-2NFqJgCNmw0CrNK.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2056292878247477724",
+        "created_at": "2026-05-20T13:56:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:56:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057098069540577324"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1789586690400800769",
+              "start": 0,
+              "username": "ameear8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057098069540577324",
+        "in_reply_to_user_id": "1789586690400800769",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056292878247477724",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ameear8964 前天是518，你怎么看🤔"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2056292812396924928"
+          ]
+        },
+        "author_id": "1789586690400800769",
+        "conversation_id": "2056292878247477724",
+        "created_at": "2026-05-18T08:36:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-18T09:36:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2056292878247477724"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hPHEnMk5fy",
+              "end": 29,
+              "expanded_url": "https://x.com/ameear8964/status/2056292878247477724/video/1",
+              "media_key": "13_2056292812396924928",
+              "start": 6,
+              "url": "https://t.co/hPHEnMk5fy"
+            },
+            {
+              "display_url": "x.com/canton_ss/stat…",
+              "end": 53,
+              "expanded_url": "https://twitter.com/canton_ss/status/2055964149583384887",
+              "start": 30,
+              "url": "https://t.co/LIqUYpWXW2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056292878247477724",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1543,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2055964149583384887",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "🤲🤲🤲🤲🤲 https://t.co/hPHEnMk5fy https://t.co/LIqUYpWXW2"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2042,
+          "following_count": 2868,
+          "like_count": 33335,
+          "listed_count": 10,
+          "media_count": 342,
+          "tweet_count": 11204
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-12T09:21:43.000Z",
+        "description": "EARHART AMELIA M. 896489648USN BN CHRISTIAN, Wingmate : @inoueerii",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 56,
+                "username": "inoueerii"
+              }
+            ]
+          }
+        },
+        "id": "1789586690400800769",
+        "location": "미해군항공대 제8964항모항공단",
+        "name": "아멜리아 에어하트",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1862830820064432129/g7Hpsfzx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3597,
+          "following_count": 1391,
+          "like_count": 35763,
+          "listed_count": 17,
+          "media_count": 1019,
+          "tweet_count": 10350
+        },
+        "username": "ameear8964",
+        "verified": false
+      }
+    ]
+  }
+}

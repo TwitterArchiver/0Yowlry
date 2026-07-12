@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1945739325171503106",
+    "created_at": "2025-07-17T11:41:57.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T12:41:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945811206834663857"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 17,
+          "normalized_text": "nihao",
+          "probability": 0.6559,
+          "start": 13,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1235331751855169538",
+          "start": 0,
+          "username": "C12H24KNO16"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945811206834663857",
+    "in_reply_to_user_id": "1235331751855169538",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945739325171503106",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@C12H24KNO16 nihao"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1945739325171503106].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1945739325171503106",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1945739325171503106"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1945739325171503106",
+        "created_at": "2025-07-17T11:41:57.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T12:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945811206834663857"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 17,
+              "normalized_text": "nihao",
+              "probability": 0.6559,
+              "start": 13,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1235331751855169538",
+              "start": 0,
+              "username": "C12H24KNO16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945811206834663857",
+        "in_reply_to_user_id": "1235331751855169538",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945739325171503106",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@C12H24KNO16 nihao"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "Yowlry",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900279853762392066/nf5oFqCF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1727,
+          "following_count": 2297,
+          "like_count": 16488,
+          "listed_count": 6,
+          "media_count": 289,
+          "tweet_count": 6668
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2020-03-04T22:30:25.000Z",
+        "description": "𝑫𝒆𝒔𝒄𝒆𝒏𝒅𝒂𝒏𝒕𝒔 𝒐𝒇 𝒆𝒍𝒅𝒆𝒓𝒔, 𝒃𝒊𝒅𝒆 𝒕𝒉𝒆𝒊𝒓 𝒕𝒊𝒎𝒆.\nHUMAN-CAUSED GLOBAL WARMING HAS BEEN INCREASING FASTER AND FASTER SINCE THE 1970S.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "getsession.org/download?05c5a…",
+                "end": 23,
+                "expanded_url": "https://getsession.org/download?05c5ab31673b1f4982196cccb3c04e7e5baaa965f0d7f7ddd60aabaca86d58d640",
+                "start": 0,
+                "url": "https://t.co/W5g55BSEHU"
+              }
+            ]
+          }
+        },
+        "id": "1235331751855169538",
+        "location": "𝓒𝓞2 ➡♻❌ ",
+        "name": "𝑶𝑽𝑬𝑹𝑺𝑬𝑬𝑹⚛️C₁₂H₂₄KNO₁₆²⁺↑ENCRYPTED POSTS",
+        "pinned_tweet_id": "1943102111610474541",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916000148653588480/5waqE3V-_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 560,
+          "like_count": 20040,
+          "listed_count": 5,
+          "media_count": 18323,
+          "tweet_count": 50016
+        },
+        "url": "https://t.co/W5g55BSEHU",
+        "username": "C12H24KNO16",
+        "verified": false
+      }
+    ]
+  }
+}

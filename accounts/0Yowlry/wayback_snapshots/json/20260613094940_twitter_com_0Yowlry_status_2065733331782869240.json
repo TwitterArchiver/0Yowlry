@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2004872772225585420",
+    "created_at": "2026-06-13T09:49:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T10:49:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065733331782869240"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1944009059172331523",
+          "start": 0,
+          "username": "aoim31"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065733331782869240",
+    "in_reply_to_user_id": "1944009059172331523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2004872772225585420",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoim31 现在"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2004872772225585420",
+        "created_at": "2026-06-13T09:49:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T10:49:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065733331782869240"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1944009059172331523",
+              "start": 0,
+              "username": "aoim31"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065733331782869240",
+        "in_reply_to_user_id": "1944009059172331523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2004872772225585420",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim31 现在"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1944009059172331523",
+        "conversation_id": "2004872772225585420",
+        "created_at": "2025-12-27T11:11:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-27T12:11:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2004872772225585420"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2004872772225585420",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 726,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "家里人好烦\n什么时候可以出去呢"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2094,
+          "following_count": 3037,
+          "like_count": 39390,
+          "listed_count": 10,
+          "media_count": 364,
+          "tweet_count": 12472
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-12T12:21:00.000Z",
+        "description": "@aoim33",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 7,
+                "start": 0,
+                "username": "aoim33"
+              }
+            ]
+          }
+        },
+        "id": "1944009059172331523",
+        "location": "Shanghai",
+        "name": "M Aoi",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1950064768951205889/ZJiW_Tya_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 65,
+          "following_count": 39,
+          "like_count": 10,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 10
+        },
+        "username": "aoim31",
+        "verified": false
+      }
+    ]
+  }
+}

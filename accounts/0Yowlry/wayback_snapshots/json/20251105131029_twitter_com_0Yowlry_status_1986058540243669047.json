@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "1984193719336137019",
+    "created_at": "2025-11-05T13:10:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T14:10:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986058540243669047"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 37,
+          "normalized_text": "discord",
+          "probability": 0.9109,
+          "start": 31,
+          "type": "Other"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1407946975127883777",
+          "start": 0,
+          "username": "brandon94623"
+        },
+        {
+          "end": 30,
+          "id": "1794617194954850304",
+          "start": 14,
+          "username": "Baixiaoming2952"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986058540243669047",
+    "in_reply_to_user_id": "1407946975127883777",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1984196412725432685",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@brandon94623 @Baixiaoming2952 discord？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1984193719336137019",
+        "created_at": "2025-11-05T13:10:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T14:10:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986058540243669047"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 37,
+              "normalized_text": "discord",
+              "probability": 0.9109,
+              "start": 31,
+              "type": "Other"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1407946975127883777",
+              "start": 0,
+              "username": "brandon94623"
+            },
+            {
+              "end": 30,
+              "id": "1794617194954850304",
+              "start": 14,
+              "username": "Baixiaoming2952"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986058540243669047",
+        "in_reply_to_user_id": "1407946975127883777",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984196412725432685",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@brandon94623 @Baixiaoming2952 discord？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1407946975127883777",
+        "conversation_id": "1984193719336137019",
+        "created_at": "2025-10-31T09:51:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T10:51:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984196412725432685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1794617194954850304",
+              "start": 0,
+              "username": "Baixiaoming2952"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984196412725432685",
+        "in_reply_to_user_id": "1794617194954850304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 44,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1984193719336137019",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Baixiaoming2952 對了可以看個dc嗎"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している\n\n@rosmarinou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "rosmarinou"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1866,
+          "following_count": 2514,
+          "like_count": 22119,
+          "listed_count": 9,
+          "media_count": 311,
+          "tweet_count": 8442
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2021-06-24T06:21:42.000Z",
+        "description": "大學生跟檔案玩家一個，主要在discord活動，反對中共，廣義的民主社會主義者，要互跟的話可以私訊\nbluesky：https://t.co/t56HRVw1A3",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bsky.app/profile/brando…",
+                "end": 81,
+                "expanded_url": "https://bsky.app/profile/brandon-yu.bsky.social",
+                "start": 58,
+                "url": "https://t.co/t56HRVw1A3"
+              }
+            ]
+          }
+        },
+        "id": "1407946975127883777",
+        "location": "Taiwan",
+        "name": "榨甘蔗救台灣🇹🇼",
+        "pinned_tweet_id": "1949869235158601807",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1850879781572866048/C4t9EMan_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 248,
+          "like_count": 8535,
+          "listed_count": 2,
+          "media_count": 100,
+          "tweet_count": 3144
+        },
+        "username": "brandon94623",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-26T06:31:28.000Z",
+        "description": "不著名螺蛳粉与学校蛋挞爱好者 | 08年广西土著 | 简中/正體/En | 政史地亡命文科生 | 助ta们涨粉:@virtual_kaf @gen_senden @pp71294406 @IzayoiMarin @NovaBabelo @QQ5915179 @brandon94623 @oldsddl4gunmu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 56,
+                "username": "virtual_kaf"
+              },
+              {
+                "end": 80,
+                "start": 69,
+                "username": "gen_senden"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "username": "pp71294406"
+              },
+              {
+                "end": 105,
+                "start": 93,
+                "username": "IzayoiMarin"
+              },
+              {
+                "end": 117,
+                "start": 106,
+                "username": "NovaBabelo"
+              },
+              {
+                "end": 128,
+                "start": 118,
+                "username": "QQ5915179"
+              },
+              {
+                "end": 142,
+                "start": 129,
+                "username": "brandon94623"
+              },
+              {
+                "end": 157,
+                "start": 143,
+                "username": "oldsddl4gunmu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/TvdkBws4WA",
+                "end": 23,
+                "expanded_url": "https://discord.gg/TvdkBws4WA",
+                "start": 0,
+                "url": "https://t.co/XlFsCAnf0y"
+              }
+            ]
+          }
+        },
+        "id": "1794617194954850304",
+        "location": "↓discord群→",
+        "name": "白小铭",
+        "pinned_tweet_id": "1961780054662295565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923928431512707072/VKPjgBRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2058,
+          "following_count": 1652,
+          "like_count": 19678,
+          "listed_count": 12,
+          "media_count": 965,
+          "tweet_count": 5802
+        },
+        "url": "https://t.co/XlFsCAnf0y",
+        "username": "Baixiaoming2952",
+        "verified": false
+      }
+    ]
+  }
+}

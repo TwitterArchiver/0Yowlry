@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "Brawl Stars",
+          "id": "1093572965021626373",
+          "name": "Brawl Stars"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Brawl Stars",
+          "id": "1093572965021626373",
+          "name": "Brawl Stars"
+        }
+      }
+    ],
+    "conversation_id": "2064186702818951619",
+    "created_at": "2026-06-09T08:44:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-09T09:44:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064267298672869876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "900298800601878528",
+          "start": 0,
+          "username": "NE2OP_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064267298672869876",
+    "in_reply_to_user_id": "900298800601878528",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064186702818951619",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NE2OP_ MORTIS"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3297,
+        "media_key": "3_2064186684653404160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKV22mjbgAABU-n.jpg",
+        "width": 3112
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Brawl Stars",
+              "id": "1093572965021626373",
+              "name": "Brawl Stars"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Brawl Stars",
+              "id": "1093572965021626373",
+              "name": "Brawl Stars"
+            }
+          }
+        ],
+        "conversation_id": "2064186702818951619",
+        "created_at": "2026-06-09T08:44:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T09:44:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064267298672869876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "900298800601878528",
+              "start": 0,
+              "username": "NE2OP_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064267298672869876",
+        "in_reply_to_user_id": "900298800601878528",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064186702818951619",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NE2OP_ MORTIS"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2064186684653404160"
+          ]
+        },
+        "author_id": "900298800601878528",
+        "conversation_id": "2064186702818951619",
+        "created_at": "2026-06-09T03:23:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-09T04:23:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2064186702818951619"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 4,
+              "start": 0,
+              "tag": "若葉睦"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/XAdR4Zpaa0",
+              "end": 28,
+              "expanded_url": "https://x.com/NE2OP_/status/2064186702818951619/photo/1",
+              "media_key": "3_2064186684653404160",
+              "start": 5,
+              "url": "https://t.co/XAdR4Zpaa0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064186702818951619",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 371,
+          "impression_count": 29175,
+          "like_count": 3502,
+          "quote_count": 8,
+          "reply_count": 6,
+          "retweet_count": 709
+        },
+        "reply_settings": "everyone",
+        "text": "#若葉睦 https://t.co/XAdR4Zpaa0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2072,
+          "following_count": 2958,
+          "like_count": 37073,
+          "listed_count": 10,
+          "media_count": 365,
+          "tweet_count": 12036
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2017-08-23T10:08:55.000Z",
+        "description": "=铃 AveMujica/東方/Arknights/Reverse1999",
+        "id": "900298800601878528",
+        "location": "好饿，有吃的吗？",
+        "name": "NE2OP",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062986689828835328/2c42wXzK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18055,
+          "following_count": 106,
+          "like_count": 874,
+          "listed_count": 85,
+          "media_count": 63,
+          "tweet_count": 150
+        },
+        "username": "NE2OP_",
+        "verified": true
+      }
+    ]
+  }
+}

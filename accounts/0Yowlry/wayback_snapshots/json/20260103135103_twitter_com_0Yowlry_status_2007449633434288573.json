@@ -1,0 +1,466 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      }
+    ],
+    "conversation_id": "2007449633434288573",
+    "created_at": "2026-01-03T13:51:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-03T14:51:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007449633434288573"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1647815138450505730",
+          "start": 3,
+          "username": "yaming00742313"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+          "display_url": "m.youtube.com/watch?v=SVOVqP",
+          "end": 123,
+          "expanded_url": "https://m.youtube.com/watch?v=SVOVqP",
+          "start": 100,
+          "status": 200,
+          "title": "- YouTube",
+          "unwound_url": "https://www.youtube.com/watch?app=desktop&v=SVOVqP",
+          "url": "https://t.co/sryIHF9IIN"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007449633434288573",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 189
+    },
+    "referenced_tweets": [
+      {
+        "id": "2002375406436167915",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yaming00742313: 历时半年卧底取证 跨性别权益保护者联手坚果兄弟摧毁体系性扭转机构产业链\n\n非常荣幸，本次受邀于BBC Eye，对扭转机构进行取证以及曝光，中文版现已正式上映。\nhttps://t.co/sryIHF9IIN…\n顺带讲一下，我们究竟是因何种…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2002374995415347204",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8ndcwTbMAQqmGA.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2002374996258344960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8ndczcaUAAysri.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2002374997323755522",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8ndc3abMAIhOZS.jpg",
+        "width": 917
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2002374997948710912",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G8ndc5vbQAAeUto.jpg",
+        "width": 917
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "2007449633434288573",
+        "created_at": "2026-01-03T13:51:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-03T14:51:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007449633434288573"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1647815138450505730",
+              "start": 3,
+              "username": "yaming00742313"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+              "display_url": "m.youtube.com/watch?v=SVOVqP",
+              "end": 123,
+              "expanded_url": "https://m.youtube.com/watch?v=SVOVqP",
+              "start": 100,
+              "status": 200,
+              "title": "- YouTube",
+              "unwound_url": "https://www.youtube.com/watch?app=desktop&v=SVOVqP",
+              "url": "https://t.co/sryIHF9IIN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007449633434288573",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 189
+        },
+        "referenced_tweets": [
+          {
+            "id": "2002375406436167915",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yaming00742313: 历时半年卧底取证 跨性别权益保护者联手坚果兄弟摧毁体系性扭转机构产业链\n\n非常荣幸，本次受邀于BBC Eye，对扭转机构进行取证以及曝光，中文版现已正式上映。\nhttps://t.co/sryIHF9IIN…\n顺带讲一下，我们究竟是因何种…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2002374995415347204",
+            "3_2002374996258344960",
+            "3_2002374997323755522",
+            "3_2002374997948710912"
+          ]
+        },
+        "author_id": "1647815138450505730",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          }
+        ],
+        "conversation_id": "2002375406436167915",
+        "created_at": "2025-12-20T13:47:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-20T14:46:19.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2002375009743097990",
+          "2002375406436167915"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Enjoy the videos and music you love, upload original content, and share it all with friends, family, and the world on YouTube.",
+              "display_url": "m.youtube.com/watch?v=SVOVqP",
+              "end": 103,
+              "expanded_url": "https://m.youtube.com/watch?v=SVOVqP",
+              "start": 80,
+              "status": 200,
+              "title": "- YouTube",
+              "unwound_url": "https://www.youtube.com/watch?app=desktop&v=SVOVqP",
+              "url": "https://t.co/sryIHF9IIN"
+            },
+            {
+              "display_url": "pic.x.com/EyfguiaBQj",
+              "end": 187,
+              "expanded_url": "https://x.com/yaming00742313/status/2002375406436167915/photo/1",
+              "media_key": "3_2002374995415347204",
+              "start": 164,
+              "url": "https://t.co/EyfguiaBQj"
+            },
+            {
+              "display_url": "pic.x.com/EyfguiaBQj",
+              "end": 187,
+              "expanded_url": "https://x.com/yaming00742313/status/2002375406436167915/photo/1",
+              "media_key": "3_2002374996258344960",
+              "start": 164,
+              "url": "https://t.co/EyfguiaBQj"
+            },
+            {
+              "display_url": "pic.x.com/EyfguiaBQj",
+              "end": 187,
+              "expanded_url": "https://x.com/yaming00742313/status/2002375406436167915/photo/1",
+              "media_key": "3_2002374997323755522",
+              "start": 164,
+              "url": "https://t.co/EyfguiaBQj"
+            },
+            {
+              "display_url": "pic.x.com/EyfguiaBQj",
+              "end": 187,
+              "expanded_url": "https://x.com/yaming00742313/status/2002375406436167915/photo/1",
+              "media_key": "3_2002374997948710912",
+              "start": 164,
+              "url": "https://t.co/EyfguiaBQj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2002375406436167915",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 278,
+                "id": "1843201902550634496",
+                "start": 262,
+                "username": "LwrDHYyuxR22499"
+              },
+              {
+                "end": 385,
+                "id": "1843201902550634496",
+                "start": 369,
+                "username": "LwrDHYyuxR22499"
+              },
+              {
+                "end": 450,
+                "id": "1843201902550634496",
+                "start": 434,
+                "username": "LwrDHYyuxR22499"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "m.youtube.com/watch?v=SVOVqP",
+                "end": 103,
+                "expanded_url": "https://m.youtube.com/watch?v=SVOVqP",
+                "start": 80,
+                "url": "https://t.co/dtqTm8Q1nz"
+              }
+            ]
+          },
+          "text": "历时半年卧底取证 跨性别权益保护者联手坚果兄弟摧毁体系性扭转机构产业链\n\n非常荣幸，本次受邀于BBC Eye，对扭转机构进行取证以及曝光，中文版现已正式上映。\nhttps://t.co/dtqTm8Q1nz…\n顺带讲一下，我们究竟是因何种原因，选择“西安护航”这所机构进行卧底取证，以及这背后的故事。\n \n2025年6月24日\n我们在私信中接到求助信息，了解情况后，组员迅速前往线下介入调查。\n我们通过监控追捕排查，锁定了绑架这位跨性别者的汽车车牌号，再顺着路线追查，一路追查到这所名叫“西安护航”的扭转机构中。\n \n随后，@LwrDHYyuxR22499 对该机构展开信息搜集与受害者采访，调查后发现，该机构实为一个遍布全国的产业链，年净利率高达4亿左右，分支分布在河南、河北、西安、广西、重庆等地。\n \n于是，一个前人从未有过的想法在@LwrDHYyuxR22499 心中油然而生：“我不想只救一个人，也不想只打掉一所学校，我要毁，就把整个体系毁掉！”\n \n随后，@LwrDHYyuxR22499 制定计划，安排卧底人员线下走访取证。河南基地、西安基地、河北基地均完成取证工作，同时架设录像设备，对学校进行实时监控。团队还专门制作卧底所需的取证设备，并付费将人员送入学校内部，开展亲身取证。\n前后光定金就达四千元，各类开销加在一起已超万元……\n \n此次行动，拍到了大家所看到的、涉案人员冒充警察持假警官证的违法场面。\n \n此后，团队一直忙碌到十一月，持续为舆论铺垫，为后续曝光做足准备。\n \n2025年11月15日\n事件在国内进行首轮曝光，全网视频播放量突破六百万。紧随其后，BBC的相关报道将此事推向国际高度。\n \n“西安护航”目前已关停所有对外招生渠道，整个产业链遭到重创，涉事教官被依法拘留，等待进一步移交法院审理。\n \n2025年12月20日\n历时半年……此案迎来终结。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 185,
+          "impression_count": 130172,
+          "like_count": 881,
+          "quote_count": 32,
+          "reply_count": 84,
+          "retweet_count": 189
+        },
+        "reply_settings": "everyone",
+        "text": "历时半年卧底取证 跨性别权益保护者联手坚果兄弟摧毁体系性扭转机构产业链\n\n非常荣幸，本次受邀于BBC Eye，对扭转机构进行取证以及曝光，中文版现已正式上映。\nhttps://t.co/sryIHF9IIN…\n顺带讲一下，我们究竟是因何种原因，选择“西安护航”这所机构进行卧底取证，以及这背后的故事。\n \n2025年6月24日 https://t.co/EyfguiaBQj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1832,
+          "following_count": 2478,
+          "like_count": 22784,
+          "listed_count": 10,
+          "media_count": 317,
+          "tweet_count": 8773
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-17T04:12:24.000Z",
+        "description": "愿我们都能于光明中得救，愿我们会在站在自由的土壤上，再次相见。",
+        "id": "1647815138450505730",
+        "location": "与你同在",
+        "name": "yaming（雨中高歌死）",
+        "pinned_tweet_id": "1957361981465522636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1877370976075395073/rQXoY9aN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12255,
+          "following_count": 1563,
+          "like_count": 6609,
+          "listed_count": 29,
+          "media_count": 355,
+          "tweet_count": 2543
+        },
+        "username": "yaming00742313",
+        "verified": false
+      }
+    ]
+  }
+}

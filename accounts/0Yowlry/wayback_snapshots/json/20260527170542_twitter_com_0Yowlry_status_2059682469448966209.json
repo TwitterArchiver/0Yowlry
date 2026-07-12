@@ -1,0 +1,287 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1832407619581178203",
+    "created_at": "2026-05-27T17:05:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T18:05:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059682469448966209"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1566815552777383936",
+          "start": 0,
+          "username": "TianqiChen666"
+        },
+        {
+          "end": 29,
+          "id": "1689257282348158976",
+          "start": 15,
+          "username": "Inaba_Tsumugi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059682469448966209",
+    "in_reply_to_user_id": "1566815552777383936",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1832561480082071658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TianqiChen666 @Inaba_Tsumugi 😉"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1832561480082071658].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1832561480082071658",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1832561480082071658"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1832407619581178203",
+        "created_at": "2026-05-27T17:05:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:05:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059682469448966209"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1566815552777383936",
+              "start": 0,
+              "username": "TianqiChen666"
+            },
+            {
+              "end": 29,
+              "id": "1689257282348158976",
+              "start": 15,
+              "username": "Inaba_Tsumugi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059682469448966209",
+        "in_reply_to_user_id": "1566815552777383936",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1832561480082071658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TianqiChen666 @Inaba_Tsumugi 😉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2046,
+          "following_count": 2901,
+          "like_count": 34435,
+          "listed_count": 10,
+          "media_count": 346,
+          "tweet_count": 11428
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-05T15:48:41.000Z",
+        "description": "大学生、中国人🇨🇳tいま成都に住んでいる。みんなと仲良くしたい！ |絡み重視|変な垢以外フォロバ💯|アニメ|kig初心者|恋人🥰：@podf14|里：@menma_sub|興味：#原神、#アークナイツ、#ブルアカ、#ボカロ、#着ぐるみ| 親友:@haku_dabai @2temisinin（代为保管账号）",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 92,
+                "start": 89,
+                "tag": "原神"
+              },
+              {
+                "end": 100,
+                "start": 93,
+                "tag": "アークナイツ"
+              },
+              {
+                "end": 106,
+                "start": 101,
+                "tag": "ブルアカ"
+              },
+              {
+                "end": 111,
+                "start": 107,
+                "tag": "ボカロ"
+              },
+              {
+                "end": 117,
+                "start": 112,
+                "tag": "着ぐるみ"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 72,
+                "start": 65,
+                "username": "podf14"
+              },
+              {
+                "end": 85,
+                "start": 75,
+                "username": "menma_sub"
+              },
+              {
+                "end": 133,
+                "start": 122,
+                "username": "haku_dabai"
+              },
+              {
+                "end": 145,
+                "start": 134,
+                "username": "2temisinin"
+              }
+            ]
+          }
+        },
+        "id": "1566815552777383936",
+        "location": "Sichuan",
+        "name": "めんま「追悼アカウント」",
+        "pinned_tweet_id": "1858391483382206967",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1894629674883444737/vlmY531Q_normal.png",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 12262,
+          "following_count": 6683,
+          "like_count": 70885,
+          "listed_count": 54,
+          "media_count": 4541,
+          "tweet_count": 14423
+        },
+        "username": "TianqiChen666",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T12:48:24.000Z",
+        "description": "(CTU/ZUUU) 𝓣𝓼𝓾𝓶𝓾𝓰𝓲𝓱𝓸𝓵𝓲𝓬！/ ✌🦌夏が近づくと胸が騒めくのは何でなんでしょうか。 / 🍔🍟麦当劳重度依赖 / ☁共犯招募中 / #青ブタ #ボカロ #夢見る #みずえな 🎀🎨 / 🏳️‍🌈🏳️‍⚧️🇦🇶🏴‍☠️ 里账 @Amamiya_kksk",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 79,
+                "start": 75,
+                "tag": "青ブタ"
+              },
+              {
+                "end": 84,
+                "start": 80,
+                "tag": "ボカロ"
+              },
+              {
+                "end": 89,
+                "start": 85,
+                "tag": "夢見る"
+              },
+              {
+                "end": 95,
+                "start": 90,
+                "tag": "みずえな"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 133,
+                "start": 120,
+                "username": "Amamiya_kksk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tsumugi.icu",
+                "end": 23,
+                "expanded_url": "http://tsumugi.icu/",
+                "start": 0,
+                "url": "https://t.co/Zzs8a676XS"
+              }
+            ]
+          }
+        },
+        "id": "1689257282348158976",
+        "location": "🌙",
+        "name": "🌙つむぎ🍮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050261091830349824/B8Gd3fcQ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 1121,
+          "like_count": 51179,
+          "listed_count": 3,
+          "media_count": 1332,
+          "tweet_count": 9661
+        },
+        "url": "https://t.co/Zzs8a676XS",
+        "username": "Inaba_Tsumugi",
+        "verified": false
+      }
+    ]
+  }
+}

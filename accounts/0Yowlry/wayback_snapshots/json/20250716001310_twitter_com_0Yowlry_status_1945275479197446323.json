@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1917860013042995332",
+    "created_at": "2025-07-16T00:13:10.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-16T01:13:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945275479197446323"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1881295527763128320",
+          "start": 0,
+          "username": "1chinose_Anon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945275479197446323",
+    "in_reply_to_user_id": "1881295527763128320",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1917860013042995332",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@1chinose_Anon 想让你这样对我"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1917860013042995332].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1917860013042995332",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1917860013042995332"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1917860013042995332",
+        "created_at": "2025-07-16T00:13:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T01:13:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945275479197446323"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1881295527763128320",
+              "start": 0,
+              "username": "1chinose_Anon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945275479197446323",
+        "in_reply_to_user_id": "1881295527763128320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1917860013042995332",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@1chinose_Anon 想让你这样对我"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "Yowlry",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900279853762392066/nf5oFqCF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1717,
+          "following_count": 2295,
+          "like_count": 16355,
+          "listed_count": 6,
+          "media_count": 289,
+          "tweet_count": 6622
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-20T10:59:49.000Z",
+        "description": "一个小号罢了，有事找大号👆 / 放点本人照片 / 暂时只通过比较熟的 / 未通过的话有两种可能：不太熟或者单纯手滑点错了💦 @Chihaya_Anon_01",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "Chihaya_Anon_01"
+              }
+            ]
+          }
+        },
+        "id": "1881295527763128320",
+        "location": "-17cm",
+        "name": "一ノ瀬　あのん",
+        "pinned_tweet_id": "1924834834838626762",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936608143343013888/8A9Qfz-2_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 106,
+          "like_count": 288,
+          "listed_count": 0,
+          "media_count": 25,
+          "tweet_count": 144
+        },
+        "username": "1chinose_Anon",
+        "verified": false
+      }
+    ]
+  }
+}

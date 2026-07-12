@@ -1,0 +1,267 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1866688989929017617",
+    "created_at": "2026-04-13T15:50:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T16:50:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043718431644774757"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1866050038088024064",
+          "start": 0,
+          "username": "123456wwerr"
+        },
+        {
+          "end": 27,
+          "id": "1638804999357759491",
+          "start": 13,
+          "username": "qiezijiangnie"
+        },
+        {
+          "end": 41,
+          "id": "1611344351313154049",
+          "start": 28,
+          "username": "hihikariyuna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043718431644774757",
+    "in_reply_to_user_id": "1866050038088024064",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1866706853700485405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@123456wwerr @qiezijiangnie @hihikariyuna 啥"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [hihikariyuna].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "hihikariyuna",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "hihikariyuna"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1866688989929017617",
+        "created_at": "2026-04-13T15:50:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T16:50:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043718431644774757"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1866050038088024064",
+              "start": 0,
+              "username": "123456wwerr"
+            },
+            {
+              "end": 27,
+              "id": "1638804999357759491",
+              "start": 13,
+              "username": "qiezijiangnie"
+            },
+            {
+              "end": 41,
+              "id": "1611344351313154049",
+              "start": 28,
+              "username": "hihikariyuna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043718431644774757",
+        "in_reply_to_user_id": "1866050038088024064",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866706853700485405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@123456wwerr @qiezijiangnie @hihikariyuna 啥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1866050038088024064",
+        "conversation_id": "1866688989929017617",
+        "created_at": "2024-12-11T04:49:30.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-11T05:49:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1866706853700485405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1638804999357759491",
+              "start": 0,
+              "username": "qiezijiangnie"
+            },
+            {
+              "end": 28,
+              "id": "1611344351313154049",
+              "start": 15,
+              "username": "hihikariyuna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1866706853700485405",
+        "in_reply_to_user_id": "1638804999357759491",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1866691760766034085",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@qiezijiangnie @hihikariyuna 别骂了别骂了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1886,
+          "following_count": 2642,
+          "like_count": 27765,
+          "listed_count": 11,
+          "media_count": 327,
+          "tweet_count": 9815
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T09:19:43.000Z",
+        "description": "悲观主义者，重度抑郁（非常严重），自闭症，中度焦虑，没有逻辑，没有情商和口才，高强度玩游戏看动漫小说脱离社会太久",
+        "id": "1866050038088024064",
+        "location": "Hokkaidō, Japan",
+        "name": "荻原沙优",
+        "pinned_tweet_id": "2007153346533306830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020775111813713921/6QpcftfD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 628,
+          "following_count": 400,
+          "like_count": 119718,
+          "listed_count": 3,
+          "media_count": 696,
+          "tweet_count": 17834
+        },
+        "username": "123456wwerr",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-23T07:29:29.000Z",
+        "description": "二次元  动漫杂谈  cosplay  绘画  金融 数学\n\n备用号：@qiezijiangniee.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 35,
+                "username": "qiezijiangniee"
+              }
+            ]
+          }
+        },
+        "id": "1638804999357759491",
+        "location": "神滨市",
+        "name": "茄子酱",
+        "pinned_tweet_id": "1882266804057444384",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1678180822069944320/GdPAewoL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7243,
+          "following_count": 70,
+          "like_count": 54,
+          "listed_count": 29,
+          "media_count": 880,
+          "tweet_count": 5710
+        },
+        "username": "qiezijiangnie",
+        "verified": false
+      }
+    ]
+  }
+}

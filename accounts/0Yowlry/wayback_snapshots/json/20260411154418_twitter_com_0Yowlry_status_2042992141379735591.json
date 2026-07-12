@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2042814467206209985",
+    "created_at": "2026-04-11T15:44:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-11T16:44:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2042992141379735591"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2042552907497902083",
+          "start": 0,
+          "username": "Smithollc4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2042992141379735591",
+    "in_reply_to_user_id": "2042552907497902083",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042814467206209985",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Smithollc4 🥲🥲🥲🥺🥺🥺"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2042814467206209985",
+        "created_at": "2026-04-11T15:44:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T16:44:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042992141379735591"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2042552907497902083",
+              "start": 0,
+              "username": "Smithollc4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042992141379735591",
+        "in_reply_to_user_id": "2042552907497902083",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042814467206209985",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Smithollc4 🥲🥲🥲🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2042552907497902083",
+        "conversation_id": "2042814467206209985",
+        "created_at": "2026-04-11T03:58:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T04:58:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042814467206209985"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2042814467206209985",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3031,
+          "like_count": 70,
+          "quote_count": 2,
+          "reply_count": 20,
+          "retweet_count": 32
+        },
+        "reply_settings": "everyone",
+        "text": "我想找回互关😿请帮我转帖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1888,
+          "following_count": 2637,
+          "like_count": 27611,
+          "listed_count": 11,
+          "media_count": 327,
+          "tweet_count": 9777
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-10T10:40:34.000Z",
+        "description": "圣诞帽三世前世@yunxvan1",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "yunxvan1"
+              }
+            ]
+          }
+        },
+        "id": "2042552907497902083",
+        "name": "圣诞帽",
+        "pinned_tweet_id": "2042814467206209985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042814742352531456/ZoRIh6wj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107,
+          "following_count": 77,
+          "like_count": 33,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 13
+        },
+        "username": "Smithollc4",
+        "verified": false
+      }
+    ]
+  }
+}

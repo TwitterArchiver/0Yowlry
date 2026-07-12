@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2045908669158805680",
+    "created_at": "2026-04-20T13:56:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-20T14:56:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2046226555568103515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1808093317894492160",
+          "start": 0,
+          "username": "yijiepiminbale"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2046226555568103515",
+    "in_reply_to_user_id": "1808093317894492160",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2045908669158805680",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yijiepiminbale 🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2045908669158805680].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2045908669158805680",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2045908669158805680"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2045908669158805680",
+        "created_at": "2026-04-20T13:56:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-20T14:56:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2046226555568103515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1808093317894492160",
+              "start": 0,
+              "username": "yijiepiminbale"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2046226555568103515",
+        "in_reply_to_user_id": "1808093317894492160",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2045908669158805680",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yijiepiminbale 🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1916,
+          "following_count": 2689,
+          "like_count": 28802,
+          "listed_count": 10,
+          "media_count": 332,
+          "tweet_count": 10036
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-02T11:00:32.000Z",
+        "description": "",
+        "id": "1808093317894492160",
+        "location": "대한민국",
+        "name": "바람 같은 작별",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046063936748036096/OpDgBQjw_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 850,
+          "following_count": 1604,
+          "like_count": 80490,
+          "listed_count": 5,
+          "media_count": 329,
+          "tweet_count": 10483
+        },
+        "username": "yijiepiminbale",
+        "verified": false
+      }
+    ]
+  }
+}

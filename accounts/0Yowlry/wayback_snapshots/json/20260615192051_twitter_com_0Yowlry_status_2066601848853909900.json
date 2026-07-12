@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2038950786911330379",
+    "created_at": "2026-06-15T19:20:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-15T20:20:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066601848853909900"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1103830967163117568",
+          "start": 0,
+          "username": "anblk984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066601848853909900",
+    "in_reply_to_user_id": "1103830967163117568",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2038950786911330379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anblk984 何意味"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 137647,
+        "height": 480,
+        "media_key": "7_2038950716304482305",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2038950716304482305/pu/img/SS1iimulxSiy_U_s.jpg",
+        "public_metrics": {
+          "view_count": 50111
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2038950716304482305/pu/vid/avc1/268x480/1XDfDDHRpXfVC5w7.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2038950716304482305/pu/pl/v_7QA6GNLIAPb0Js.m3u8?v=f8e"
+          }
+        ],
+        "width": 268
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2038950786911330379",
+        "created_at": "2026-06-15T19:20:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-15T20:20:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066601848853909900"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1103830967163117568",
+              "start": 0,
+              "username": "anblk984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066601848853909900",
+        "in_reply_to_user_id": "1103830967163117568",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038950786911330379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anblk984 何意味"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2038950716304482305"
+          ]
+        },
+        "author_id": "1103830967163117568",
+        "conversation_id": "2038950786911330379",
+        "created_at": "2026-03-31T12:05:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T13:05:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2038950786911330379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3nHESIC47H",
+              "end": 35,
+              "expanded_url": "https://x.com/anblk984/status/2038950786911330379/video/1",
+              "media_key": "7_2038950716304482305",
+              "start": 12,
+              "url": "https://t.co/3nHESIC47H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2038950786911330379",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 656,
+          "impression_count": 23371,
+          "like_count": 1084,
+          "quote_count": 3,
+          "reply_count": 20,
+          "retweet_count": 42
+        },
+        "reply_settings": "everyone",
+        "text": "怎么这么多？🫪这科学吗 https://t.co/3nHESIC47H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2103,
+          "following_count": 3061,
+          "like_count": 40150,
+          "listed_count": 10,
+          "media_count": 364,
+          "tweet_count": 12695
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/17岁美少蛆/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真  /数学家教接单中私信窝即可 /最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "梁家河冲浪里          下面是tg频道",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "2063872235459481835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020118049534472192/Qa7ES9rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15270,
+          "following_count": 1034,
+          "like_count": 122418,
+          "listed_count": 70,
+          "media_count": 3029,
+          "tweet_count": 29595
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

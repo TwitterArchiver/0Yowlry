@@ -1,0 +1,397 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1949303831868895232"
+      ],
+      "media_source_tweet_id": [
+        "1949303834456850791"
+      ]
+    },
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "1950543150101004697",
+    "created_at": "2025-07-30T13:05:00.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-30T14:05:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1950543150101004697"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 30,
+          "start": 18,
+          "tag": "HatsuneMiku"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1825015040107581440",
+          "start": 3,
+          "username": "ria_art_game"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6w92MC4Xde",
+          "end": 54,
+          "expanded_url": "https://x.com/ria_art_game/status/1949303834456850791/photo/1",
+          "media_key": "3_1949303831868895232",
+          "start": 31,
+          "url": "https://t.co/6w92MC4Xde"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1950543150101004697",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 595
+    },
+    "referenced_tweets": [
+      {
+        "id": "1949303834456850791",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @ria_art_game: #HatsuneMiku https://t.co/6w92MC4Xde"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1949303831868895232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gw1RgdnacAAzlFV.jpg",
+        "width": 1448
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949303831868895232"
+          ],
+          "media_source_tweet_id": [
+            "1949303834456850791"
+          ]
+        },
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "1950543150101004697",
+        "created_at": "2025-07-30T13:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-30T14:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1950543150101004697"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 30,
+              "start": 18,
+              "tag": "HatsuneMiku"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1825015040107581440",
+              "start": 3,
+              "username": "ria_art_game"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6w92MC4Xde",
+              "end": 54,
+              "expanded_url": "https://x.com/ria_art_game/status/1949303834456850791/photo/1",
+              "media_key": "3_1949303831868895232",
+              "start": 31,
+              "url": "https://t.co/6w92MC4Xde"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1950543150101004697",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 595
+        },
+        "referenced_tweets": [
+          {
+            "id": "1949303834456850791",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @ria_art_game: #HatsuneMiku https://t.co/6w92MC4Xde"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1949303831868895232"
+          ]
+        },
+        "author_id": "1825015040107581440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          }
+        ],
+        "conversation_id": "1949303834456850791",
+        "created_at": "2025-07-27T03:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-27T04:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1949303834456850791"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 0,
+              "tag": "HatsuneMiku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6w92MC4Xde",
+              "end": 36,
+              "expanded_url": "https://x.com/ria_art_game/status/1949303834456850791/photo/1",
+              "media_key": "3_1949303831868895232",
+              "start": 13,
+              "url": "https://t.co/6w92MC4Xde"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1949303834456850791",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 452,
+          "impression_count": 66516,
+          "like_count": 6642,
+          "quote_count": 2,
+          "reply_count": 7,
+          "retweet_count": 595
+        },
+        "reply_settings": "everyone",
+        "text": "#HatsuneMiku https://t.co/6w92MC4Xde"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "Yowlry",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900279853762392066/nf5oFqCF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1771,
+          "following_count": 2342,
+          "like_count": 17268,
+          "listed_count": 6,
+          "media_count": 292,
+          "tweet_count": 6997
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-18T03:41:17.000Z",
+        "description": "illustration:お絵描きと初音ミクが大好きです:piapro⇒https://t.co/Y8vfwwq6It\n※AI学習、イラストのアイコンやヘッダー等無断使用、自作発言等ご遠慮下さい。",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "piapro.jp/ria_art",
+                "end": 59,
+                "expanded_url": "https://piapro.jp/ria_art",
+                "start": 36,
+                "url": "https://t.co/Y8vfwwq6It"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@ria_art_game",
+                "end": 23,
+                "expanded_url": "https://skeb.jp/@ria_art_game",
+                "start": 0,
+                "url": "https://t.co/tRafdZGODV"
+              }
+            ]
+          }
+        },
+        "id": "1825015040107581440",
+        "name": "RIA",
+        "pinned_tweet_id": "1943791923141259705",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945074509347950592/4aJtVamq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8443,
+          "following_count": 21,
+          "like_count": 23549,
+          "listed_count": 47,
+          "media_count": 245,
+          "tweet_count": 1532
+        },
+        "url": "https://t.co/tRafdZGODV",
+        "username": "ria_art_game",
+        "verified": false
+      }
+    ]
+  }
+}

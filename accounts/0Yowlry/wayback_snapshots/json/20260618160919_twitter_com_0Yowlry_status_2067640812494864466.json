@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2066545136130281849",
+    "created_at": "2026-06-18T16:09:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T17:09:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067640812494864466"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1263250188757426176",
+          "start": 0,
+          "username": "yunyunyunnya"
+        },
+        {
+          "end": 28,
+          "id": "1894285195651813378",
+          "start": 14,
+          "username": "xiaozhuhua_tv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067640812494864466",
+    "in_reply_to_user_id": "1263250188757426176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066551203383976182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yunyunyunnya @xiaozhuhua_tv 你08年出生吗（"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2066551203383976182].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2066551203383976182",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2066551203383976182"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2066545136130281849",
+        "created_at": "2026-06-18T16:09:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T17:09:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067640812494864466"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1263250188757426176",
+              "start": 0,
+              "username": "yunyunyunnya"
+            },
+            {
+              "end": 28,
+              "id": "1894285195651813378",
+              "start": 14,
+              "username": "xiaozhuhua_tv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067640812494864466",
+        "in_reply_to_user_id": "1263250188757426176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066551203383976182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunyunyunnya @xiaozhuhua_tv 你08年出生吗（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2115,
+          "following_count": 3114,
+          "like_count": 40791,
+          "listed_count": 10,
+          "media_count": 370,
+          "tweet_count": 12879
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-20T23:28:22.000Z",
+        "description": "好想一键屏蔽玻璃心",
+        "id": "1263250188757426176",
+        "location": "有鲨鲨枕头酱和很多玩偶的地方",
+        "name": "口腔溃疡！！！！！！",
+        "pinned_tweet_id": "2037079005460127859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009444201516421124/rZsdho6X_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1059,
+          "following_count": 1519,
+          "like_count": 163386,
+          "listed_count": 4,
+          "media_count": 974,
+          "tweet_count": 11961
+        },
+        "username": "yunyunyunnya",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-25T07:16:55.000Z",
+        "description": "喜欢《吹响吧！上低音号》的都是好孩子",
+        "id": "1894285195651813378",
+        "name": "小猪话TV",
+        "pinned_tweet_id": "2066908155901309411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065440742122872832/h7as0dJa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1381,
+          "following_count": 1206,
+          "like_count": 13304,
+          "listed_count": 6,
+          "media_count": 118,
+          "tweet_count": 9357
+        },
+        "username": "xiaozhuhua_tv",
+        "verified": false
+      }
+    ]
+  }
+}

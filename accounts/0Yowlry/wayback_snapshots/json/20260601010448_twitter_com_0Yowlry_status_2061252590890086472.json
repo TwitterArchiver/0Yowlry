@@ -1,0 +1,331 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2061100401198547238",
+    "created_at": "2026-06-01T01:04:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-01T02:04:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2061252590890086472"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "95170769",
+          "start": 0,
+          "username": "jaqwatdas"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2061252590890086472",
+    "in_reply_to_user_id": "95170769",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061100401198547238",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jaqwatdas 😋😋😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2061055288149782528",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJpW3VibsAA7LLT.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2061100401198547238",
+        "created_at": "2026-06-01T01:04:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-01T02:04:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2061252590890086472"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "95170769",
+              "start": 0,
+              "username": "jaqwatdas"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061252590890086472",
+        "in_reply_to_user_id": "95170769",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061100401198547238",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jaqwatdas 😋😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2061055288149782528"
+          ]
+        },
+        "author_id": "95170769",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1316156485664010242",
+              "name": "Seasonal cooking"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1395124735625764864",
+              "name": "Bento"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Topics about food, like Donuts or Brunch",
+              "id": "152",
+              "name": "Food"
+            },
+            "entity": {
+              "id": "1395124735625764864",
+              "name": "Bento"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Cooking Actions",
+              "id": "846770344681627649",
+              "name": "Cooking"
+            }
+          }
+        ],
+        "conversation_id": "2061100401198547238",
+        "created_at": "2026-05-31T15:00:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-31T16:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2061100401198547238"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/99AcAS8DDo",
+              "end": 48,
+              "expanded_url": "https://x.com/jaqwatdas/status/2061100401198547238/photo/1",
+              "media_key": "3_2061055288149782528",
+              "start": 25,
+              "url": "https://t.co/99AcAS8DDo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2061100401198547238",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 51,
+          "impression_count": 8772,
+          "like_count": 729,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 85
+        },
+        "reply_settings": "everyone",
+        "text": "浮かれポンチ虹夏ちゃんが作るぼっちちゃんのお弁当 https://t.co/99AcAS8DDo"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2064,
+          "following_count": 2936,
+          "like_count": 35705,
+          "listed_count": 10,
+          "media_count": 359,
+          "tweet_count": 11674
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2009-12-07T09:41:42.000Z",
+        "description": "へっぽこデザイナーやってます。 Skeb: https://t.co/sT6Hs0hI5X pixivリクエスト: https://t.co/J3gIeiLjhw",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@jaqwatdas",
+                "end": 45,
+                "expanded_url": "https://skeb.jp/@jaqwatdas",
+                "start": 22,
+                "url": "https://t.co/sT6Hs0hI5X"
+              },
+              {
+                "display_url": "pixiv.net/users/561536/r…",
+                "end": 81,
+                "expanded_url": "https://www.pixiv.net/users/561536/request",
+                "start": 58,
+                "url": "https://t.co/J3gIeiLjhw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "the-nine.net",
+                "end": 23,
+                "expanded_url": "http://the-nine.net/",
+                "start": 0,
+                "url": "https://t.co/jPmbkKynst"
+              }
+            ]
+          }
+        },
+        "id": "95170769",
+        "location": "コトコト古都",
+        "name": "Sep",
+        "pinned_tweet_id": "1959947685450158311",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916127905111019521/yJ9sK0mO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15742,
+          "following_count": 785,
+          "like_count": 12276,
+          "listed_count": 246,
+          "media_count": 14230,
+          "tweet_count": 377224
+        },
+        "url": "https://t.co/jPmbkKynst",
+        "username": "jaqwatdas",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,214 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2049700420399042928",
+    "created_at": "2026-05-30T21:15:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-30T22:15:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060832498750464201"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1847835560175685635",
+          "start": 0,
+          "username": "OPPOFANS114514"
+        },
+        {
+          "end": 29,
+          "id": "1412919406070362116",
+          "start": 16,
+          "username": "yujiu_offica"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060832498750464201",
+    "in_reply_to_user_id": "1847835560175685635",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049700420399042928",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OPPOFANS114514 @yujiu_offica 😘😘😘"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2049700420399042928].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2049700420399042928",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2049700420399042928"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2049700420399042928",
+        "created_at": "2026-05-30T21:15:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-30T22:15:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060832498750464201"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1847835560175685635",
+              "start": 0,
+              "username": "OPPOFANS114514"
+            },
+            {
+              "end": 29,
+              "id": "1412919406070362116",
+              "start": 16,
+              "username": "yujiu_offica"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060832498750464201",
+        "in_reply_to_user_id": "1847835560175685635",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049700420399042928",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OPPOFANS114514 @yujiu_offica 😘😘😘"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2064,
+          "following_count": 2933,
+          "like_count": 35264,
+          "listed_count": 10,
+          "media_count": 356,
+          "tweet_count": 11623
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T03:02:37.000Z",
+        "description": "我可能开心，我也可能不开心\n但记住，你一定要天天开心~ ₍˄·͈༝·͈˄*₎◞ ̑̑\n不吃🍔了，现在已对🍕上瘾 INFP-T\n颜文字万岁！( ≧▽≦ )\n凉面派😼",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oppofans",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oppofans",
+                "start": 0,
+                "url": "https://t.co/37m0RVoXvD"
+              }
+            ]
+          }
+        },
+        "id": "1847835560175685635",
+        "name": "OPPOFANS",
+        "pinned_tweet_id": "1899040879727509924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005659214631575553/AcPZ89dY_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2248,
+          "following_count": 2273,
+          "like_count": 22773,
+          "listed_count": 6,
+          "media_count": 864,
+          "tweet_count": 22091
+        },
+        "url": "https://t.co/37m0RVoXvD",
+        "username": "OPPOFANS114514",
+        "verified": false
+      },
+      {
+        "created_at": "2021-07-07T23:40:20.000Z",
+        "description": "灵/九/aki 。选择一个你喜欢的称呼吧\n互fo私！\n喜欢看h！但是不会强行和别人聊这些？反正就是，正常人的程度嘛，，作为人类的礼仪十分充沛！！！！\n想要认识你！！！！\n性格很诡异啦但是出乎意料的是一个被很多人信任的倾听者？想要成为圣女拯救所有人——\n不开心就试着来找我嘛\n完美恋人@miaomiaoji520",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 155,
+                "start": 141,
+                "username": "miaomiaoji520"
+              }
+            ]
+          }
+        },
+        "id": "1412919406070362116",
+        "location": "在“那”！",
+        "name": "九安心绪杂货店",
+        "pinned_tweet_id": "1996049006884257973",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023359961448034304/w1S-XChD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 250,
+          "like_count": 7552,
+          "listed_count": 0,
+          "media_count": 113,
+          "tweet_count": 2254
+        },
+        "username": "yujiu_offica",
+        "verified": false
+      }
+    ]
+  }
+}

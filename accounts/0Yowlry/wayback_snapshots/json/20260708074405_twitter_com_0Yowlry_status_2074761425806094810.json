@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1852902039715807328",
+    "created_at": "2026-07-08T07:44:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T08:44:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074761425806094810"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1818315659673210880",
+          "start": 0,
+          "username": "NeK1GG"
+        },
+        {
+          "end": 22,
+          "id": "1776506115112718336",
+          "start": 8,
+          "username": "xiaosanjiu520"
+        },
+        {
+          "end": 31,
+          "id": "1660343948945006593",
+          "start": 23,
+          "username": "qiand33"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074761425806094810",
+    "in_reply_to_user_id": "1818315659673210880",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1852942598534770731",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NeK1GG @xiaosanjiu520 @qiand33 😋😋😋"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [qiand33].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "qiand33",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "qiand33"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1852902039715807328",
+        "created_at": "2026-07-08T07:44:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T08:44:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074761425806094810"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1818315659673210880",
+              "start": 0,
+              "username": "NeK1GG"
+            },
+            {
+              "end": 22,
+              "id": "1776506115112718336",
+              "start": 8,
+              "username": "xiaosanjiu520"
+            },
+            {
+              "end": 31,
+              "id": "1660343948945006593",
+              "start": 23,
+              "username": "qiand33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074761425806094810",
+        "in_reply_to_user_id": "1818315659673210880",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852942598534770731",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NeK1GG @xiaosanjiu520 @qiand33 😋😋😋"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1818315659673210880",
+        "conversation_id": "1852902039715807328",
+        "created_at": "2024-11-03T05:15:16.000Z",
+        "edit_controls": {
+          "editable_until": "2024-11-03T06:15:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1852942598534770731"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1776506115112718336",
+              "start": 0,
+              "username": "xiaosanjiu520"
+            },
+            {
+              "end": 23,
+              "id": "1660343948945006593",
+              "start": 15,
+              "username": "qiand33"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1852942598534770731",
+        "in_reply_to_user_id": "1776506115112718336",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 84,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1852902039715807328",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaosanjiu520 @qiand33 千晴老师可爱，必须狠狠满昏😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Aerospace | Girls Band | Game | Journey | Natural Science",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2206,
+          "following_count": 3304,
+          "like_count": 45679,
+          "listed_count": 10,
+          "media_count": 375,
+          "tweet_count": 14236
+        },
+        "url": "",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2024-07-30T16:00:37.000Z",
+        "description": "一般游戏宅，已淡推",
+        "id": "1818315659673210880",
+        "location": "Oslo, Norway",
+        "name": "Nek1🇳🇴🍎🍮✨",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999839513816776704/ErVtksyL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1158,
+          "following_count": 1186,
+          "like_count": 47502,
+          "listed_count": 4,
+          "media_count": 651,
+          "tweet_count": 10197
+        },
+        "url": "",
+        "username": "NeK1GG",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-06T07:04:09.000Z",
+        "description": "这里是三玖，不重要|亲爱的：@yueyan2459           谢谢关注，这里不键政 | 🌟怒：@sun1392241 @MikuMiku3648\n@Cldeop",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 14,
+                "username": "yueyan2459"
+              },
+              {
+                "end": 63,
+                "start": 52,
+                "username": "sun1392241"
+              },
+              {
+                "end": 77,
+                "start": 64,
+                "username": "MikuMiku3648"
+              },
+              {
+                "end": 85,
+                "start": 78,
+                "username": "Cldeop"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bluearchive.jp",
+                "end": 23,
+                "expanded_url": "https://bluearchive.jp/",
+                "start": 0,
+                "url": "https://t.co/0EdBzt12ku"
+              }
+            ]
+          }
+        },
+        "id": "1776506115112718336",
+        "location": "Tokyo Japan",
+        "name": "迷人の 三玖 ☃️🤍（🌟怒：胡锦桃",
+        "pinned_tweet_id": "1846478802035372259",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886038886817869824/2BLu-Qc7_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1030,
+          "following_count": 683,
+          "like_count": 50140,
+          "listed_count": 4,
+          "media_count": 1197,
+          "tweet_count": 14845
+        },
+        "url": "https://t.co/0EdBzt12ku",
+        "username": "xiaosanjiu520",
+        "verified": false
+      }
+    ]
+  }
+}

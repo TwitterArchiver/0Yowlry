@@ -1,0 +1,171 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2068714751560155425",
+    "created_at": "2026-07-08T16:12:28.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T17:12:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074889364325446071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1952769837295636480",
+          "start": 0,
+          "username": "HiddenEmmMiku"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074889364325446071",
+    "in_reply_to_user_id": "1952769837295636480",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2068714751560155425",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HiddenEmmMiku what cani say"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2068714751560155425].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2068714751560155425",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2068714751560155425"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2068714751560155425",
+        "created_at": "2026-07-08T16:12:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T17:12:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074889364325446071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1952769837295636480",
+              "start": 0,
+              "username": "HiddenEmmMiku"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074889364325446071",
+        "in_reply_to_user_id": "1952769837295636480",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2068714751560155425",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HiddenEmmMiku what cani say"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Aerospace | Girls Band | Game | Journey | Natural Science",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2216,
+          "following_count": 3323,
+          "like_count": 45873,
+          "listed_count": 10,
+          "media_count": 376,
+          "tweet_count": 14281
+        },
+        "url": "",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2025-08-05T16:33:26.000Z",
+        "description": "Another side of @MikuLoverr_ ./Close Friend Only./Including many depressed words,I'm sorry./with photo of myself",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 16,
+                "username": "MikuLoverr_"
+              }
+            ]
+          }
+        },
+        "id": "1952769837295636480",
+        "location": "看看你的后面呢",
+        "name": "Hidden emm",
+        "pinned_tweet_id": "1952780454324781460",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022938141934653440/8hYGUAE6_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 60,
+          "following_count": 60,
+          "like_count": 25,
+          "listed_count": 0,
+          "media_count": 9,
+          "tweet_count": 67
+        },
+        "url": "",
+        "username": "HiddenEmmMiku",
+        "verified": false
+      }
+    ]
+  }
+}

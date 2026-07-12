@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1942637228435595584",
+    "created_at": "2025-07-17T15:29:12.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T16:29:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945868394873704932"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1847901231920140294",
+          "start": 0,
+          "username": "ArmyNorth53420"
+        },
+        {
+          "end": 26,
+          "id": "1855781466917228544",
+          "start": 16,
+          "username": "hy1194527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945868394873704932",
+    "in_reply_to_user_id": "1847901231920140294",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943022371046330832",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ArmyNorth53420 @hy1194527 我也是🤤"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1943022371046330832].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1943022371046330832",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1943022371046330832"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1942637228435595584",
+        "created_at": "2025-07-17T15:29:12.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T16:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945868394873704932"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1847901231920140294",
+              "start": 0,
+              "username": "ArmyNorth53420"
+            },
+            {
+              "end": 26,
+              "id": "1855781466917228544",
+              "start": 16,
+              "username": "hy1194527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945868394873704932",
+        "in_reply_to_user_id": "1847901231920140294",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943022371046330832",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ArmyNorth53420 @hy1194527 我也是🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "Yowlry",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900279853762392066/nf5oFqCF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1729,
+          "following_count": 2300,
+          "like_count": 16545,
+          "listed_count": 6,
+          "media_count": 289,
+          "tweet_count": 6690
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T07:22:53.000Z",
+        "description": "最高学历是胎教 政治启蒙是《母猪的产后护理》意识形态是欧码吉利曼波 赛马娘忠实的拥护者 二次元马警察 亚眠街道办事处主任 瓦伦丁哈喽王  库滕堡搬运工 特雷森监狱网评员 傻逼二次元 炒作狗 魔怔人 哥学家 滚学家  烂梗王 极民冷感 星怒@elonmusk 炒作小号@peacemakerm1873",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 128,
+                "start": 119,
+                "username": "elonmusk"
+              },
+              {
+                "end": 149,
+                "start": 133,
+                "username": "peacemakerm1873"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "cnmmusknmsl.com",
+                "end": 23,
+                "expanded_url": "http://www.cnmmusknmsl.com",
+                "start": 0,
+                "url": "https://t.co/vITiEfZpew"
+              }
+            ]
+          }
+        },
+        "id": "1847901231920140294",
+        "location": "傻了吧唧研究中心",
+        "name": "敦煌老羊马头",
+        "pinned_tweet_id": "1868148551097909408",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941952138743316480/mvSCM_JB_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1010,
+          "following_count": 592,
+          "like_count": 69074,
+          "listed_count": 4,
+          "media_count": 1407,
+          "tweet_count": 13601
+        },
+        "url": "https://t.co/vITiEfZpew",
+        "username": "ArmyNorth53420",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-11T01:16:04.000Z",
+        "description": "全网最尊重女性、跨出和坂下六花的站街po主",
+        "id": "1855781466917228544",
+        "name": "凌晨四点在 Valenkov站街",
+        "pinned_tweet_id": "1912622651643949394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1903520196742238208/HrHEvHUz_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 76,
+          "following_count": 386,
+          "like_count": 17409,
+          "listed_count": 0,
+          "media_count": 37,
+          "tweet_count": 409
+        },
+        "username": "hy1194527",
+        "verified": false
+      }
+    ]
+  }
+}

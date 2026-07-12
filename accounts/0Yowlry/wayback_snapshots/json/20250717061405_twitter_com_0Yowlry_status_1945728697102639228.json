@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1945180443122311536",
+    "created_at": "2025-07-17T06:14:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-17T07:14:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1945728697102639228"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1678630735589281792",
+          "start": 0,
+          "username": "letmebelucky_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1945728697102639228",
+    "in_reply_to_user_id": "1678630735589281792",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945180443122311536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@letmebelucky_ 😢😢😭😭😭"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1945180443122311536",
+        "created_at": "2025-07-17T06:14:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T07:14:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945728697102639228"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1678630735589281792",
+              "start": 0,
+              "username": "letmebelucky_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945728697102639228",
+        "in_reply_to_user_id": "1678630735589281792",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945180443122311536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@letmebelucky_ 😢😢😭😭😭"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1678630735589281792",
+        "conversation_id": "1945180443122311536",
+        "created_at": "2025-07-15T17:55:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-15T18:55:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945180443122311536"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945180443122311536",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 72,
+          "impression_count": 129646,
+          "like_count": 1733,
+          "quote_count": 76,
+          "reply_count": 255,
+          "retweet_count": 202
+        },
+        "reply_settings": "everyone",
+        "text": "随随便便就对别人产生情感联系的人好可怜。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "Yowlry",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900279853762392066/nf5oFqCF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1724,
+          "following_count": 2295,
+          "like_count": 16411,
+          "listed_count": 6,
+          "media_count": 289,
+          "tweet_count": 6637
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-11T05:03:50.000Z",
+        "description": "",
+        "id": "1678630735589281792",
+        "name": "薄荷",
+        "pinned_tweet_id": "1943013989266395497",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942877121568772096/fpWWKwex_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 109,
+          "like_count": 2805,
+          "listed_count": 0,
+          "media_count": 33,
+          "tweet_count": 1223
+        },
+        "username": "letmebelucky_",
+        "verified": false
+      }
+    ]
+  }
+}

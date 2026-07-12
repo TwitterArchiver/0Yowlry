@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2058158373091307743",
+    "created_at": "2026-05-23T17:55:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T18:55:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058245403779477776"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1718887354826637312",
+          "start": 0,
+          "username": "MeowSakur76073"
+        },
+        {
+          "end": 26,
+          "id": "1751497892001685504",
+          "start": 16,
+          "username": "45_206MHz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058245403779477776",
+    "in_reply_to_user_id": "1718887354826637312",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2058159468018651535",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MeowSakur76073 @45_206MHz 真的么，你思考时是用哪种语言和说出口时是用哪种语言"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2058159468018651535].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2058159468018651535",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2058159468018651535"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2058158373091307743",
+        "created_at": "2026-05-23T17:55:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T18:55:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058245403779477776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1718887354826637312",
+              "start": 0,
+              "username": "MeowSakur76073"
+            },
+            {
+              "end": 26,
+              "id": "1751497892001685504",
+              "start": 16,
+              "username": "45_206MHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058245403779477776",
+        "in_reply_to_user_id": "1718887354826637312",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2058159468018651535",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MeowSakur76073 @45_206MHz 真的么，你思考时是用哪种语言和说出口时是用哪种语言"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2046,
+          "following_count": 2886,
+          "like_count": 33877,
+          "listed_count": 10,
+          "media_count": 342,
+          "tweet_count": 11316
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-30T07:08:23.000Z",
+        "description": "Do not go gentle into that good night                                                 \na walking dead｜self heater｜yuri｜🦊｜泛性恋｜因为太喜欢所以想变成可爱女孩子｜ @cangshengsunset",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 158,
+                "start": 142,
+                "username": "cangshengsunset"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/meowsakur76073…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/meowsakur7607356428",
+                "start": 0,
+                "url": "https://t.co/aYC5pg7YwO"
+              }
+            ]
+          }
+        },
+        "id": "1718887354826637312",
+        "location": "Heaven",
+        "name": "Meow Sakura",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013129102786437120/dxrmWKgD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 797,
+          "following_count": 4224,
+          "like_count": 48812,
+          "listed_count": 5,
+          "media_count": 880,
+          "tweet_count": 14677
+        },
+        "url": "https://t.co/aYC5pg7YwO",
+        "username": "MeowSakur76073",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "any pronoun\n叫我 45 就好啦\ngender apathetic\n里推: @45_206io | ⭐😡: @MomoseReina\nBluesky同名\n提问箱：https://t.co/68frWGl4xj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 52,
+                "start": 43,
+                "username": "45_206io"
+              },
+              {
+                "end": 71,
+                "start": 59,
+                "username": "MomoseReina"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 109,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 86,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/45.206mhz",
+                "end": 23,
+                "expanded_url": "https://ngl.link/45.206mhz",
+                "start": 0,
+                "url": "https://t.co/68frWGl4xj"
+              }
+            ]
+          }
+        },
+        "id": "1751497892001685504",
+        "location": "maimai DX Circle (Int’l)",
+        "name": "45.206 MHᴢ 🇳🇿",
+        "pinned_tweet_id": "2055643018267684993",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039289556911194112/f7iNbdDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2599,
+          "following_count": 495,
+          "like_count": 35095,
+          "listed_count": 1,
+          "media_count": 768,
+          "tweet_count": 4271
+        },
+        "url": "https://t.co/68frWGl4xj",
+        "username": "45_206MHz",
+        "verified": false
+      }
+    ]
+  }
+}

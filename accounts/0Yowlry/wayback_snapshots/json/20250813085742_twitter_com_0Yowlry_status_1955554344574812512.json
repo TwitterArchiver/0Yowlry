@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1954981405206908932"
+      ],
+      "media_source_tweet_id": [
+        "1954981411703886283"
+      ]
+    },
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1721576765879980032",
+          "name": "Grok Ai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      }
+    ],
+    "conversation_id": "1955554344574812512",
+    "created_at": "2025-08-13T08:57:42.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T09:57:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955554344574812512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1699273459325390848",
+          "start": 3,
+          "username": "DurantRaym93677"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DNio0EfL2i",
+          "end": 65,
+          "expanded_url": "https://x.com/DurantRaym93677/status/1954981411703886283/photo/1",
+          "media_key": "3_1954981405206908932",
+          "start": 42,
+          "url": "https://t.co/DNio0EfL2i"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955554344574812512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 24
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954981411703886283",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @DurantRaym93677: 历史性一刻：Grok的推特账号再一次被封 https://t.co/DNio0EfL2i"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1151,
+        "media_key": "3_1954981405206908932",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyF9OufaEAQ-Mji.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954981405206908932"
+          ],
+          "media_source_tweet_id": [
+            "1954981411703886283"
+          ]
+        },
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1955554344574812512",
+        "created_at": "2025-08-13T08:57:42.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T09:57:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955554344574812512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1699273459325390848",
+              "start": 3,
+              "username": "DurantRaym93677"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DNio0EfL2i",
+              "end": 65,
+              "expanded_url": "https://x.com/DurantRaym93677/status/1954981411703886283/photo/1",
+              "media_key": "3_1954981405206908932",
+              "start": 42,
+              "url": "https://t.co/DNio0EfL2i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955554344574812512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 24
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954981411703886283",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @DurantRaym93677: 历史性一刻：Grok的推特账号再一次被封 https://t.co/DNio0EfL2i"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954981405206908932"
+          ]
+        },
+        "author_id": "1699273459325390848",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1721576765879980032",
+              "name": "Grok Ai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "1954981411703886283",
+        "created_at": "2025-08-11T19:01:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T20:01:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954981411703886283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DNio0EfL2i",
+              "end": 44,
+              "expanded_url": "https://x.com/DurantRaym93677/status/1954981411703886283/photo/1",
+              "media_key": "3_1954981405206908932",
+              "start": 21,
+              "url": "https://t.co/DNio0EfL2i"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954981411703886283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 27,
+          "impression_count": 57564,
+          "like_count": 790,
+          "quote_count": 4,
+          "reply_count": 36,
+          "retweet_count": 24
+        },
+        "reply_settings": "everyone",
+        "text": "历史性一刻：Grok的推特账号再一次被封 https://t.co/DNio0EfL2i"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "Yowlry",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900279853762392066/nf5oFqCF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1787,
+          "following_count": 2392,
+          "like_count": 17868,
+          "listed_count": 7,
+          "media_count": 294,
+          "tweet_count": 7316
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T04:09:04.000Z",
+        "description": "🇯🇵🇦🇺🇹🇼🇺🇦 🏳️‍🌈🏳️‍⚧️ High Commissioner of @enchenia in South America  ｜  陪都@AmmieColl84391",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 40,
+                "username": "enchenia"
+              },
+              {
+                "end": 88,
+                "start": 73,
+                "username": "AmmieColl84391"
+              }
+            ]
+          }
+        },
+        "id": "1699273459325390848",
+        "location": "Victoria, Australia",
+        "name": "Luke 桜局長 ⛩️",
+        "pinned_tweet_id": "1954442197408833729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1797427335911952384/l7lUTXag_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2018,
+          "following_count": 1950,
+          "like_count": 29865,
+          "listed_count": 7,
+          "media_count": 318,
+          "tweet_count": 8038
+        },
+        "username": "DurantRaym93677",
+        "verified": true
+      }
+    ]
+  }
+}

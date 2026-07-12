@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1948063632358863317",
+    "created_at": "2025-08-03T19:56:51.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-03T20:56:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1952096346263155022"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1557846379736666113",
+          "start": 0,
+          "username": "taffy_lovely"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1952096346263155022",
+    "in_reply_to_user_id": "1557846379736666113",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948063632358863317",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@taffy_lovely 抱抱你"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1948063632358863317].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1948063632358863317",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1948063632358863317"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1948063632358863317",
+        "created_at": "2025-08-03T19:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-03T20:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1952096346263155022"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1557846379736666113",
+              "start": 0,
+              "username": "taffy_lovely"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1952096346263155022",
+        "in_reply_to_user_id": "1557846379736666113",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948063632358863317",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@taffy_lovely 抱抱你"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "Yowlry",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900279853762392066/nf5oFqCF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1795,
+          "following_count": 2385,
+          "like_count": 17606,
+          "listed_count": 6,
+          "media_count": 292,
+          "tweet_count": 7193
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T21:48:42.000Z",
+        "description": "上帝已死",
+        "id": "1557846379736666113",
+        "location": "天国",
+        "name": "坂下🌸小菲",
+        "pinned_tweet_id": "1939995538251780263",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1897596618557566976/oj3eVEVx_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 471,
+          "following_count": 987,
+          "like_count": 2158,
+          "listed_count": 1,
+          "media_count": 216,
+          "tweet_count": 4394
+        },
+        "username": "taffy_lovely",
+        "verified": false
+      }
+    ]
+  }
+}

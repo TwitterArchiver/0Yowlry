@@ -1,0 +1,223 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2015366630361199009",
+    "created_at": "2026-06-13T19:04:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-13T20:04:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2065872943524298792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1720002363409469440",
+          "start": 0,
+          "username": "Priestess1878"
+        },
+        {
+          "end": 25,
+          "id": "1944225210284314624",
+          "start": 15,
+          "username": "NMD_China"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2065872943524298792",
+    "in_reply_to_user_id": "1720002363409469440",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015399596382667172",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Priestess1878 @NMD_China 改花刀不能孤立脖子"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2015399596382667172].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2015399596382667172",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2015399596382667172"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2015366630361199009",
+        "created_at": "2026-06-13T19:04:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T20:04:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065872943524298792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1720002363409469440",
+              "start": 0,
+              "username": "Priestess1878"
+            },
+            {
+              "end": 25,
+              "id": "1944225210284314624",
+              "start": 15,
+              "username": "NMD_China"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065872943524298792",
+        "in_reply_to_user_id": "1720002363409469440",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015399596382667172",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Priestess1878 @NMD_China 改花刀不能孤立脖子"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2101,
+          "following_count": 3050,
+          "like_count": 39642,
+          "listed_count": 10,
+          "media_count": 364,
+          "tweet_count": 12550
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-02T08:58:24.000Z",
+        "description": "嘚瑟： @shenqingsiwang",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 4,
+                "username": "shenqingsiwang"
+              }
+            ]
+          }
+        },
+        "id": "1720002363409469440",
+        "location": "Сыктывкар, Коми республика",
+        "name": "coooo🍥🍱🍣",
+        "pinned_tweet_id": "1881330731986919752",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1981428175016951808/BIxMboxN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 476,
+          "following_count": 431,
+          "like_count": 10880,
+          "listed_count": 2,
+          "media_count": 2150,
+          "tweet_count": 12461
+        },
+        "username": "Priestess1878",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-13T02:40:02.000Z",
+        "description": "你说的对所以我们睡大觉吧\n逃生舱@tiegang114514\n**死男同出没注意**\n大概率会屏蔽锁推新增关注者",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 16,
+                "username": "tiegang114514"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "114514.com",
+                "end": 23,
+                "expanded_url": "http://114514.com",
+                "start": 0,
+                "url": "https://t.co/APOiQu7DxP"
+              }
+            ]
+          }
+        },
+        "id": "1944225210284314624",
+        "location": "野獸邸",
+        "name": "鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041026221488918528/MFIE1Xyi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2785,
+          "following_count": 942,
+          "like_count": 178208,
+          "listed_count": 23,
+          "media_count": 1233,
+          "tweet_count": 4423
+        },
+        "url": "https://t.co/APOiQu7DxP",
+        "username": "NMD_China",
+        "verified": false
+      }
+    ]
+  }
+}

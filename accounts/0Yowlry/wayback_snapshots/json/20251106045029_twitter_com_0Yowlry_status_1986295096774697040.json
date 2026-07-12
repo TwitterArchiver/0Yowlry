@@ -1,0 +1,222 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1965586522100695145",
+    "created_at": "2025-11-06T04:50:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-06T05:50:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986295096774697040"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1910605041087766529",
+          "start": 0,
+          "username": "Apibaizhou"
+        },
+        {
+          "end": 23,
+          "id": "1697936336228126721",
+          "start": 12,
+          "username": "M0ry_Wh1sp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986295096774697040",
+    "in_reply_to_user_id": "1910605041087766529",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1978739870064402526",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Apibaizhou @M0ry_Wh1sp 🐈"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1978739870064402526].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1978739870064402526",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1978739870064402526"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1965586522100695145",
+        "created_at": "2025-11-06T04:50:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T05:50:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986295096774697040"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1910605041087766529",
+              "start": 0,
+              "username": "Apibaizhou"
+            },
+            {
+              "end": 23,
+              "id": "1697936336228126721",
+              "start": 12,
+              "username": "M0ry_Wh1sp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986295096774697040",
+        "in_reply_to_user_id": "1910605041087766529",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1978739870064402526",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Apibaizhou @M0ry_Wh1sp 🐈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している\n\n@rosmarinou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "rosmarinou"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1866,
+          "following_count": 2518,
+          "like_count": 22257,
+          "listed_count": 9,
+          "media_count": 311,
+          "tweet_count": 8529
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-11T08:05:59.000Z",
+        "description": "",
+        "id": "1910605041087766529",
+        "name": "笨猪白粥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985940557559123968/S_w4SBst_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 258,
+          "following_count": 488,
+          "like_count": 1612,
+          "listed_count": 2,
+          "media_count": 34,
+          "tweet_count": 143
+        },
+        "username": "Apibaizhou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-02T11:35:50.000Z",
+        "description": "曾用名:陌小语Mory     臭打游戏的普通现充男大                                                            负能里帐:@M0ryin    B站账号↓",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 92,
+                "username": "M0ryin"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/xrufZbE",
+                "end": 23,
+                "expanded_url": "https://b23.tv/xrufZbE",
+                "start": 0,
+                "url": "https://t.co/HHJcrPePc0"
+              }
+            ]
+          }
+        },
+        "id": "1697936336228126721",
+        "location": "牢语TV",
+        "name": "墨雨云Moryin",
+        "pinned_tweet_id": "1978733668748132464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977261221574590466/6lHlzOE7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1943,
+          "following_count": 1494,
+          "like_count": 80616,
+          "listed_count": 6,
+          "media_count": 444,
+          "tweet_count": 5856
+        },
+        "url": "https://t.co/HHJcrPePc0",
+        "username": "M0ry_Wh1sp",
+        "verified": false
+      }
+    ]
+  }
+}

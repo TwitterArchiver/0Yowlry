@@ -1,0 +1,279 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2059684239256526848"
+      ]
+    },
+    "author_id": "1839263401845075974",
+    "conversation_id": "1817955959769276490",
+    "created_at": "2026-05-27T17:12:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-27T18:12:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2059684249008226407"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1103830967163117568",
+          "start": 0,
+          "username": "anblk984"
+        },
+        {
+          "end": 23,
+          "id": "1614958034781863939",
+          "start": 10,
+          "username": "kirakira8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/0NTfuXrDl9",
+          "end": 47,
+          "expanded_url": "https://x.com/0Yowlry/status/2059684249008226407/photo/1",
+          "media_key": "3_2059684239256526848",
+          "start": 24,
+          "url": "https://t.co/0NTfuXrDl9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2059684249008226407",
+    "in_reply_to_user_id": "1103830967163117568",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1818059864234664249",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anblk984 @kirakira8964 https://t.co/0NTfuXrDl9"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [kirakira8964].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "kirakira8964",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "kirakira8964"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 519,
+        "media_key": "3_2059684239256526848",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJV35yZbIAAQUts.png",
+        "width": 680
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2059684239256526848"
+          ]
+        },
+        "author_id": "1839263401845075974",
+        "conversation_id": "1817955959769276490",
+        "created_at": "2026-05-27T17:12:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-27T18:12:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059684249008226407"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1103830967163117568",
+              "start": 0,
+              "username": "anblk984"
+            },
+            {
+              "end": 23,
+              "id": "1614958034781863939",
+              "start": 10,
+              "username": "kirakira8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0NTfuXrDl9",
+              "end": 47,
+              "expanded_url": "https://x.com/0Yowlry/status/2059684249008226407/photo/1",
+              "media_key": "3_2059684239256526848",
+              "start": 24,
+              "url": "https://t.co/0NTfuXrDl9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2059684249008226407",
+        "in_reply_to_user_id": "1103830967163117568",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1818059864234664249",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anblk984 @kirakira8964 https://t.co/0NTfuXrDl9"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1103830967163117568",
+        "conversation_id": "1817955959769276490",
+        "created_at": "2024-07-29T23:03:44.000Z",
+        "edit_controls": {
+          "editable_until": "2024-07-30T00:03:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1818059864234664249"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1614958034781863939",
+              "start": 0,
+              "username": "kirakira8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1818059864234664249",
+        "in_reply_to_user_id": "1614958034781863939",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 379,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1817955959769276490",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kirakira8964 生日快乐🎉~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2046,
+          "following_count": 2902,
+          "like_count": 34461,
+          "listed_count": 10,
+          "media_count": 350,
+          "tweet_count": 11435
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/17岁美少蛆/劳保爱鸟楠/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真  /有偿数学家教接单中 /最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 80,
+                "start": 67,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "梁家河冲浪里          下面是tg频道",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "1991346530033496380",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020118049534472192/Qa7ES9rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14635,
+          "following_count": 998,
+          "like_count": 118423,
+          "listed_count": 71,
+          "media_count": 2860,
+          "tweet_count": 28806
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

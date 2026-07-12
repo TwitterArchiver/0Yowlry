@@ -1,0 +1,347 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_1968661259211190272",
+        "3_1968661311556042753"
+      ]
+    },
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Sapporo",
+          "id": "1009884650444021760",
+          "name": "Sapporo"
+        }
+      }
+    ],
+    "conversation_id": "1968662327256825872",
+    "created_at": "2025-09-18T13:04:09.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-18T14:04:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1968662327256825872"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1751084995312275456",
+          "start": 0,
+          "username": "MikuMiku3648"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Rp24cYgUe3",
+          "end": 134,
+          "expanded_url": "https://x.com/0Yowlry/status/1968662327256825872/photo/1",
+          "media_key": "3_1968661259211190272",
+          "start": 111,
+          "url": "https://t.co/Rp24cYgUe3"
+        },
+        {
+          "display_url": "pic.x.com/Rp24cYgUe3",
+          "end": 134,
+          "expanded_url": "https://x.com/0Yowlry/status/1968662327256825872/photo/1",
+          "media_key": "3_1968661311556042753",
+          "start": 111,
+          "url": "https://t.co/Rp24cYgUe3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1968662327256825872",
+    "in_reply_to_user_id": "1751084995312275456",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "@MikuMiku3648 （）画到一半有人也在这里画东西了所以感觉有点看不太清（）不过那个人并没有把这个覆盖掉也是非常感谢了（）在札幌市那里一眼就能看见上面这个初音ミク，然后@ MIKUMIKU 3648 就在下面（） https://t.co/Rp24cYgUe3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1004,
+        "media_key": "3_1968661259211190272",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1IW_B5bMAARzwi.jpg",
+        "width": 1919
+      },
+      {
+        "height": 1005,
+        "media_key": "3_1968661311556042753",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1IXCE5aQAEmkED.jpg",
+        "width": 1919
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1968661259211190272",
+            "3_1968661311556042753"
+          ]
+        },
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Sapporo",
+              "id": "1009884650444021760",
+              "name": "Sapporo"
+            }
+          }
+        ],
+        "conversation_id": "1968662327256825872",
+        "created_at": "2025-09-18T13:04:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-18T14:04:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1968662327256825872"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1751084995312275456",
+              "start": 0,
+              "username": "MikuMiku3648"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Rp24cYgUe3",
+              "end": 134,
+              "expanded_url": "https://x.com/0Yowlry/status/1968662327256825872/photo/1",
+              "media_key": "3_1968661259211190272",
+              "start": 111,
+              "url": "https://t.co/Rp24cYgUe3"
+            },
+            {
+              "display_url": "pic.x.com/Rp24cYgUe3",
+              "end": 134,
+              "expanded_url": "https://x.com/0Yowlry/status/1968662327256825872/photo/1",
+              "media_key": "3_1968661311556042753",
+              "start": 111,
+              "url": "https://t.co/Rp24cYgUe3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1968662327256825872",
+        "in_reply_to_user_id": "1751084995312275456",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "@MikuMiku3648 （）画到一半有人也在这里画东西了所以感觉有点看不太清（）不过那个人并没有把这个覆盖掉也是非常感谢了（）在札幌市那里一眼就能看见上面这个初音ミク，然后@ MIKUMIKU 3648 就在下面（） https://t.co/Rp24cYgUe3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "TMTV",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960048268525858816/MjMpG-1y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1823,
+          "following_count": 2424,
+          "like_count": 18931,
+          "listed_count": 9,
+          "media_count": 305,
+          "tweet_count": 7692
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T03:30:20.000Z",
+        "description": "君といる毎日は奇跡だよ                                                           友達！：@meguruKirara   Remi  @miku_suki393939 对象：@Mikuloverr_  （新教徒谢谢喵",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 74,
+                "username": "meguruKirara"
+              },
+              {
+                "end": 112,
+                "start": 96,
+                "username": "miku_suki393939"
+              },
+              {
+                "end": 128,
+                "start": 116,
+                "username": "Mikuloverr_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/LittIeStar/MyG…",
+                "end": 23,
+                "expanded_url": "https://github.com/LittIeStar/MyGameCode",
+                "start": 0,
+                "url": "https://t.co/TLtumadgCD"
+              }
+            ]
+          }
+        },
+        "id": "1751084995312275456",
+        "location": "「さよなら」じゃなく 「また明日ね」って言って",
+        "name": "Miku🥝✞",
+        "pinned_tweet_id": "1809865925849674203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930668961777299456/Hz60qBx6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3297,
+          "following_count": 1382,
+          "like_count": 38883,
+          "listed_count": 17,
+          "media_count": 2280,
+          "tweet_count": 14016
+        },
+        "url": "https://t.co/TLtumadgCD",
+        "username": "MikuMiku3648",
+        "verified": false
+      }
+    ]
+  }
+}

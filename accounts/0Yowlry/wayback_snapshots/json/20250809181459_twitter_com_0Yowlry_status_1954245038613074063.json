@@ -1,0 +1,349 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1950468304725778449",
+    "created_at": "2025-08-09T18:14:59.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-09T19:14:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1954245038613074063"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1871474805578371072",
+          "start": 0,
+          "username": "8c4356"
+        },
+        {
+          "end": 17,
+          "id": "1840055457756610560",
+          "start": 8,
+          "username": "hood8964"
+        },
+        {
+          "end": 27,
+          "id": "1690100855653965824",
+          "start": 18,
+          "username": "iLIc5147"
+        },
+        {
+          "end": 43,
+          "id": "1866063848014508032",
+          "start": 28,
+          "username": "Saint_and_Noah"
+        },
+        {
+          "end": 49,
+          "id": "1720665183188922368",
+          "start": 44,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1954245038613074063",
+    "in_reply_to_user_id": "1871474805578371072",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951785225677156489",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@8c4356 @hood8964 @iLIc5147 @Saint_and_Noah @grok 何意味"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1951785225677156489].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1951785225677156489",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1951785225677156489"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1950468304725778449",
+        "created_at": "2025-08-09T18:14:59.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-09T19:14:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1954245038613074063"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1871474805578371072",
+              "start": 0,
+              "username": "8c4356"
+            },
+            {
+              "end": 17,
+              "id": "1840055457756610560",
+              "start": 8,
+              "username": "hood8964"
+            },
+            {
+              "end": 27,
+              "id": "1690100855653965824",
+              "start": 18,
+              "username": "iLIc5147"
+            },
+            {
+              "end": 43,
+              "id": "1866063848014508032",
+              "start": 28,
+              "username": "Saint_and_Noah"
+            },
+            {
+              "end": 49,
+              "id": "1720665183188922368",
+              "start": 44,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1954245038613074063",
+        "in_reply_to_user_id": "1871474805578371072",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951785225677156489",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@8c4356 @hood8964 @iLIc5147 @Saint_and_Noah @grok 何意味"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "Yowlry",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900279853762392066/nf5oFqCF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1789,
+          "following_count": 2383,
+          "like_count": 17641,
+          "listed_count": 6,
+          "media_count": 294,
+          "tweet_count": 7245
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-24T08:36:08.000Z",
+        "description": "此位置还未被定义",
+        "id": "1871474805578371072",
+        "location": "地灵殿",
+        "name": "la priere",
+        "pinned_tweet_id": "1938692356254970273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927408250737045505/eiNlUdlC_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 35,
+          "following_count": 232,
+          "like_count": 16326,
+          "listed_count": 0,
+          "media_count": 852,
+          "tweet_count": 7755
+        },
+        "username": "8c4356",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T15:46:52.000Z",
+        "description": "尚未完结……",
+        "id": "1840055457756610560",
+        "name": "138亿年的红移",
+        "pinned_tweet_id": "1953859319239245849",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953745971717771264/MpTw09Gk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1183,
+          "following_count": 1765,
+          "like_count": 83156,
+          "listed_count": 8,
+          "media_count": 954,
+          "tweet_count": 18377
+        },
+        "username": "hood8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-11T20:40:59.000Z",
+        "description": "我们甚至算不上朋友，但是为什么你总能让我哭泣？每当有人因为社会体制问题紫砂去天上时，我总会问自己为什么没有能力去改变它，把祂们从死神手里抢回来。我无言以对，还有什么会比变革这一切要难吗？只不过一个未成年的小朋友做了未成年会做但不该做的事，说了未成年会说但不该说的话🌹你说，乌托邦会有化学极乐吗？@cuichuna7🌹",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 157,
+                "start": 147,
+                "username": "cuichuna7"
+              }
+            ]
+          }
+        },
+        "id": "1690100855653965824",
+        "location": "全民族党",
+        "name": "revolution.time📕",
+        "pinned_tweet_id": "1953470746287858167",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953468839888588800/xbfKdAJR_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 687,
+          "following_count": 456,
+          "like_count": 14480,
+          "listed_count": 7,
+          "media_count": 459,
+          "tweet_count": 6356
+        },
+        "username": "iLIc5147",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-09T10:14:33.000Z",
+        "description": "锁一段时间推，看成分互fo丨友跨（快翻车了）丨多体丨ADHD丨人文社科爱好者丨成分比较杂丨最近很闲，欢迎找我聊天🥰丨里推@ShuangNian80852",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 76,
+                "start": 60,
+                "username": "ShuangNian80852"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/saintandnoah",
+                "end": 23,
+                "expanded_url": "https://ngl.link/saintandnoah",
+                "start": 0,
+                "url": "https://t.co/KCI0PqyWCM"
+              }
+            ]
+          }
+        },
+        "id": "1866063848014508032",
+        "name": "嗣凝",
+        "pinned_tweet_id": "1933188587262197861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940301313947959296/LRVywUeE_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 316,
+          "following_count": 373,
+          "like_count": 14401,
+          "listed_count": 0,
+          "media_count": 81,
+          "tweet_count": 2037
+        },
+        "url": "https://t.co/KCI0PqyWCM",
+        "username": "Saint_and_Noah",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "https://t.co/fqNKQSiLQB\n@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 24,
+                "username": "grok"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSiLQB"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com",
+                "end": 23,
+                "expanded_url": "https://grok.com",
+                "start": 0,
+                "url": "https://t.co/BFoTHXcJ8D"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "location": "wherever you are",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1893219113717342208/Vgg2hEPa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5835822,
+          "following_count": 3,
+          "like_count": 73,
+          "listed_count": 4623,
+          "media_count": 2466629,
+          "tweet_count": 35006191
+        },
+        "url": "https://t.co/BFoTHXcJ8D",
+        "username": "grok",
+        "verified": true
+      }
+    ]
+  }
+}

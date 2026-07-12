@@ -1,0 +1,577 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "1984245800684466655",
+    "created_at": "2025-10-31T13:07:19.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-31T14:07:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1984245800684466655"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1527325223305224194",
+          "start": 3,
+          "username": "benshandebiao"
+        }
+      ],
+      "urls": [
+        {
+          "description": "This website allows you to select a city and then draws every single road on a screen.",
+          "display_url": "anvaka.github.io/city-roads/",
+          "end": 47,
+          "expanded_url": "https://anvaka.github.io/city-roads/",
+          "images": [
+            {
+              "height": 1434,
+              "url": "https://pbs.twimg.com/news_img/1971623533823610880/L1yfPLjK?format=jpg&name=orig",
+              "width": 1440
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1971623533823610880/L1yfPLjK?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 24,
+          "status": 200,
+          "title": "Draw all roads in any city at once",
+          "unwound_url": "https://anvaka.github.io/city-roads/",
+          "url": "https://t.co/AyNPCf8iyR"
+        },
+        {
+          "description": "Visualization of all roads within any city. Contribute to anvaka/city-roads development by creating an account on GitHub.",
+          "display_url": "github.com/anvaka/city-ro…",
+          "end": 81,
+          "expanded_url": "https://github.com/anvaka/city-roads",
+          "images": [
+            {
+              "height": 512,
+              "url": "https://pbs.twimg.com/news_img/1959000550692773888/GPIx_zTz?format=jpg&name=orig",
+              "width": 1024
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/1959000550692773888/GPIx_zTz?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 58,
+          "status": 200,
+          "title": "GitHub - anvaka/city-roads: Visualization of all roads within any city",
+          "unwound_url": "https://github.com/anvaka/city-roads",
+          "url": "https://t.co/ksHFwRlaY1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1984245800684466655",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 188
+    },
+    "referenced_tweets": [
+      {
+        "id": "1870728880191091124",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @benshandebiao: 网站地址：https://t.co/AyNPCf8iyR\n\ngithub地址：https://t.co/ksHFwRlaY1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "1984245800684466655",
+        "created_at": "2025-10-31T13:07:19.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-31T14:07:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1984245800684466655"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1527325223305224194",
+              "start": 3,
+              "username": "benshandebiao"
+            }
+          ],
+          "urls": [
+            {
+              "description": "This website allows you to select a city and then draws every single road on a screen.",
+              "display_url": "anvaka.github.io/city-roads/",
+              "end": 47,
+              "expanded_url": "https://anvaka.github.io/city-roads/",
+              "images": [
+                {
+                  "height": 1434,
+                  "url": "https://pbs.twimg.com/news_img/1971623533823610880/L1yfPLjK?format=jpg&name=orig",
+                  "width": 1440
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1971623533823610880/L1yfPLjK?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 24,
+              "status": 200,
+              "title": "Draw all roads in any city at once",
+              "unwound_url": "https://anvaka.github.io/city-roads/",
+              "url": "https://t.co/AyNPCf8iyR"
+            },
+            {
+              "description": "Visualization of all roads within any city. Contribute to anvaka/city-roads development by creating an account on GitHub.",
+              "display_url": "github.com/anvaka/city-ro…",
+              "end": 81,
+              "expanded_url": "https://github.com/anvaka/city-roads",
+              "images": [
+                {
+                  "height": 512,
+                  "url": "https://pbs.twimg.com/news_img/1959000550692773888/GPIx_zTz?format=jpg&name=orig",
+                  "width": 1024
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1959000550692773888/GPIx_zTz?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 58,
+              "status": 200,
+              "title": "GitHub - anvaka/city-roads: Visualization of all roads within any city",
+              "unwound_url": "https://github.com/anvaka/city-roads",
+              "url": "https://t.co/ksHFwRlaY1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1984245800684466655",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 188
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870728880191091124",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @benshandebiao: 网站地址：https://t.co/AyNPCf8iyR\n\ngithub地址：https://t.co/ksHFwRlaY1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1527325223305224194",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "1870728788772053202",
+        "created_at": "2024-12-22T07:11:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-12-22T08:11:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1870728880191091124"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "This website allows you to select a city and then draws every single road on a screen.",
+              "display_url": "anvaka.github.io/city-roads/",
+              "end": 28,
+              "expanded_url": "https://anvaka.github.io/city-roads/",
+              "images": [
+                {
+                  "height": 1434,
+                  "url": "https://pbs.twimg.com/news_img/1971623533823610880/L1yfPLjK?format=jpg&name=orig",
+                  "width": 1440
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1971623533823610880/L1yfPLjK?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 5,
+              "status": 200,
+              "title": "Draw all roads in any city at once",
+              "unwound_url": "https://anvaka.github.io/city-roads/",
+              "url": "https://t.co/AyNPCf8iyR"
+            },
+            {
+              "description": "Visualization of all roads within any city. Contribute to anvaka/city-roads development by creating an account on GitHub.",
+              "display_url": "github.com/anvaka/city-ro…",
+              "end": 62,
+              "expanded_url": "https://github.com/anvaka/city-roads",
+              "images": [
+                {
+                  "height": 512,
+                  "url": "https://pbs.twimg.com/news_img/1959000550692773888/GPIx_zTz?format=jpg&name=orig",
+                  "width": 1024
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/1959000550692773888/GPIx_zTz?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 39,
+              "status": 200,
+              "title": "GitHub - anvaka/city-roads: Visualization of all roads within any city",
+              "unwound_url": "https://github.com/anvaka/city-roads",
+              "url": "https://t.co/ksHFwRlaY1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1870728880191091124",
+        "in_reply_to_user_id": "1527325223305224194",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 796,
+          "impression_count": 70227,
+          "like_count": 776,
+          "quote_count": 11,
+          "reply_count": 3,
+          "retweet_count": 188
+        },
+        "referenced_tweets": [
+          {
+            "id": "1870728788772053202",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "网站地址：https://t.co/AyNPCf8iyR\n\ngithub地址：https://t.co/ksHFwRlaY1"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1852,
+          "following_count": 2481,
+          "like_count": 21331,
+          "listed_count": 9,
+          "media_count": 308,
+          "tweet_count": 8189
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-19T16:28:53.000Z",
+        "description": "独立开发者",
+        "id": "1527325223305224194",
+        "location": "北京朝阳",
+        "name": "本山德彪",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1770437906165112832/RCgKTGqV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5898,
+          "following_count": 886,
+          "like_count": 6636,
+          "listed_count": 48,
+          "media_count": 504,
+          "tweet_count": 3097
+        },
+        "username": "benshandebiao",
+        "verified": false
+      }
+    ]
+  }
+}

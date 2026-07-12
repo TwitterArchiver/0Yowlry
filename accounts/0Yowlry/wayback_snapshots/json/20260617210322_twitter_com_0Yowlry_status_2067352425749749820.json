@@ -1,0 +1,306 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1970837538169626989",
+    "created_at": "2026-06-17T21:03:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T22:03:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067352425749749820"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1934297754626613248",
+          "start": 0,
+          "username": "SsssCld"
+        },
+        {
+          "end": 22,
+          "id": "1559223020245331971",
+          "start": 9,
+          "username": "tiegang10086"
+        },
+        {
+          "end": 36,
+          "id": "1799623143683944448",
+          "start": 23,
+          "username": "weiguoqingGX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067352425749749820",
+    "in_reply_to_user_id": "1934297754626613248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970851340902687081",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SsssCld @tiegang10086 @weiguoqingGX 中国语"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [tiegang10086].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "tiegang10086",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "tiegang10086"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 150,
+        "media_key": "3_1970851253090664448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G1nexc2aQAAxi2N.png",
+        "width": 723
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1970837538169626989",
+        "created_at": "2026-06-17T21:03:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T22:03:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067352425749749820"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1934297754626613248",
+              "start": 0,
+              "username": "SsssCld"
+            },
+            {
+              "end": 22,
+              "id": "1559223020245331971",
+              "start": 9,
+              "username": "tiegang10086"
+            },
+            {
+              "end": 36,
+              "id": "1799623143683944448",
+              "start": 23,
+              "username": "weiguoqingGX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067352425749749820",
+        "in_reply_to_user_id": "1934297754626613248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970851340902687081",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SsssCld @tiegang10086 @weiguoqingGX 中国语"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1970851253090664448"
+          ]
+        },
+        "author_id": "1934297754626613248",
+        "conversation_id": "1970837538169626989",
+        "created_at": "2025-09-24T14:02:30.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-24T15:02:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970851340902687081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1559223020245331971",
+              "start": 14,
+              "username": "tiegang10086"
+            },
+            {
+              "end": 41,
+              "id": "1799623143683944448",
+              "start": 28,
+              "username": "weiguoqingGX"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/2bQHxM2FIt",
+              "end": 75,
+              "expanded_url": "https://x.com/SsssCld/status/1970851340902687081/photo/1",
+              "media_key": "3_1970851253090664448",
+              "start": 52,
+              "url": "https://t.co/2bQHxM2FIt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970851340902687081",
+        "in_reply_to_user_id": "1837550820742815744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 81,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970850996260872339",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Aminos160782 @tiegang10086 @weiguoqingGX 第一定律应该够用了 https://t.co/2bQHxM2FIt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2114,
+          "following_count": 3101,
+          "like_count": 40717,
+          "listed_count": 10,
+          "media_count": 368,
+          "tweet_count": 12847
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-15T17:11:56.000Z",
+        "description": "有问题，没回答",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/sssscld",
+                "end": 23,
+                "expanded_url": "https://ngl.link/sssscld",
+                "start": 0,
+                "url": "https://t.co/IwaYDiMlhk"
+              }
+            ]
+          }
+        },
+        "id": "1934297754626613248",
+        "location": "state capitalism fallen areas",
+        "name": "sssscld",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006038015614087168/3N8I3Ffv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 501,
+          "following_count": 431,
+          "like_count": 48984,
+          "listed_count": 2,
+          "media_count": 142,
+          "tweet_count": 2837
+        },
+        "url": "https://t.co/IwaYDiMlhk",
+        "username": "SsssCld",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T02:03:20.000Z",
+        "description": "是的，毕竟来日方长",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xijinpingnb.cn",
+                "end": 23,
+                "expanded_url": "http://xijinpingnb.cn",
+                "start": 0,
+                "url": "https://t.co/NaO2d8e7KJ"
+              }
+            ]
+          }
+        },
+        "id": "1799623143683944448",
+        "location": "中华人民公社",
+        "name": "💹山田凉前辈（淡推）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031298376592154624/uVqzrgj8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 643,
+          "following_count": 819,
+          "like_count": 10504,
+          "listed_count": 1,
+          "media_count": 532,
+          "tweet_count": 3512
+        },
+        "url": "https://t.co/NaO2d8e7KJ",
+        "username": "weiguoqingGX",
+        "verified": false
+      }
+    ]
+  }
+}

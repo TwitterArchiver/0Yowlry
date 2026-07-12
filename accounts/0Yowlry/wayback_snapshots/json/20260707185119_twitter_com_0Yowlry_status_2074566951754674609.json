@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2074566951754674609",
+    "created_at": "2026-07-07T18:51:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-07T19:51:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074566951754674609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "93471126",
+          "start": 3,
+          "username": "usembassytokyo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074566951754674609",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 3602
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072620415646585061",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @usembassytokyo: In Tokyo tomorrow? Celebrate America’s 250th birthday by watching the Tokyo Tower, Rainbow Bridge, and Tokyo Aqua Symph…"
+  },
+  "includes": {
+    "media": [
+      {
+        "alt_text": "#A250inJapan Tokyo Tower lit up in Red, White, and Blue to celebrate 250 years of American independence. This is a mock-up of the American Independence Day celebration event that will take place on July 3.",
+        "height": 1448,
+        "media_key": "3_2072620042408120320",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNs8oYXUAAuvIk.jpg",
+        "width": 1086
+      },
+      {
+        "alt_text": "#A250inJapan Tokyo Aqua Symphony lit up in Red, White, and Blue to celebrate 250 years of American independence. This is a mock-up of the American Independence Day celebration event that will take place on July 3.",
+        "height": 1086,
+        "media_key": "3_2072620098670452736",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNs_5-WYAANo57.jpg",
+        "width": 1448
+      },
+      {
+        "alt_text": "#A250inJapan Tokyo's Rainbow Bridge lit up in Red, White, and Blue to celebrate 250 years of American independence. This is a mock-up of the American Independence Day celebration event that will take place on July 3.",
+        "height": 1070,
+        "media_key": "3_2072620233051844609",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMNtHulXsAE9UND.jpg",
+        "width": 1470
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2074566951754674609",
+        "created_at": "2026-07-07T18:51:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T19:51:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074566951754674609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "93471126",
+              "start": 3,
+              "username": "usembassytokyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074566951754674609",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 3602
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072620415646585061",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @usembassytokyo: In Tokyo tomorrow? Celebrate America’s 250th birthday by watching the Tokyo Tower, Rainbow Bridge, and Tokyo Aqua Symph…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2072620042408120320",
+            "3_2072620098670452736",
+            "3_2072620233051844609"
+          ]
+        },
+        "author_id": "93471126",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2072620415646585061",
+        "created_at": "2026-07-02T09:56:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T10:56:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072620415646585061"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 266,
+              "start": 254,
+              "tag": "A250inJapan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CmDs5GIGtX",
+              "end": 301,
+              "expanded_url": "https://x.com/usembassytokyo/status/2072620415646585061/photo/1",
+              "media_key": "3_2072620042408120320",
+              "start": 278,
+              "url": "https://t.co/CmDs5GIGtX"
+            },
+            {
+              "display_url": "pic.x.com/CmDs5GIGtX",
+              "end": 301,
+              "expanded_url": "https://x.com/usembassytokyo/status/2072620415646585061/photo/1",
+              "media_key": "3_2072620098670452736",
+              "start": 278,
+              "url": "https://t.co/CmDs5GIGtX"
+            },
+            {
+              "display_url": "pic.x.com/CmDs5GIGtX",
+              "end": 301,
+              "expanded_url": "https://x.com/usembassytokyo/status/2072620415646585061/photo/1",
+              "media_key": "3_2072620233051844609",
+              "start": 278,
+              "url": "https://t.co/CmDs5GIGtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2072620415646585061",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 266,
+                "start": 254,
+                "tag": "A250inJapan"
+              }
+            ]
+          },
+          "text": "In Tokyo tomorrow? Celebrate America’s 250th birthday by watching the Tokyo Tower, Rainbow Bridge, and Tokyo Aqua Symphony illuminated! Snap a photo or video of Red, White, and Blue lighting up the night sky.  We’d love to share your photos! \nSimply use #A250inJapan \n\nLight-up Times: \n🇺🇸🇯🇵Tokyo Tower: Friday, July 3, 2026 7:00 PM – midnight \n🇺🇸🇯🇵Rainbow Bridge: Friday, July 3, 2026 7:00 PM – midnight \n🇺🇸🇯🇵Tokyo Aqua Symphony: Friday, July 3, 2026 6:30PM – 9:30 PM"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1826,
+          "impression_count": 4398874,
+          "like_count": 25725,
+          "quote_count": 589,
+          "reply_count": 654,
+          "retweet_count": 3602
+        },
+        "reply_settings": "everyone",
+        "text": "In Tokyo tomorrow? Celebrate America’s 250th birthday by watching the Tokyo Tower, Rainbow Bridge, and Tokyo Aqua Symphony illuminated! Snap a photo or video of Red, White, and Blue lighting up the night sky.  We’d love to share your photos! \nSimply use #A250inJapan \n\nLight-up https://t.co/CmDs5GIGtX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Aerospace | Girls Band | Game | Journey | Natural Science",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2203,
+          "following_count": 3301,
+          "like_count": 45601,
+          "listed_count": 10,
+          "media_count": 375,
+          "tweet_count": 14208
+        },
+        "url": "",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2009-11-29T20:17:45.000Z",
+        "description": "Official X account for the US Embassy in Tokyo, Japan + press releases. RT & Like ≠endorsement. 在日米国大使館公式ツイッター 。Terms of Use: https://t.co/0xKwC8dqZJ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "state.gov/tou",
+                "end": 149,
+                "expanded_url": "http://www.state.gov/tou",
+                "start": 126,
+                "url": "https://t.co/0xKwC8dqZJ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "jp.usembassy.gov/ja/",
+                "end": 23,
+                "expanded_url": "https://jp.usembassy.gov/ja/",
+                "start": 0,
+                "url": "https://t.co/lSBp1ccezN"
+              }
+            ]
+          }
+        },
+        "id": "93471126",
+        "location": "東京都港区赤坂1-10-5",
+        "name": "アメリカ大使館",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968895270470746112/anbmFNsk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 180069,
+          "following_count": 341,
+          "like_count": 13334,
+          "listed_count": 2646,
+          "media_count": 482,
+          "tweet_count": 3383
+        },
+        "url": "https://t.co/lSBp1ccezN",
+        "username": "usembassytokyo",
+        "verified": true
+      }
+    ]
+  }
+}

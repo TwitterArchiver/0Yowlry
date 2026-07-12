@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2057938489673441595",
+    "created_at": "2026-05-23T14:22:58.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-23T15:22:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2058191964932366506"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1609907541861076994",
+          "start": 0,
+          "username": "Inwal3310"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2058191964932366506",
+    "in_reply_to_user_id": "1609907541861076994",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057938489673441595",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Inwal3310 🤤"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2057938489673441595].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2057938489673441595",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2057938489673441595"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2057938489673441595",
+        "created_at": "2026-05-23T14:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-23T15:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2058191964932366506"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1609907541861076994",
+              "start": 0,
+              "username": "Inwal3310"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2058191964932366506",
+        "in_reply_to_user_id": "1609907541861076994",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057938489673441595",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Inwal3310 🤤"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2041,
+          "following_count": 2,
+          "like_count": 78,
+          "listed_count": 10,
+          "media_count": 342,
+          "tweet_count": 11299
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-02T13:40:56.000Z",
+        "description": "MTFlora/伐兰在左，企鹅在右/里推@_sarcophagi/永远在一起的🤍🐧@Silent121_5/🌸@Cavaradossi1008/🍂@fallenleavesw/🌷@cy79p/💮@zuifeiwu/🐱@Lmao_Quien/@hoshi_asuka0089",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 20,
+                "username": "_sarcophagi"
+              },
+              {
+                "end": 53,
+                "start": 41,
+                "username": "Silent121_5"
+              },
+              {
+                "end": 71,
+                "start": 55,
+                "username": "Cavaradossi1008"
+              },
+              {
+                "end": 87,
+                "start": 73,
+                "username": "fallenleavesw"
+              },
+              {
+                "end": 95,
+                "start": 89,
+                "username": "cy79p"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "zuifeiwu"
+              },
+              {
+                "end": 119,
+                "start": 108,
+                "username": "Lmao_Quien"
+              },
+              {
+                "end": 136,
+                "start": 120,
+                "username": "hoshi_asuka0089"
+              }
+            ]
+          }
+        },
+        "id": "1609907541861076994",
+        "location": "企鹅巢",
+        "name": "近花🌸",
+        "pinned_tweet_id": "2008134563911045257",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006959754740924416/yGiliDIW_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 1101,
+          "like_count": 63714,
+          "listed_count": 16,
+          "media_count": 910,
+          "tweet_count": 33137
+        },
+        "username": "Inwal3310",
+        "verified": false
+      }
+    ]
+  }
+}

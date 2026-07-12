@@ -1,0 +1,177 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1828261805866799234",
+    "created_at": "2025-10-11T14:20:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-11T15:20:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1977016453678481609"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1745466077805711360",
+          "start": 0,
+          "username": "mayoy04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1977016453678481609",
+    "in_reply_to_user_id": "1745466077805711360",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1828261805866799234",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mayoy04 ？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1828261805866799234",
+        "created_at": "2025-10-11T14:20:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-11T15:20:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1977016453678481609"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1745466077805711360",
+              "start": 0,
+              "username": "mayoy04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1977016453678481609",
+        "in_reply_to_user_id": "1745466077805711360",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1828261805866799234",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mayoy04 ？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1745466077805711360",
+        "conversation_id": "1828261805866799234",
+        "created_at": "2024-08-27T02:42:36.000Z",
+        "edit_controls": {
+          "editable_until": "2024-08-27T03:42:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1828261805866799234"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1828261805866799234",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 165,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "( ^ω^ )"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1837,
+          "following_count": 2455,
+          "like_count": 20015,
+          "listed_count": 9,
+          "media_count": 303,
+          "tweet_count": 7892
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-11T15:22:10.000Z",
+        "description": "",
+        "id": "1745466077805711360",
+        "name": "ma yo y",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1745466762773307392/SxGuUAyZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 172,
+          "like_count": 6705,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 77
+        },
+        "username": "mayoy04",
+        "verified": false
+      }
+    ]
+  }
+}

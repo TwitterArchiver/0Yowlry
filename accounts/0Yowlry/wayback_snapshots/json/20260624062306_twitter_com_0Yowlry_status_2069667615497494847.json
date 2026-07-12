@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491179089880772608",
+          "name": "Shojo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1585790663575994368",
+          "name": "Magical girl"
+        }
+      }
+    ],
+    "conversation_id": "2069667615497494847",
+    "created_at": "2026-06-24T06:23:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-24T07:23:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2069667615497494847"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1761599169066893312",
+          "start": 3,
+          "username": "13witch_Trials"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2069667615497494847",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4406
+    },
+    "referenced_tweets": [
+      {
+        "id": "2037501265710854642",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @13witch_Trials: Let the witch trials begin...\nMagical Girl Witch Trials (Maho Shojo no Majo Saiban) is going global with English, Frenc…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 59333,
+        "height": 720,
+        "media_key": "7_2037501209180053504",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2037501209180053504/pu/img/wsZbtB8vMAQH4QJK.jpg",
+        "public_metrics": {
+          "view_count": 369613
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037501209180053504/pu/vid/avc1/480x270/opUB_qoCt545KjWN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037501209180053504/pu/vid/avc1/640x360/Rz4prwrDMXo3_tft.mp4?tag=12"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2037501209180053504/pu/vid/avc1/1280x720/kZLzDIp_R8XvvCLI.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2037501209180053504/pu/pl/6q935K0RcTBIaXf5.m3u8?tag=12&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491179089880772608",
+              "name": "Shojo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2069667615497494847",
+        "created_at": "2026-06-24T06:23:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T07:23:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2069667615497494847"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1761599169066893312",
+              "start": 3,
+              "username": "13witch_Trials"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069667615497494847",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4406
+        },
+        "referenced_tweets": [
+          {
+            "id": "2037501265710854642",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @13witch_Trials: Let the witch trials begin...\nMagical Girl Witch Trials (Maho Shojo no Majo Saiban) is going global with English, Frenc…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2037501209180053504"
+          ]
+        },
+        "author_id": "1761599169066893312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491179089880772608",
+              "name": "Shojo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          }
+        ],
+        "conversation_id": "2037501265710854642",
+        "created_at": "2026-03-27T12:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-27T13:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2037501265710854642"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 247,
+              "start": 242,
+              "tag": "MGWT"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7PCeyOmWML",
+              "end": 271,
+              "expanded_url": "https://x.com/13witch_Trials/status/2037501265710854642/video/1",
+              "media_key": "7_2037501209180053504",
+              "start": 248,
+              "url": "https://t.co/7PCeyOmWML"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2037501265710854642",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5355,
+          "impression_count": 1212839,
+          "like_count": 19495,
+          "quote_count": 1080,
+          "reply_count": 176,
+          "retweet_count": 4406
+        },
+        "reply_settings": "everyone",
+        "text": "Let the witch trials begin...\nMagical Girl Witch Trials (Maho Shojo no Majo Saiban) is going global with English, French, Spanish, and Korean versions currently in the works. Please stay tuned for updates regarding the release date and more.\n#MGWT https://t.co/7PCeyOmWML"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶\n\nAnime | Minecraft | Aerospace | Girls Band | Game | Journey | Natural Science",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2131,
+          "following_count": 3128,
+          "like_count": 41723,
+          "listed_count": 10,
+          "media_count": 371,
+          "tweet_count": 13110
+        },
+        "url": "",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T03:49:14.000Z",
+        "description": "「Acacia」がお届けする魔法議論ミステリゲーム「魔法少女ノ魔女裁判」公式です。Steam版発売中。Switch版 2026年7月9日（木）発売予定　#まのさば\n\nYoutube：https://t.co/2vD4itw83M\n公式ショップ：https://t.co/3ZvBm16ybz\n運営：@Acacia_offical_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 81,
+                "start": 76,
+                "tag": "まのさば"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 165,
+                "start": 149,
+                "username": "Acacia_offical_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/uAqSn",
+                "end": 114,
+                "expanded_url": "https://x.gd/uAqSn",
+                "start": 91,
+                "url": "https://t.co/2vD4itw83M"
+              },
+              {
+                "display_url": "x.gd/XHFVjQ",
+                "end": 145,
+                "expanded_url": "https://x.gd/XHFVjQ",
+                "start": 122,
+                "url": "https://t.co/3ZvBm16ybz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "manosaba.com",
+                "end": 23,
+                "expanded_url": "https://manosaba.com",
+                "start": 0,
+                "url": "https://t.co/3ri3J0EKXa"
+              }
+            ]
+          }
+        },
+        "id": "1761599169066893312",
+        "location": "シナリオ制作会社Re,AER",
+        "name": "魔法少女ノ魔女裁判 公式",
+        "pinned_tweet_id": "2028837238327644658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774974247125106688/8mB9zMiW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 253374,
+          "following_count": 53,
+          "like_count": 3618,
+          "listed_count": 401,
+          "media_count": 693,
+          "tweet_count": 1282
+        },
+        "url": "https://t.co/3ri3J0EKXa",
+        "username": "13witch_Trials",
+        "verified": true
+      }
+    ]
+  }
+}

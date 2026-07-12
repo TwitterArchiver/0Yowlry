@@ -1,0 +1,453 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2007697033550016836",
+    "created_at": "2026-01-04T13:02:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-04T14:02:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007799813887459642"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1557541453253038080",
+          "start": 0,
+          "username": "KawawaDiana8964"
+        },
+        {
+          "end": 24,
+          "id": "1613079089879076864",
+          "start": 17,
+          "username": "Cldeop"
+        },
+        {
+          "end": 32,
+          "id": "1286241253621817344",
+          "start": 25,
+          "username": "CldGeo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007799813887459642",
+    "in_reply_to_user_id": "1557541453253038080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2007697033550016836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawawaDiana8964 @Cldeop @CldGeo 99分，少一分是因为避免极端分数被去掉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1960,
+        "media_key": "3_2007697030953508864",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9zFz_qXIAA0Kq8.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2007697033550016836",
+        "created_at": "2026-01-04T13:02:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T14:02:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007799813887459642"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1557541453253038080",
+              "start": 0,
+              "username": "KawawaDiana8964"
+            },
+            {
+              "end": 24,
+              "id": "1613079089879076864",
+              "start": 17,
+              "username": "Cldeop"
+            },
+            {
+              "end": 32,
+              "id": "1286241253621817344",
+              "start": 25,
+              "username": "CldGeo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007799813887459642",
+        "in_reply_to_user_id": "1557541453253038080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2007697033550016836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawawaDiana8964 @Cldeop @CldGeo 99分，少一分是因为避免极端分数被去掉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2007697030953508864"
+          ]
+        },
+        "author_id": "1557541453253038080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "2007697033550016836",
+        "created_at": "2026-01-04T06:14:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-04T07:14:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2007697033550016836"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 55,
+              "start": 48,
+              "tag": "中推名人评分"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 85,
+              "id": "1613079089879076864",
+              "start": 78,
+              "username": "Cldeop"
+            },
+            {
+              "end": 93,
+              "id": "1286241253621817344",
+              "start": 86,
+              "username": "CldGeo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/lysaZSgX3q",
+              "end": 165,
+              "expanded_url": "https://x.com/KawawaDiana8964/status/2007697033550016836/photo/1",
+              "media_key": "3_2007697030953508864",
+              "start": 142,
+              "url": "https://t.co/lysaZSgX3q"
+            },
+            {
+              "display_url": "x.com/KawawaDiana896…",
+              "end": 189,
+              "expanded_url": "https://twitter.com/KawawaDiana8964/status/2006127368071434478",
+              "start": 166,
+              "url": "https://t.co/Pn3AISo2q8"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007697033550016836",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 8423,
+          "like_count": 47,
+          "quote_count": 1,
+          "reply_count": 55,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006127368071434478",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "中推的朋友们下午好，既然是新的一年，就让我们以全新的名人评分来象征新的开始，对不住了，鸠兄🙏🏼\n#中推名人评分\n第二十八期\n云鸠(雲鳩) (0～100分)\n@Cldeop @CldGeo\n欢迎各路推友在评论区为该人打分，并表示打分原因，以及尽量避免极端分数，予尔三参，择木而栖。⏳️ https://t.co/lysaZSgX3q https://t.co/Pn3AISo2q8"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1833,
+          "following_count": 2478,
+          "like_count": 22814,
+          "listed_count": 10,
+          "media_count": 317,
+          "tweet_count": 8777
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2022-08-11T01:36:58.000Z",
+        "description": "小蓝(Alan)节假日临时cos\n\n简中/English/Español/C/Python\nFriendly with everyone except SB,rac!st,支黑,谣棍双标\nSUPPORT🇵🇸🇺🇦🇺🇸🇨🇳☮️↙️DemSoc,Mao\n#中推名人评分\n欢迎友好交流(8964=勿转內网)",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 131,
+                "start": 124,
+                "tag": "中推名人评分"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "m.bilibili.com/space/672328094",
+                "end": 23,
+                "expanded_url": "https://m.bilibili.com/space/672328094",
+                "start": 0,
+                "url": "https://t.co/wy2TJmPIIJ"
+              }
+            ]
+          }
+        },
+        "id": "1557541453253038080",
+        "location": "枝江国际-灯塔(MA)分区",
+        "name": "坂下蒂娜🇫🇮圣嘉然🍓",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006780407321182208/9g6Z9_Bz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 806,
+          "following_count": 504,
+          "like_count": 6397,
+          "listed_count": 7,
+          "media_count": 742,
+          "tweet_count": 2813
+        },
+        "url": "https://t.co/wy2TJmPIIJ",
+        "username": "KawawaDiana8964",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-11T07:43:29.000Z",
+        "description": "yún jiū｜ウンキュウ\n子账号@CldGeo\n欢迎私信投稿",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 24,
+                "start": 17,
+                "username": "CldGeo"
+              }
+            ]
+          }
+        },
+        "id": "1613079089879076864",
+        "location": "点一下「查看更多」试试？",
+        "name": "雲鳩",
+        "pinned_tweet_id": "2006394934333710386",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004270116045979648/BQ0NrqSv_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 96824,
+          "following_count": 664,
+          "like_count": 33508,
+          "listed_count": 273,
+          "media_count": 14613,
+          "tweet_count": 21147
+        },
+        "username": "Cldeop",
+        "verified": true
+      },
+      {
+        "created_at": "2020-07-23T10:06:45.000Z",
+        "description": "音游人｜运营兼策划「初心者」\n云鸠の本命号@Cldeop",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 28,
+                "start": 21,
+                "username": "Cldeop"
+              }
+            ]
+          }
+        },
+        "id": "1286241253621817344",
+        "location": "鹊巢（鸠占）",
+        "name": "九鸟",
+        "pinned_tweet_id": "2003856886207312104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1937922553181573124/5BJVMBBg_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2006,
+          "following_count": 285,
+          "like_count": 2204,
+          "listed_count": 5,
+          "media_count": 277,
+          "tweet_count": 980
+        },
+        "username": "CldGeo",
+        "verified": true
+      }
+    ]
+  }
+}

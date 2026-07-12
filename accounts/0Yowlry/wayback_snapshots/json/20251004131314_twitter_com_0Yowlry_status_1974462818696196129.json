@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1974449775903920182",
+    "created_at": "2025-10-04T13:13:14.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T14:13:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974462818696196129"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1663066129923981312",
+          "start": 0,
+          "username": "Ak1raQ_love"
+        },
+        {
+          "end": 27,
+          "id": "1891475481238904832",
+          "start": 13,
+          "username": "ElberethXVIII"
+        },
+        {
+          "end": 37,
+          "id": "1690570637499154432",
+          "start": 28,
+          "username": "saonanaa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974462818696196129",
+    "in_reply_to_user_id": "1663066129923981312",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1974455829744197859",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ak1raQ_love @ElberethXVIII @saonanaa 😣😣😣😖😖😖"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1974455829744197859].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1974455829744197859",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1974455829744197859"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1974449775903920182",
+        "created_at": "2025-10-04T13:13:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T14:13:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974462818696196129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1663066129923981312",
+              "start": 0,
+              "username": "Ak1raQ_love"
+            },
+            {
+              "end": 27,
+              "id": "1891475481238904832",
+              "start": 13,
+              "username": "ElberethXVIII"
+            },
+            {
+              "end": 37,
+              "id": "1690570637499154432",
+              "start": 28,
+              "username": "saonanaa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974462818696196129",
+        "in_reply_to_user_id": "1663066129923981312",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1974455829744197859",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ak1raQ_love @ElberethXVIII @saonanaa 😣😣😣😖😖😖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1829,
+          "following_count": 2437,
+          "like_count": 19611,
+          "listed_count": 9,
+          "media_count": 305,
+          "tweet_count": 7803
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "名字读作 あきいこう | 努力做到不让自己难过就好 | 闺蜜贴贴🥰@qiuylove",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 33,
+                "username": "qiuylove"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": "Los Angeles, CA",
+        "name": "秋以降🍥🌸💫",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959987729405800448/ru98h56k_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1368,
+          "following_count": 1025,
+          "like_count": 164825,
+          "listed_count": 3,
+          "media_count": 1291,
+          "tweet_count": 8115
+        },
+        "username": "Ak1raQ_love",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-17T13:11:19.000Z",
+        "description": "Ø₣₣Ⱡł₦Ɇ.",
+        "id": "1891475481238904832",
+        "name": "✨小星宸💫",
+        "pinned_tweet_id": "1894464814090784834",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974255367334105088/XPxiPR2N_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 254,
+          "following_count": 266,
+          "like_count": 1999,
+          "listed_count": 0,
+          "media_count": 131,
+          "tweet_count": 1622
+        },
+        "username": "ElberethXVIII",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-13T03:47:17.000Z",
+        "description": "Zhi Wei｜男的 & 未翻车 & 不是男娘永不女装｜好无聊但什么都不想干｜浙江穷入 & 欢迎来找我玩",
+        "id": "1690570637499154432",
+        "location": "🌏🌐",
+        "name": "我的浓痰有嚼劲",
+        "pinned_tweet_id": "1970838368197161412",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959236243205804032/-RNaW-TY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6104,
+          "following_count": 423,
+          "like_count": 33139,
+          "listed_count": 16,
+          "media_count": 1967,
+          "tweet_count": 17887
+        },
+        "username": "saonanaa",
+        "verified": true
+      }
+    ]
+  }
+}

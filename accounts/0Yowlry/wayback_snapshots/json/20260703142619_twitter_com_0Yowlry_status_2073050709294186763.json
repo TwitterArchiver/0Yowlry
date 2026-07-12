@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2072645278977732735",
+    "created_at": "2026-07-03T14:26:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T15:26:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073050709294186763"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1444640763070005251",
+          "start": 0,
+          "username": "hq_chihiro"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073050709294186763",
+    "in_reply_to_user_id": "1444640763070005251",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2072645278977732735",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hq_chihiro 😨😨😨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2072645278977732735",
+        "created_at": "2026-07-03T14:26:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T15:26:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073050709294186763"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1444640763070005251",
+              "start": 0,
+              "username": "hq_chihiro"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073050709294186763",
+        "in_reply_to_user_id": "1444640763070005251",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2072645278977732735",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hq_chihiro 😨😨😨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1444640763070005251",
+        "conversation_id": "2072645278977732735",
+        "created_at": "2026-07-02T11:35:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-02T12:35:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2072645278977732735"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2072645278977732735",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 544,
+          "like_count": 14,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "尼泊尔竟然有3000万人口？？？？？\n真的不知道，我以为最多三百万呢ww"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶\n\nAnime | Minecraft | Aerospace | Girls Band | Game | Journey | Natural Science",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2165,
+          "following_count": 3228,
+          "like_count": 43794,
+          "listed_count": 10,
+          "media_count": 373,
+          "tweet_count": 13654
+        },
+        "url": "",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2021-10-03T12:29:42.000Z",
+        "description": "春雨不眠隔夜的你曾空独眠的日子 ｜ 🇺🇦",
+        "id": "1444640763070005251",
+        "location": "Northeast China",
+        "name": "hqin",
+        "pinned_tweet_id": "2058842376219824535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072724966878113792/na_s50aj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1719,
+          "following_count": 1050,
+          "like_count": 17505,
+          "listed_count": 8,
+          "media_count": 564,
+          "tweet_count": 8382
+        },
+        "url": "",
+        "username": "hq_chihiro",
+        "verified": false
+      }
+    ]
+  }
+}

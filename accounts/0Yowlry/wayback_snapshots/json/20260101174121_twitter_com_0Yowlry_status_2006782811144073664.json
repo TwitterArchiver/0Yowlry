@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2006604285518487787",
+    "created_at": "2026-01-01T17:41:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-01T18:41:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2006782811144073664"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1965351173872820224",
+          "start": 0,
+          "username": "BT_7324"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2006782811144073664",
+    "in_reply_to_user_id": "1965351173872820224",
+    "lang": "und",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006604285518487787",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BT_7324 NB"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12250,
+        "height": 720,
+        "media_key": "13_2006603370338070533",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2006603370338070533/img/Vzb_fyAhDiNuHplv.jpg",
+        "public_metrics": {
+          "view_count": 221
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006603370338070533/vid/avc1/480x270/bqA_q8lS1Zb6SbeP.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006603370338070533/vid/avc1/640x360/skZw_cD6EN5QvmBx.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2006603370338070533/vid/avc1/1280x720/Qwk7GWrej0_tlwkl.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2006603370338070533/pl/q0XQGNKzNvLqAT3q.m3u8?tag=14"
+          }
+        ],
+        "width": 1280
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2006603742607781888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9jjePMbMAACx8U.jpg",
+        "width": 1246
+      },
+      {
+        "height": 1920,
+        "media_key": "3_2006603766058131456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9jjfmjbIAAPiR2.jpg",
+        "width": 1246
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2006604285518487787",
+        "created_at": "2026-01-01T17:41:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T18:41:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2006782811144073664"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1965351173872820224",
+              "start": 0,
+              "username": "BT_7324"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006782811144073664",
+        "in_reply_to_user_id": "1965351173872820224",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006604285518487787",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BT_7324 NB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2006603370338070533",
+            "3_2006603742607781888",
+            "3_2006603766058131456"
+          ]
+        },
+        "author_id": "1965351173872820224",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2006604285518487787",
+        "created_at": "2026-01-01T05:51:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-01T06:51:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006604285518487787"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/nmPtLC9qMk",
+              "end": 47,
+              "expanded_url": "https://x.com/BT_7324/status/2006604285518487787/video/1",
+              "media_key": "13_2006603370338070533",
+              "start": 24,
+              "url": "https://t.co/nmPtLC9qMk"
+            },
+            {
+              "display_url": "pic.x.com/nmPtLC9qMk",
+              "end": 47,
+              "expanded_url": "https://x.com/BT_7324/status/2006604285518487787/video/1",
+              "media_key": "3_2006603742607781888",
+              "start": 24,
+              "url": "https://t.co/nmPtLC9qMk"
+            },
+            {
+              "display_url": "pic.x.com/nmPtLC9qMk",
+              "end": 47,
+              "expanded_url": "https://x.com/BT_7324/status/2006604285518487787/video/1",
+              "media_key": "3_2006603766058131456",
+              "start": 24,
+              "url": "https://t.co/nmPtLC9qMk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006604285518487787",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 521,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "本来想憋个大的，发现工作量太大了，先发个预告( https://t.co/nmPtLC9qMk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1835,
+          "following_count": 2478,
+          "like_count": 22625,
+          "listed_count": 10,
+          "media_count": 314,
+          "tweet_count": 8737
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-09T09:47:06.000Z",
+        "description": "目标是掌握PBR全流程，学不成跳楼，\n(多软件学习中)能保证每周34小时学习时间\n(原创背景) 没回fo就是在建模。\n最近主要发记录贴，质量会很低\n丨2010.8.18",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/DeMusic7324/De…",
+                "end": 23,
+                "expanded_url": "https://github.com/DeMusic7324/Demonstrate-Music",
+                "start": 0,
+                "url": "https://t.co/1LfzF28XJl"
+              }
+            ]
+          }
+        },
+        "id": "1965351173872820224",
+        "location": "╭∩╮(￣▽￣)╭∩╮",
+        "name": "zzz",
+        "pinned_tweet_id": "1983193690924609876",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985252901594505216/5d7RL0mJ_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1505,
+          "following_count": 2111,
+          "like_count": 6685,
+          "listed_count": 3,
+          "media_count": 1432,
+          "tweet_count": 3952
+        },
+        "url": "https://t.co/1LfzF28XJl",
+        "username": "BT_7324",
+        "verified": false
+      }
+    ]
+  }
+}

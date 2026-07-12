@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1965079422840832279",
+    "created_at": "2025-09-08T16:31:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T17:31:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965090570977910899"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1693935285577670656",
+          "start": 0,
+          "username": "MinaseAyano"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965090570977910899",
+    "in_reply_to_user_id": "1693935285577670656",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965079422840832279",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MinaseAyano ☺️"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1965079422840832279].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1965079422840832279",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1965079422840832279"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1965079422840832279",
+        "created_at": "2025-09-08T16:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T17:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965090570977910899"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1693935285577670656",
+              "start": 0,
+              "username": "MinaseAyano"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965090570977910899",
+        "in_reply_to_user_id": "1693935285577670656",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965079422840832279",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MinaseAyano ☺️"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "TMTV",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960048268525858816/MjMpG-1y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1815,
+          "following_count": 2416,
+          "like_count": 18695,
+          "listed_count": 10,
+          "media_count": 303,
+          "tweet_count": 7641
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-22T10:37:12.000Z",
+        "description": "🏳️‍⚧️MtF | 请看置顶推ε=ε=(ノ≧∇≦)ノ | 可以私信找我交换明信片～ | 里推@Yumo_1314 家猫@Fengran_Breanna | 换一个提问箱https://t.co/AZVtx8k4Ad",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "Yumo_1314"
+              },
+              {
+                "end": 76,
+                "start": 60,
+                "username": "Fengran_Breanna"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/minaseayano1",
+                "end": 108,
+                "expanded_url": "http://ngl.link/minaseayano1",
+                "start": 85,
+                "url": "https://t.co/AZVtx8k4Ad"
+              }
+            ]
+          }
+        },
+        "id": "1693935285577670656",
+        "location": "前进一路六渡桥",
+        "name": "愛詩 綾乃🏳️‍⚧️",
+        "pinned_tweet_id": "1909517285662101999",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954839122214113280/bsQcMYOI_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2052,
+          "following_count": 2052,
+          "like_count": 7975,
+          "listed_count": 6,
+          "media_count": 703,
+          "tweet_count": 7847
+        },
+        "username": "MinaseAyano",
+        "verified": false
+      }
+    ]
+  }
+}

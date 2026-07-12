@@ -1,0 +1,330 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1835219694384742555",
+    "created_at": "2025-08-02T18:39:15.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T19:39:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951714427763617818"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1073978763434545152",
+          "start": 0,
+          "username": "sotr233"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951714427763617818",
+    "in_reply_to_user_id": "1073978763434545152",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1835219694384742555",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sotr233 现在还有吗）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1835219688508604418",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GXgClVJbwAI7LRv.jpg",
+        "width": 1152
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1835219694384742555",
+        "created_at": "2025-08-02T18:39:15.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T19:39:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951714427763617818"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1073978763434545152",
+              "start": 0,
+              "username": "sotr233"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951714427763617818",
+        "in_reply_to_user_id": "1073978763434545152",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1835219694384742555",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sotr233 现在还有吗）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1835219688508604418"
+          ]
+        },
+        "author_id": "1073978763434545152",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          }
+        ],
+        "conversation_id": "1835219694384742555",
+        "created_at": "2024-09-15T07:30:46.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-15T08:30:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1835219694384742555"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DD0MJutRKY",
+              "end": 166,
+              "expanded_url": "https://x.com/sotr233/status/1835219694384742555/photo/1",
+              "media_key": "3_1835219688508604418",
+              "start": 143,
+              "url": "https://t.co/DD0MJutRKY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1835219694384742555",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 7934,
+          "like_count": 34,
+          "quote_count": 4,
+          "reply_count": 6,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "推上如果有玩Minecraft的小伙伴欢迎来我开的服务器玩呀～\n\n以下是介绍\n\niMinecraft原版生存，本周目刚刚开始一个星期，是开荒的大好时机 (ゝω・´★)\n\n这里是自由的世界，没有各种限制，可以任意发挥创意，纯公益服没有氪金和特权\n\n欢迎加入我们轻松氛围的社区一起ゆるゆる https://t.co/DD0MJutRKY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "Yowlry",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900279853762392066/nf5oFqCF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1792,
+          "following_count": 2382,
+          "like_count": 17516,
+          "listed_count": 6,
+          "media_count": 292,
+          "tweet_count": 7150
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2018-12-15T16:31:05.000Z",
+        "description": "Stray birds of summer come to my window to sing and fly away / Blockchain & UI developer\n\n🌠 @Tsezzz",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 92,
+                "username": "Tsezzz"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kira.moe",
+                "end": 23,
+                "expanded_url": "http://kira.moe",
+                "start": 0,
+                "url": "https://t.co/sPyKfPWEIZ"
+              }
+            ]
+          }
+        },
+        "id": "1073978763434545152",
+        "location": "白沙地",
+        "name": "Sotr",
+        "pinned_tweet_id": "1950457841137188961",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1949766318313689088/tUpZiDOg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 907,
+          "following_count": 1549,
+          "like_count": 53185,
+          "listed_count": 8,
+          "media_count": 688,
+          "tweet_count": 3515
+        },
+        "url": "https://t.co/sPyKfPWEIZ",
+        "username": "sotr233",
+        "verified": false
+      }
+    ]
+  }
+}

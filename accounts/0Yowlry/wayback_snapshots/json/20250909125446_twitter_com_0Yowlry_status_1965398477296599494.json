@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1965002019477115254",
+    "created_at": "2025-09-09T12:54:46.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-09T13:54:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965398477296599494"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1905180625981890560",
+          "start": 0,
+          "username": "MyMikuRomance"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965398477296599494",
+    "in_reply_to_user_id": "1905180625981890560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1965002019477115254",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MyMikuRomance 诺贝尔美食奖"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1965002019477115254].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1965002019477115254",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1965002019477115254"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1965002019477115254",
+        "created_at": "2025-09-09T12:54:46.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-09T13:54:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965398477296599494"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1905180625981890560",
+              "start": 0,
+              "username": "MyMikuRomance"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965398477296599494",
+        "in_reply_to_user_id": "1905180625981890560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1965002019477115254",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MyMikuRomance 诺贝尔美食奖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "TMTV",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960048268525858816/MjMpG-1y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1815,
+          "following_count": 2417,
+          "like_count": 18700,
+          "listed_count": 10,
+          "media_count": 303,
+          "tweet_count": 7648
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-27T08:51:21.000Z",
+        "description": "𝖕𝖚𝖑𝖑 ------ 𝖍𝖆𝖗𝖉𝖊𝖗 ------- 𝖘𝖙𝖗𝖎𝖓𝖌𝖘 ---- 𝖒𝖆𝖗𝖙𝖞𝖗 \n\n𝖘𝖙𝖔𝖕 ------ 𝖞𝖔𝖚𝖗 𝖈𝖗𝖞 ----- 𝖙𝖍𝖆𝖙'𝖘 ------ 𝖆 𝓛𝓘𝓔",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "973-eht-namuh-973.com",
+                "end": 23,
+                "expanded_url": "https://973-eht-namuh-973.com/",
+                "start": 0,
+                "url": "https://t.co/OQUkpqto2C"
+              }
+            ]
+          }
+        },
+        "id": "1905180625981890560",
+        "location": "in your wifi",
+        "name": "໊",
+        "pinned_tweet_id": "1964292339893227904",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965387369118629888/1MELPIGS_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 577,
+          "following_count": 1625,
+          "like_count": 50229,
+          "listed_count": 3,
+          "media_count": 948,
+          "tweet_count": 9421
+        },
+        "url": "https://t.co/OQUkpqto2C",
+        "username": "MyMikuRomance",
+        "verified": false
+      }
+    ]
+  }
+}

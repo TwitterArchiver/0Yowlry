@@ -1,0 +1,235 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2053349748128772191",
+    "created_at": "2026-05-12T18:04:19.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-12T19:04:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2054261402060362170"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1996134579170947072",
+          "start": 0,
+          "username": "ch3coohofHastur"
+        },
+        {
+          "end": 27,
+          "id": "1306129238827778048",
+          "start": 17,
+          "username": "YukinonCC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2054261402060362170",
+    "in_reply_to_user_id": "1996134579170947072",
+    "lang": "et",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2053848118261907719",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ch3coohofHastur @YukinonCC 加不加我BHJASGFYUEKDFHUADVBBHAKDFJNIKWYBJFHSVDNJKGNBVKSJDCOAHDBKJZVNH KBFSKZDJHFSNFCKRYEKUEIURJDCN,BVHWGERUKIQRKJVSBGFIKWHOJFKLVHBUIEWHFOAJCVKJSHFWUDLSANVJHWKEAUHJEOQWUTIUGVBALNKDCMZJHAOIEDBFJNCDJANCSFIANCKJDHWWJOQMCKNVFHRHIQOQWEUITHKJBSVJKCSBVIWHOIAFODIAUNCHKVBCCHKSFDBCISUSKAJ()"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2053848118261907719].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2053848118261907719",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2053848118261907719"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2053349748128772191",
+        "created_at": "2026-05-12T18:04:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-12T19:04:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2054261402060362170"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1996134579170947072",
+              "start": 0,
+              "username": "ch3coohofHastur"
+            },
+            {
+              "end": 27,
+              "id": "1306129238827778048",
+              "start": 17,
+              "username": "YukinonCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2054261402060362170",
+        "in_reply_to_user_id": "1996134579170947072",
+        "lang": "et",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2053848118261907719",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ch3coohofHastur @YukinonCC 加不加我BHJASGFYUEKDFHUADVBBHAKDFJNIKWYBJFHSVDNJKGNBVKSJDCOAHDBKJZVNH KBFSKZDJHFSNFCKRYEKUEIURJDCN,BVHWGERUKIQRKJVSBGFIKWHOJFKLVHBUIEWHFOAJCVKJSHFWUDLSANVJHWKEAUHJEOQWUTIUGVBALNKDCMZJHAOIEDBFJNCDJANCSFIANCKJDHWWJOQMCKNVFHRHIQOQWEUITHKJBSVJKCSBVIWHOIAFODIAUNCHKVBCCHKSFDBCISUSKAJ()"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2013,
+          "following_count": 2835,
+          "like_count": 32233,
+          "listed_count": 10,
+          "media_count": 337,
+          "tweet_count": 10945
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-03T08:29:34.000Z",
+        "description": "何日桑田具變了，不叫伊水向東流",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "google.com.au",
+                "end": 23,
+                "expanded_url": "http://google.com.au",
+                "start": 0,
+                "url": "https://t.co/0hJxXXftlE"
+              }
+            ]
+          }
+        },
+        "id": "1996134579170947072",
+        "location": "Canton-Erxian Island",
+        "name": "𝓗𝓸𝓼𝓽𝓰𝓪𝓻₃ 𝓝𝔂𝓪𝓻𝓼 🌹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011059636653473798/rT-1WVRQ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 103,
+          "following_count": 137,
+          "like_count": 3590,
+          "listed_count": 0,
+          "media_count": 16,
+          "tweet_count": 205
+        },
+        "url": "https://t.co/0hJxXXftlE",
+        "username": "ch3coohofHastur",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-16T07:14:21.000Z",
+        "description": "🐧人間になりたいですわ | 💫ℙ𝕖𝕣 𝕒𝕤𝕡𝕖𝕣𝕒 𝕒𝕕 𝕒𝕤𝕥𝕣𝕒 🌠|🚪：𝟭𝘽𝙏𝘾｜欢迎找我来问匿名问题https://t.co/jmSdkECPE6｜个人网站装修中https://t.co/tKjbdA0r6m",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yukinoncc",
+                "end": 77,
+                "expanded_url": "https://ngl.link/yukinoncc",
+                "start": 54,
+                "url": "https://t.co/jmSdkECPE6"
+              },
+              {
+                "display_url": "superchat.moe",
+                "end": 108,
+                "expanded_url": "https://www.superchat.moe",
+                "start": 85,
+                "url": "https://t.co/tKjbdA0r6m"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "superchat.moe",
+                "end": 23,
+                "expanded_url": "https://www.superchat.moe",
+                "start": 0,
+                "url": "https://t.co/tKjbdA0r6m"
+              }
+            ]
+          }
+        },
+        "id": "1306129238827778048",
+        "location": "ワンピンナンルー600号より脱走中",
+        "name": "ユキ🎀",
+        "pinned_tweet_id": "2053349748128772191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036544477750534144/nGFWjjWa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1407,
+          "following_count": 656,
+          "like_count": 15052,
+          "listed_count": 2,
+          "media_count": 470,
+          "tweet_count": 3525
+        },
+        "url": "https://t.co/tKjbdA0r6m",
+        "username": "YukinonCC",
+        "verified": false
+      }
+    ]
+  }
+}

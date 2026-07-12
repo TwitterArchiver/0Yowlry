@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1907846041032077774",
+    "created_at": "2025-07-14T08:08:50.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T09:08:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944670410081276325"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1901858008210219008",
+          "start": 0,
+          "username": "shimokita_1204"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944670410081276325",
+    "in_reply_to_user_id": "1901858008210219008",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1907846041032077774",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shimokita_1204 yeah"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1907846041032077774",
+        "created_at": "2025-07-14T08:08:50.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T09:08:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944670410081276325"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1901858008210219008",
+              "start": 0,
+              "username": "shimokita_1204"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944670410081276325",
+        "in_reply_to_user_id": "1901858008210219008",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1907846041032077774",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shimokita_1204 yeah"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1901858008210219008",
+        "conversation_id": "1907846041032077774",
+        "created_at": "2025-04-03T17:21:56.000Z",
+        "edit_controls": {
+          "editable_until": "2025-04-03T18:21:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1907846041032077774"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1907846041032077774",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3509,
+          "like_count": 27,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我想结束的是痛苦，不是生命。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "Yowlry",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900279853762392066/nf5oFqCF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 2298,
+          "like_count": 16018,
+          "listed_count": 6,
+          "media_count": 288,
+          "tweet_count": 6374
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-18T04:47:49.000Z",
+        "description": "生理女非二元（？）/有对象了/无自杀倾向 有负能/会ban看黄推/互fo请私信",
+        "id": "1901858008210219008",
+        "name": "下北（可以找我互fo）",
+        "pinned_tweet_id": "1907846041032077774",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934281224664854530/HfbmeSbs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 275,
+          "following_count": 241,
+          "like_count": 1075,
+          "listed_count": 0,
+          "media_count": 171,
+          "tweet_count": 1105
+        },
+        "username": "shimokita_1204",
+        "verified": false
+      }
+    ]
+  }
+}

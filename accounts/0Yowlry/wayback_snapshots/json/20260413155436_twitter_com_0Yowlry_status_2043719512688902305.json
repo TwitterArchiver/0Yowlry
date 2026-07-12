@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1770377300913401941",
+    "created_at": "2026-04-13T15:54:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-13T16:54:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043719512688902305"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1528798633168347137",
+          "start": 0,
+          "username": "TomoriNao2022"
+        },
+        {
+          "end": 28,
+          "id": "1611344351313154049",
+          "start": 15,
+          "username": "hihikariyuna"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043719512688902305",
+    "in_reply_to_user_id": "1528798633168347137",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1770378464602046973",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TomoriNao2022 @hihikariyuna 但是好像是在日本上的高中"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [hihikariyuna].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "hihikariyuna",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "hihikariyuna"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1770377300913401941",
+        "created_at": "2026-04-13T15:54:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-13T16:54:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043719512688902305"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1528798633168347137",
+              "start": 0,
+              "username": "TomoriNao2022"
+            },
+            {
+              "end": 28,
+              "id": "1611344351313154049",
+              "start": 15,
+              "username": "hihikariyuna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043719512688902305",
+        "in_reply_to_user_id": "1528798633168347137",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1770378464602046973",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TomoriNao2022 @hihikariyuna 但是好像是在日本上的高中"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1528798633168347137",
+        "conversation_id": "1770377300913401941",
+        "created_at": "2024-03-20T09:14:52.000Z",
+        "edit_controls": {
+          "editable_until": "2024-03-20T10:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1770378464602046973"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1611344351313154049",
+              "start": 0,
+              "username": "hihikariyuna"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1770378464602046973",
+        "in_reply_to_user_id": "1611344351313154049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 706,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1770378402958389532",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hihikariyuna 还没"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1886,
+          "following_count": 2643,
+          "like_count": 27796,
+          "listed_count": 11,
+          "media_count": 327,
+          "tweet_count": 9820
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2022-05-23T18:04:26.000Z",
+        "description": "この世の因果を・・・断ち切る！",
+        "id": "1528798633168347137",
+        "location": "神奈川県",
+        "name": "なおNaO",
+        "pinned_tweet_id": "1894341414131306854",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1930261843559493635/CPcTKpRd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16166,
+          "following_count": 534,
+          "like_count": 10617,
+          "listed_count": 59,
+          "media_count": 2381,
+          "tweet_count": 10112
+        },
+        "username": "TomoriNao2022",
+        "verified": true
+      }
+    ]
+  }
+}

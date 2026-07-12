@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2057088284178940024",
+    "created_at": "2026-05-21T17:07:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-21T18:07:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057508656263160210"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1910325057387380736",
+          "start": 0,
+          "username": "nicaiawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057508656263160210",
+    "in_reply_to_user_id": "1910325057387380736",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057088284178940024",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nicaiawa 🥳🥳🥳"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2057088284178940024",
+        "created_at": "2026-05-21T17:07:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-21T18:07:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057508656263160210"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1910325057387380736",
+              "start": 0,
+              "username": "nicaiawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057508656263160210",
+        "in_reply_to_user_id": "1910325057387380736",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057088284178940024",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nicaiawa 🥳🥳🥳"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910325057387380736",
+        "conversation_id": "2057088284178940024",
+        "created_at": "2026-05-20T13:17:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T14:17:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2057088284178940024"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2057088284178940024",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 821,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "昨天我生日\n但是我梯子坏了然后忘记上推戳气球了😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2041,
+          "following_count": 2874,
+          "like_count": 33613,
+          "listed_count": 10,
+          "media_count": 342,
+          "tweet_count": 11257
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-10T13:32:52.000Z",
+        "description": "MC Hacker/刷机/maimaiDX/ 不聊政/友跨/会Python和一点cpp/曾经吃糖(？",
+        "id": "1910325057387380736",
+        "location": "布吉岛",
+        "name": "你猜awa",
+        "pinned_tweet_id": "2001316669642199464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046595416989519872/Zq2tWhma_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 972,
+          "like_count": 5557,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 437
+        },
+        "username": "nicaiawa",
+        "verified": false
+      }
+    ]
+  }
+}

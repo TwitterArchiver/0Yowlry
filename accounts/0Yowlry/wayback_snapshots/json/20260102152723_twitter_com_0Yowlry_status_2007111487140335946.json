@@ -1,0 +1,377 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2004399929012506625"
+      ],
+      "media_source_tweet_id": [
+        "2006379827893321936"
+      ]
+    },
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "This entity includes all conversations for New Years Eve for all years.",
+          "id": "1319305164751163393",
+          "name": "New Years Eve"
+        }
+      }
+    ],
+    "conversation_id": "2007111487140335946",
+    "created_at": "2026-01-02T15:27:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-02T16:27:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2007111487140335946"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 56,
+          "start": 51,
+          "tag": "ガルクラ"
+        },
+        {
+          "end": 60,
+          "start": 57,
+          "tag": "午年"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1646013705874976768",
+          "start": 3,
+          "username": "girlsbandcry"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Trwml020fa",
+          "end": 84,
+          "expanded_url": "https://x.com/girlsbandcry/status/2006379827893321936/photo/1",
+          "media_key": "3_2004399929012506625",
+          "start": 61,
+          "url": "https://t.co/Trwml020fa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2007111487140335946",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 6591
+    },
+    "referenced_tweets": [
+      {
+        "id": "2006379827893321936",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @girlsbandcry: あけましておめでとうございます🎍\n今年もよろしくお願いします🐎\n\n#ガルクラ #午年 https://t.co/Trwml020fa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 672,
+        "media_key": "3_2004399929012506625",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G9EPHZyb0AEJt5v.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004399929012506625"
+          ],
+          "media_source_tweet_id": [
+            "2006379827893321936"
+          ]
+        },
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          }
+        ],
+        "conversation_id": "2007111487140335946",
+        "created_at": "2026-01-02T15:27:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-02T16:27:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2007111487140335946"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 56,
+              "start": 51,
+              "tag": "ガルクラ"
+            },
+            {
+              "end": 60,
+              "start": 57,
+              "tag": "午年"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1646013705874976768",
+              "start": 3,
+              "username": "girlsbandcry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Trwml020fa",
+              "end": 84,
+              "expanded_url": "https://x.com/girlsbandcry/status/2006379827893321936/photo/1",
+              "media_key": "3_2004399929012506625",
+              "start": 61,
+              "url": "https://t.co/Trwml020fa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2007111487140335946",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 6591
+        },
+        "referenced_tweets": [
+          {
+            "id": "2006379827893321936",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @girlsbandcry: あけましておめでとうございます🎍\n今年もよろしくお願いします🐎\n\n#ガルクラ #午年 https://t.co/Trwml020fa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2004399929012506625"
+          ]
+        },
+        "author_id": "1646013705874976768",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          }
+        ],
+        "conversation_id": "2006379827893321936",
+        "created_at": "2025-12-31T15:00:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-31T16:00:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2006379827893321936"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 38,
+              "start": 33,
+              "tag": "ガルクラ"
+            },
+            {
+              "end": 42,
+              "start": 39,
+              "tag": "午年"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Trwml020fa",
+              "end": 66,
+              "expanded_url": "https://x.com/girlsbandcry/status/2006379827893321936/photo/1",
+              "media_key": "3_2004399929012506625",
+              "start": 43,
+              "url": "https://t.co/Trwml020fa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2006379827893321936",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1282,
+          "impression_count": 389559,
+          "like_count": 26829,
+          "quote_count": 91,
+          "reply_count": 100,
+          "retweet_count": 6591
+        },
+        "reply_settings": "everyone",
+        "text": "あけましておめでとうございます🎍\n今年もよろしくお願いします🐎\n\n#ガルクラ #午年 https://t.co/Trwml020fa"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1834,
+          "following_count": 2479,
+          "like_count": 22691,
+          "listed_count": 10,
+          "media_count": 314,
+          "tweet_count": 8752
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-12T04:53:52.000Z",
+        "description": "オリジナルアニメ『ガールズバンドクライ』公式アカウント\n各サービスにて全話配信中！劇場版総集編 前編・後編 製作決定！\n前編：10月3日(金)、後編：11月14日(金)公開！\n推奨ハッシュタグ： #ガルクラ #トゲナシトゲアリ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 103,
+                "start": 98,
+                "tag": "ガルクラ"
+              },
+              {
+                "end": 113,
+                "start": 104,
+                "tag": "トゲナシトゲアリ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "girls-band-cry.com",
+                "end": 23,
+                "expanded_url": "https://girls-band-cry.com/",
+                "start": 0,
+                "url": "https://t.co/HKW89YsJ1J"
+              }
+            ]
+          }
+        },
+        "id": "1646013705874976768",
+        "name": "アニメ『ガールズバンドクライ』公式",
+        "pinned_tweet_id": "1989106000100733187",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1741475331314536448/-CMk_tHF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 243636,
+          "following_count": 30,
+          "like_count": 3311,
+          "listed_count": 892,
+          "media_count": 2341,
+          "tweet_count": 5716
+        },
+        "url": "https://t.co/HKW89YsJ1J",
+        "username": "girlsbandcry",
+        "verified": true
+      }
+    ]
+  }
+}

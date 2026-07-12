@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1964725118585934320",
+    "created_at": "2025-09-08T10:41:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-08T11:41:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1965002446629163478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1835632340388950016",
+          "start": 0,
+          "username": "Stupid_yao112"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1965002446629163478",
+    "in_reply_to_user_id": "1835632340388950016",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1964725118585934320",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Stupid_yao112 生日快乐"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1964725118585934320",
+        "created_at": "2025-09-08T10:41:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-08T11:41:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1965002446629163478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1835632340388950016",
+              "start": 0,
+              "username": "Stupid_yao112"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1965002446629163478",
+        "in_reply_to_user_id": "1835632340388950016",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1964725118585934320",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Stupid_yao112 生日快乐"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1835632340388950016",
+        "conversation_id": "1964725118585934320",
+        "created_at": "2025-09-07T16:19:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-07T17:19:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1964725118585934320"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1964725118585934320",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 71,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "才反应过来我已经22了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "TMTV",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960048268525858816/MjMpG-1y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1816,
+          "following_count": 2417,
+          "like_count": 18676,
+          "listed_count": 10,
+          "media_count": 303,
+          "tweet_count": 7633
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-16T10:50:40.000Z",
+        "description": "和我交流➡️知道了我为什么没朋友",
+        "id": "1835632340388950016",
+        "location": "Tokyo-to, Japan",
+        "name": "Stupid_YAO",
+        "pinned_tweet_id": "1958247399178297623",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948551460234690563/M8dzOUrb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 108,
+          "following_count": 328,
+          "like_count": 4950,
+          "listed_count": 1,
+          "media_count": 57,
+          "tweet_count": 1843
+        },
+        "username": "Stupid_yao112",
+        "verified": false
+      }
+    ]
+  }
+}

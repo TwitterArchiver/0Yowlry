@@ -1,0 +1,218 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1948785993974526044",
+    "created_at": "2025-10-05T07:16:29.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-05T08:16:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974735426058694780"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1713754542930796544",
+          "start": 0,
+          "username": "Da8liars_0806"
+        },
+        {
+          "end": 29,
+          "id": "1510461446693404673",
+          "start": 15,
+          "username": "WoodenWasReal"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974735426058694780",
+    "in_reply_to_user_id": "1713754542930796544",
+    "lang": "da",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1948809420659707947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Da8liars_0806 @WoodenWasReal HPBD!"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1948809420659707947].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1948809420659707947",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1948809420659707947"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1948785993974526044",
+        "created_at": "2025-10-05T07:16:29.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-05T08:16:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974735426058694780"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1713754542930796544",
+              "start": 0,
+              "username": "Da8liars_0806"
+            },
+            {
+              "end": 29,
+              "id": "1510461446693404673",
+              "start": 15,
+              "username": "WoodenWasReal"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974735426058694780",
+        "in_reply_to_user_id": "1713754542930796544",
+        "lang": "da",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1948809420659707947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Da8liars_0806 @WoodenWasReal HPBD!"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1834,
+          "following_count": 2447,
+          "like_count": 19726,
+          "listed_count": 9,
+          "media_count": 305,
+          "tweet_count": 7830
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-16T03:13:00.000Z",
+        "description": "顺直男 尸体级死宅 看各种番 音游 音乐 自由交流观点 观点无对错语言有高低 友跨友同 双向情感障碍+惊恐 我是伊甸，请多关照！台独，反穆斯林，右下派，泛支黑",
+        "id": "1713754542930796544",
+        "location": "the inbetween of the galaxies",
+        "name": "坂下 品武太",
+        "pinned_tweet_id": "1877731364088217651",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1952995804257632256/uADaVn_X_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 265,
+          "following_count": 1226,
+          "like_count": 35352,
+          "listed_count": 2,
+          "media_count": 137,
+          "tweet_count": 15304
+        },
+        "username": "Da8liars_0806",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-03T03:38:35.000Z",
+        "description": "Music Prod. 18\nPFP @57_dayo Banner @Mbyssmaw \nContact:TheRealWoodenGD@163.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "57_dayo"
+              },
+              {
+                "end": 44,
+                "start": 35,
+                "username": "Mbyssmaw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "soundcloud.com/woodenwasreal3…",
+                "end": 23,
+                "expanded_url": "http://soundcloud.com/woodenwasreal3489",
+                "start": 0,
+                "url": "https://t.co/PkW5e1tFgS"
+              }
+            ]
+          }
+        },
+        "id": "1510461446693404673",
+        "location": "At your future playlist",
+        "name": "𝘞𝘖𝘖𝘋𝘌𝘕♬☆²⁰²⁵",
+        "pinned_tweet_id": "1965152501017215114",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1962761194189791232/RxVyuXdo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4814,
+          "following_count": 1061,
+          "like_count": 37937,
+          "listed_count": 18,
+          "media_count": 1325,
+          "tweet_count": 6041
+        },
+        "url": "https://t.co/PkW5e1tFgS",
+        "username": "WoodenWasReal",
+        "verified": false
+      }
+    ]
+  }
+}

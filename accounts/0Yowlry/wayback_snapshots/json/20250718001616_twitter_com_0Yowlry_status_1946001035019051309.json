@@ -1,0 +1,203 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1945921898506006713",
+    "created_at": "2025-07-18T00:16:16.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-18T01:16:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1946001035019051309"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1490976522362302465",
+          "start": 0,
+          "username": "whyuounot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1946001035019051309",
+    "in_reply_to_user_id": "1490976522362302465",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 85,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945921898506006713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyuounot 这要是真招未成年我能去干（）"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1280,
+        "media_key": "3_1945921895980736512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GwFNp4qWIAA1dLJ.jpg",
+        "width": 843
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1945921898506006713",
+        "created_at": "2025-07-18T00:16:16.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-18T01:16:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1946001035019051309"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1490976522362302465",
+              "start": 0,
+              "username": "whyuounot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1946001035019051309",
+        "in_reply_to_user_id": "1490976522362302465",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 85,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945921898506006713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyuounot 这要是真招未成年我能去干（）"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1945921895980736512"
+          ]
+        },
+        "author_id": "1490976522362302465",
+        "conversation_id": "1945921898506006713",
+        "created_at": "2025-07-17T19:01:48.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-17T20:01:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1945921898506006713"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/KxhXDNMB3H",
+              "end": 29,
+              "expanded_url": "https://x.com/whyuounot/status/1945921898506006713/photo/1",
+              "media_key": "3_1945921895980736512",
+              "start": 6,
+              "url": "https://t.co/KxhXDNMB3H"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1945921898506006713",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2104,
+          "like_count": 47,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "找到工作了 https://t.co/KxhXDNMB3H"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "Yowlry",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900279853762392066/nf5oFqCF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1733,
+          "following_count": 2305,
+          "like_count": 16651,
+          "listed_count": 6,
+          "media_count": 289,
+          "tweet_count": 6738
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2022-02-08T09:11:27.000Z",
+        "description": "临场发挥第一名",
+        "id": "1490976522362302465",
+        "name": "蛋炒饭",
+        "pinned_tweet_id": "1939668050128908726",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927753690825510912/luz_DeSJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7303,
+          "following_count": 1165,
+          "like_count": 7997,
+          "listed_count": 13,
+          "media_count": 1981,
+          "tweet_count": 13756
+        },
+        "username": "whyuounot",
+        "verified": false
+      }
+    ]
+  }
+}

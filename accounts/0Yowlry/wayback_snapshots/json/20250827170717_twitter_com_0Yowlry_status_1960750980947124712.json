@@ -1,0 +1,157 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1959094959623332304",
+    "created_at": "2025-08-27T17:07:17.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-27T18:07:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960750980947124712"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1871016952506007552",
+          "start": 0,
+          "username": "Charming_xy04"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960750980947124712",
+    "in_reply_to_user_id": "1871016952506007552",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1960566587871912100",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Charming_xy04 现在知道是了"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1960566587871912100].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1960566587871912100",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1960566587871912100"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1959094959623332304",
+        "created_at": "2025-08-27T17:07:17.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-27T18:07:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960750980947124712"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1871016952506007552",
+              "start": 0,
+              "username": "Charming_xy04"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960750980947124712",
+        "in_reply_to_user_id": "1871016952506007552",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1960566587871912100",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Charming_xy04 现在知道是了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "TMTV",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960048268525858816/MjMpG-1y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1807,
+          "following_count": 2401,
+          "like_count": 18337,
+          "listed_count": 10,
+          "media_count": 301,
+          "tweet_count": 7498
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-23T02:16:36.000Z",
+        "description": "色をした星に問いかけている    \n\n手を取り合い愛し合えたら\n                                                                                         ついに叶わなかった夢を殺す",
+        "id": "1871016952506007552",
+        "name": "Mory小陌语",
+        "pinned_tweet_id": "1902435461932707861",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960658728153440256/pXPTye_Z_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 125,
+          "like_count": 810,
+          "listed_count": 1,
+          "media_count": 46,
+          "tweet_count": 217
+        },
+        "username": "Charming_xy04",
+        "verified": false
+      }
+    ]
+  }
+}

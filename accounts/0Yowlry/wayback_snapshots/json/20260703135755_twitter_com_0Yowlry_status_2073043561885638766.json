@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1929378910065868990",
+    "created_at": "2026-07-03T13:57:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-03T14:57:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2073043561885638766"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1894285195651813378",
+          "start": 0,
+          "username": "xiaozhuhua_tv"
+        },
+        {
+          "end": 25,
+          "id": "1855781466917228544",
+          "start": 15,
+          "username": "hy1194527"
+        },
+        {
+          "end": 42,
+          "id": "1868205822511288320",
+          "start": 26,
+          "username": "vicoOci_Olvidar"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2073043561885638766",
+    "in_reply_to_user_id": "1894285195651813378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1929396618610008171",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaozhuhua_tv @hy1194527 @vicoOci_Olvidar  你调教的🥵🥵🥵"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1929396618610008171].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1929396618610008171",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1929396618610008171"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1929378910065868990",
+        "created_at": "2026-07-03T13:57:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-03T14:57:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2073043561885638766"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1894285195651813378",
+              "start": 0,
+              "username": "xiaozhuhua_tv"
+            },
+            {
+              "end": 25,
+              "id": "1855781466917228544",
+              "start": 15,
+              "username": "hy1194527"
+            },
+            {
+              "end": 42,
+              "id": "1868205822511288320",
+              "start": 26,
+              "username": "vicoOci_Olvidar"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2073043561885638766",
+        "in_reply_to_user_id": "1894285195651813378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1929396618610008171",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaozhuhua_tv @hy1194527 @vicoOci_Olvidar  你调教的🥵🥵🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶\n\nAnime | Minecraft | Aerospace | Girls Band | Game | Journey | Natural Science",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2162,
+          "following_count": 3215,
+          "like_count": 43743,
+          "listed_count": 10,
+          "media_count": 373,
+          "tweet_count": 13638
+        },
+        "url": "",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T07:16:55.000Z",
+        "description": "喜欢《吹响吧！上低音号》的都是好孩子",
+        "id": "1894285195651813378",
+        "name": "小猪话TV",
+        "pinned_tweet_id": "2066908155901309411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065440742122872832/h7as0dJa_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1377,
+          "following_count": 1206,
+          "like_count": 13429,
+          "listed_count": 6,
+          "media_count": 119,
+          "tweet_count": 9394
+        },
+        "url": "",
+        "username": "xiaozhuhua_tv",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-11T01:16:04.000Z",
+        "description": "全网最尊重女性、跨畜和坂下六花的站街po主\n凌晨四点在 Valenkov站街\n@genya1976",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 49,
+                "start": 39,
+                "username": "genya1976"
+              }
+            ]
+          }
+        },
+        "id": "1855781466917228544",
+        "location": "Tallinn, Estonia",
+        "name": "Sparky Himlevich Shoemaker🇪🇪🇰🇿🇺🇿🇷🇺🇵🇱",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2034069755624042496/4TbkDc-u_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 151,
+          "following_count": 909,
+          "like_count": 22960,
+          "listed_count": 1,
+          "media_count": 207,
+          "tweet_count": 1255
+        },
+        "url": "",
+        "username": "hy1194527",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-15T08:06:14.000Z",
+        "description": "當我感到最幸福時會把五顆星星都塗滿★ ★ ★ ☆ ☆ ｜報警不如抱緊dd😋@D_D_ovO_｜cutie🌻：@saksamalah2nd｜v的媽媽們@misakinae8964 @rinko_zero8964｜歡迎視奸｜asd/gad｜我想成為你的翅膀",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 46,
+                "start": 37,
+                "username": "D_D_ovO_"
+              },
+              {
+                "end": 68,
+                "start": 54,
+                "username": "saksamalah2nd"
+              },
+              {
+                "end": 88,
+                "start": 74,
+                "username": "misakinae8964"
+              },
+              {
+                "end": 104,
+                "start": 89,
+                "username": "rinko_zero8964"
+              }
+            ]
+          }
+        },
+        "id": "1868205822511288320",
+        "location": "vico的羽毛",
+        "name": "💿胃口ol一串字母女士",
+        "pinned_tweet_id": "2065030827835289833",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067946652430934016/wQEKA11j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4663,
+          "following_count": 408,
+          "like_count": 25115,
+          "listed_count": 18,
+          "media_count": 1461,
+          "tweet_count": 18353
+        },
+        "url": "",
+        "username": "vicoOci_Olvidar",
+        "verified": false
+      }
+    ]
+  }
+}

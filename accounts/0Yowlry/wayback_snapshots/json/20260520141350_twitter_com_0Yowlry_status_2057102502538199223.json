@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2056426459464638780",
+    "created_at": "2026-05-20T14:13:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-20T15:13:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2057102502538199223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2049107398686826496",
+          "start": 0,
+          "username": "MikuMikuGOAT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2057102502538199223",
+    "in_reply_to_user_id": "2049107398686826496",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057100410587169129",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MikuMikuGOAT sexiest"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2056426459464638780",
+        "created_at": "2026-05-20T14:13:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:13:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057102502538199223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2049107398686826496",
+              "start": 0,
+              "username": "MikuMikuGOAT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057102502538199223",
+        "in_reply_to_user_id": "2049107398686826496",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057100410587169129",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MikuMikuGOAT sexiest"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2049107398686826496",
+        "conversation_id": "2056426459464638780",
+        "created_at": "2026-05-20T14:05:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-20T15:05:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2057100410587169129"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1839263401845075974",
+              "start": 0,
+              "username": "0Yowlry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2057100410587169129",
+        "in_reply_to_user_id": "1839263401845075974",
+        "lang": "und",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056426459464638780",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0Yowlry hi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2042,
+          "following_count": 2872,
+          "like_count": 33365,
+          "listed_count": 10,
+          "media_count": 342,
+          "tweet_count": 11212
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-28T12:44:27.000Z",
+        "description": "不要找我",
+        "id": "2049107398686826496",
+        "name": "不認識",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049107478055632896/tvPAehIk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 7,
+          "like_count": 28,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 1
+        },
+        "username": "MikuMikuGOAT",
+        "verified": false
+      }
+    ]
+  }
+}

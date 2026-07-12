@@ -1,0 +1,454 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "10043689888",
+          "name": "Minecraft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10043689888",
+          "name": "Minecraft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899619193749511",
+          "name": "Sandbox games"
+        }
+      }
+    ],
+    "conversation_id": "2065463208522154232",
+    "created_at": "2026-07-06T19:56:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T20:56:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074221057717023018"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2033160782687731712",
+          "start": 0,
+          "username": "Shioochic_Xyn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074221057717023018",
+    "in_reply_to_user_id": "2033160782687731712",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065463208522154232",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Shioochic_Xyn 我也想玩minecraft🥺🥺🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2065463197491146752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKn_1bcaMAAyEKl.jpg",
+        "width": 950
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          }
+        ],
+        "conversation_id": "2065463208522154232",
+        "created_at": "2026-07-06T19:56:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T20:56:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074221057717023018"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2033160782687731712",
+              "start": 0,
+              "username": "Shioochic_Xyn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074221057717023018",
+        "in_reply_to_user_id": "2033160782687731712",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065463208522154232",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Shioochic_Xyn 我也想玩minecraft🥺🥺🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065463197491146752"
+          ]
+        },
+        "author_id": "2033160782687731712",
+        "conversation_id": "2065463208522154232",
+        "created_at": "2026-06-12T15:56:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T16:56:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065463208522154232"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/s9cCyPQ0aC",
+              "end": 155,
+              "expanded_url": "https://x.com/Shioochic_Xyn/status/2065463208522154232/photo/1",
+              "media_key": "3_2065463197491146752",
+              "start": 132,
+              "url": "https://t.co/s9cCyPQ0aC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065463208522154232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "woc我刚刚登回了我第一个推特号啊啊啊啊\n回忆涌了上来，时间线终于复现在眼前\n\n2025.7.16 \n我走在七彩丹霞的岩面之上，槐安向我讨论着回家以后一起玩mc的事\n「你有没有玩过落幕曲？」\n我们正在等另一个同行的人从厕所里出来\n「呃…luo…mu……qu…？」\n我低头翻看着手机，劣质的vpn极其卡顿，使我只能边应付着回答，边不断划拉着手机屏幕，等待着私信加载出来\n「对啊落幕曲，你没玩过的话我们回去创个档玩」\n我抬头看向不远处，有家「德克士」。从前从来没见过，不知为何青海这边到处都是。\n我不断踱步，他也跟着我走\n我缩着一点害怕他看见\n「好的哦，一盒泰补+一盒老挝色」\n「235+310=543」\n信息终于加载了出来，发过来的付款二维码还在转圈\n我一下把半空中的手臂摆到裤缝侧线间，抬头看向他\n「嗯……我之前没怎么听过，里面有什么啊，没什么概念啊」\n我假装对他的话题燃起了兴趣\n「就是比较休闲类型的，有很多模组……有点难描述…我想想」\n我看了一眼手机，二维码终于加载了出来\n我把它截图下来，关掉了后台的vpn。\n「有很多啊～比如枪械啊～拔刀剑啊……看你喜欢玩什么」\n「诶拔刀剑好玩啊」\n我往手机按下了指纹，微信付款成功的页面弹了出来。\n余额还剩300多，会不会不够a呢\n「不过其实我比较喜欢生电多一点」\n诶…奶奶给我旅游的1000块钱就这样被我贪来干这个。\n「那我们可以玩机械动力啊，机械动力也好玩」\n心中那一丝是期待还是激动呢，美好的想象在我心中荡漾\n「嗯……也行」\n「诶！！！」\n出来了。\n「行，那走吧。」\n「诶！走啦！」\n我们四个人再次沿着景区的路往里走去。\n阴天，阴天。七彩丹霞的凸起的岩石黯淡无光，看起来只是一片土石色\n「真是可惜啊」\n几滴水落在一旁的栏杆上\n随后，淅淅沥沥的雨落了下来，砸在一望无际的岩面之上。岩面的颜色又更深了一些。\n\n2025.7.17\n博物馆\n「你买了什么」\n我爸突然问我\n「什么买了什么」\n我的心中闪过一丝不安\n爸爸的语气突然柔和了下来\n「来你老实告诉我，有什么事就说。我今天早上你没醒的时候，你手机一个电话打过来，我就接了，说是快递，我就让他放到家门口。现在家里收到一个快递，写着你的电话号码，你妈说是药啊」\n「什么药啊，我只买了一个耳机啊」\n「来你看你妈拍过来的，她说是什么雌激素类的药物，你为什么买这个药啊，是不是你买的啊」\n「不是我不知道啊，我就买了个耳机啊」\n我已经打开手机开始删付款记录，开始翻各个购物平台有没有什么蛛丝马迹\n我迈着显然有些急促的脚步沿着博物馆的游览路线往前走\n爸爸追过来，语气强硬了起来\n依旧是那几个问题\n「是不是你买的？」\n「你买来干什么，你吃吗，是不是你买来吃？」\n「就是你买的了，电话号码就写着你！你买来干什么」\n我的脚步愈加急了起来，但这样愈加令人生疑\n死马当活马医地下单了一个耳机\n「你自己看我购买记录，我没买过，我只买过一个耳机而已」\n我把手机递给他。四处划拉…四处划拉\n我死死地盯着他的手\n「你这个耳机，你这个耳机不是今天早上买的吗」\n意料之中。胸中仿佛有一处空腔，让大气压压进去。\n我不要了啊\n放过我吧放过我吧\n让我混过去让我混过去\n扔掉就放过我吧扔到就放过我吧\n开始我还是想啊…还是想啊\n他把购物平台和支付记录划拉了个遍\n「你看记录里都没有」\n他又划拉了两下，把手机还给了我\n「那不是你买的还能是谁买的」\n胸中的空腔仿佛充盈了一些\n「我怎么知道」\n我这样不断地否认着。\n终于同行的几人也决定出博物馆，我们这样跟着走出去\n「你是不是在网上搞什么东西，别人寄给你的」\n「我哪有搞什么东西，我都不知道这是什么」\n我们坐在博物馆外面的桌子上。同行的一人走了过来\n「干嘛啦干嘛啦，什么东西啊」\n「他啊，今天早上有个电话打过来说有快递是寄给他的。打开来是那种什么雌激素的药来的。他又说不知道没买过。不知道是不是有人恶搞乱寄的还是什么」\n「诶！你让她扔了吧」我趁机说\n「哈哈哈哈哈哈哈哈」\n和往常一样爽朗的笑声传来，和往常一样的调侃\n「哈哈哈哈你是不是月经不调」\n这时他突然停止笑声，假装一本正经\n「诶叔叔你不要这么凶他，他月经不调别人寄给吃的，我都知道咯」\n「操你妈」\n「哈哈哈哈哈哈哈」\n\n2025.7.20\n回到了家中\n「那个药是怎么回事啊，你要不要看一下」\n「都说不是我买的了，我都不知道是什么看来干嘛」\n「那我扔了啊」\n「诶扔了吧扔了吧」\n……\n……\n下午\n四下无人\n我来到了厨房的垃圾桶前\n快递盒子还在里面\n我小心翼翼地打开它，里面的两个药盒子还在\n我赶紧拿出了药盒，把快递盒像原本那样合上，放到了垃圾桶稍深的位置\n然后鬼鬼祟祟地跑回了房间\n我把门反锁上，两个药盒放在桌面，这样端详了一会\n要吃吗？\n我还是吃了\n一颗色一颗补\n我把药盒子放到了电吉他的琴包里。我觉得他们不会翻这里。\n\n这是第一次\n然后是\n2025.9.1 一盒泰补\n2025.11.21 一盒泰补\n\n私信记录停留在2025.11.21凌晨2:37。我手里的手机马上就要失去，这是最后一晚。卡顿的vpn久久才加载出来。\n这大概是我能维持的最后一盒\n我这样想着，把钱付了过去"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 7591,
+          "like_count": 31,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "woc我刚刚登回了我第一个推特号啊啊啊啊\n回忆涌了上来，时间线终于复现在眼前\n\n2025.7.16 \n我走在七彩丹霞的岩面之上，槐安向我讨论着回家以后一起玩mc的事\n「你有没有玩过落幕曲？」\n我们正在等另一个同行的人从厕所里出来\n「呃…luo…mu……qu…？」 https://t.co/s9cCyPQ0aC"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Aerospace | Girls Band | Game | Journey | Natural Science",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2197,
+          "following_count": 3294,
+          "like_count": 45289,
+          "listed_count": 10,
+          "media_count": 375,
+          "tweet_count": 14103
+        },
+        "url": "",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-15T12:38:12.000Z",
+        "description": "小证含糖半家长党｜生产日期 09 04 08｜hrt 25 07 20🍥｜小证 26 01 17｜ADHD｜choose life ?!｜抢🐔姐@hiotemaron41774｜友跨顺男@Whatasiger｜友男跨顺@WhitesugarC｜友情链接:https://t.co/iIABjp0PAw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 72,
+                "username": "hiotemaron41774"
+              },
+              {
+                "end": 104,
+                "start": 93,
+                "username": "Whatasiger"
+              },
+              {
+                "end": 121,
+                "start": 109,
+                "username": "WhitesugarC"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "whatasiger.xyz",
+                "end": 150,
+                "expanded_url": "https://whatasiger.xyz",
+                "start": 127,
+                "url": "https://t.co/iIABjp0PAw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/shioochic",
+                "end": 23,
+                "expanded_url": "https://ngl.link/shioochic",
+                "start": 0,
+                "url": "https://t.co/MWqehqtsm2"
+              }
+            ]
+          }
+        },
+        "id": "2033160782687731712",
+        "location": "广州",
+        "name": "汐落 shio",
+        "pinned_tweet_id": "2061461592559239417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2033161267213697024/nZfuP7C9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3823,
+          "following_count": 2004,
+          "like_count": 7605,
+          "listed_count": 6,
+          "media_count": 871,
+          "tweet_count": 5880
+        },
+        "url": "https://t.co/MWqehqtsm2",
+        "username": "Shioochic_Xyn",
+        "verified": true
+      }
+    ]
+  }
+}

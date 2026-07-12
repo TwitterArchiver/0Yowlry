@@ -1,0 +1,188 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2051226609399783550",
+    "created_at": "2026-05-04T17:03:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-04T18:03:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051347097862255006"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1724096694885949440",
+          "start": 0,
+          "username": "_bt117"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051347097862255006",
+    "in_reply_to_user_id": "1724096694885949440",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2051226609399783550",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_bt117 🤔👀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2051226609399783550",
+        "created_at": "2026-05-04T17:03:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T18:03:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051347097862255006"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1724096694885949440",
+              "start": 0,
+              "username": "_bt117"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051347097862255006",
+        "in_reply_to_user_id": "1724096694885949440",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2051226609399783550",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_bt117 🤔👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1724096694885949440",
+        "conversation_id": "2051226609399783550",
+        "created_at": "2026-05-04T09:05:08.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-04T10:05:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2051226609399783550"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2051226609399783550",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 262,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "大家好 一年多没见 \n这边准备清理一下死推空推\n如有误删请重追哦～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1963,
+          "following_count": 2766,
+          "like_count": 30232,
+          "listed_count": 10,
+          "media_count": 335,
+          "tweet_count": 10426
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-13T16:07:54.000Z",
+        "description": "此号目前不活跃 \n里 @krzt117",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 11,
+                "username": "krzt117"
+              }
+            ]
+          }
+        },
+        "id": "1724096694885949440",
+        "name": "冰糖_",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1953164616667938816/3nwY_nz8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 398,
+          "following_count": 699,
+          "like_count": 5648,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 4
+        },
+        "username": "_bt117",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2056568862133424388",
+    "created_at": "2026-05-19T08:22:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-19T09:22:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2056651767753080894"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1227265979735887874",
+          "start": 0,
+          "username": "LuminaFable2020"
+        },
+        {
+          "end": 28,
+          "id": "2029061443568713731",
+          "start": 17,
+          "username": "maoxianACT"
+        },
+        {
+          "end": 41,
+          "id": "1929416262989557760",
+          "start": 29,
+          "username": "maoxian1527"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2056651767753080894",
+    "in_reply_to_user_id": "1227265979735887874",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2056593378012520461",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@LuminaFable2020 @maoxianACT @maoxian1527 马斯克用机器人大规模无缘无故kill真人是想干啥"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [maoxian1527].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "maoxian1527",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "maoxian1527"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2056568862133424388",
+        "created_at": "2026-05-19T08:22:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T09:22:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056651767753080894"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1227265979735887874",
+              "start": 0,
+              "username": "LuminaFable2020"
+            },
+            {
+              "end": 28,
+              "id": "2029061443568713731",
+              "start": 17,
+              "username": "maoxianACT"
+            },
+            {
+              "end": 41,
+              "id": "1929416262989557760",
+              "start": 29,
+              "username": "maoxian1527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056651767753080894",
+        "in_reply_to_user_id": "1227265979735887874",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056593378012520461",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@LuminaFable2020 @maoxianACT @maoxian1527 马斯克用机器人大规模无缘无故kill真人是想干啥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1227265979735887874",
+        "conversation_id": "2056568862133424388",
+        "created_at": "2026-05-19T04:30:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-19T05:30:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2056593378012520461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2029061443568713731",
+              "start": 0,
+              "username": "maoxianACT"
+            },
+            {
+              "end": 24,
+              "id": "1929416262989557760",
+              "start": 12,
+              "username": "maoxian1527"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2056593378012520461",
+        "in_reply_to_user_id": "2029061443568713731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 40,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2056576659487146423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@maoxianACT @maoxian1527 我连申诉都不行 \n都提交不上去"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2029,
+          "following_count": 2857,
+          "like_count": 32915,
+          "listed_count": 10,
+          "media_count": 342,
+          "tweet_count": 11113
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2020-02-11T16:19:55.000Z",
+        "description": "社恐一枚 喜欢coding和旅游  前世@frankshiki73  目标是成为可爱的自己",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 33,
+                "start": 20,
+                "username": "frankshiki73"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LuminaSaki",
+                "end": 23,
+                "expanded_url": "https://t.me/LuminaSaki",
+                "start": 0,
+                "url": "https://t.co/tXNFqGvWTa"
+              }
+            ]
+          }
+        },
+        "id": "1227265979735887874",
+        "location": "Changsha",
+        "name": "LuminaSaki",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2055610164711985152/Dga6BtlV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44,
+          "following_count": 36,
+          "like_count": 121,
+          "listed_count": 1,
+          "media_count": 22,
+          "tweet_count": 108
+        },
+        "url": "https://t.co/tXNFqGvWTa",
+        "username": "LuminaFable2020",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | kitty live system | 碎碎念| 看心情互fo | 我很刻薄，觉得我恶心的就把我b了 | 学习平面设计中 | 摄影© | 墙内外同名 | 姐姐@OuO_QwQg | 对象@Meph4786 | 閨蜜@tangeorange @Wilf_Lin",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 106,
+                "start": 97,
+                "username": "OuO_QwQg"
+              },
+              {
+                "end": 120,
+                "start": 111,
+                "username": "Meph4786"
+              },
+              {
+                "end": 137,
+                "start": 125,
+                "username": "tangeorange"
+              },
+              {
+                "end": 147,
+                "start": 138,
+                "username": "Wilf_Lin"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "距离你13.14km",
+        "name": "猫弦ACT🍥🍣🍧🥛🍜",
+        "pinned_tweet_id": "2056568862133424388",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029061783508652032/3ACAbPrx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 318,
+          "following_count": 41,
+          "like_count": 93,
+          "listed_count": 2,
+          "media_count": 47,
+          "tweet_count": 141
+        },
+        "username": "maoxianACT",
+        "verified": false
+      }
+    ]
+  }
+}

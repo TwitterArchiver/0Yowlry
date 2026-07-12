@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544337360801792",
+          "name": "Esports"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Newbee (eSports)",
+          "id": "871537850495377408",
+          "name": "Newbee"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1272667111932878848",
+          "name": "Esports teams"
+        }
+      },
+      {
+        "domain": {
+          "description": "An electronic sports team like Optic Gaming",
+          "id": "137",
+          "name": "Esports Team"
+        },
+        "entity": {
+          "description": "Newbee (eSports)",
+          "id": "871537850495377408",
+          "name": "Newbee"
+        }
+      }
+    ],
+    "conversation_id": "1987554619481039093",
+    "created_at": "2025-11-11T14:00:32.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T15:00:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988245460025516474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1977749725014302720",
+          "start": 0,
+          "username": "Yvonne1351400"
+        },
+        {
+          "end": 25,
+          "id": "964534819664289792",
+          "start": 15,
+          "username": "SujitGund"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988245460025516474",
+    "in_reply_to_user_id": "1977749725014302720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1987842479916544296",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yvonne1351400 @SujitGund woc这么newbee，不过都能过雅思了居然还会很多看不懂？"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544337360801792",
+              "name": "Esports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Newbee (eSports)",
+              "id": "871537850495377408",
+              "name": "Newbee"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1272667111932878848",
+              "name": "Esports teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "An electronic sports team like Optic Gaming",
+              "id": "137",
+              "name": "Esports Team"
+            },
+            "entity": {
+              "description": "Newbee (eSports)",
+              "id": "871537850495377408",
+              "name": "Newbee"
+            }
+          }
+        ],
+        "conversation_id": "1987554619481039093",
+        "created_at": "2025-11-11T14:00:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T15:00:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988245460025516474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1977749725014302720",
+              "start": 0,
+              "username": "Yvonne1351400"
+            },
+            {
+              "end": 25,
+              "id": "964534819664289792",
+              "start": 15,
+              "username": "SujitGund"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988245460025516474",
+        "in_reply_to_user_id": "1977749725014302720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987842479916544296",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yvonne1351400 @SujitGund woc这么newbee，不过都能过雅思了居然还会很多看不懂？"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1977749725014302720",
+        "conversation_id": "1987554619481039093",
+        "created_at": "2025-11-10T11:19:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-10T12:19:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1987842479916544296"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "964534819664289792",
+              "start": 0,
+              "username": "SujitGund"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1987842479916544296",
+        "in_reply_to_user_id": "964534819664289792",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5485,
+          "like_count": 25,
+          "quote_count": 0,
+          "reply_count": 15,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1987554619481039093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SujitGund 就是这样的我江苏上学 高考英语144/150，雅思8 刚到英国的时候很多都看不懂，听也听不懂说也不会说，去超市买东西也不知道东西是什么🤔"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している\n\n@rosmarinou\n\nWE ARE ALWAYS WITH YOU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "rosmarinou"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1874,
+          "following_count": 2528,
+          "like_count": 22551,
+          "listed_count": 10,
+          "media_count": 315,
+          "tweet_count": 8640
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-13T14:54:22.000Z",
+        "description": "",
+        "id": "1977749725014302720",
+        "name": "Yvonne",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1977750117387022336/48SlLovc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 46,
+          "like_count": 71,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 12
+        },
+        "username": "Yvonne1351400",
+        "verified": false
+      },
+      {
+        "created_at": "2018-02-16T16:19:56.000Z",
+        "description": "你好，我使用绪山真寻的头像，并不代表我是跨性别者，我再次澄清这一事实，谢谢。Hello, I use the anime avatar of Oyama Mahiro. This does not mean I am a transgender person. Thank you.",
+        "id": "964534819664289792",
+        "location": "Tokyo-to, Japan",
+        "name": "寻明",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1987472276946907136/bZs2YJIK_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 588,
+          "following_count": 163,
+          "like_count": 13973,
+          "listed_count": 1,
+          "media_count": 182,
+          "tweet_count": 5323
+        },
+        "username": "SujitGund",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2064649660170674393",
+    "created_at": "2026-06-11T03:35:30.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-11T04:35:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2064914393884959081"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1880325371280912386",
+          "start": 0,
+          "username": "genya1976"
+        },
+        {
+          "end": 21,
+          "id": "1622587760514158593",
+          "start": 11,
+          "username": "ForlikOOO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2064914393884959081",
+    "in_reply_to_user_id": "1880325371280912386",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064733310375358811",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@genya1976 @ForlikOOO im sry🥺🥺🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2064733310375358811].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2064733310375358811",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2064733310375358811"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2064649660170674393",
+        "created_at": "2026-06-11T03:35:30.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-11T04:35:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2064914393884959081"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1880325371280912386",
+              "start": 0,
+              "username": "genya1976"
+            },
+            {
+              "end": 21,
+              "id": "1622587760514158593",
+              "start": 11,
+              "username": "ForlikOOO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2064914393884959081",
+        "in_reply_to_user_id": "1880325371280912386",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064733310375358811",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@genya1976 @ForlikOOO im sry🥺🥺🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2089,
+          "following_count": 2997,
+          "like_count": 38372,
+          "listed_count": 10,
+          "media_count": 368,
+          "tweet_count": 12335
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T18:44:47.000Z",
+        "description": "这是我的城堡🩸🌹📢\n\n正道人坂下六花 @zhu6hua\n\n波兰立陶宛联合王国酒蒙子🦅📢⚔️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 19,
+                "username": "zhu6hua"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/nightmare7411",
+                "end": 23,
+                "expanded_url": "http://t.me/nightmare7411",
+                "start": 0,
+                "url": "https://t.co/emoVb4nLNp"
+              }
+            ]
+          }
+        },
+        "id": "1880325371280912386",
+        "location": "Laniakea Supercluster ",
+        "name": "江上 清風遊🌊西草马路桃溪鱼",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058352515775856640/vApHI_En_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 266,
+          "following_count": 1598,
+          "like_count": 138196,
+          "listed_count": 3,
+          "media_count": 247,
+          "tweet_count": 2441
+        },
+        "url": "https://t.co/emoVb4nLNp",
+        "username": "genya1976",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-06T13:27:34.000Z",
+        "description": "我是cyclo，中文/English/Deutsch，she/her，bi。有对象感情非常好。不厌男不厌女，厌脑残。incel/terf/pinky/反lfbtq都滚。互关可以来：@smolc123 提问箱：https://t.co/WNwv3YVZzj",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 99,
+                "start": 90,
+                "username": "smolc123"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/cyclo86441",
+                "end": 127,
+                "expanded_url": "https://ngl.link/cyclo86441",
+                "start": 104,
+                "url": "https://t.co/WNwv3YVZzj"
+              }
+            ]
+          }
+        },
+        "id": "1622587760514158593",
+        "location": "München, Bayern",
+        "name": "皱巴巴的肠粉最好吃了",
+        "pinned_tweet_id": "2057500065078595596",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064747339034894336/BvxBM4bw_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2125,
+          "following_count": 260,
+          "like_count": 52895,
+          "listed_count": 2,
+          "media_count": 582,
+          "tweet_count": 11345
+        },
+        "username": "ForlikOOO",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,327 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2040755894338859039",
+    "created_at": "2026-04-05T12:17:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-05T13:17:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2040765752329072855"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1512976991976402949",
+          "start": 0,
+          "username": "bghtnya"
+        },
+        {
+          "end": 24,
+          "id": "2025951754245009408",
+          "start": 9,
+          "username": "ChihayaAnon_ze"
+        },
+        {
+          "end": 38,
+          "id": "1753419726582345728",
+          "start": 25,
+          "username": "GravitySwiss"
+        },
+        {
+          "end": 55,
+          "id": "1948977686547927040",
+          "start": 39,
+          "username": "Oshima811210827"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2040765752329072855",
+    "in_reply_to_user_id": "1839263401845075974",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040765636104880366",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bghtnya @ChihayaAnon_ze @GravitySwiss @Oshima811210827"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [GravitySwiss].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "GravitySwiss",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "GravitySwiss"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2040755894338859039",
+        "created_at": "2026-04-05T12:17:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T13:17:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040765752329072855"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            },
+            {
+              "end": 24,
+              "id": "2025951754245009408",
+              "start": 9,
+              "username": "ChihayaAnon_ze"
+            },
+            {
+              "end": 38,
+              "id": "1753419726582345728",
+              "start": 25,
+              "username": "GravitySwiss"
+            },
+            {
+              "end": 55,
+              "id": "1948977686547927040",
+              "start": 39,
+              "username": "Oshima811210827"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040765752329072855",
+        "in_reply_to_user_id": "1839263401845075974",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040765636104880366",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya @ChihayaAnon_ze @GravitySwiss @Oshima811210827"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2040755894338859039",
+        "created_at": "2026-04-05T12:16:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-05T13:16:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2040765636104880366"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1512976991976402949",
+              "start": 0,
+              "username": "bghtnya"
+            },
+            {
+              "end": 24,
+              "id": "2025951754245009408",
+              "start": 9,
+              "username": "ChihayaAnon_ze"
+            },
+            {
+              "end": 38,
+              "id": "1753419726582345728",
+              "start": 25,
+              "username": "GravitySwiss"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2040765636104880366",
+        "in_reply_to_user_id": "1512976991976402949",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040755894338859039",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bghtnya @ChihayaAnon_ze @gravityswiss"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1885,
+          "following_count": 2618,
+          "like_count": 26836,
+          "listed_count": 11,
+          "media_count": 326,
+          "tweet_count": 9607
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2022-04-10T02:13:28.000Z",
+        "description": "📖🖥 大一计算机 / 🗺️📍 坐标北上待定 / 🍰1989.06.04 /  🧊🔥 冰棍必须是烫的！/  🍥 断续含糖  / 🏳‍⚧🏳️‍🌈  MTFTX.TransLes / 🦋 INFP-A  /  🏴🚩 Ⓐ☭ 政治立场偏左下   /   🌊 涌江入河水渠辟，润滋沃土生机荣",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mfuns.net/member/4328",
+                "end": 23,
+                "expanded_url": "https://mfuns.net/member/4328",
+                "start": 0,
+                "url": "https://t.co/o4J1P8mtmq"
+              }
+            ]
+          }
+        },
+        "id": "1512976991976402949",
+        "location": "https://github.com/bghtnya",
+        "name": "冰棍好烫喵 🍥🧊🍔🍟🍜🍣🍙🍧🍮🍩☕️💊🤤",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024810573549219840/icSpV9Yg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9015,
+          "following_count": 2109,
+          "like_count": 175075,
+          "listed_count": 18,
+          "media_count": 3818,
+          "tweet_count": 46671
+        },
+        "url": "https://t.co/o4J1P8mtmq",
+        "username": "bghtnya",
+        "verified": true
+      },
+      {
+        "created_at": "2026-02-23T15:12:02.000Z",
+        "description": "旧号@friedrich_Q ，本号为千指导二号机\n不人身攻击皆可交流，中华民族万岁，世界人民大团结万岁🇺🇳\n🚪8964防搬码\n互fo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "friedrich_Q"
+              }
+            ]
+          }
+        },
+        "id": "2025951754245009408",
+        "location": "最美好的未来",
+        "name": "friedrich_千(物质不灭，推油寻回中)",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040403636363444224/5-A-vMiq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 148,
+          "following_count": 192,
+          "like_count": 118,
+          "listed_count": 1,
+          "media_count": 7,
+          "tweet_count": 139
+        },
+        "username": "ChihayaAnon_ze",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-26T05:24:52.000Z",
+        "description": "大号@Asahi167503已被斯马克永封",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 2,
+                "username": "Asahi167503"
+              }
+            ]
+          }
+        },
+        "id": "1948977686547927040",
+        "name": "木居霞山❃二號機",
+        "pinned_tweet_id": "2040577141021245544",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040571839626588160/GR0bW2VX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17,
+          "following_count": 85,
+          "like_count": 76,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 34
+        },
+        "username": "Oshima811210827",
+        "verified": false
+      }
+    ]
+  }
+}

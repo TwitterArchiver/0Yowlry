@@ -1,0 +1,261 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2063813619712999668",
+    "created_at": "2026-06-08T06:57:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T07:57:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063878103408189837"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1340208634999934976",
+          "start": 0,
+          "username": "nyarinrin17"
+        },
+        {
+          "end": 25,
+          "id": "1362960365055668225",
+          "start": 13,
+          "username": "POI74103174"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063878103408189837",
+    "in_reply_to_user_id": "1340208634999934976",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063815631145980212",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyarinrin17 @POI74103174 😋"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2063815631145980212].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2063815631145980212",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2063815631145980212"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2063813619712999668",
+        "created_at": "2026-06-08T06:57:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T07:57:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063878103408189837"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1340208634999934976",
+              "start": 0,
+              "username": "nyarinrin17"
+            },
+            {
+              "end": 25,
+              "id": "1362960365055668225",
+              "start": 13,
+              "username": "POI74103174"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063878103408189837",
+        "in_reply_to_user_id": "1340208634999934976",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063815631145980212",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyarinrin17 @POI74103174 😋"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2073,
+          "following_count": 2957,
+          "like_count": 36913,
+          "listed_count": 10,
+          "media_count": 364,
+          "tweet_count": 11976
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-19T08:15:26.000Z",
+        "description": "推し：なちょ💤@amsrntk3、パトラ🦀@Patra_HNST、ルーナ姫🍬@himemoriluna、シャチ🎣@sakamatachloe、あくたん⚓️@minatoaqua、さくたん🎀🐾@yuki_sakuna、フブキ🌽@shirakamifubuki、AZKi @AZKi_VDiVA",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "amsrntk3"
+              },
+              {
+                "end": 32,
+                "start": 21,
+                "username": "Patra_HNST"
+              },
+              {
+                "end": 51,
+                "start": 38,
+                "username": "himemoriluna"
+              },
+              {
+                "end": 70,
+                "start": 56,
+                "username": "sakamatachloe"
+              },
+              {
+                "end": 88,
+                "start": 77,
+                "username": "minatoaqua"
+              },
+              {
+                "end": 107,
+                "start": 95,
+                "username": "yuki_sakuna"
+              },
+              {
+                "end": 128,
+                "start": 112,
+                "username": "shirakamifubuki"
+              },
+              {
+                "end": 145,
+                "start": 134,
+                "username": "AZKi_VDiVA"
+              }
+            ]
+          }
+        },
+        "id": "1340208634999934976",
+        "name": "にゃりんりん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973774792441622528/A8z3qZ39_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4273,
+          "following_count": 781,
+          "like_count": 237767,
+          "listed_count": 27,
+          "media_count": 8275,
+          "tweet_count": 56730
+        },
+        "username": "nyarinrin17",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-20T03:00:58.000Z",
+        "description": "活了（大概）🐧的饲养员@penguinmomentjp\n日常/小市民；不友也不厌任何群体，\n爱具体的人。\n小号@POI74103175",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 27,
+                "start": 11,
+                "username": "penguinmomentjp"
+              },
+              {
+                "end": 67,
+                "start": 55,
+                "username": "POI74103175"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "penguinvisual.jp/zh",
+                "end": 23,
+                "expanded_url": "http://penguinvisual.jp/zh",
+                "start": 0,
+                "url": "https://t.co/XlV7pWwsvr"
+              }
+            ]
+          }
+        },
+        "id": "1362960365055668225",
+        "name": "優杏@Poi🍧",
+        "pinned_tweet_id": "1786390162064433658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045474696750321664/K_i_d53j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4074,
+          "following_count": 328,
+          "like_count": 68802,
+          "listed_count": 15,
+          "media_count": 3082,
+          "tweet_count": 25722
+        },
+        "url": "https://t.co/XlV7pWwsvr",
+        "username": "POI74103174",
+        "verified": false
+      }
+    ]
+  }
+}

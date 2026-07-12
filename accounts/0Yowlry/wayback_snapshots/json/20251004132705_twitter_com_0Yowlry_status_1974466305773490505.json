@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1926175719979094517",
+    "created_at": "2025-10-04T13:27:05.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-04T14:27:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1974466305773490505"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1614826297091592198",
+          "start": 0,
+          "username": "Winter_yoki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1974466305773490505",
+    "in_reply_to_user_id": "1614826297091592198",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1926175719979094517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Winter_yoki 🍥🐱🐈"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1926175719979094517].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1926175719979094517",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1926175719979094517"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1926175719979094517",
+        "created_at": "2025-10-04T13:27:05.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-04T14:27:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1974466305773490505"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1614826297091592198",
+              "start": 0,
+              "username": "Winter_yoki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1974466305773490505",
+        "in_reply_to_user_id": "1614826297091592198",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1926175719979094517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Winter_yoki 🍥🐱🐈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1830,
+          "following_count": 2437,
+          "like_count": 19643,
+          "listed_count": 9,
+          "media_count": 305,
+          "tweet_count": 7810
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-16T03:26:15.000Z",
+        "description": "一枚高二的男孩子📚  | 08 168cm 53kg 0.5🌈 enfp | 评论大多会回 | 随缘互fo | 也许是一些日常或碎碎念... 🧀: @yokis_diary",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 86,
+                "start": 74,
+                "username": "yokis_diary"
+              }
+            ]
+          }
+        },
+        "id": "1614826297091592198",
+        "location": "小麦种子x64",
+        "name": "冬麦yoki",
+        "pinned_tweet_id": "1970371534754820448",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1968697978711064577/5gSvkcJC_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 9306,
+          "following_count": 943,
+          "like_count": 19009,
+          "listed_count": 11,
+          "media_count": 996,
+          "tweet_count": 13070
+        },
+        "username": "Winter_yoki",
+        "verified": false
+      }
+    ]
+  }
+}

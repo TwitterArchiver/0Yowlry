@@ -1,0 +1,238 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2066883556043849791",
+    "created_at": "2026-06-17T19:14:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T20:14:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067325065637834953"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1536478525095542785",
+          "start": 0,
+          "username": "valigo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067325065637834953",
+    "in_reply_to_user_id": "1536478525095542785",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066883556043849791",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@valigo rubbishit"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2066883556043849791",
+        "created_at": "2026-06-17T19:14:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T20:14:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067325065637834953"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1536478525095542785",
+              "start": 0,
+              "username": "valigo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067325065637834953",
+        "in_reply_to_user_id": "1536478525095542785",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066883556043849791",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@valigo rubbishit"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1536478525095542785",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1838998617064878080",
+              "name": "developers"
+            }
+          }
+        ],
+        "conversation_id": "2066883556043849791",
+        "created_at": "2026-06-16T14:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T15:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066883556043849791"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066883556043849791",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 48,
+          "impression_count": 35578,
+          "like_count": 1040,
+          "quote_count": 10,
+          "reply_count": 53,
+          "retweet_count": 52
+        },
+        "reply_settings": "everyone",
+        "text": "Some programming languages have so much syntactic sugar you get syntax diabetes."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2114,
+          "following_count": 3093,
+          "like_count": 40574,
+          "listed_count": 10,
+          "media_count": 367,
+          "tweet_count": 12809
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-13T22:40:13.000Z",
+        "description": "programmer, speedrunner, father, immigrant\nalt: @valigo_ru\nhttps://t.co/KnVpup9T96 | https://t.co/U02QuCReZC | https://t.co/kwWcXroCbY",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "valigo_ru"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "youtube.com/@valigotech",
+                "end": 82,
+                "expanded_url": "https://www.youtube.com/@valigotech",
+                "start": 59,
+                "url": "https://t.co/KnVpup9T96"
+              },
+              {
+                "display_url": "github.com/valignatev",
+                "end": 108,
+                "expanded_url": "https://github.com/valignatev",
+                "start": 85,
+                "url": "https://t.co/U02QuCReZC"
+              },
+              {
+                "display_url": "twitch.tv/valigo",
+                "end": 134,
+                "expanded_url": "http://www.twitch.tv/valigo",
+                "start": 111,
+                "url": "https://t.co/kwWcXroCbY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twitch.tv/valigo",
+                "end": 23,
+                "expanded_url": "http://www.twitch.tv/valigo",
+                "start": 0,
+                "url": "https://t.co/kwWcXroCbY"
+              }
+            ]
+          }
+        },
+        "id": "1536478525095542785",
+        "location": "Kafana, Serbia",
+        "name": "Valentin Ignatev",
+        "pinned_tweet_id": "2066696270706622646",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875660540170653696/NlbgVDE8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11670,
+          "following_count": 284,
+          "like_count": 30178,
+          "listed_count": 63,
+          "media_count": 1177,
+          "tweet_count": 9918
+        },
+        "url": "https://t.co/kwWcXroCbY",
+        "username": "valigo",
+        "verified": true
+      }
+    ]
+  }
+}

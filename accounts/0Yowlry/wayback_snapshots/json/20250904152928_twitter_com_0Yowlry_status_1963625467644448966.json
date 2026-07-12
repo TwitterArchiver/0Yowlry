@@ -1,0 +1,340 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1963048705097138621",
+    "created_at": "2025-09-04T15:29:28.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-04T16:29:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1963625467644448966"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1576791571831422976",
+          "start": 0,
+          "username": "linjiyewei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1963625467644448966",
+    "in_reply_to_user_id": "1576791571831422976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963048705097138621",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linjiyewei 必须去关注一下了（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1963048695055974400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz4mYzGbAAAX_AJ.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1963048695060168704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz4mYzHbAAAH1KU.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1963048695068569600",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz4mYzJbMAAWrRu.jpg",
+        "width": 946
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1963048695068557315",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gz4mYzJbAAMJSi1.jpg",
+        "width": 1090
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1963048705097138621",
+        "created_at": "2025-09-04T15:29:28.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-04T16:29:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1963625467644448966"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1576791571831422976",
+              "start": 0,
+              "username": "linjiyewei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963625467644448966",
+        "in_reply_to_user_id": "1576791571831422976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963048705097138621",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linjiyewei 必须去关注一下了（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1963048695055974400",
+            "3_1963048695060168704",
+            "3_1963048695068569600",
+            "3_1963048695068557315"
+          ]
+        },
+        "author_id": "1576791571831422976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Xi Jinping",
+              "id": "852769182315761664",
+              "name": "Xi Jinping"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "1963048705097138621",
+        "created_at": "2025-09-03T01:17:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-03T02:17:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1963048705097138621"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/01AOi99txA",
+              "end": 41,
+              "expanded_url": "https://x.com/linjiyewei/status/1963048705097138621/photo/1",
+              "media_key": "3_1963048695055974400",
+              "start": 18,
+              "url": "https://t.co/01AOi99txA"
+            },
+            {
+              "display_url": "pic.x.com/01AOi99txA",
+              "end": 41,
+              "expanded_url": "https://x.com/linjiyewei/status/1963048705097138621/photo/1",
+              "media_key": "3_1963048695060168704",
+              "start": 18,
+              "url": "https://t.co/01AOi99txA"
+            },
+            {
+              "display_url": "pic.x.com/01AOi99txA",
+              "end": 41,
+              "expanded_url": "https://x.com/linjiyewei/status/1963048705097138621/photo/1",
+              "media_key": "3_1963048695068569600",
+              "start": 18,
+              "url": "https://t.co/01AOi99txA"
+            },
+            {
+              "display_url": "pic.x.com/01AOi99txA",
+              "end": 41,
+              "expanded_url": "https://x.com/linjiyewei/status/1963048705097138621/photo/1",
+              "media_key": "3_1963048695068557315",
+              "start": 18,
+              "url": "https://t.co/01AOi99txA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1963048705097138621",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 110,
+          "impression_count": 119605,
+          "like_count": 975,
+          "quote_count": 6,
+          "reply_count": 52,
+          "retweet_count": 34
+        },
+        "reply_settings": "everyone",
+        "text": "？！\n还没有谁敢和习近平一起直播的 https://t.co/01AOi99txA"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "TMTV",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960048268525858816/MjMpG-1y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1811,
+          "following_count": 2412,
+          "like_count": 18410,
+          "listed_count": 10,
+          "media_count": 302,
+          "tweet_count": 7557
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-03T04:29:55.000Z",
+        "description": "來自中華人民共和國🇨🇳香港特別行政區🇭🇰今年十五，就讀於上海交通職業技術學院（中職部）汽檢專業高一學生。熱愛War Thunder、Genshin Impact、CS2、Enlisted、Reverse：1999。小號@Vertin1949",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 120,
+                "start": 109,
+                "username": "Vertin1949"
+              }
+            ]
+          }
+        },
+        "id": "1576791571831422976",
+        "location": "中華人民共和國🇨🇳香港特別行政區🇭🇰",
+        "name": "林績業為🇨🇳🇭🇰🇲🇴🇹🇼",
+        "pinned_tweet_id": "1893146721468981473",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1735063617471684608/tKwHLjCx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2586,
+          "following_count": 687,
+          "like_count": 20264,
+          "listed_count": 27,
+          "media_count": 2847,
+          "tweet_count": 10145
+        },
+        "username": "linjiyewei",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,190 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2041085432134615251",
+    "created_at": "2026-05-05T17:52:38.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-05T18:52:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2051721749377761360"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1263250188757426176",
+          "start": 0,
+          "username": "yunyunyunnya"
+        },
+        {
+          "end": 21,
+          "id": "1664742004423794688",
+          "start": 14,
+          "username": "rwayne"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2051721749377761360",
+    "in_reply_to_user_id": "1263250188757426176",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2041147318117040484",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yunyunyunnya @rwayne 唉"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2041147318117040484].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2041147318117040484",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2041147318117040484"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2041085432134615251",
+        "created_at": "2026-05-05T17:52:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-05T18:52:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2051721749377761360"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1263250188757426176",
+              "start": 0,
+              "username": "yunyunyunnya"
+            },
+            {
+              "end": 21,
+              "id": "1664742004423794688",
+              "start": 14,
+              "username": "rwayne"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2051721749377761360",
+        "in_reply_to_user_id": "1263250188757426176",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2041147318117040484",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunyunyunnya @rwayne 唉"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1977,
+          "following_count": 2789,
+          "like_count": 30727,
+          "listed_count": 10,
+          "media_count": 336,
+          "tweet_count": 10555
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-20T23:28:22.000Z",
+        "description": "好想一键屏蔽玻璃心",
+        "id": "1263250188757426176",
+        "location": "有鲨鲨枕头酱和很多玩偶的地方",
+        "name": "口腔溃疡！！！！！！",
+        "pinned_tweet_id": "2037079005460127859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009444201516421124/rZsdho6X_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1053,
+          "following_count": 1471,
+          "like_count": 157500,
+          "listed_count": 4,
+          "media_count": 954,
+          "tweet_count": 11705
+        },
+        "username": "yunyunyunnya",
+        "verified": false
+      },
+      {
+        "created_at": "2023-06-02T21:13:29.000Z",
+        "description": "🧑‍⚕️ 医学&经济学全奖PhD 🇦🇺\n🚀3 个月 X 涨粉 4w｜累计曝光 1.5 亿\n💼《中国企业AI转型白皮书》作者｜企业AI转型咨询｜AI医疗创业者\n⭐ 订阅都是本人精华｜优先回复订阅者评论和私信👈",
+        "id": "1664742004423794688",
+        "location": "Australia",
+        "name": "Roland.W",
+        "pinned_tweet_id": "2049081526814757338",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911955967505219584/mbOS-TVy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44939,
+          "following_count": 768,
+          "like_count": 27959,
+          "listed_count": 236,
+          "media_count": 1858,
+          "tweet_count": 12361
+        },
+        "username": "rwayne",
+        "verified": true
+      }
+    ]
+  }
+}

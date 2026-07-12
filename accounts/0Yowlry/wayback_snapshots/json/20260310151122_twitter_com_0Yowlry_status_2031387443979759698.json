@@ -1,0 +1,199 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2031384042432770514",
+    "created_at": "2026-03-10T15:11:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-10T16:11:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2031387443979759698"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1880325371280912386",
+          "start": 0,
+          "username": "genya1976"
+        },
+        {
+          "end": 21,
+          "id": "1826129497714040832",
+          "start": 11,
+          "username": "CREZAN_GA"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2031387443979759698",
+    "in_reply_to_user_id": "1880325371280912386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2031386209507770394",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@genya1976 @CREZAN_GA 想喝你的茎叶"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2031386209507770394].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2031386209507770394",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2031386209507770394"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2031384042432770514",
+        "created_at": "2026-03-10T15:11:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-10T16:11:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2031387443979759698"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1880325371280912386",
+              "start": 0,
+              "username": "genya1976"
+            },
+            {
+              "end": 21,
+              "id": "1826129497714040832",
+              "start": 11,
+              "username": "CREZAN_GA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2031387443979759698",
+        "in_reply_to_user_id": "1880325371280912386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2031386209507770394",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@genya1976 @CREZAN_GA 想喝你的茎叶"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1874,
+          "following_count": 2548,
+          "like_count": 24748,
+          "listed_count": 11,
+          "media_count": 322,
+          "tweet_count": 9157
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T18:44:47.000Z",
+        "description": "这是我的城堡🩸🌹📢\n\n@zhu6hua\n\n波兰立陶宛联合王国酒蒙子🦅📢⚔️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 11,
+                "username": "zhu6hua"
+              }
+            ]
+          }
+        },
+        "id": "1880325371280912386",
+        "location": "Laniakea Supercluster ",
+        "name": "江上 清風遊⚔️🩸🌹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027094251964895232/6U4t83hN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 260,
+          "following_count": 1310,
+          "like_count": 116891,
+          "listed_count": 2,
+          "media_count": 125,
+          "tweet_count": 1500
+        },
+        "username": "genya1976",
+        "verified": false
+      },
+      {
+        "created_at": "2024-08-21T05:29:47.000Z",
+        "description": "",
+        "id": "1826129497714040832",
+        "location": "amrica",
+        "name": "輹辻アイ凩祏CRZ💢",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022307506949898240/-bKNjQtO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 325,
+          "following_count": 324,
+          "like_count": 7793,
+          "listed_count": 1,
+          "media_count": 1069,
+          "tweet_count": 5431
+        },
+        "username": "CREZAN_GA",
+        "verified": false
+      }
+    ]
+  }
+}

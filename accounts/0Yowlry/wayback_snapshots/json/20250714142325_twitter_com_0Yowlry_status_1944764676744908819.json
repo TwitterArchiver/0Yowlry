@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1237760060828213249",
+          "name": "Olympics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Paris 2024 Summer Olympics ",
+          "id": "1667298425749028864",
+          "name": "Paris 2024 Summer Olympics"
+        }
+      }
+    ],
+    "conversation_id": "1944662434280878558",
+    "created_at": "2025-07-14T14:23:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T15:23:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944764676744908819"
+    ],
+    "entities": {
+      "annotations": [
+        {
+          "end": 20,
+          "normalized_text": "París",
+          "probability": 0.5209,
+          "start": 16,
+          "type": "Place"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1534779592258555905",
+          "start": 0,
+          "username": "KawaiinaNijika"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944764676744908819",
+    "in_reply_to_user_id": "1534779592258555905",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 4,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944662434280878558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@KawaiinaNijika París"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 530,
+        "media_key": "3_1944662430602207232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GvzULWgXoAAW2EL.jpg",
+        "width": 940
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237760060828213249",
+              "name": "Olympics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Paris 2024 Summer Olympics ",
+              "id": "1667298425749028864",
+              "name": "Paris 2024 Summer Olympics"
+            }
+          }
+        ],
+        "conversation_id": "1944662434280878558",
+        "created_at": "2025-07-14T14:23:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T15:23:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944764676744908819"
+        ],
+        "entities": {
+          "annotations": [
+            {
+              "end": 20,
+              "normalized_text": "París",
+              "probability": 0.5209,
+              "start": 16,
+              "type": "Place"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1534779592258555905",
+              "start": 0,
+              "username": "KawaiinaNijika"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944764676744908819",
+        "in_reply_to_user_id": "1534779592258555905",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944662434280878558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawaiinaNijika París"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944662430602207232"
+          ]
+        },
+        "author_id": "1534779592258555905",
+        "conversation_id": "1944662434280878558",
+        "created_at": "2025-07-14T07:37:09.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T08:37:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944662434280878558"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8avAl8XOpN",
+              "end": 61,
+              "expanded_url": "https://x.com/KawaiinaNijika/status/1944662434280878558/photo/1",
+              "media_key": "3_1944662430602207232",
+              "start": 38,
+              "url": "https://t.co/8avAl8XOpN"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944662434280878558",
+        "lang": "fr",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 47,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "Vive la France et vive la Révolution! https://t.co/8avAl8XOpN"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "Yowlry",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900279853762392066/nf5oFqCF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1709,
+          "following_count": 2284,
+          "like_count": 16150,
+          "listed_count": 6,
+          "media_count": 288,
+          "tweet_count": 6491
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2022-06-09T06:09:23.000Z",
+        "description": "Shikikan from Azur Lane, fan of @ManUtd and @ScuderiaFerrari. Likes do not always equal endorsement.（98%几率回fo)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 39,
+                "start": 32,
+                "username": "ManUtd"
+              },
+              {
+                "end": 60,
+                "start": 44,
+                "username": "ScuderiaFerrari"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/kawaiinanijika",
+                "end": 23,
+                "expanded_url": "https://ngl.link/kawaiinanijika",
+                "start": 0,
+                "url": "https://t.co/m9rt5aXsKD"
+              }
+            ]
+          }
+        },
+        "id": "1534779592258555905",
+        "location": "東京都世田谷区三軒茶屋二丁目",
+        "name": "大耳朵虹夏Official🇫🇷",
+        "pinned_tweet_id": "1912465785039266039",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1942355245515907072/7J1yb0RA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 284,
+          "following_count": 554,
+          "like_count": 9324,
+          "listed_count": 2,
+          "media_count": 407,
+          "tweet_count": 2838
+        },
+        "url": "https://t.co/m9rt5aXsKD",
+        "username": "KawaiinaNijika",
+        "verified": false
+      }
+    ]
+  }
+}

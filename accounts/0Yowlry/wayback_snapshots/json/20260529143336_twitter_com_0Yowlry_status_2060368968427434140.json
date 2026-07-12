@@ -1,0 +1,599 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2047152826808492032",
+        "3_2047152826804301825",
+        "3_2047152826837778432",
+        "3_2047152826808422400"
+      ],
+      "media_source_tweet_id": [
+        "2047152833032778085",
+        "2047152833032778085",
+        "2047152833032778085",
+        "2047152833032778085"
+      ]
+    },
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2060368968427434140",
+    "created_at": "2026-05-29T14:33:36.000Z",
+    "edit_controls": {
+      "editable_until": "2026-05-29T15:33:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2060368968427434140"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "3032768018",
+          "start": 3,
+          "username": "Chiyorin8964"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DeFfjozsa3",
+          "end": 56,
+          "expanded_url": "https://x.com/Chiyorin8964/status/2047152833032778085/photo/1",
+          "media_key": "3_2047152826808492032",
+          "start": 33,
+          "url": "https://t.co/DeFfjozsa3"
+        },
+        {
+          "display_url": "pic.x.com/DeFfjozsa3",
+          "end": 56,
+          "expanded_url": "https://x.com/Chiyorin8964/status/2047152833032778085/photo/1",
+          "media_key": "3_2047152826804301825",
+          "start": 33,
+          "url": "https://t.co/DeFfjozsa3"
+        },
+        {
+          "display_url": "pic.x.com/DeFfjozsa3",
+          "end": 56,
+          "expanded_url": "https://x.com/Chiyorin8964/status/2047152833032778085/photo/1",
+          "media_key": "3_2047152826837778432",
+          "start": 33,
+          "url": "https://t.co/DeFfjozsa3"
+        },
+        {
+          "display_url": "pic.x.com/DeFfjozsa3",
+          "end": 56,
+          "expanded_url": "https://x.com/Chiyorin8964/status/2047152833032778085/photo/1",
+          "media_key": "3_2047152826808422400",
+          "start": 33,
+          "url": "https://t.co/DeFfjozsa3"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2060368968427434140",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 262
+    },
+    "referenced_tweets": [
+      {
+        "id": "2047152833032778085",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Chiyorin8964: OpenAI这个新大招有点猛 https://t.co/DeFfjozsa3"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1492,
+        "media_key": "3_2047152826808492032",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGjyplLbYAAxLd9.jpg",
+        "width": 1054
+      },
+      {
+        "height": 1492,
+        "media_key": "3_2047152826804301825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGjyplKbcAEsLmz.jpg",
+        "width": 1054
+      },
+      {
+        "height": 1492,
+        "media_key": "3_2047152826837778432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGjyplSaQAAiEKQ.jpg",
+        "width": 1054
+      },
+      {
+        "height": 1492,
+        "media_key": "3_2047152826808422400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HGjyplLaUAAbX0j.jpg",
+        "width": 1054
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047152826808492032",
+            "3_2047152826804301825",
+            "3_2047152826837778432",
+            "3_2047152826808422400"
+          ],
+          "media_source_tweet_id": [
+            "2047152833032778085",
+            "2047152833032778085",
+            "2047152833032778085",
+            "2047152833032778085"
+          ]
+        },
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2060368968427434140",
+        "created_at": "2026-05-29T14:33:36.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-29T15:33:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2060368968427434140"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "3032768018",
+              "start": 3,
+              "username": "Chiyorin8964"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DeFfjozsa3",
+              "end": 56,
+              "expanded_url": "https://x.com/Chiyorin8964/status/2047152833032778085/photo/1",
+              "media_key": "3_2047152826808492032",
+              "start": 33,
+              "url": "https://t.co/DeFfjozsa3"
+            },
+            {
+              "display_url": "pic.x.com/DeFfjozsa3",
+              "end": 56,
+              "expanded_url": "https://x.com/Chiyorin8964/status/2047152833032778085/photo/1",
+              "media_key": "3_2047152826804301825",
+              "start": 33,
+              "url": "https://t.co/DeFfjozsa3"
+            },
+            {
+              "display_url": "pic.x.com/DeFfjozsa3",
+              "end": 56,
+              "expanded_url": "https://x.com/Chiyorin8964/status/2047152833032778085/photo/1",
+              "media_key": "3_2047152826837778432",
+              "start": 33,
+              "url": "https://t.co/DeFfjozsa3"
+            },
+            {
+              "display_url": "pic.x.com/DeFfjozsa3",
+              "end": 56,
+              "expanded_url": "https://x.com/Chiyorin8964/status/2047152833032778085/photo/1",
+              "media_key": "3_2047152826808422400",
+              "start": 33,
+              "url": "https://t.co/DeFfjozsa3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2060368968427434140",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 262
+        },
+        "referenced_tweets": [
+          {
+            "id": "2047152833032778085",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Chiyorin8964: OpenAI这个新大招有点猛 https://t.co/DeFfjozsa3"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2047152826808492032",
+            "3_2047152826804301825",
+            "3_2047152826837778432",
+            "3_2047152826808422400"
+          ]
+        },
+        "author_id": "3032768018",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2047152833032778085",
+        "created_at": "2026-04-23T03:17:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-23T04:17:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2047152833032778085"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DeFfjozsa3",
+              "end": 38,
+              "expanded_url": "https://x.com/Chiyorin8964/status/2047152833032778085/photo/1",
+              "media_key": "3_2047152826808492032",
+              "start": 15,
+              "url": "https://t.co/DeFfjozsa3"
+            },
+            {
+              "display_url": "pic.x.com/DeFfjozsa3",
+              "end": 38,
+              "expanded_url": "https://x.com/Chiyorin8964/status/2047152833032778085/photo/1",
+              "media_key": "3_2047152826804301825",
+              "start": 15,
+              "url": "https://t.co/DeFfjozsa3"
+            },
+            {
+              "display_url": "pic.x.com/DeFfjozsa3",
+              "end": 38,
+              "expanded_url": "https://x.com/Chiyorin8964/status/2047152833032778085/photo/1",
+              "media_key": "3_2047152826837778432",
+              "start": 15,
+              "url": "https://t.co/DeFfjozsa3"
+            },
+            {
+              "display_url": "pic.x.com/DeFfjozsa3",
+              "end": 38,
+              "expanded_url": "https://x.com/Chiyorin8964/status/2047152833032778085/photo/1",
+              "media_key": "3_2047152826808422400",
+              "start": 15,
+              "url": "https://t.co/DeFfjozsa3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2047152833032778085",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 759,
+          "impression_count": 242334,
+          "like_count": 3280,
+          "quote_count": 25,
+          "reply_count": 151,
+          "retweet_count": 262
+        },
+        "reply_settings": "everyone",
+        "text": "OpenAI这个新大招有点猛 https://t.co/DeFfjozsa3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2059,
+          "following_count": 2924,
+          "like_count": 35045,
+          "listed_count": 10,
+          "media_count": 356,
+          "tweet_count": 11567
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2015-02-20T12:27:32.000Z",
+        "description": "🇪🇺🇺🇦🇯🇵🇹🇼/上海｜東京/02/男/铁道/航空/Airsoft/摄影/BanG Dream/女装 早稲田大学 M1\n😘：@DurantRaym93677 ｜妈妈：@CnDiode\n里：@cccy0037",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 78,
+                "start": 62,
+                "username": "DurantRaym93677"
+              },
+              {
+                "end": 91,
+                "start": 83,
+                "username": "CnDiode"
+              },
+              {
+                "end": 103,
+                "start": 94,
+                "username": "cccy0037"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+50DhiKY5l-s5N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+50DhiKY5l-s5NDBl",
+                "start": 0,
+                "url": "https://t.co/Es5shIbjtN"
+              }
+            ]
+          }
+        },
+        "id": "3032768018",
+        "location": "埼玉県 所沢市",
+        "name": "千世Chiyo",
+        "pinned_tweet_id": "2055092198639907006",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006583057227329545/84VfXOPs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3190,
+          "following_count": 1599,
+          "like_count": 7888,
+          "listed_count": 8,
+          "media_count": 1028,
+          "tweet_count": 4038
+        },
+        "url": "https://t.co/Es5shIbjtN",
+        "username": "Chiyorin8964",
+        "verified": true
+      }
+    ]
+  }
+}

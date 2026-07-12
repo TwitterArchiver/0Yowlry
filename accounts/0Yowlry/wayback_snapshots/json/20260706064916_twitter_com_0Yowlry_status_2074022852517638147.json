@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1395185632977342464",
+    "created_at": "2026-07-06T06:49:16.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-06T07:49:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074022852517638147"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1263250188757426176",
+          "start": 0,
+          "username": "yunyunyunnya"
+        },
+        {
+          "end": 27,
+          "id": "1974418935241232385",
+          "start": 14,
+          "username": "xianyu666666"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074022852517638147",
+    "in_reply_to_user_id": "1263250188757426176",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1738106896643706915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yunyunyunnya @xianyu666666 👀👀👀"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1738106896643706915].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1738106896643706915",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1738106896643706915"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1395185632977342464",
+        "created_at": "2026-07-06T06:49:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-06T07:49:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074022852517638147"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1263250188757426176",
+              "start": 0,
+              "username": "yunyunyunnya"
+            },
+            {
+              "end": 27,
+              "id": "1974418935241232385",
+              "start": 14,
+              "username": "xianyu666666"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074022852517638147",
+        "in_reply_to_user_id": "1263250188757426176",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1738106896643706915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunyunyunnya @xianyu666666 👀👀👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Aerospace | Girls Band | Game | Journey | Natural Science",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2190,
+          "following_count": 3280,
+          "like_count": 44938,
+          "listed_count": 10,
+          "media_count": 375,
+          "tweet_count": 13984
+        },
+        "url": "",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-20T23:28:22.000Z",
+        "description": "这个想法是从什么地方来的？是某次具体的经历，还是一种更累积性的厌倦感？",
+        "id": "1263250188757426176",
+        "location": "有鲨鲨枕头酱和很多玩偶的地方",
+        "name": "口腔溃疡！！！！！！",
+        "pinned_tweet_id": "2037079005460127859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2009444201516421124/rZsdho6X_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1060,
+          "following_count": 1538,
+          "like_count": 165362,
+          "listed_count": 4,
+          "media_count": 978,
+          "tweet_count": 12100
+        },
+        "url": "",
+        "username": "yunyunyunnya",
+        "verified": true
+      },
+      {
+        "created_at": "2025-10-04T10:19:02.000Z",
+        "description": "",
+        "id": "1974418935241232385",
+        "name": "yu",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1974419202858692608/prI5HOMq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3,
+          "following_count": 108,
+          "like_count": 29,
+          "listed_count": 0,
+          "media_count": 3,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "xianyu666666",
+        "verified": false
+      }
+    ]
+  }
+}

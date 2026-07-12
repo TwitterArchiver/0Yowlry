@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2017497995856777405",
+    "created_at": "2026-02-03T12:35:21.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-03T13:35:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2018664605569192112"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2016304799713787905",
+          "start": 0,
+          "username": "notallowmtf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2018664605569192112",
+    "in_reply_to_user_id": "2016304799713787905",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017497995856777405",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@notallowmtf 我也想"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2017497995856777405",
+        "created_at": "2026-02-03T12:35:21.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-03T13:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2018664605569192112"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2016304799713787905",
+              "start": 0,
+              "username": "notallowmtf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2018664605569192112",
+        "in_reply_to_user_id": "2016304799713787905",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017497995856777405",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@notallowmtf 我也想"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2016304799713787905",
+        "conversation_id": "2017497995856777405",
+        "created_at": "2026-01-31T07:19:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-31T08:19:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2017497995856777405"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2017497995856777405",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 327,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "😭😭😭我好想好多好多小药娘和我玩"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1833,
+          "following_count": 2491,
+          "like_count": 23209,
+          "listed_count": 11,
+          "media_count": 317,
+          "tweet_count": 8891
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2026-01-28T00:18:44.000Z",
+        "description": "我已买下https://t.co/oiRKrr81ww的域名\n准备建立反跨大网站\n立志成为反跨大手子",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "no-mtf.com",
+                "end": 27,
+                "expanded_url": "http://no-mtf.com",
+                "start": 4,
+                "url": "https://t.co/oiRKrr81ww"
+              }
+            ]
+          }
+        },
+        "id": "2016304799713787905",
+        "name": "小鲸鱼Arona",
+        "pinned_tweet_id": "2017145253976035694",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016307560115273728/qsHeKf5z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13,
+          "following_count": 105,
+          "like_count": 7,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 29
+        },
+        "username": "notallowmtf",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1939314835986219246",
+    "created_at": "2025-07-14T16:45:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T17:45:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944800486798057580"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1900215735412285445",
+          "start": 0,
+          "username": "tuiteMortis"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944800486798057580",
+    "in_reply_to_user_id": "1900215735412285445",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1939314835986219246",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@tuiteMortis 是你吗"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1939314835986219246].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1939314835986219246",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1939314835986219246"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1939314835986219246",
+        "created_at": "2025-07-14T16:45:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T17:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944800486798057580"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1900215735412285445",
+              "start": 0,
+              "username": "tuiteMortis"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944800486798057580",
+        "in_reply_to_user_id": "1900215735412285445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1939314835986219246",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@tuiteMortis 是你吗"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "Yowlry",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900279853762392066/nf5oFqCF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1711,
+          "following_count": 2286,
+          "like_count": 16152,
+          "listed_count": 6,
+          "media_count": 288,
+          "tweet_count": 6495
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-13T16:01:58.000Z",
+        "description": "嗯。建议你打一个藕饼的标签，因为你的视频同时出现了红色跟蓝色，来讲一下藕饼的磕点吧。嗯，就是啊。哪吒没有把殷夫人复活。然后伤心的灵魂出窍了，然后呢就是附身到了小摇头鬼身上，吧。嗯，然后呢就是然后吧就是嗯",
+        "id": "1900215735412285445",
+        "location": "个人碎碎念频道",
+        "name": "🌱灵魂不曾言语🏳",
+        "pinned_tweet_id": "1939635153334366570",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939226582679453696/6T0C0fp4_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 309,
+          "following_count": 203,
+          "like_count": 19072,
+          "listed_count": 1,
+          "media_count": 71,
+          "tweet_count": 1672
+        },
+        "username": "tuiteMortis",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,232 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1888555429904650713",
+    "created_at": "2025-10-06T18:02:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-10-06T19:02:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1975260283380916386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1870313420807163904",
+          "start": 0,
+          "username": "IzayoiMarin"
+        },
+        {
+          "end": 26,
+          "id": "1858480267410984960",
+          "start": 13,
+          "username": "chukaman2dai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1975260283380916386",
+    "in_reply_to_user_id": "1870313420807163904",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1888600124386841069",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@IzayoiMarin @chukaman2dai 🥺"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [chukaman2dai].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "chukaman2dai",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "chukaman2dai"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1888555429904650713",
+        "created_at": "2025-10-06T18:02:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-06T19:02:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975260283380916386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1870313420807163904",
+              "start": 0,
+              "username": "IzayoiMarin"
+            },
+            {
+              "end": 26,
+              "id": "1858480267410984960",
+              "start": 13,
+              "username": "chukaman2dai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975260283380916386",
+        "in_reply_to_user_id": "1870313420807163904",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888600124386841069",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@IzayoiMarin @chukaman2dai 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1870313420807163904",
+        "conversation_id": "1888555429904650713",
+        "created_at": "2025-02-09T14:45:32.000Z",
+        "edit_controls": {
+          "editable_until": "2025-02-09T15:45:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1888600124386841069"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1858480267410984960",
+              "start": 0,
+              "username": "chukaman2dai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1888600124386841069",
+        "in_reply_to_user_id": "1858480267410984960",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 59,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1888555429904650713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chukaman2dai 很喜欢澪和律队😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1838,
+          "following_count": 2452,
+          "like_count": 19802,
+          "listed_count": 9,
+          "media_count": 303,
+          "tweet_count": 7841
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T03:40:57.000Z",
+        "description": "17歳（虚）/高二/物化生/生理性别女/坐标山东/尸体/国籍：🇨🇳/夢：🇯🇵/中国語OK/日本語下手/ちんこ165cm/神经病/不爱鉴证/互fo/フォローバ99.9%/音ゲ/二次元/アニメ/JPOP/纯爱butクズ女/不爱看私信/中文推文/日本語ツイート/碎碎念/各种吐槽/分享生活/mktdaisuki",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ep1449270",
+                "end": 23,
+                "expanded_url": "https://b23.tv/ep1449270",
+                "start": 0,
+                "url": "https://t.co/BABPQro7WH"
+              }
+            ]
+          }
+        },
+        "id": "1870313420807163904",
+        "location": "daisuki",
+        "name": "まりん（死体）",
+        "pinned_tweet_id": "1975134571168674016",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1975116710077161472/Obi-A288_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 936,
+          "following_count": 1345,
+          "like_count": 22090,
+          "listed_count": 3,
+          "media_count": 850,
+          "tweet_count": 9974
+        },
+        "url": "https://t.co/BABPQro7WH",
+        "username": "IzayoiMarin",
+        "verified": false
+      }
+    ]
+  }
+}

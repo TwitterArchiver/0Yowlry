@@ -1,0 +1,249 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2025525979649589318",
+    "created_at": "2026-02-23T11:28:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-23T12:28:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2025895444283564256"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 29,
+          "start": 21,
+          "tag": "include"
+        },
+        {
+          "end": 54,
+          "start": 46,
+          "tag": "include"
+        },
+        {
+          "end": 80,
+          "start": 72,
+          "tag": "include"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1976995735532138496",
+          "start": 0,
+          "username": "JanboMikan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2025895444283564256",
+    "in_reply_to_user_id": "1976995735532138496",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2025525979649589318",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JanboMikan 算算小黄鸭的智商\n#include &lt;stdio.h&gt;\n#include &lt;stdlib.h&gt;\n#include &lt;math.h&gt;\n\nint main()\n{\n    int yellow_duck_IQ = 1;\n    if(int yellow_duck_IQ &lt;= 90)\n{\n        printf(\"%s\\n\", \"这只小黄鸭太笨了\");\n}\n    return 0;\n}"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2025237370552156165",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HBsWqImbgAU5qyJ.jpg",
+        "width": 761
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2025525979649589318",
+        "created_at": "2026-02-23T11:28:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-23T12:28:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2025895444283564256"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 21,
+              "tag": "include"
+            },
+            {
+              "end": 54,
+              "start": 46,
+              "tag": "include"
+            },
+            {
+              "end": 80,
+              "start": 72,
+              "tag": "include"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1976995735532138496",
+              "start": 0,
+              "username": "JanboMikan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025895444283564256",
+        "in_reply_to_user_id": "1976995735532138496",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2025525979649589318",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JanboMikan 算算小黄鸭的智商\n#include &lt;stdio.h&gt;\n#include &lt;stdlib.h&gt;\n#include &lt;math.h&gt;\n\nint main()\n{\n    int yellow_duck_IQ = 1;\n    if(int yellow_duck_IQ &lt;= 90)\n{\n        printf(\"%s\\n\", \"这只小黄鸭太笨了\");\n}\n    return 0;\n}"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2025237370552156165"
+          ]
+        },
+        "author_id": "1976995735532138496",
+        "conversation_id": "2025525979649589318",
+        "created_at": "2026-02-22T11:00:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-22T12:00:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2025525979649589318"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/4VJsTXFNLh",
+              "end": 123,
+              "expanded_url": "https://x.com/JanboMikan/status/2025525979649589318/photo/1",
+              "media_key": "3_2025237370552156165",
+              "start": 100,
+              "url": "https://t.co/4VJsTXFNLh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2025525979649589318",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 26,
+          "impression_count": 24349,
+          "like_count": 276,
+          "quote_count": 0,
+          "reply_count": 31,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "小黄鸭调试法：代码跑不通的时候，就要对着桌子上的小黄鸭把逻辑讲一遍。\n我没有小黄鸭，于是只能对着屏幕映出来的倒影讲。\n结果这只鸭子太笨了。\n只能发出一连串含糊不清的「呜呜」声。\n桌面上还湿了一大滩。 https://t.co/4VJsTXFNLh"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1864,
+          "following_count": 2535,
+          "like_count": 24120,
+          "listed_count": 11,
+          "media_count": 321,
+          "tweet_count": 9042
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-11T12:58:20.000Z",
+        "description": "是一只在制作经费贫穷的异世界厕纸穿越番第一集开头一分三十秒里出现站在反派身后常常会被电视台徽遮挡的镜头背景板最左边角落的连脸都是复制粘贴的全程台词只有和大家一起说的「噢，冲鸭」并3秒倒地最后在片尾滚动速度快到需要逐帧暂停才能看清的演员表中标注为「炮灰B」的0人在意的杂鱼酱 || 生活号 @TainiiMikan",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 156,
+                "start": 144,
+                "username": "TainiiMikan"
+              }
+            ]
+          }
+        },
+        "id": "1976995735532138496",
+        "location": "福州(当前)/珠海",
+        "name": "ジャンボ蜜柑",
+        "pinned_tweet_id": "2015089675225190910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004800148610994176/-pzKphg5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6297,
+          "following_count": 347,
+          "like_count": 9600,
+          "listed_count": 25,
+          "media_count": 152,
+          "tweet_count": 5021
+        },
+        "username": "JanboMikan",
+        "verified": false
+      }
+    ]
+  }
+}

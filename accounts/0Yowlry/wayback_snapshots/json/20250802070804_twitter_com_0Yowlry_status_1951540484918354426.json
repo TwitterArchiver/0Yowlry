@@ -1,0 +1,195 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1949146168790765668",
+    "created_at": "2025-08-02T07:08:04.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-02T08:08:04.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1951540484918354426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "872113640064786432",
+          "start": 0,
+          "username": "ChariseStever"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1951540484918354426",
+    "in_reply_to_user_id": "872113640064786432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1951357366731153901",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ChariseStever 艹，看错了（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1949146168790765668",
+        "created_at": "2025-08-02T07:08:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-02T08:08:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951540484918354426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "872113640064786432",
+              "start": 0,
+              "username": "ChariseStever"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951540484918354426",
+        "in_reply_to_user_id": "872113640064786432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951357366731153901",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ChariseStever 艹，看错了（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "872113640064786432",
+        "conversation_id": "1949146168790765668",
+        "created_at": "2025-08-01T19:00:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-01T20:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1951357366731153901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1839263401845075974",
+              "start": 0,
+              "username": "0Yowlry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1951357366731153901",
+        "in_reply_to_user_id": "1839263401845075974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1951356007038459955",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0Yowlry 打电动 指玩游戏x"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "Yowlry",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900279853762392066/nf5oFqCF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1788,
+          "following_count": 2377,
+          "like_count": 17467,
+          "listed_count": 6,
+          "media_count": 292,
+          "tweet_count": 7131
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2017-06-06T15:31:09.000Z",
+        "description": "Goblin/Imp",
+        "id": "872113640064786432",
+        "location": "Goblin Den",
+        "name": "nil",
+        "pinned_tweet_id": "1949146168790765668",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1946149595169341441/2vPjcF4L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 251,
+          "following_count": 91,
+          "like_count": 1079,
+          "listed_count": 2,
+          "media_count": 210,
+          "tweet_count": 1629
+        },
+        "username": "ChariseStever",
+        "verified": false
+      }
+    ]
+  }
+}

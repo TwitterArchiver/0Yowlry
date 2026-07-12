@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2020511649115865485",
+    "created_at": "2026-02-09T15:46:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-02-09T16:46:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2020887140792750502"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1634535757410111489",
+          "start": 0,
+          "username": "woshi_caicai"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2020887140792750502",
+    "in_reply_to_user_id": "1634535757410111489",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2020511649115865485",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@woshi_caicai 怎么回事"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2020511649115865485",
+        "created_at": "2026-02-09T15:46:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-09T16:46:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2020887140792750502"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1634535757410111489",
+              "start": 0,
+              "username": "woshi_caicai"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2020887140792750502",
+        "in_reply_to_user_id": "1634535757410111489",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2020511649115865485",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@woshi_caicai 怎么回事"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1634535757410111489",
+        "conversation_id": "2020511649115865485",
+        "created_at": "2026-02-08T14:54:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-08T15:54:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2020511649115865485"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2020511649115865485",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 105,
+          "like_count": 7,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "我一直在想要不要道歉\n我怕道歉反而更被讨厌了\n最可怕的是被原谅了\n宁可被大骂一通"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1846,
+          "following_count": 2504,
+          "like_count": 23412,
+          "listed_count": 11,
+          "media_count": 319,
+          "tweet_count": 8922
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2023-03-11T12:44:37.000Z",
+        "description": "",
+        "id": "1634535757410111489",
+        "name": "白菜",
+        "pinned_tweet_id": "1989610418797744246",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000081338079318016/A-Qklkc8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 184,
+          "like_count": 10488,
+          "listed_count": 4,
+          "media_count": 149,
+          "tweet_count": 3616
+        },
+        "username": "woshi_caicai",
+        "verified": false
+      }
+    ]
+  }
+}

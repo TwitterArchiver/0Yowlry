@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2066809440024838493",
+    "created_at": "2026-06-17T18:45:43.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T19:45:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067317784896499792"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "184724571",
+          "start": 0,
+          "username": "montbellJP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067317784896499792",
+    "in_reply_to_user_id": "184724571",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066809440024838493",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@montbellJP 👀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 480,
+        "media_key": "3_2066809403458859009",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7IM7eaMAEaMBT.jpg",
+        "width": 640
+      },
+      {
+        "height": 480,
+        "media_key": "3_2066809425818730496",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7IOOxawAArl4R.jpg",
+        "width": 640
+      },
+      {
+        "height": 480,
+        "media_key": "3_2066809425885835264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7IOPBasAAXFRg.jpg",
+        "width": 640
+      },
+      {
+        "height": 480,
+        "media_key": "3_2066809425927827456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HK7IOPLbcAAqoBp.jpg",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2066809440024838493",
+        "created_at": "2026-06-17T18:45:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T19:45:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067317784896499792"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "184724571",
+              "start": 0,
+              "username": "montbellJP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067317784896499792",
+        "in_reply_to_user_id": "184724571",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066809440024838493",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@montbellJP 👀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2066809403458859009",
+            "3_2066809425818730496",
+            "3_2066809425885835264",
+            "3_2066809425927827456"
+          ]
+        },
+        "author_id": "184724571",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1277995430236680192",
+              "name": "Outdoors"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Adventure travel",
+              "id": "849076092111536128",
+              "name": "Adventure travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Hiking",
+              "id": "1047106825076670464",
+              "name": "Hiking"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Hiking",
+              "id": "1047106825076670464",
+              "name": "Hiking"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nature",
+              "id": "1103294729079349250",
+              "name": "Nature"
+            }
+          }
+        ],
+        "conversation_id": "2066809440024838493",
+        "created_at": "2026-06-16T09:05:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T10:05:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066809440024838493"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "地元ガイドと登る最北の百名山　",
+              "display_url": "event.montbell.jp/plan/disp_data…",
+              "end": 157,
+              "expanded_url": "https://event.montbell.jp/plan/disp_data.php?event_no=T01L01",
+              "images": [
+                {
+                  "height": 480,
+                  "url": "https://pbs.twimg.com/news_img/2066809482819391488/RUA1qLmk?format=jpg&name=orig",
+                  "width": 640
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2066809482819391488/RUA1qLmk?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 134,
+              "status": 200,
+              "title": "【モンベル】最北の日本百名山 利尻山・礼文島登山4days",
+              "unwound_url": "https://event.montbell.jp/plan/disp_data.php?event_no=T01L01",
+              "url": "https://t.co/rPXTUlJRtn"
+            },
+            {
+              "display_url": "pic.x.com/GFIVgvOf3q",
+              "end": 181,
+              "expanded_url": "https://x.com/montbellJP/status/2066809440024838493/photo/1",
+              "media_key": "3_2066809403458859009",
+              "start": 158,
+              "url": "https://t.co/GFIVgvOf3q"
+            },
+            {
+              "display_url": "pic.x.com/GFIVgvOf3q",
+              "end": 181,
+              "expanded_url": "https://x.com/montbellJP/status/2066809440024838493/photo/1",
+              "media_key": "3_2066809425818730496",
+              "start": 158,
+              "url": "https://t.co/GFIVgvOf3q"
+            },
+            {
+              "display_url": "pic.x.com/GFIVgvOf3q",
+              "end": 181,
+              "expanded_url": "https://x.com/montbellJP/status/2066809440024838493/photo/1",
+              "media_key": "3_2066809425885835264",
+              "start": 158,
+              "url": "https://t.co/GFIVgvOf3q"
+            },
+            {
+              "display_url": "pic.x.com/GFIVgvOf3q",
+              "end": 181,
+              "expanded_url": "https://x.com/montbellJP/status/2066809440024838493/photo/1",
+              "media_key": "3_2066809425927827456",
+              "start": 158,
+              "url": "https://t.co/GFIVgvOf3q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066809440024838493",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 20,
+          "impression_count": 20299,
+          "like_count": 285,
+          "quote_count": 4,
+          "reply_count": 2,
+          "retweet_count": 26
+        },
+        "reply_settings": "everyone",
+        "text": "【イベント情報】最北の日本百名山 利尻山・礼文島登山4days\n\n日本最北端の島にある独立峰・利尻山。遮るもののない頂上からは360度の大パノラマが広がります。\n比較的天候の安定した８月に、予備日付きのプランで登頂を目指します。昆布やウニなど、海の幸も楽しめます。\n\nhttps://t.co/rPXTUlJRtn https://t.co/GFIVgvOf3q"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2114,
+          "following_count": 3088,
+          "like_count": 40487,
+          "listed_count": 10,
+          "media_count": 367,
+          "tweet_count": 12786
+        },
+        "url": "",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2010-08-30T09:41:49.000Z",
+        "description": "アウトドア総合ブランド・モンベルの公式アカウントです。製品やイベント、キャンペーンなどの最新情報をお届けします。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "montbell.jp",
+                "end": 23,
+                "expanded_url": "http://www.montbell.jp",
+                "start": 0,
+                "url": "https://t.co/4JM1d7CsJY"
+              }
+            ]
+          }
+        },
+        "id": "184724571",
+        "name": "株式会社モンベル",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1114180495/image_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 98398,
+          "following_count": 1,
+          "like_count": 356,
+          "listed_count": 1335,
+          "media_count": 2644,
+          "tweet_count": 7021
+        },
+        "url": "https://t.co/4JM1d7CsJY",
+        "username": "montbellJP",
+        "verified": false
+      }
+    ]
+  }
+}

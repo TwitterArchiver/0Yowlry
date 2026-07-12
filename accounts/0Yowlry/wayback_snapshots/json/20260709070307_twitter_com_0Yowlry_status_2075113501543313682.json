@@ -1,0 +1,181 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2074863074478260674",
+    "created_at": "2026-07-09T07:03:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-09T08:03:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075113501543313682"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1043133270878117889",
+          "start": 0,
+          "username": "pure_cageling"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075113501543313682",
+    "in_reply_to_user_id": "1043133270878117889",
+    "lang": "da",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074863074478260674",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pure_cageling 字符串（）\nchar str[] = \"master, slave, harness, string, controller, model\";"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2074863074478260674",
+        "created_at": "2026-07-09T07:03:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-09T08:03:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075113501543313682"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1043133270878117889",
+              "start": 0,
+              "username": "pure_cageling"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075113501543313682",
+        "in_reply_to_user_id": "1043133270878117889",
+        "lang": "da",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074863074478260674",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pure_cageling 字符串（）\nchar str[] = \"master, slave, harness, string, controller, model\";"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1043133270878117889",
+        "conversation_id": "2074863074478260674",
+        "created_at": "2026-07-08T14:28:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T15:28:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074863074478260674"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2074863074478260674",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 69,
+          "impression_count": 46413,
+          "like_count": 560,
+          "quote_count": 2,
+          "reply_count": 37,
+          "retweet_count": 13
+        },
+        "reply_settings": "everyone",
+        "text": "我每天在工作里使用的词汇：\n主人、奴隶、马具、细绳、控制者、模特\n听起来不像是啥正经工作。\n但是换成英语：\nmaster、slave、harness、string、controller、model\n这就是普通的程序员啊！\n果然计算机这行是有点说法的🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Aerospace | Girls Band | Game | Journey | Natural Science",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2221,
+          "following_count": 3330,
+          "like_count": 46291,
+          "listed_count": 10,
+          "media_count": 380,
+          "tweet_count": 14379
+        },
+        "url": "",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2018-09-21T13:42:07.000Z",
+        "description": "被严格管理的小狗，男已婚，不加联系方式。推特主要用来分享一些自己的小故事，如果能让大家看的开心那就太好啦☺️ 不合胃口看的不喜欢也请不要骂我🥺",
+        "id": "1043133270878117889",
+        "location": "上海",
+        "name": "Shiro",
+        "pinned_tweet_id": "1930330485018038553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911479557292544000/YuRrfg2d_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39509,
+          "following_count": 966,
+          "like_count": 560,
+          "listed_count": 85,
+          "media_count": 49,
+          "tweet_count": 921
+        },
+        "url": "",
+        "username": "pure_cageling",
+        "verified": false
+      }
+    ]
+  }
+}

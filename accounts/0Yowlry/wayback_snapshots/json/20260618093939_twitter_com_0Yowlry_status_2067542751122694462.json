@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2065583308327571628",
+    "created_at": "2026-06-18T09:39:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-18T10:39:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067542751122694462"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1799065979915530240",
+          "start": 0,
+          "username": "He_Zhong38401"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067542751122694462",
+    "in_reply_to_user_id": "1799065979915530240",
+    "lang": "tl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065583308327571628",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@He_Zhong38401 ohayo~"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2065583308327571628",
+        "created_at": "2026-06-18T09:39:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-18T10:39:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067542751122694462"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1799065979915530240",
+              "start": 0,
+              "username": "He_Zhong38401"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067542751122694462",
+        "in_reply_to_user_id": "1799065979915530240",
+        "lang": "tl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065583308327571628",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@He_Zhong38401 ohayo~"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1799065979915530240",
+        "conversation_id": "2065583308327571628",
+        "created_at": "2026-06-12T23:53:32.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-13T00:53:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2065583308327571628"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2065583308327571628",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 10,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "早上好～"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2113,
+          "following_count": 3105,
+          "like_count": 40762,
+          "listed_count": 10,
+          "media_count": 369,
+          "tweet_count": 12863
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-07T13:09:15.000Z",
+        "description": "一个普普通通学生党OvO\n扩列Q：3234933797\n无意识互联网冲浪 | 自行车 | 画画| 日常分享 |",
+        "id": "1799065979915530240",
+        "location": "神隐ing",
+        "name": "Dr.FISHi0",
+        "pinned_tweet_id": "1947589842193551530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1825045683067559936/0iAgWR6Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 52,
+          "following_count": 570,
+          "like_count": 10637,
+          "listed_count": 0,
+          "media_count": 72,
+          "tweet_count": 970
+        },
+        "username": "He_Zhong38401",
+        "verified": false
+      }
+    ]
+  }
+}

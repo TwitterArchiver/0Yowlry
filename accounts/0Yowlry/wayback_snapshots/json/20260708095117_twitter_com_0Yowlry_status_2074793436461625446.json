@@ -1,0 +1,447 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2074791039999905792"
+      ]
+    },
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "10043689888",
+          "name": "Minecraft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10043689888",
+          "name": "Minecraft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899619193749511",
+          "name": "Sandbox games"
+        }
+      }
+    ],
+    "conversation_id": "2074793436461625446",
+    "created_at": "2026-07-08T09:51:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T10:51:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2074793436461625446"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 210,
+          "id": "64565898",
+          "start": 200,
+          "username": "Minecraft"
+        },
+        {
+          "end": 226,
+          "id": "1113380705042620417",
+          "start": 211,
+          "username": "minecraftjapan"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/V1B6RWkTuX",
+          "end": 250,
+          "expanded_url": "https://x.com/0Yowlry/status/2074793436461625446/photo/1",
+          "media_key": "3_2074791039999905792",
+          "start": 227,
+          "url": "https://t.co/V1B6RWkTuX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074793436461625446",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "MINECRAFT Java edition 26.2 introduced and added a new friend system that allowed players to invite friends to join their worlds in the snapshots, but this feature was REMOVED in the official release @Minecraft @minecraftjapan https://t.co/V1B6RWkTuX"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1008,
+        "media_key": "3_2074791039999905792",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMsjdUpbkAAqGJK.jpg",
+        "width": 1918
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074791039999905792"
+          ]
+        },
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          }
+        ],
+        "conversation_id": "2074793436461625446",
+        "created_at": "2026-07-08T09:51:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:51:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074793436461625446"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 210,
+              "id": "64565898",
+              "start": 200,
+              "username": "Minecraft"
+            },
+            {
+              "end": 226,
+              "id": "1113380705042620417",
+              "start": 211,
+              "username": "minecraftjapan"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/V1B6RWkTuX",
+              "end": 250,
+              "expanded_url": "https://x.com/0Yowlry/status/2074793436461625446/photo/1",
+              "media_key": "3_2074791039999905792",
+              "start": 227,
+              "url": "https://t.co/V1B6RWkTuX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074793436461625446",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "MINECRAFT Java edition 26.2 introduced and added a new friend system that allowed players to invite friends to join their worlds in the snapshots, but this feature was REMOVED in the official release @Minecraft @minecraftjapan https://t.co/V1B6RWkTuX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Aerospace | Girls Band | Game | Journey | Natural Science",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2211,
+          "following_count": 3310,
+          "like_count": 45759,
+          "listed_count": 10,
+          "media_count": 376,
+          "tweet_count": 14259
+        },
+        "url": "",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-11T00:22:27.000Z",
+        "description": "Survive the night, or build a work of art. News, game updates, and all things Minecraft. ESRB RATING: EVERYONE 10+ with Fantasy Violence",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/minecraft",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/minecraft",
+                "start": 0,
+                "url": "https://t.co/lzbvMhLfT8"
+              }
+            ]
+          }
+        },
+        "id": "64565898",
+        "location": "Stockholm, Sweden",
+        "name": "Minecraft",
+        "pinned_tweet_id": "2060751341824479452",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2046974375430144000/G4-Wil7L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8030732,
+          "following_count": 60,
+          "like_count": 1775,
+          "listed_count": 5762,
+          "media_count": 3476,
+          "tweet_count": 5281
+        },
+        "url": "https://t.co/lzbvMhLfT8",
+        "username": "Minecraft",
+        "verified": true
+      },
+      {
+        "created_at": "2019-04-03T10:00:20.000Z",
+        "description": "危険な夜を生き抜き、世界を探検し、美しい建物を建築しよう！\n\nマイクラ関連のニュースやゲームのアップデート情報など\nマインクラフト日本チームがお届けします！                  \n\n日本公式サイトはこちら→ https://t.co/8uTbHOFLUx\n日本公式YouTubeは以下のURLをタップ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "minecraft.net",
+                "end": 134,
+                "expanded_url": "https://www.minecraft.net/",
+                "start": 111,
+                "url": "https://t.co/8uTbHOFLUx"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/minecraftjapan",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/minecraftjapan",
+                "start": 0,
+                "url": "https://t.co/7qbvfJwCiy"
+              }
+            ]
+          }
+        },
+        "id": "1113380705042620417",
+        "name": "マインクラフト 日本公式 / Minecraft Japan",
+        "pinned_tweet_id": "2067049589580992956",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047613897113583617/J8daz1u1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 454925,
+          "following_count": 6,
+          "like_count": 0,
+          "listed_count": 1242,
+          "media_count": 2779,
+          "tweet_count": 3575
+        },
+        "url": "https://t.co/7qbvfJwCiy",
+        "username": "minecraftjapan",
+        "verified": true
+      }
+    ]
+  }
+}

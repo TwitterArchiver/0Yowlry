@@ -1,0 +1,285 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Ontario",
+          "id": "861963262656565248",
+          "name": "Ontario"
+        }
+      }
+    ],
+    "conversation_id": "2019707644844597710",
+    "created_at": "2026-06-21T18:48:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-21T19:48:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2068767948278485254"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1863160050069434368",
+          "start": 0,
+          "username": "WildscapeWonder"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2068767948278485254",
+    "in_reply_to_user_id": "1863160050069434368",
+    "lang": "pt",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2019707644844597710",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WildscapeWonder Ontario"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 19181,
+        "height": 1280,
+        "media_key": "7_2019707515987243009",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/2019707515987243009/pu/img/Vz1pROZpSZMBkqSQ.jpg",
+        "public_metrics": {
+          "view_count": 47461
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2019707515987243009/pu/vid/avc1/320x568/uFWNAPoICH2xE6qH.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2019707515987243009/pu/vid/avc1/480x852/ApdZZgPDCJluVHn8.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/2019707515987243009/pu/vid/avc1/720x1280/YghmyZ_2GO4StxwM.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/2019707515987243009/pu/pl/gSslwafDxxZrbuEI.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Ontario",
+              "id": "861963262656565248",
+              "name": "Ontario"
+            }
+          }
+        ],
+        "conversation_id": "2019707644844597710",
+        "created_at": "2026-06-21T18:48:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-21T19:48:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2068767948278485254"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1863160050069434368",
+              "start": 0,
+              "username": "WildscapeWonder"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2068767948278485254",
+        "in_reply_to_user_id": "1863160050069434368",
+        "lang": "pt",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2019707644844597710",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WildscapeWonder Ontario"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_2019707515987243009"
+          ]
+        },
+        "author_id": "1863160050069434368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Toronto",
+              "id": "861961494438662144",
+              "name": "Toronto"
+            }
+          }
+        ],
+        "conversation_id": "2019707644844597710",
+        "created_at": "2026-02-06T09:40:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-02-06T10:40:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2019707644844597710"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kvaGG0rF8o",
+              "end": 42,
+              "expanded_url": "https://x.com/WildscapeWonder/status/2019707644844597710/video/1",
+              "media_key": "7_2019707515987243009",
+              "start": 19,
+              "url": "https://t.co/kvaGG0rF8o"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2019707644844597710",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 430,
+          "impression_count": 148626,
+          "like_count": 5109,
+          "quote_count": 63,
+          "reply_count": 46,
+          "retweet_count": 721
+        },
+        "reply_settings": "everyone",
+        "text": "Toronto, Canada 🇨🇦 https://t.co/kvaGG0rF8o"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2127,
+          "following_count": 3126,
+          "like_count": 41220,
+          "listed_count": 10,
+          "media_count": 370,
+          "tweet_count": 12998
+        },
+        "url": "",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-01T09:57:07.000Z",
+        "description": "Chasing the light, and the stories it tells. Nature photography that explores the intersection of art and science.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "Buymeacoffee.com/prettycities",
+                "end": 23,
+                "expanded_url": "http://Buymeacoffee.com/prettycities",
+                "start": 0,
+                "url": "https://t.co/3uXTZssdRS"
+              }
+            ]
+          }
+        },
+        "id": "1863160050069434368",
+        "location": "The Netherlands",
+        "name": "Wildscape Wonders",
+        "pinned_tweet_id": "2068035096012370308",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1965754062432878592/cikk-K5H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 18745,
+          "following_count": 4721,
+          "like_count": 2314,
+          "listed_count": 65,
+          "media_count": 5346,
+          "tweet_count": 5530
+        },
+        "url": "https://t.co/3uXTZssdRS",
+        "username": "WildscapeWonder",
+        "verified": true
+      }
+    ]
+  }
+}

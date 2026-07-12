@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2059327757864362010",
+    "created_at": "2026-06-14T06:07:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-14T07:07:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2066039820749857000"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2721275622",
+          "start": 0,
+          "username": "__oQuery"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2066039820749857000",
+    "in_reply_to_user_id": "2721275622",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2059327757864362010",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@__oQuery 唉"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2059327757864362010",
+        "created_at": "2026-06-14T06:07:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-14T07:07:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2066039820749857000"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2721275622",
+              "start": 0,
+              "username": "__oQuery"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2066039820749857000",
+        "in_reply_to_user_id": "2721275622",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2059327757864362010",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@__oQuery 唉"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2721275622",
+        "conversation_id": "2059327757864362010",
+        "created_at": "2026-05-26T17:36:12.000Z",
+        "edit_controls": {
+          "editable_until": "2026-05-26T18:36:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2059327757864362010"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2059327757864362010",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 73043,
+          "like_count": 238,
+          "quote_count": 4,
+          "reply_count": 67,
+          "retweet_count": 4
+        },
+        "reply_settings": "everyone",
+        "text": "vscode 已经烂完了，好好的编辑器不做，硬搞 AI，搞得现在任何基础功能都完全用不了。随便点几个文件就一直在那转圈，不是在转圈就是在激活扩展。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2100,
+          "following_count": 3051,
+          "like_count": 39814,
+          "listed_count": 10,
+          "media_count": 364,
+          "tweet_count": 12603
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2014-08-10T10:25:01.000Z",
+        "description": "Orchestrating ideas with Code & AI | All views are my own",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "innei.in",
+                "end": 23,
+                "expanded_url": "https://innei.in",
+                "start": 0,
+                "url": "https://t.co/HHCCtwk4dL"
+              }
+            ]
+          }
+        },
+        "id": "2721275622",
+        "location": " 天上",
+        "name": "拾一.max-fast",
+        "pinned_tweet_id": "2065824586239975792",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060426329519243264/S2O6a2UH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10448,
+          "following_count": 992,
+          "like_count": 12430,
+          "listed_count": 87,
+          "media_count": 1176,
+          "tweet_count": 9588
+        },
+        "url": "https://t.co/HHCCtwk4dL",
+        "username": "__oQuery",
+        "verified": true
+      }
+    ]
+  }
+}

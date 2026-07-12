@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2062864838767022464",
+    "created_at": "2026-06-05T18:52:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T19:52:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062970721866047671"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1599053272341680129",
+          "start": 0,
+          "username": "RandomFemboyII"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062970721866047671",
+    "in_reply_to_user_id": "1599053272341680129",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062864838767022464",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RandomFemboyII 吃点止痛药，或者把大脑拿出来看看"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2062864838767022464].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2062864838767022464",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2062864838767022464"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2062864838767022464",
+        "created_at": "2026-06-05T18:52:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T19:52:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062970721866047671"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599053272341680129",
+              "start": 0,
+              "username": "RandomFemboyII"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062970721866047671",
+        "in_reply_to_user_id": "1599053272341680129",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062864838767022464",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RandomFemboyII 吃点止痛药，或者把大脑拿出来看看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2061,
+          "following_count": 2939,
+          "like_count": 36422,
+          "listed_count": 0,
+          "media_count": 361,
+          "tweet_count": 11851
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T14:49:56.000Z",
+        "description": "Scorched earth,\nShock and awe,\nBlood and bone.",
+        "id": "1599053272341680129",
+        "location": "绿林大学",
+        "name": "高木祥子🏳️‍⚧️",
+        "pinned_tweet_id": "2061486851475812492",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062144659976228864/WgKOndjG_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 125,
+          "following_count": 151,
+          "like_count": 19043,
+          "listed_count": 2,
+          "media_count": 117,
+          "tweet_count": 2241
+        },
+        "username": "RandomFemboyII",
+        "verified": true
+      }
+    ]
+  }
+}

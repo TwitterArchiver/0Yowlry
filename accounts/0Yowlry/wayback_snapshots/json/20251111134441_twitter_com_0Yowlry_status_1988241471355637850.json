@@ -1,0 +1,337 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1981683356615209384",
+    "created_at": "2025-11-11T13:44:41.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-11T14:44:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1988241471355637850"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1771825079711883264",
+          "start": 0,
+          "username": "rainsluvkwi"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1988241471355637850",
+    "in_reply_to_user_id": "1771825079711883264",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981683356615209384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@rainsluvkwi 再热也会变凉"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1981683338512338944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4BafzlWkAAIe38.jpg",
+        "width": 1366
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1981683356615209384",
+        "created_at": "2025-11-11T13:44:41.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-11T14:44:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1988241471355637850"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1771825079711883264",
+              "start": 0,
+              "username": "rainsluvkwi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1988241471355637850",
+        "in_reply_to_user_id": "1771825079711883264",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981683356615209384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@rainsluvkwi 再热也会变凉"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1981683338512338944"
+          ]
+        },
+        "author_id": "1771825079711883264",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "1981683356615209384",
+        "created_at": "2025-10-24T11:25:04.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-24T12:25:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1981683356615209384"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 9,
+              "tag": "bangdream"
+            },
+            {
+              "end": 24,
+              "start": 20,
+              "tag": "cos"
+            },
+            {
+              "end": 28,
+              "start": 25,
+              "tag": "男娘"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/0zEKIZPYSV",
+              "end": 52,
+              "expanded_url": "https://x.com/rainsluvkwi/status/1981683356615209384/photo/1",
+              "media_key": "3_1981683338512338944",
+              "start": 29,
+              "url": "https://t.co/0zEKIZPYSV"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1981683356615209384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 80,
+          "impression_count": 36496,
+          "like_count": 845,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 43
+        },
+        "reply_settings": "everyone",
+        "text": "一颗心脏两面受伤\n#bangdream #cos #男娘 https://t.co/0zEKIZPYSV"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している\n\n@rosmarinou\n\nWE ARE ALWAYS WITH YOU",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "rosmarinou"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1874,
+          "following_count": 2528,
+          "like_count": 22519,
+          "listed_count": 10,
+          "media_count": 315,
+          "tweet_count": 8636
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-24T09:03:20.000Z",
+        "description": "🚪50 不过门不闲聊 赞赏码/口令                       我是朝日六花超级梦女。                                        帮我转转推好吗TT ｜ 豪诡秘：@twilightversu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 107,
+                "username": "twilightversu"
+              }
+            ]
+          }
+        },
+        "id": "1771825079711883264",
+        "name": "Kuru",
+        "pinned_tweet_id": "1905315008017563942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1941572387708821504/G8v5z9PM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3080,
+          "following_count": 650,
+          "like_count": 2986,
+          "listed_count": 12,
+          "media_count": 28,
+          "tweet_count": 265
+        },
+        "username": "rainsluvkwi",
+        "verified": false
+      }
+    ]
+  }
+}

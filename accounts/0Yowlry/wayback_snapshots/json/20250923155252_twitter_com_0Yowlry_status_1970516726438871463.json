@@ -1,0 +1,183 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1970463170516148261",
+    "created_at": "2025-09-23T15:52:52.000Z",
+    "edit_controls": {
+      "editable_until": "2025-09-23T16:52:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1970516726438871463"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1295749163880071173",
+          "start": 0,
+          "username": "ericcartman2952"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1970516726438871463",
+    "in_reply_to_user_id": "1295749163880071173",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1970463170516148261",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ericcartman2952 我喜欢fuckoff"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1970463170516148261",
+        "created_at": "2025-09-23T15:52:52.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T16:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970516726438871463"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1295749163880071173",
+              "start": 0,
+              "username": "ericcartman2952"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1970516726438871463",
+        "in_reply_to_user_id": "1295749163880071173",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1970463170516148261",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ericcartman2952 我喜欢fuckoff"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "poll_ids": [
+            "1970463169085874179"
+          ]
+        },
+        "author_id": "1295749163880071173",
+        "conversation_id": "1970463170516148261",
+        "created_at": "2025-09-23T12:20:03.000Z",
+        "edit_controls": {
+          "editable_until": "2025-09-23T13:20:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1970463170516148261"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1970463170516148261",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 345,
+          "like_count": 5,
+          "quote_count": 2,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "你最喜欢下面哪句英语"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "TMTV",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960048268525858816/MjMpG-1y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1819,
+          "following_count": 2421,
+          "like_count": 19068,
+          "listed_count": 9,
+          "media_count": 305,
+          "tweet_count": 7726
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2020-08-18T15:48:10.000Z",
+        "description": "…",
+        "id": "1295749163880071173",
+        "location": "北京",
+        "name": "Eric Cartman（淡推）",
+        "pinned_tweet_id": "1743783319563886830",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1895677673843646464/ODvz6gzU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1592,
+          "following_count": 828,
+          "like_count": 28719,
+          "listed_count": 22,
+          "media_count": 1930,
+          "tweet_count": 7541
+        },
+        "username": "ericcartman2952",
+        "verified": false
+      }
+    ]
+  }
+}

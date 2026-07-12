@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1959969161754362155",
+    "created_at": "2025-08-25T18:40:43.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-25T19:40:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1960049720447164764"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1840055457756610560",
+          "start": 0,
+          "username": "hood8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1960049720447164764",
+    "in_reply_to_user_id": "1840055457756610560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1959969161754362155",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hood8964 几百年前吧"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1959969161754362155",
+        "created_at": "2025-08-25T18:40:43.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T19:40:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1960049720447164764"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1840055457756610560",
+              "start": 0,
+              "username": "hood8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1960049720447164764",
+        "in_reply_to_user_id": "1840055457756610560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1959969161754362155",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hood8964 几百年前吧"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1840055457756610560",
+        "conversation_id": "1959969161754362155",
+        "created_at": "2025-08-25T13:20:37.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-25T14:20:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1959969161754362155"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1959969161754362155",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1695,
+          "like_count": 60,
+          "quote_count": 2,
+          "reply_count": 32,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这是一个测试：你们关注窝多久了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "Yowlry",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960048268525858816/MjMpG-1y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1809,
+          "following_count": 2396,
+          "like_count": 18239,
+          "listed_count": 10,
+          "media_count": 296,
+          "tweet_count": 7457
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2024-09-28T15:46:52.000Z",
+        "description": "尚未完结……",
+        "id": "1840055457756610560",
+        "name": "138亿年的红移",
+        "pinned_tweet_id": "1958512915528442207",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1954634155259478016/cwniRyrT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1215,
+          "following_count": 1799,
+          "like_count": 85553,
+          "listed_count": 9,
+          "media_count": 989,
+          "tweet_count": 19098
+        },
+        "username": "hood8964",
+        "verified": false
+      }
+    ]
+  }
+}

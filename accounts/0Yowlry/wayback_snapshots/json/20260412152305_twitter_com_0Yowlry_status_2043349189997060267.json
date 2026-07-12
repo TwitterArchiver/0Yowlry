@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1999101315126116445",
+    "created_at": "2026-04-12T15:23:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T16:23:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043349189997060267"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1999007250829230080",
+          "start": 0,
+          "username": "DDaquaforever"
+        },
+        {
+          "end": 29,
+          "id": "1429829081684537345",
+          "start": 15,
+          "username": "Rabbubble550W"
+        },
+        {
+          "end": 45,
+          "id": "1865419581206208512",
+          "start": 30,
+          "username": "DDzhanshou5150"
+        },
+        {
+          "end": 59,
+          "id": "1158382980076716032",
+          "start": 46,
+          "username": "kokodayo5150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043349189997060267",
+    "in_reply_to_user_id": "1999007250829230080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1999101315126116445",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DDaquaforever @Rabbubble550W @DDzhanshou5150 @kokodayo5150 你原来的号呢"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Rabbubble550W].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Rabbubble550W",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Rabbubble550W"
+    },
+    {
+      "detail": "User has been suspended: [DDzhanshou5150].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "DDzhanshou5150",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "DDzhanshou5150"
+    },
+    {
+      "detail": "User has been suspended: [kokodayo5150].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "kokodayo5150",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "kokodayo5150"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 959,
+        "media_key": "3_1999100640568676354",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G747cN9aEAIVfrC.jpg",
+        "width": 720
+      },
+      {
+        "height": 2731,
+        "media_key": "3_1999100952067133440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G747uWYbUAA3rDC.jpg",
+        "width": 4096
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1999101072544268288",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7471XMagAAxeiz.jpg",
+        "width": 2731
+      },
+      {
+        "height": 4096,
+        "media_key": "3_1999101135790243840",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G7475CzbgAAPp8E.jpg",
+        "width": 2731
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1999101315126116445",
+        "created_at": "2026-04-12T15:23:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T16:23:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043349189997060267"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1999007250829230080",
+              "start": 0,
+              "username": "DDaquaforever"
+            },
+            {
+              "end": 29,
+              "id": "1429829081684537345",
+              "start": 15,
+              "username": "Rabbubble550W"
+            },
+            {
+              "end": 45,
+              "id": "1865419581206208512",
+              "start": 30,
+              "username": "DDzhanshou5150"
+            },
+            {
+              "end": 59,
+              "id": "1158382980076716032",
+              "start": 46,
+              "username": "kokodayo5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043349189997060267",
+        "in_reply_to_user_id": "1999007250829230080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1999101315126116445",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDaquaforever @Rabbubble550W @DDzhanshou5150 @kokodayo5150 你原来的号呢"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1999100640568676354",
+            "3_1999100952067133440",
+            "3_1999101072544268288",
+            "3_1999101135790243840"
+          ]
+        },
+        "author_id": "1999007250829230080",
+        "conversation_id": "1999101315126116445",
+        "created_at": "2025-12-11T12:57:49.000Z",
+        "edit_controls": {
+          "editable_until": "2025-12-11T13:57:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1999101315126116445"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 45,
+              "id": "1429829081684537345",
+              "start": 31,
+              "username": "Rabbubble550W"
+            },
+            {
+              "end": 61,
+              "id": "1865419581206208512",
+              "start": 46,
+              "username": "DDzhanshou5150"
+            },
+            {
+              "end": 76,
+              "id": "1158382980076716032",
+              "start": 63,
+              "username": "kokodayo5150"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/GTNv98OO50",
+              "end": 143,
+              "expanded_url": "https://x.com/DDaquaforever/status/1999101315126116445/photo/1",
+              "media_key": "3_1999100640568676354",
+              "start": 120,
+              "url": "https://t.co/GTNv98OO50"
+            },
+            {
+              "display_url": "pic.x.com/GTNv98OO50",
+              "end": 143,
+              "expanded_url": "https://x.com/DDaquaforever/status/1999101315126116445/photo/1",
+              "media_key": "3_1999100952067133440",
+              "start": 120,
+              "url": "https://t.co/GTNv98OO50"
+            },
+            {
+              "display_url": "pic.x.com/GTNv98OO50",
+              "end": 143,
+              "expanded_url": "https://x.com/DDaquaforever/status/1999101315126116445/photo/1",
+              "media_key": "3_1999101072544268288",
+              "start": 120,
+              "url": "https://t.co/GTNv98OO50"
+            },
+            {
+              "display_url": "pic.x.com/GTNv98OO50",
+              "end": 143,
+              "expanded_url": "https://x.com/DDaquaforever/status/1999101315126116445/photo/1",
+              "media_key": "3_1999101135790243840",
+              "start": 120,
+              "url": "https://t.co/GTNv98OO50"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1999101315126116445",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 21,
+          "impression_count": 86160,
+          "like_count": 397,
+          "quote_count": 2,
+          "reply_count": 107,
+          "retweet_count": 67
+        },
+        "reply_settings": "everyone",
+        "text": "新置顶🔝\n名稱:早露泡泡兔\n暱稱:早子姐，早露，泡泡兔\n前世\n@rabbubble550w\n@DDzhanshou5150 \n@kokodayo5150\n 找回推油中\nKig志向: 出自己最喜歡的角色，與更多娃娃貼貼\nKig角色:湊阿庫婭 https://t.co/GTNv98OO50"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1885,
+          "following_count": 2638,
+          "like_count": 27670,
+          "listed_count": 11,
+          "media_count": 327,
+          "tweet_count": 9789
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-11T06:44:17.000Z",
+        "description": "英文名叫Poca\nCN早露泡泡兔\nkiger角色：凑阿库娅，早露（制作中）\n可爱对象YOYO：@vu_yoyo\n逃生舱：@Poca5150\n欢迎大家互关贴贴",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 55,
+                "start": 47,
+                "username": "vu_yoyo"
+              },
+              {
+                "end": 69,
+                "start": 60,
+                "username": "Poca5150"
+              }
+            ]
+          }
+        },
+        "id": "1999007250829230080",
+        "location": "Kowloon City District",
+        "name": "早露泡泡兔（四代目）寻回推油中",
+        "pinned_tweet_id": "1999101315126116445",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999012450235199488/oiXZrvSO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4323,
+          "following_count": 4880,
+          "like_count": 8765,
+          "listed_count": 13,
+          "media_count": 3118,
+          "tweet_count": 14491
+        },
+        "username": "DDaquaforever",
+        "verified": true
+      }
+    ]
+  }
+}

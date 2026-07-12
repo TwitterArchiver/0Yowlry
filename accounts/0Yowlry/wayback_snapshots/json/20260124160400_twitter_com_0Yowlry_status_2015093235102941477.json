@@ -1,0 +1,334 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2012502335852085612",
+    "created_at": "2026-01-24T16:04:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-01-24T17:04:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2015093235102941477"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1626578993821675521",
+          "start": 0,
+          "username": "linmen589064"
+        },
+        {
+          "end": 26,
+          "id": "1870313420807163904",
+          "start": 14,
+          "username": "IzayoiMarin"
+        },
+        {
+          "end": 40,
+          "id": "1751084995312275456",
+          "start": 27,
+          "username": "WikuWiku1911"
+        },
+        {
+          "end": 51,
+          "id": "1880325371280912386",
+          "start": 41,
+          "username": "genya1976"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2015093235102941477",
+    "in_reply_to_user_id": "1626578993821675521",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015091521658482909",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linmen589064 @IzayoiMarin @WikuWiku1911 @genya1976"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2015091521658482909].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2015091521658482909",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2015091521658482909"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2012502335852085612",
+        "created_at": "2026-01-24T16:04:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T17:04:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015093235102941477"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1626578993821675521",
+              "start": 0,
+              "username": "linmen589064"
+            },
+            {
+              "end": 26,
+              "id": "1870313420807163904",
+              "start": 14,
+              "username": "IzayoiMarin"
+            },
+            {
+              "end": 40,
+              "id": "1751084995312275456",
+              "start": 27,
+              "username": "WikuWiku1911"
+            },
+            {
+              "end": 51,
+              "id": "1880325371280912386",
+              "start": 41,
+              "username": "genya1976"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015093235102941477",
+        "in_reply_to_user_id": "1626578993821675521",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015091521658482909",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linmen589064 @IzayoiMarin @WikuWiku1911 @genya1976"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1834,
+          "following_count": 2485,
+          "like_count": 23044,
+          "listed_count": 10,
+          "media_count": 317,
+          "tweet_count": 8830
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-17T13:48:49.000Z",
+        "description": "一个普通的躺平教教主罢了|诚念躺平大法好，三不保平安不买房不生子享幸福人生l认真b滚，小狗@elonmusk",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 45,
+                "username": "elonmusk"
+              }
+            ]
+          }
+        },
+        "id": "1626578993821675521",
+        "name": "川和 丶秀策",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2012024309192278018/s_JJc7qN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1791,
+          "following_count": 450,
+          "like_count": 67355,
+          "listed_count": 4,
+          "media_count": 1023,
+          "tweet_count": 19637
+        },
+        "username": "linmen589064",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-21T03:40:57.000Z",
+        "description": "我的天空里没有太阳，总是黑夜，但并不暗，因为有东西代替了太阳。虽然没有太阳那么明亮，但对我来说已经足够。\n🔑：@IzayoiMarinn",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 68,
+                "start": 55,
+                "username": "IzayoiMarinn"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/ep1449270",
+                "end": 23,
+                "expanded_url": "https://b23.tv/ep1449270",
+                "start": 0,
+                "url": "https://t.co/BABPQroFMf"
+              }
+            ]
+          }
+        },
+        "id": "1870313420807163904",
+        "location": "HIS HEART",
+        "name": "まりん（浮気）",
+        "pinned_tweet_id": "2012535961541091520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2011846547357777923/79zd_F7Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2207,
+          "following_count": 2374,
+          "like_count": 34352,
+          "listed_count": 4,
+          "media_count": 1265,
+          "tweet_count": 15824
+        },
+        "url": "https://t.co/BABPQroFMf",
+        "username": "IzayoiMarin",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-27T03:30:20.000Z",
+        "description": "「私たちが経験した平凡な日常は、連続して起こる奇跡かもしれません」                                                                  友達！：@meguruKirara   Remi  @miku_suki393939 对象：@Mikuloverr_新教徒",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 116,
+                "start": 103,
+                "username": "meguruKirara"
+              },
+              {
+                "end": 141,
+                "start": 125,
+                "username": "miku_suki393939"
+              },
+              {
+                "end": 157,
+                "start": 145,
+                "username": "Mikuloverr_"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/LittIeStar/MyG…",
+                "end": 23,
+                "expanded_url": "https://github.com/LittIeStar/MyGameCode",
+                "start": 0,
+                "url": "https://t.co/TLtumacIN5"
+              }
+            ]
+          }
+        },
+        "id": "1751084995312275456",
+        "location": "「さよなら」じゃなく 「また明日ね」って言って",
+        "name": "Miku🥝✞",
+        "pinned_tweet_id": "1809865925849674203",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1996915949782581248/zpb98e3R_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3942,
+          "following_count": 1329,
+          "like_count": 38434,
+          "listed_count": 17,
+          "media_count": 2552,
+          "tweet_count": 14705
+        },
+        "url": "https://t.co/TLtumacIN5",
+        "username": "WikuWiku1911",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T18:44:47.000Z",
+        "description": "这是我的城堡🩸🌹📢⚔︎\n不定期对推特用户巡察并提出指导意见\n@zhu6hua\n🗣🇨🇳(native)🇺🇸(b2)🇷🇺(a2)\n大号 @hy1194527",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 30,
+                "username": "zhu6hua"
+              },
+              {
+                "end": 76,
+                "start": 66,
+                "username": "hy1194527"
+              }
+            ]
+          }
+        },
+        "id": "1880325371280912386",
+        "location": "Laniakea Supercluster",
+        "name": "江上 清風遊柒佰零捌號",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997530442392801280/5nU4CV20_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 256,
+          "following_count": 1101,
+          "like_count": 111188,
+          "listed_count": 2,
+          "media_count": 118,
+          "tweet_count": 1363
+        },
+        "username": "genya1976",
+        "verified": false
+      }
+    ]
+  }
+}

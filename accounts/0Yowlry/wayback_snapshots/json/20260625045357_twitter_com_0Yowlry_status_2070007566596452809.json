@@ -1,0 +1,353 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2069843337969098860",
+    "created_at": "2026-06-25T04:53:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-25T05:53:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2070007566596452809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1703297947121901568",
+          "start": 0,
+          "username": "xue_zhi2008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2070007566596452809",
+    "in_reply_to_user_id": "1703297947121901568",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069843337969098860",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xue_zhi2008 🥺🥺🥰🥰🥳🥳🥳"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2069843292196610048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLmPgfwaoAAYAhd.jpg",
+        "width": 1919
+      },
+      {
+        "height": 1726,
+        "media_key": "3_2069843292305657856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HLmPggKakAAzoUz.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2069843337969098860",
+        "created_at": "2026-06-25T04:53:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-25T05:53:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2070007566596452809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1703297947121901568",
+              "start": 0,
+              "username": "xue_zhi2008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2070007566596452809",
+        "in_reply_to_user_id": "1703297947121901568",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069843337969098860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xue_zhi2008 🥺🥺🥰🥰🥳🥳🥳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2069843292196610048",
+            "3_2069843292305657856"
+          ]
+        },
+        "author_id": "1703297947121901568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for New Years Eve for all years.",
+              "id": "1319305164751163393",
+              "name": "New Years Eve"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Holidays",
+              "id": "847548225712119808",
+              "name": "Holidays"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1296381531510849536",
+              "name": "New Years Eve\t"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversations for the New Year's day for all years. ",
+              "id": "1457786335108816904",
+              "name": "New Year's day"
+            }
+          }
+        ],
+        "conversation_id": "2069843337969098860",
+        "created_at": "2026-06-24T18:01:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-24T19:01:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2069843337969098860"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/pguVQxuUzi",
+              "end": 165,
+              "expanded_url": "https://x.com/xue_zhi2008/status/2069843337969098860/photo/1",
+              "media_key": "3_2069843292196610048",
+              "start": 142,
+              "url": "https://t.co/pguVQxuUzi"
+            },
+            {
+              "display_url": "pic.x.com/pguVQxuUzi",
+              "end": 165,
+              "expanded_url": "https://x.com/xue_zhi2008/status/2069843337969098860/photo/1",
+              "media_key": "3_2069843292305657856",
+              "start": 142,
+              "url": "https://t.co/pguVQxuUzi"
+            },
+            {
+              "display_url": "x.com/xue_zhi2008/st…",
+              "end": 189,
+              "expanded_url": "https://twitter.com/xue_zhi2008/status/2069838113413980173",
+              "start": 166,
+              "url": "https://t.co/3dLMVULGTt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2069843337969098860",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 3262,
+          "like_count": 54,
+          "quote_count": 0,
+          "reply_count": 14,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069838113413980173",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "这个高三我经历了也做了很多事情，从还没开学确诊强直，到久坐不能即使回家也无法一直学习…最终还算有成效但也失误频出大不如预期了\n这年上了三次手术台住了两次院，还在一次旅居就医的夜里表了白。但也做了11个城市的过客，在情人节和新年前夕见了心爱的人，也从不甘转而确信这样才是最真切的生活… https://t.co/pguVQxuUzi https://t.co/3dLMVULGTt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶\n\nAnime | Minecraft | Aerospace | Girls Band | Game | Journey | Natural Science",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2131,
+          "following_count": 3129,
+          "like_count": 41847,
+          "listed_count": 10,
+          "media_count": 371,
+          "tweet_count": 13140
+        },
+        "url": "",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-17T06:41:15.000Z",
+        "description": "member of @MtFwiki ||\n观上下至前后，知里外于左右 || 过期JK（悲）/医学与药物/有机化学/分子生物学/逻辑学/声乐/摄影（喜欢是一方面，啊我太菜了×）|| Arknights/Endfield/maimaiDX || 查完成分记得 ↑是我的投影 ↓是鲜活的我",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 10,
+                "username": "MtFwiki"
+              }
+            ]
+          }
+        },
+        "id": "1703297947121901568",
+        "name": "织织织织织",
+        "pinned_tweet_id": "1907327813289730421",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2024737262987251713/RPkPlRXB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2197,
+          "following_count": 554,
+          "like_count": 7905,
+          "listed_count": 6,
+          "media_count": 820,
+          "tweet_count": 3059
+        },
+        "url": "",
+        "username": "xue_zhi2008",
+        "verified": false
+      }
+    ]
+  }
+}

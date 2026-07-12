@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2042870122646483283",
+    "created_at": "2026-04-12T12:59:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-04-12T13:59:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2043313026984767778"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1975500696427581440",
+          "start": 0,
+          "username": "TReverie_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2043313026984767778",
+    "in_reply_to_user_id": "1975500696427581440",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042870122646483283",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TReverie_ 这么新啊，有没有1.21.8的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 956,
+        "media_key": "3_2042866219804741632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFm4ANsbUAAt36-.jpg",
+        "width": 1483
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2042870122646483283",
+        "created_at": "2026-04-12T12:59:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-12T13:59:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2043313026984767778"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1975500696427581440",
+              "start": 0,
+              "username": "TReverie_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2043313026984767778",
+        "in_reply_to_user_id": "1975500696427581440",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042870122646483283",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TReverie_ 这么新啊，有没有1.21.8的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042866219804741632"
+          ]
+        },
+        "author_id": "1975500696427581440",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          }
+        ],
+        "conversation_id": "2042870122646483283",
+        "created_at": "2026-04-11T07:39:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-11T08:39:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2042870122646483283"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "mc.treverie.com",
+              "end": 50,
+              "expanded_url": "http://mc.treverie.com",
+              "start": 27,
+              "unwound_url": "http://mc.treverie.com",
+              "url": "https://t.co/i2XjbkZwbb"
+            },
+            {
+              "display_url": "pic.x.com/60QzUUMOVX",
+              "end": 138,
+              "expanded_url": "https://x.com/TReverie_/status/2042870122646483283/photo/1",
+              "media_key": "3_2042866219804741632",
+              "start": 115,
+              "url": "https://t.co/60QzUUMOVX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042870122646483283",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 141,
+          "impression_count": 15131,
+          "like_count": 267,
+          "quote_count": 3,
+          "reply_count": 29,
+          "retweet_count": 16
+        },
+        "reply_settings": "everyone",
+        "text": "好无聊😭\n有人来我Minecraft服务器玩吗\n地址:https://t.co/i2XjbkZwbb\n版本:Vanilla/Fabric 26.1.2\n类型: Anarchy\n结束时期: 2026年6月8日\n欢迎全世界的人们加入 https://t.co/60QzUUMOVX"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1885,
+          "following_count": 2635,
+          "like_count": 27654,
+          "listed_count": 11,
+          "media_count": 327,
+          "tweet_count": 9786
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-07T09:57:40.000Z",
+        "description": "Being anti-CCP inside China",
+        "id": "1975500696427581440",
+        "location": "China",
+        "name": "Tiny Reverie🇺🇸✝️",
+        "pinned_tweet_id": "2041716413640143032",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039332456013434880/9zKCGhL1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8307,
+          "following_count": 1641,
+          "like_count": 21345,
+          "listed_count": 68,
+          "media_count": 1451,
+          "tweet_count": 4548
+        },
+        "username": "TReverie_",
+        "verified": true
+      }
+    ]
+  }
+}

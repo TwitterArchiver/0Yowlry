@@ -1,0 +1,225 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2061762236604170427",
+    "created_at": "2026-06-05T18:37:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-05T19:37:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2062966951299957049"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1799623143683944448",
+          "start": 0,
+          "username": "weiguoqingGX"
+        },
+        {
+          "end": 30,
+          "id": "1616696567549034496",
+          "start": 14,
+          "username": "LovelyJerry2013"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2062966951299957049",
+    "in_reply_to_user_id": "1799623143683944448",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2061814836875694558",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@weiguoqingGX @LovelyJerry2013 😙😙"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2061814836875694558].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2061814836875694558",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2061814836875694558"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2061762236604170427",
+        "created_at": "2026-06-05T18:37:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-05T19:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2062966951299957049"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1799623143683944448",
+              "start": 0,
+              "username": "weiguoqingGX"
+            },
+            {
+              "end": 30,
+              "id": "1616696567549034496",
+              "start": 14,
+              "username": "LovelyJerry2013"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062966951299957049",
+        "in_reply_to_user_id": "1799623143683944448",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2061814836875694558",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@weiguoqingGX @LovelyJerry2013 😙😙"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1,
+          "following_count": 3,
+          "like_count": 83,
+          "listed_count": 0,
+          "media_count": 361,
+          "tweet_count": 11839
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-09T02:03:20.000Z",
+        "description": "中国，向何处去？",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "xijinpingnb.cn",
+                "end": 23,
+                "expanded_url": "http://xijinpingnb.cn",
+                "start": 0,
+                "url": "https://t.co/NaO2d8e7KJ"
+              }
+            ]
+          }
+        },
+        "id": "1799623143683944448",
+        "location": "中华人民公社",
+        "name": "🚩山田凉前辈📕☭（淡推）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031298376592154624/uVqzrgj8_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 635,
+          "following_count": 808,
+          "like_count": 10401,
+          "listed_count": 1,
+          "media_count": 529,
+          "tweet_count": 3480
+        },
+        "url": "https://t.co/NaO2d8e7KJ",
+        "username": "weiguoqingGX",
+        "verified": false
+      },
+      {
+        "created_at": "2023-01-21T07:18:09.000Z",
+        "description": "重度社交恐惧\\历史学\\ Trotskyism ☭⁴\\异端托派\\mtx🏳️‍⚧️enby\\无证🍥\\Lolita\\DDLC&Just Yuri💜芙兰秀秀\\香风智乃\\晓美焰\\猫和老鼠\\q娃\\北方谦三\\HMS光辉号\\幸德秋水\\我是花枝鼠🐭\\2013\\照片大部分在媒体里\\里推@KawaiiYuri2013",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 148,
+                "start": 133,
+                "username": "KawaiiYuri2013"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marxists.org/chinese/",
+                "end": 23,
+                "expanded_url": "http://marxists.org/chinese/",
+                "start": 0,
+                "url": "https://t.co/UnTrdQVDUJ"
+              }
+            ]
+          }
+        },
+        "id": "1616696567549034496",
+        "location": "佐賀県唐津市",
+        "name": "✧*♡𝓝𝓪𝓽𝓼𝓾𝓶𝓮𝓢𝓱𝓾𝓼𝓾𝓲♡*⊹🍀✒️🍬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062447079079997440/khQWhWY5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 968,
+          "following_count": 1503,
+          "like_count": 51846,
+          "listed_count": 4,
+          "media_count": 287,
+          "tweet_count": 4165
+        },
+        "url": "https://t.co/UnTrdQVDUJ",
+        "username": "LovelyJerry2013",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,322 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1944274936786563345",
+    "created_at": "2025-07-14T08:11:02.000Z",
+    "edit_controls": {
+      "editable_until": "2025-07-14T09:11:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1944670961330196975"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1774264719773409280",
+          "start": 0,
+          "username": "sfflee2222"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1944670961330196975",
+    "in_reply_to_user_id": "1774264719773409280",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1944274936786563345",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sfflee2222 是的"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1944274931388493825",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvtzv7cbsAE3P1v.jpg",
+        "width": 2048
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1944274932482842624",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/Gvtzv_hWIAArWbd.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1944274936786563345",
+        "created_at": "2025-07-14T08:11:02.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-14T09:11:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1944670961330196975"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1774264719773409280",
+              "start": 0,
+              "username": "sfflee2222"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944670961330196975",
+        "in_reply_to_user_id": "1774264719773409280",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1944274936786563345",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sfflee2222 是的"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1944274931388493825",
+            "3_1944274932482842624"
+          ]
+        },
+        "author_id": "1774264719773409280",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "1944274936786563345",
+        "created_at": "2025-07-13T05:57:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-13T06:57:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1944274936786563345"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0f1Uck8wlc",
+              "end": 67,
+              "expanded_url": "https://x.com/sfflee2222/status/1944274936786563345/photo/1",
+              "media_key": "3_1944274931388493825",
+              "start": 44,
+              "url": "https://t.co/0f1Uck8wlc"
+            },
+            {
+              "display_url": "pic.x.com/0f1Uck8wlc",
+              "end": 67,
+              "expanded_url": "https://x.com/sfflee2222/status/1944274936786563345/photo/1",
+              "media_key": "3_1944274932482842624",
+              "start": 44,
+              "url": "https://t.co/0f1Uck8wlc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1944274936786563345",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 141,
+          "like_count": 5,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "在google地图和YouTube 上看过无数遍的一模一样的街景，果然要亲自来才有感觉 https://t.co/0f1Uck8wlc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "Yowlry",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900279853762392066/nf5oFqCF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1707,
+          "following_count": 2298,
+          "like_count": 16020,
+          "listed_count": 6,
+          "media_count": 288,
+          "tweet_count": 6379
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-31T02:37:37.000Z",
+        "description": "",
+        "id": "1774264719773409280",
+        "location": "中国，广州",
+        "name": "🇦🇶世界企鹅🐧日万岁🙌🏻",
+        "pinned_tweet_id": "1835918114938290560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917276754840113152/b7i5k3wh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 416,
+          "following_count": 588,
+          "like_count": 20863,
+          "listed_count": 2,
+          "media_count": 205,
+          "tweet_count": 834
+        },
+        "username": "sfflee2222",
+        "verified": false
+      }
+    ]
+  }
+}

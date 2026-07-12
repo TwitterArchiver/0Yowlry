@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1880798963965874513",
+    "created_at": "2025-11-05T17:08:22.000Z",
+    "edit_controls": {
+      "editable_until": "2025-11-05T18:08:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1986118403728547960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1362960365055668225",
+          "start": 0,
+          "username": "POI74103174"
+        },
+        {
+          "end": 23,
+          "id": "1459933885974953984",
+          "start": 13,
+          "username": "zhao_mama"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1986118403728547960",
+    "in_reply_to_user_id": "1362960365055668225",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1880801663273050440",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@POI74103174 @zhao_mama 😵"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [zhao_mama].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "zhao_mama",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "zhao_mama"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1880798963965874513",
+        "created_at": "2025-11-05T17:08:22.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-05T18:08:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986118403728547960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1362960365055668225",
+              "start": 0,
+              "username": "POI74103174"
+            },
+            {
+              "end": 23,
+              "id": "1459933885974953984",
+              "start": 13,
+              "username": "zhao_mama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986118403728547960",
+        "in_reply_to_user_id": "1362960365055668225",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880801663273050440",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@POI74103174 @zhao_mama 😵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1362960365055668225",
+        "conversation_id": "1880798963965874513",
+        "created_at": "2025-01-19T02:17:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-01-19T03:17:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1880801663273050440"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 27,
+              "id": "1459933885974953984",
+              "start": 17,
+              "username": "zhao_mama"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1880801663273050440",
+        "in_reply_to_user_id": "1796349415650664448",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 564,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1880798963965874513",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@KawaiiCheshire_ @zhao_mama ？"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している\n\n@rosmarinou",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 31,
+                "start": 20,
+                "username": "rosmarinou"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1866,
+          "following_count": 2513,
+          "like_count": 22177,
+          "listed_count": 9,
+          "media_count": 311,
+          "tweet_count": 8480
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2021-02-20T03:00:58.000Z",
+        "description": "叫Poi就好啦。永远最喜欢的哥哥@kinpeimoment615；藝術系留学生／小市民；甘いものと冬と北海道が好き。(经常打错字，互动得多的话可能会回fo哦。🍡@Poi74103175",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 32,
+                "start": 16,
+                "username": "kinpeimoment615"
+              },
+              {
+                "end": 92,
+                "start": 80,
+                "username": "Poi74103175"
+              }
+            ]
+          }
+        },
+        "id": "1362960365055668225",
+        "location": "凤凰花开的路口",
+        "name": "鸛鳥踟躕",
+        "pinned_tweet_id": "1786390162064433658",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1939208765053575168/rkOBGkcd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3050,
+          "following_count": 338,
+          "like_count": 64797,
+          "listed_count": 10,
+          "media_count": 2560,
+          "tweet_count": 22729
+        },
+        "username": "POI74103174",
+        "verified": false
+      }
+    ]
+  }
+}

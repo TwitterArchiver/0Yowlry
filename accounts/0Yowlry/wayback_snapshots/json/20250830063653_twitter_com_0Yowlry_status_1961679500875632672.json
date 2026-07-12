@@ -1,0 +1,158 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "7_1961679474451517445"
+      ]
+    },
+    "author_id": "1839263401845075974",
+    "conversation_id": "1961679500875632672",
+    "created_at": "2025-08-30T06:36:53.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-30T07:36:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "1961679500875632672"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/IwRd2XPVTp",
+          "end": 23,
+          "expanded_url": "https://x.com/0Yowlry/status/1961679500875632672/video/1",
+          "media_key": "7_1961679474451517445",
+          "start": 0,
+          "url": "https://t.co/IwRd2XPVTp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1961679500875632672",
+    "lang": "zxx",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "https://t.co/IwRd2XPVTp"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 8100,
+        "height": 720,
+        "media_key": "7_1961679474451517445",
+        "preview_image_url": "https://pbs.twimg.com/ext_tw_video_thumb/1961679474451517445/pu/img/sgUs229-VuLPF68H.jpg",
+        "public_metrics": {
+          "view_count": 0
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1961679474451517445/pu/vid/avc1/320x320/6V19hAo8WJUuLMxN.mp4?tag=12"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1961679474451517445/pu/vid/avc1/540x540/Y_4A2_oaU6F7BWKK.mp4?tag=12"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/ext_tw_video/1961679474451517445/pu/vid/avc1/720x720/FmX58RKxgF1yBd2H.mp4?tag=12"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/ext_tw_video/1961679474451517445/pu/pl/5otHHkv1YC8Loa6C.m3u8?tag=12"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "7_1961679474451517445"
+          ]
+        },
+        "author_id": "1839263401845075974",
+        "conversation_id": "1961679500875632672",
+        "created_at": "2025-08-30T06:36:53.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-30T07:36:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1961679500875632672"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IwRd2XPVTp",
+              "end": 23,
+              "expanded_url": "https://x.com/0Yowlry/status/1961679500875632672/video/1",
+              "media_key": "7_1961679474451517445",
+              "start": 0,
+              "url": "https://t.co/IwRd2XPVTp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1961679500875632672",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/IwRd2XPVTp"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "TMTV",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960048268525858816/MjMpG-1y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1805,
+          "following_count": 2404,
+          "like_count": 18377,
+          "listed_count": 10,
+          "media_count": 302,
+          "tweet_count": 7509
+        },
+        "username": "0Yowlry",
+        "verified": false
+      }
+    ]
+  }
+}

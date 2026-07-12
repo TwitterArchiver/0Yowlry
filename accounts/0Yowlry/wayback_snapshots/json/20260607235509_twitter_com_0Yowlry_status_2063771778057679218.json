@@ -1,0 +1,178 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2063658137077592527",
+    "created_at": "2026-06-07T23:55:09.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-08T00:55:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2063771778057679218"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1549268398718062592",
+          "start": 0,
+          "username": "Virtualize9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2063771778057679218",
+    "in_reply_to_user_id": "1549268398718062592",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2063658137077592527",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Virtualize9 打伞."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2063658137077592527",
+        "created_at": "2026-06-07T23:55:09.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-08T00:55:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2063771778057679218"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1549268398718062592",
+              "start": 0,
+              "username": "Virtualize9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2063771778057679218",
+        "in_reply_to_user_id": "1549268398718062592",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2063658137077592527",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Virtualize9 打伞."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1549268398718062592",
+        "conversation_id": "2063658137077592527",
+        "created_at": "2026-06-07T16:23:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-07T17:23:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2063658137077592527"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2063658137077592527",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 13,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "下暴雨了，家人们。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2073,
+          "following_count": 2958,
+          "like_count": 36869,
+          "listed_count": 10,
+          "media_count": 364,
+          "tweet_count": 11967
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-19T05:42:38.000Z",
+        "description": "",
+        "id": "1549268398718062592",
+        "location": "USA",
+        "name": "Universe",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047328024467738624/qjXtquiW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 113,
+          "following_count": 338,
+          "like_count": 42,
+          "listed_count": 0,
+          "media_count": 8,
+          "tweet_count": 461
+        },
+        "username": "Virtualize9",
+        "verified": false
+      }
+    ]
+  }
+}

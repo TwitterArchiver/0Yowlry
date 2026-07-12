@@ -1,0 +1,216 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1954930382429987115",
+    "created_at": "2025-08-13T07:54:25.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-13T08:54:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1955538418517283059"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1865419581206208512",
+          "start": 0,
+          "username": "DDzhanshou5150"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1955538418517283059",
+    "in_reply_to_user_id": "1865419581206208512",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1954930382429987115",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DDzhanshou5150 系数*基数的权次幂，再让每一部分的结果相加\n系数：每一位上的数字\n基数：当前进制数\n权：从右往左依次为0，1，2，3，4，5……\n例：二进制101转换为十进制，每一位都按照“系数*基数的权次幂”，从右往左的第一位上的1套用公式计算1*2^0，第二位是0*2^1，第三位是1*2^2，结果是1+0+4=5"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 362,
+        "media_key": "3_1954930189517086720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GyFOplLaYAAlomk.png",
+        "width": 873
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1954930382429987115",
+        "created_at": "2025-08-13T07:54:25.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-13T08:54:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1955538418517283059"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1865419581206208512",
+              "start": 0,
+              "username": "DDzhanshou5150"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1955538418517283059",
+        "in_reply_to_user_id": "1865419581206208512",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1954930382429987115",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DDzhanshou5150 系数*基数的权次幂，再让每一部分的结果相加\n系数：每一位上的数字\n基数：当前进制数\n权：从右往左依次为0，1，2，3，4，5……\n例：二进制101转换为十进制，每一位都按照“系数*基数的权次幂”，从右往左的第一位上的1套用公式计算1*2^0，第二位是0*2^1，第三位是1*2^2，结果是1+0+4=5"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1954930189517086720"
+          ]
+        },
+        "author_id": "1865419581206208512",
+        "conversation_id": "1954930382429987115",
+        "created_at": "2025-08-11T15:38:18.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-11T16:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1954930382429987115"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bgkENjh42R",
+              "end": 31,
+              "expanded_url": "https://x.com/DDzhanshou5150/status/1954930382429987115/photo/1",
+              "media_key": "3_1954930189517086720",
+              "start": 8,
+              "url": "https://t.co/bgkENjh42R"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "0151348954a4147f"
+        },
+        "id": "1954930382429987115",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 15870,
+          "like_count": 156,
+          "quote_count": 3,
+          "reply_count": 203,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "看看你的qwq https://t.co/bgkENjh42R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "Yowlry",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900279853762392066/nf5oFqCF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1786,
+          "following_count": 2389,
+          "like_count": 17742,
+          "listed_count": 7,
+          "media_count": 294,
+          "tweet_count": 7294
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-07T15:34:33.000Z",
+        "description": "啊夸单推人 fo咱的咱会尽量回fo 没fo回去就是到限制了 YOYO小可爱@vu_yoyo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 37,
+                "username": "vu_yoyo"
+              }
+            ]
+          }
+        },
+        "id": "1865419581206208512",
+        "name": "早露泡泡兔",
+        "pinned_tweet_id": "1894717736468803636",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1948968254443323393/ZIfIv4ZA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5719,
+          "following_count": 5546,
+          "like_count": 19259,
+          "listed_count": 10,
+          "media_count": 3624,
+          "tweet_count": 27483
+        },
+        "username": "DDzhanshou5150",
+        "verified": false
+      }
+    ]
+  }
+}

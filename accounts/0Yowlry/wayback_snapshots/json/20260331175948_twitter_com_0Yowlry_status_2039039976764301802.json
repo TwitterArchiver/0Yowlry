@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2039014919908307044",
+    "created_at": "2026-03-31T17:59:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-03-31T18:59:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2039039976764301802"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1880325371280912386",
+          "start": 0,
+          "username": "genya1976"
+        },
+        {
+          "end": 22,
+          "id": "1718275785948286976",
+          "start": 11,
+          "username": "Tinkles_12"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2039039976764301802",
+    "in_reply_to_user_id": "1880325371280912386",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039029576404173112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@genya1976 @Tinkles_12 严肃观看粉色奶龙也是一种精神上的吃糖"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2039029576404173112].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2039029576404173112",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2039029576404173112"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2039014919908307044",
+        "created_at": "2026-03-31T17:59:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-31T18:59:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2039039976764301802"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1880325371280912386",
+              "start": 0,
+              "username": "genya1976"
+            },
+            {
+              "end": 22,
+              "id": "1718275785948286976",
+              "start": 11,
+              "username": "Tinkles_12"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2039039976764301802",
+        "in_reply_to_user_id": "1880325371280912386",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039029576404173112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@genya1976 @Tinkles_12 严肃观看粉色奶龙也是一种精神上的吃糖"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1857,
+          "following_count": 2577,
+          "like_count": 26040,
+          "listed_count": 11,
+          "media_count": 325,
+          "tweet_count": 9420
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-17T18:44:47.000Z",
+        "description": "这是我的城堡🩸🌹📢\n\n@zhu6hua\n\n波兰立陶宛联合王国酒蒙子🦅📢⚔️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 11,
+                "username": "zhu6hua"
+              }
+            ]
+          }
+        },
+        "id": "1880325371280912386",
+        "location": "Laniakea Supercluster ",
+        "name": "江上 清風遊⚔️🩸🌹",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2027094251964895232/6U4t83hN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 259,
+          "following_count": 1382,
+          "like_count": 121159,
+          "listed_count": 2,
+          "media_count": 172,
+          "tweet_count": 1759
+        },
+        "username": "genya1976",
+        "verified": false
+      },
+      {
+        "created_at": "2023-10-28T14:37:47.000Z",
+        "description": "无趣且乏味，但这就是我。\n我喜欢变态，但我不是变态。\n小帮手 @kitsunezk_ri  伙伴猫 @keaistar_  我蝶→ @IXXA00    \n种族矛盾和立场分歧可以随时代化解，但是正邪永不两立。",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 31,
+                "username": "kitsunezk_ri"
+              },
+              {
+                "end": 60,
+                "start": 50,
+                "username": "keaistar_"
+              },
+              {
+                "end": 73,
+                "start": 66,
+                "username": "IXXA00"
+              }
+            ]
+          }
+        },
+        "id": "1718275785948286976",
+        "location": "哥谭市阿卡姆学院",
+        "name": "丨鎮魂丨Tinkles",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2008732031925325824/0NrrOM5j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1553,
+          "following_count": 1649,
+          "like_count": 134897,
+          "listed_count": 15,
+          "media_count": 351,
+          "tweet_count": 19455
+        },
+        "username": "Tinkles_12",
+        "verified": false
+      }
+    ]
+  }
+}

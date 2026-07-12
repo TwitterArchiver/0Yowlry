@@ -1,0 +1,724 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile gaming",
+          "id": "847527946864607232",
+          "name": "Mobile gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "description": "Pokémon Go",
+          "id": "855314515612782594",
+          "name": "Pokémon GO"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+          "id": "10045599546",
+          "name": "Pokémon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+          "id": "10045599546",
+          "name": "Pokémon"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Pokémon Go",
+          "id": "855314515612782594",
+          "name": "Pokémon GO"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1576989683363434496",
+          "name": "Augmented reality games"
+        }
+      }
+    ],
+    "conversation_id": "2074282735578067105",
+    "created_at": "2026-07-08T09:53:45.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-08T10:53:45.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2074794056132210960"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "2839430431",
+          "start": 0,
+          "username": "PokemonGoApp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2074794056132210960",
+    "in_reply_to_user_id": "2839430431",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074282735578067105",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@PokemonGoApp i like it"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 512,
+        "media_key": "3_2074280975295721472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HMlTjpjaMAA-gJC.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Pokémon Go",
+              "id": "855314515612782594",
+              "name": "Pokémon GO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pokémon Go",
+              "id": "855314515612782594",
+              "name": "Pokémon GO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1576989683363434496",
+              "name": "Augmented reality games"
+            }
+          }
+        ],
+        "conversation_id": "2074282735578067105",
+        "created_at": "2026-07-08T09:53:45.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-08T10:53:45.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2074794056132210960"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "2839430431",
+              "start": 0,
+              "username": "PokemonGoApp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074794056132210960",
+        "in_reply_to_user_id": "2839430431",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074282735578067105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@PokemonGoApp i like it"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2074280975295721472"
+          ]
+        },
+        "author_id": "2839430431",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Twitch",
+              "id": "1054826545758396416",
+              "name": "Twitch"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "Pokémon Go",
+              "id": "855314515612782594",
+              "name": "Pokémon GO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable. **NOTE: Annotations redirected to domain 130 ONLY on 8/7/18.",
+              "id": "10045599546",
+              "name": "Pokémon"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Pokémon Go",
+              "id": "855314515612782594",
+              "name": "Pokémon GO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Twitch",
+              "id": "1054826545758396416",
+              "name": "Twitch"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1576989683363434496",
+              "name": "Augmented reality games"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "No aniversário de 26 anos da franquia, a Pokémon Company realiza uma conferência de 15 minutos para mostrar novidades relacionadas ao mundo dos monstros de bolso. Entre os lançamentos recentes estão 'Legends: Arceus', 'Brilliant Diamond' e 'Shining Pearl' para o Nintendo Switch. A empresa não revelou se apresentação terá novidades sobre os jogos ou se irá anunciar novos produtos. \n\nVeja, abaixo, Tweets de jornalistas e veículos sobre a apresentação. O conteúdo é detectado por algoritmo.",
+              "id": "1497307375245484033",
+              "name": "Pokémon Presents: veja os Tweets com os anúncios da apresentação"
+            }
+          }
+        ],
+        "conversation_id": "2074282735578067105",
+        "created_at": "2026-07-07T00:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-07T01:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074282735578067105"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 134,
+              "start": 124,
+              "tag": "PokemonGO"
+            },
+            {
+              "end": 211,
+              "start": 199,
+              "tag": "PokemonGO10"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Welcome to the official Pokémon GO Twitch page. Now’s your chance to discover and capture the Pokémon all around you—so put your shoes on, step outside, and explore the world with Pokémon GO.",
+              "display_url": "twitch.tv/pokemongo",
+              "end": 198,
+              "expanded_url": "http://www.twitch.tv/pokemongo",
+              "images": [
+                {
+                  "height": 300,
+                  "url": "https://pbs.twimg.com/news_img/2074282780675252224/17lJSO1e?format=png&name=orig",
+                  "width": 300
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2074282780675252224/17lJSO1e?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 175,
+              "status": 200,
+              "title": "PokemonGO - Twitch",
+              "unwound_url": "https://www.twitch.tv/pokemongo",
+              "url": "https://t.co/18qJWhbIvv"
+            },
+            {
+              "display_url": "pic.x.com/w8Sw2j7r85",
+              "end": 235,
+              "expanded_url": "https://x.com/PokemonGoApp/status/2074282735578067105/photo/1",
+              "media_key": "3_2074280975295721472",
+              "start": 212,
+              "url": "https://t.co/w8Sw2j7r85"
+            },
+            {
+              "display_url": "x.com/PokemonGoApp/s…",
+              "end": 259,
+              "expanded_url": "https://twitter.com/PokemonGoApp/status/2074237029718663476",
+              "start": 236,
+              "url": "https://t.co/hrgZ0tmDdi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074282735578067105",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 441,
+          "impression_count": 283716,
+          "like_count": 1435,
+          "quote_count": 20,
+          "reply_count": 47,
+          "retweet_count": 194
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074237029718663476",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Tune in to our Pokémon GO 10th Anniversary Celebration broadcast on July 9 for a continuous 30 minutes to earn a variety of #PokemonGO digital rewards through Twitch Drops! \n\nhttps://t.co/18qJWhbIvv\n#PokemonGO10 https://t.co/w8Sw2j7r85 https://t.co/hrgZ0tmDdi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Aerospace | Girls Band | Game | Journey | Natural Science",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2211,
+          "following_count": 3311,
+          "like_count": 45760,
+          "listed_count": 10,
+          "media_count": 376,
+          "tweet_count": 14260
+        },
+        "url": "",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2014-10-03T22:04:17.000Z",
+        "description": "Discover @Pokemon in the real world! Follow us for official Pokémon GO updates.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 9,
+                "username": "Pokemon"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "pokemongolive.com",
+                "end": 23,
+                "expanded_url": "https://pokemongolive.com/",
+                "start": 0,
+                "url": "https://t.co/6ngCJifATH"
+              }
+            ]
+          }
+        },
+        "id": "2839430431",
+        "name": "Pokémon GO",
+        "pinned_tweet_id": "2074221895617069254",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1510172528420950016/hN53x7OS_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4199769,
+          "following_count": 29,
+          "like_count": 604,
+          "listed_count": 7353,
+          "media_count": 70910,
+          "tweet_count": 73559
+        },
+        "url": "https://t.co/6ngCJifATH",
+        "username": "PokemonGoApp",
+        "verified": true
+      }
+    ]
+  }
+}

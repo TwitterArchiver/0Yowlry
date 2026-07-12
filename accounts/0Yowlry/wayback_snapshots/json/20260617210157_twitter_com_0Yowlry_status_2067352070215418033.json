@@ -1,0 +1,304 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1975423569237848423",
+    "created_at": "2026-06-17T21:01:57.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-17T22:01:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2067352070215418033"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1794617194954850304",
+          "start": 0,
+          "username": "Baixiaoming0707"
+        },
+        {
+          "end": 30,
+          "id": "1559223020245331971",
+          "start": 17,
+          "username": "tiegang10086"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2067352070215418033",
+    "in_reply_to_user_id": "1794617194954850304",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1975446282769776930",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Baixiaoming0707 @tiegang10086 哈哈哈"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [tiegang10086].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "tiegang10086",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "tiegang10086"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_1975446256395620352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G2ox52FWEAAqRRJ.jpg",
+        "width": 921
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1975423569237848423",
+        "created_at": "2026-06-17T21:01:57.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-17T22:01:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2067352070215418033"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1794617194954850304",
+              "start": 0,
+              "username": "Baixiaoming0707"
+            },
+            {
+              "end": 30,
+              "id": "1559223020245331971",
+              "start": 17,
+              "username": "tiegang10086"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067352070215418033",
+        "in_reply_to_user_id": "1794617194954850304",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975446282769776930",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Baixiaoming0707 @tiegang10086 哈哈哈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1975446256395620352"
+          ]
+        },
+        "author_id": "1794617194954850304",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "1975423569237848423",
+        "created_at": "2025-10-07T06:21:10.000Z",
+        "edit_controls": {
+          "editable_until": "2025-10-07T07:21:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1975446282769776930"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 28,
+              "id": "1559223020245331971",
+              "start": 15,
+              "username": "tiegang10086"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/5KT0DwT5Dz",
+              "end": 54,
+              "expanded_url": "https://x.com/Baixiaoming0707/status/1975446282769776930/photo/1",
+              "media_key": "3_1975446256395620352",
+              "start": 31,
+              "url": "https://t.co/5KT0DwT5Dz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1975446282769776930",
+        "in_reply_to_user_id": "1927174135391662080",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1364,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1975438316008055240",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JunfengHaoyiu @tiegang10086 🤡 https://t.co/5KT0DwT5Dz"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2114,
+          "following_count": 3100,
+          "like_count": 40711,
+          "listed_count": 10,
+          "media_count": 368,
+          "tweet_count": 12846
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-26T06:31:28.000Z",
+        "description": "我回归了，是本人，不是晶哥，不鉴证 | 不著名螺蛳粉与学校蛋挞爱好者 | 08年广西土著 | 简中/正體/En | 政史地亡命文科生 | 助ta们涨粉:@virtual_kaf @gen_senden @pp71294406 @IzayoiMarin @brandon94623 @oldsddl4gunmu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 88,
+                "start": 76,
+                "username": "virtual_kaf"
+              },
+              {
+                "end": 100,
+                "start": 89,
+                "username": "gen_senden"
+              },
+              {
+                "end": 112,
+                "start": 101,
+                "username": "pp71294406"
+              },
+              {
+                "end": 125,
+                "start": 113,
+                "username": "IzayoiMarin"
+              },
+              {
+                "end": 139,
+                "start": 126,
+                "username": "brandon94623"
+              },
+              {
+                "end": 154,
+                "start": 140,
+                "username": "oldsddl4gunmu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/TvdkBws4WA",
+                "end": 23,
+                "expanded_url": "https://discord.gg/TvdkBws4WA",
+                "start": 0,
+                "url": "https://t.co/XlFsCAnMQ6"
+              }
+            ]
+          }
+        },
+        "id": "1794617194954850304",
+        "location": "你后面",
+        "name": "白小铭",
+        "pinned_tweet_id": "1961780054662295565",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1923928431512707072/VKPjgBRW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1890,
+          "following_count": 1561,
+          "like_count": 18622,
+          "listed_count": 11,
+          "media_count": 975,
+          "tweet_count": 5808
+        },
+        "url": "https://t.co/XlFsCAnMQ6",
+        "username": "Baixiaoming0707",
+        "verified": false
+      }
+    ]
+  }
+}

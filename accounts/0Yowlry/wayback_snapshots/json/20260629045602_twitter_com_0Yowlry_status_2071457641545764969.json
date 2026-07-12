@@ -1,0 +1,286 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1963585357884395620",
+    "created_at": "2026-06-29T04:56:02.000Z",
+    "edit_controls": {
+      "editable_until": "2026-06-29T05:56:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2071457641545764969"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1378723007762366467",
+          "start": 0,
+          "username": "Flandre_OvO_"
+        },
+        {
+          "end": 23,
+          "id": "1570466382365728771",
+          "start": 14,
+          "username": "m8o9j6i4"
+        },
+        {
+          "end": 40,
+          "id": "1699273459325390848",
+          "start": 24,
+          "username": "DurantRaym93677"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2071457641545764969",
+    "in_reply_to_user_id": "1378723007762366467",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1963588163282010222",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Flandre_OvO_ @m8o9j6i4 @DurantRaym93677 然后耄耋被气活了，双方互相夺权，发起第三次中国内战"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1963588163282010222].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1963588163282010222",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1963588163282010222"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1963585357884395620",
+        "created_at": "2026-06-29T04:56:02.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-29T05:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2071457641545764969"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1378723007762366467",
+              "start": 0,
+              "username": "Flandre_OvO_"
+            },
+            {
+              "end": 23,
+              "id": "1570466382365728771",
+              "start": 14,
+              "username": "m8o9j6i4"
+            },
+            {
+              "end": 40,
+              "id": "1699273459325390848",
+              "start": 24,
+              "username": "DurantRaym93677"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2071457641545764969",
+        "in_reply_to_user_id": "1378723007762366467",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1963588163282010222",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Flandre_OvO_ @m8o9j6i4 @DurantRaym93677 然后耄耋被气活了，双方互相夺权，发起第三次中国内战"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している \n\n🇦🇶🇦🇶🇦🇶\n\nAnime | Minecraft | Aerospace | Girls Band | Game | Journey | Natural Science",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2135,
+          "following_count": 3163,
+          "like_count": 42738,
+          "listed_count": 10,
+          "media_count": 371,
+          "tweet_count": 13313
+        },
+        "url": "",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2021-04-04T14:56:22.000Z",
+        "description": "495岁丨现居红魔馆丨蒋光头统治宇宙派丨精神分裂症患者丨分享极佳精神状态丨🐎学研修中丨蒙古海军预备队队员丨疯狂宇宙型人格丨因为我是神经病所以我不会为自己说的每一句话干的每一件事负责丨有时可能没看到消息请见谅丨本人戾气极重请谨慎关注丨反物质级别负能量场丨习近平在此百鬼退避！",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov.cn",
+                "end": 23,
+                "expanded_url": "http://www.gov.cn",
+                "start": 0,
+                "url": "https://t.co/I0k2RlXlLS"
+              }
+            ]
+          }
+        },
+        "id": "1378723007762366467",
+        "location": "au bout de la terre",
+        "name": "🦇𝔉𝔩𝔞𝔫𝔡𝔯𝔢🐦‍⬛",
+        "pinned_tweet_id": "2017015027887460535",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053006091844452352/ZzOW170Q_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 901,
+          "following_count": 4417,
+          "like_count": 58250,
+          "listed_count": 1,
+          "media_count": 3358,
+          "tweet_count": 31098
+        },
+        "url": "https://t.co/I0k2RlXlLS",
+        "username": "Flandre_OvO_",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-15T17:35:48.000Z",
+        "description": "我大号@mo6ji4 被封了😭\n最好最善良最可爱的好厚米：@BigFreshShrimp @SuperShrimp9000  @miku_suki393939\nemmmmmmmmm🚪14000000\n开放私信所以fo之前请私信说明，私密账号所以不认识的人不过\n有事联系不上找我的宝宝传话",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "mo6ji4"
+              },
+              {
+                "end": 44,
+                "start": 29,
+                "username": "BigFreshShrimp"
+              },
+              {
+                "end": 61,
+                "start": 45,
+                "username": "SuperShrimp9000"
+              },
+              {
+                "end": 79,
+                "start": 63,
+                "username": "miku_suki393939"
+              }
+            ]
+          }
+        },
+        "id": "1570466382365728771",
+        "location": "厄普西隆南极总部",
+        "name": "青蛙姬",
+        "pinned_tweet_id": "1903068922070565313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869701810270961664/P39j1RK6_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 293,
+          "following_count": 346,
+          "like_count": 41459,
+          "listed_count": 1,
+          "media_count": 1512,
+          "tweet_count": 13372
+        },
+        "url": "",
+        "username": "m8o9j6i4",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T04:09:04.000Z",
+        "description": "🍊 あぁ 闇はただ純粋で | \n🚼 🔑サブ: @AmmieColl84391 (フォロー歓迎) | 💼 Speaker of the Parliament of @enchenia | 💕 @chiyorin8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "AmmieColl84391"
+              },
+              {
+                "end": 90,
+                "start": 81,
+                "username": "enchenia"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "chiyorin8964"
+              }
+            ]
+          }
+        },
+        "id": "1699273459325390848",
+        "location": "Japan",
+        "name": "Luke 鈴木 さくらみ⛩️",
+        "pinned_tweet_id": "1991763708138397781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036740912668389376/LWPePSYk_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3348,
+          "following_count": 3868,
+          "like_count": 49007,
+          "listed_count": 15,
+          "media_count": 575,
+          "tweet_count": 11762
+        },
+        "url": "",
+        "username": "DurantRaym93677",
+        "verified": true
+      }
+    ]
+  }
+}

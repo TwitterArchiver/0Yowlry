@@ -1,0 +1,179 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1957766644589326745",
+    "created_at": "2025-08-21T18:13:33.000Z",
+    "edit_controls": {
+      "editable_until": "2025-08-21T19:13:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "1958593330893439468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1782463420631220227",
+          "start": 0,
+          "username": "wsmwsmwuwuwu555"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "1958593330893439468",
+    "in_reply_to_user_id": "1782463420631220227",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1957766644589326745",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wsmwsmwuwuwu555 安安"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1957766644589326745",
+        "created_at": "2025-08-21T18:13:33.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-21T19:13:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1958593330893439468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1782463420631220227",
+              "start": 0,
+              "username": "wsmwsmwuwuwu555"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1958593330893439468",
+        "in_reply_to_user_id": "1782463420631220227",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1957766644589326745",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wsmwsmwuwuwu555 安安"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1782463420631220227",
+        "conversation_id": "1957766644589326745",
+        "created_at": "2025-08-19T11:28:36.000Z",
+        "edit_controls": {
+          "editable_until": "2025-08-19T12:28:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1957766644589326745"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1957766644589326745",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 449,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 10,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "投降了\n今天就到这里吧\n晚安安安\n做个好梦吧宝宝~"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "私たちは二次元をこれほど熱愛している",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "Yowlry",
+        "pinned_tweet_id": "1895931291142627425",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1900279853762392066/nf5oFqCF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1796,
+          "following_count": 2388,
+          "like_count": 18012,
+          "listed_count": 10,
+          "media_count": 295,
+          "tweet_count": 7369
+        },
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2024-04-22T17:36:21.000Z",
+        "description": "绿豆糕绿豆糕绿豆糕绿豆糕绿豆糕\n糕糕糕糕糕糕糕糕糕糕糕糕糕糕糕",
+        "id": "1782463420631220227",
+        "location": "绿豆糕星球",
+        "name": "绿豆糕糕",
+        "pinned_tweet_id": "1944709893430317426",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1886824583879340032/qInsLAxs_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 322,
+          "following_count": 836,
+          "like_count": 71732,
+          "listed_count": 1,
+          "media_count": 200,
+          "tweet_count": 2030
+        },
+        "username": "wsmwsmwuwuwu555",
+        "verified": false
+      }
+    ]
+  }
+}
