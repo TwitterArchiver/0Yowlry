@@ -210,52 +210,20 @@ jobs:
             cd ../..
           done <<< "${{ steps.info.outputs.accounts }}"
 
-      - name: 推送（分批，避免单次 pack 过大导致 HTTP 500）
+      - name: 推送
         run: |
           git config user.name  "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git config http.postBuffer 524288000   # 500MB 缓冲兜底
-          git config http.version HTTP/1.1        # 大推送下 HTTP/2 偶发 500，回退更稳
-
-          BATCH_BYTES=$((800*1024*1024))          # 每累计约 800MB 就提交并推送一批
-
-          push_with_retry () {
-            for i in 1 2 3 4 5; do
-              git push && return 0
-              echo "  [推送失败 第 ${i}/5 次，等 $((i*15))s 重试]"
-              sleep $((i*15))
-            done
-            return 1
-          }
-
           git add -A
-          mapfile -t FILES < <(git diff --cached --name-only)
-          git reset -q
-          [ "${#FILES[@]}" -eq 0 ] && echo "无新内容" && exit 0
-
-          acc=0; batch=0
-          flush () {
-            git diff --cached --quiet && return 0
-            batch=$((batch+1))
-            git commit -q -m "🎬 首次建档 视频 (批次 ${batch}) [skip ci]"
-            push_with_retry || { echo "::error::第 ${batch} 批推送失败"; exit 1; }
-            acc=0
-          }
-
-          for f in "${FILES[@]}"; do
-            if [ -f "$f" ]; then
-              size=$(stat -c%s "$f" 2>/dev/null || echo 0)
-              [ "$size" -gt 104857600 ] && continue   # 跳过 >100MB 单文件（GitHub 硬限制）
-            else
-              size=0                                   # 已删除的文件，照常 stage 其删除
-            fi
-            git add -A -- "$f"
-            acc=$((acc+size))
-            [ "$acc" -ge "$BATCH_BYTES" ] && flush
+          git diff --cached --name-only | while IFS= read -r f; do
+            if [ ! -f "$f" ]; then continue; fi
+            size=$(stat -c%s "$f" 2>/dev/null || echo 0)
+            if [ "$size" -gt 104857600 ]; then git rm --cached "$f"; fi
           done
-          flush   # 尾批
-
-          echo "✅ 视频分批推送完成，共 ${batch} 批"
+          git diff --cached --quiet && echo "无新内容" && exit 0
+          COUNT=$(git diff --cached --numstat | wc -l)
+          git commit -m "🎬 首次建档 视频 (+${COUNT} 文件) [skip ci]"
+          git push
 
   build-avatar:
     name: 建档 头像+收尾
