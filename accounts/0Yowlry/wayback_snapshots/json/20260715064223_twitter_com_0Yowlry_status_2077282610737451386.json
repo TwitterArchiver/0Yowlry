@@ -1,0 +1,248 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2076655908667654206",
+    "created_at": "2026-07-15T06:42:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-15T07:42:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077282610737451386"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1967736228725575681",
+          "start": 0,
+          "username": "shier6639"
+        },
+        {
+          "end": 23,
+          "id": "1634944403872833536",
+          "start": 11,
+          "username": "shier663907"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077282610737451386",
+    "in_reply_to_user_id": "1967736228725575681",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076655908667654206",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shier6639 @shier663907 😰😰😰"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [shier663907].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "shier663907",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "shier663907"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2076655904473395200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNHDiuLasAAR7Gi.jpg",
+        "width": 945
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2076655908667654206",
+        "created_at": "2026-07-15T06:42:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-15T07:42:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077282610737451386"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1967736228725575681",
+              "start": 0,
+              "username": "shier6639"
+            },
+            {
+              "end": 23,
+              "id": "1634944403872833536",
+              "start": 11,
+              "username": "shier663907"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077282610737451386",
+        "in_reply_to_user_id": "1967736228725575681",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076655908667654206",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shier6639 @shier663907 😰😰😰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076655904473395200"
+          ]
+        },
+        "author_id": "1967736228725575681",
+        "conversation_id": "2076655908667654206",
+        "created_at": "2026-07-13T13:12:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T14:12:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076655908667654206"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 26,
+              "id": "1634944403872833536",
+              "start": 14,
+              "username": "shier663907"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/PoOi6i0CGY",
+              "end": 50,
+              "expanded_url": "https://x.com/shier6639/status/2076655908667654206/photo/1",
+              "media_key": "3_2076655904473395200",
+              "start": 27,
+              "url": "https://t.co/PoOi6i0CGY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076655908667654206",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3622,
+          "like_count": 60,
+          "quote_count": 0,
+          "reply_count": 44,
+          "retweet_count": 27
+        },
+        "reply_settings": "everyone",
+        "text": "呃呃。我莫名其妙被封了\n原号@shier663907 https://t.co/PoOi6i0CGY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Girls Band | Game | Journey | Natural Science | Information Tech | Aerospace",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnVfQI"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2265,
+          "following_count": 3389,
+          "like_count": 48659,
+          "listed_count": 10,
+          "media_count": 387,
+          "tweet_count": 15102
+        },
+        "url": "https://t.co/ZXakBnVfQI",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-15T23:44:17.000Z",
+        "description": "",
+        "id": "1967736228725575681",
+        "name": "十二点",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076650614541737984/StRKTJau_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117,
+          "following_count": 82,
+          "like_count": 305,
+          "listed_count": 0,
+          "media_count": 15,
+          "tweet_count": 78
+        },
+        "url": "",
+        "username": "shier6639",
+        "verified": false
+      }
+    ]
+  }
+}

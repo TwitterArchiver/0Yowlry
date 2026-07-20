@@ -1,0 +1,290 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1986352447607218199",
+    "created_at": "2026-07-12T20:43:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T21:43:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076407010724397555"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1587696726022017027",
+          "start": 0,
+          "username": "Ephraim_deca"
+        },
+        {
+          "end": 29,
+          "id": "1845454917236031495",
+          "start": 14,
+          "username": "Dontbesadforit"
+        },
+        {
+          "end": 46,
+          "id": "1430852247093538821",
+          "start": 30,
+          "username": "GraceBrown54188"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076407010724397555",
+    "in_reply_to_user_id": "1587696726022017027",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986471499058806927",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ephraim_deca @Dontbesadforit @GraceBrown54188 并非（"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [GraceBrown54188].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "GraceBrown54188",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "GraceBrown54188"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1986352447607218199",
+        "created_at": "2026-07-12T20:43:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T21:43:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076407010724397555"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1587696726022017027",
+              "start": 0,
+              "username": "Ephraim_deca"
+            },
+            {
+              "end": 29,
+              "id": "1845454917236031495",
+              "start": 14,
+              "username": "Dontbesadforit"
+            },
+            {
+              "end": 46,
+              "id": "1430852247093538821",
+              "start": 30,
+              "username": "GraceBrown54188"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076407010724397555",
+        "in_reply_to_user_id": "1587696726022017027",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986471499058806927",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ephraim_deca @Dontbesadforit @GraceBrown54188 并非（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1587696726022017027",
+        "conversation_id": "1986352447607218199",
+        "created_at": "2025-11-06T16:31:26.000Z",
+        "edit_controls": {
+          "editable_until": "2025-11-06T17:31:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1986471499058806927"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1845454917236031495",
+              "start": 0,
+              "username": "Dontbesadforit"
+            },
+            {
+              "end": 32,
+              "id": "1430852247093538821",
+              "start": 16,
+              "username": "GraceBrown54188"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1986471499058806927",
+        "in_reply_to_user_id": "1845454917236031495",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 176,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986369960596124147",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Dontbesadforit @GraceBrown54188 好了知道你是北京上海重点高中的了，那个小王啊，缩小搜查范围"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Aerospace | Girls Band | Game | Journey | Natural Science",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2237,
+          "following_count": 3342,
+          "like_count": 47398,
+          "listed_count": 10,
+          "media_count": 383,
+          "tweet_count": 14726
+        },
+        "url": "",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T06:43:01.000Z",
+        "description": "网络幽灵//中文/English/Español/Latina ecclesiastica(studeo)//\n圣神请降临，充信尔众心，以厥仁爱火，燃灼诸黎民🇻🇦\n电报：https://t.co/TfjP9W0sVX\n垃圾箱：https://t.co/BUKhQfYqVS",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/Clemens777hepta",
+                "end": 108,
+                "expanded_url": "http://t.me/Clemens777hepta",
+                "start": 85,
+                "url": "https://t.co/TfjP9W0sVX"
+              },
+              {
+                "display_url": "ngl.link/clemensdsh",
+                "end": 136,
+                "expanded_url": "https://ngl.link/clemensdsh",
+                "start": 113,
+                "url": "https://t.co/BUKhQfYqVS"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "clemensdsh.xyz",
+                "end": 23,
+                "expanded_url": "https://clemensdsh.xyz/",
+                "start": 0,
+                "url": "https://t.co/7H8hmco3uJ"
+              }
+            ]
+          }
+        },
+        "id": "1587696726022017027",
+        "location": "Hamilton, Ontario",
+        "name": "楊柳條兒青",
+        "pinned_tweet_id": "2074555569181003791",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1916508130042896384/4QZdgjiH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 727,
+          "following_count": 4003,
+          "like_count": 90047,
+          "listed_count": 4,
+          "media_count": 592,
+          "tweet_count": 4708
+        },
+        "url": "https://t.co/7H8hmco3uJ",
+        "username": "Ephraim_deca",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T13:22:23.000Z",
+        "description": "没有脑子",
+        "id": "1845454917236031495",
+        "location": "Earth",
+        "name": "老中",
+        "pinned_tweet_id": "2032491408985333996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063207895135862785/ciSOUURv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2488,
+          "following_count": 981,
+          "like_count": 77884,
+          "listed_count": 5,
+          "media_count": 491,
+          "tweet_count": 9634
+        },
+        "url": "",
+        "username": "Dontbesadforit",
+        "verified": true
+      }
+    ]
+  }
+}

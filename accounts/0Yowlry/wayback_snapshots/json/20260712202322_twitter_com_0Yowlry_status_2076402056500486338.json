@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1903494290103505151",
+    "created_at": "2026-07-12T20:23:22.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T21:23:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076402056500486338"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1570466382365728771",
+          "start": 0,
+          "username": "m8o9j6i4"
+        },
+        {
+          "end": 23,
+          "id": "1945844615715938305",
+          "start": 10,
+          "username": "XizxRich8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076402056500486338",
+    "in_reply_to_user_id": "1570466382365728771",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1903590176309583910",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@m8o9j6i4 @XizxRich8964 是的"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1903590176309583910].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1903590176309583910",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1903590176309583910"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1903494290103505151",
+        "created_at": "2026-07-12T20:23:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T21:23:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076402056500486338"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1570466382365728771",
+              "start": 0,
+              "username": "m8o9j6i4"
+            },
+            {
+              "end": 23,
+              "id": "1945844615715938305",
+              "start": 10,
+              "username": "XizxRich8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076402056500486338",
+        "in_reply_to_user_id": "1570466382365728771",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1903590176309583910",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@m8o9j6i4 @XizxRich8964 是的"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Aerospace | Girls Band | Game | Journey | Natural Science",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2237,
+          "following_count": 3342,
+          "like_count": 47314,
+          "listed_count": 10,
+          "media_count": 383,
+          "tweet_count": 14686
+        },
+        "url": "",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-15T17:35:48.000Z",
+        "description": "我大号@mo6ji4 被封了😭\n最好最善良最可爱的好厚米：@BigFreshShrimp @SuperShrimp9000  @miku_suki393939\nemmmmmmmmm🚪14000000\n开放私信所以fo之前请私信说明，私密账号所以不认识的人不过\n有事联系不上找我的宝宝传话",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 3,
+                "username": "mo6ji4"
+              },
+              {
+                "end": 44,
+                "start": 29,
+                "username": "BigFreshShrimp"
+              },
+              {
+                "end": 61,
+                "start": 45,
+                "username": "SuperShrimp9000"
+              },
+              {
+                "end": 79,
+                "start": 63,
+                "username": "miku_suki393939"
+              }
+            ]
+          }
+        },
+        "id": "1570466382365728771",
+        "location": "厄普西隆南极总部",
+        "name": "青蛙姬",
+        "pinned_tweet_id": "1903068922070565313",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1869701810270961664/P39j1RK6_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 290,
+          "following_count": 342,
+          "like_count": 41729,
+          "listed_count": 1,
+          "media_count": 1522,
+          "tweet_count": 13550
+        },
+        "url": "",
+        "username": "m8o9j6i4",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T13:55:01.000Z",
+        "description": "",
+        "id": "1945844615715938305",
+        "name": "高松燈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945844693012791296/HQ72e0d8_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 7,
+          "like_count": 1065,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 30
+        },
+        "url": "",
+        "username": "XizxRich8964",
+        "verified": false
+      }
+    ]
+  }
+}

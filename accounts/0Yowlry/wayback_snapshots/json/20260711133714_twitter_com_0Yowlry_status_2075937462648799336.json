@@ -1,0 +1,220 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2039776309891756540",
+    "created_at": "2026-07-11T13:37:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-11T14:37:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2075937462648799336"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1570991914790572032",
+          "start": 0,
+          "username": "Minamoto1883"
+        },
+        {
+          "end": 24,
+          "id": "1751497892001685504",
+          "start": 14,
+          "username": "45_206MHz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2075937462648799336",
+    "in_reply_to_user_id": "1570991914790572032",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2040268418667221375",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Minamoto1883 @45_206MHz 不早说"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2040268418667221375].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2040268418667221375",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2040268418667221375"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2039776309891756540",
+        "created_at": "2026-07-11T13:37:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T14:37:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075937462648799336"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1570991914790572032",
+              "start": 0,
+              "username": "Minamoto1883"
+            },
+            {
+              "end": 24,
+              "id": "1751497892001685504",
+              "start": 14,
+              "username": "45_206MHz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075937462648799336",
+        "in_reply_to_user_id": "1570991914790572032",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2040268418667221375",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Minamoto1883 @45_206MHz 不早说"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Aerospace | Girls Band | Game | Journey | Natural Science",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2230,
+          "following_count": 3334,
+          "like_count": 46865,
+          "listed_count": 10,
+          "media_count": 380,
+          "tweet_count": 14573
+        },
+        "url": "",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2022-09-17T04:24:08.000Z",
+        "description": "talk less, smile more. OP81",
+        "id": "1570991914790572032",
+        "location": "Beijing",
+        "name": "M1namoto",
+        "pinned_tweet_id": "2061813238271181294",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1959217769574277120/9rrvp5AR_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 344,
+          "following_count": 869,
+          "like_count": 47987,
+          "listed_count": 1,
+          "media_count": 852,
+          "tweet_count": 8094
+        },
+        "url": "",
+        "username": "Minamoto1883",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-28T06:50:23.000Z",
+        "description": "zh-CN | en-AU/NZ\nany pronoun\n叫我 45 就好啦\ngender apathetic\n里推: @45_206io | 🐱: @MomoseReina",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 60,
+                "username": "45_206io"
+              },
+              {
+                "end": 87,
+                "start": 75,
+                "username": "MomoseReina"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "45.206mhz.com",
+                "end": 23,
+                "expanded_url": "http://45.206mhz.com",
+                "start": 0,
+                "url": "https://t.co/bRhXiVkO12"
+              }
+            ]
+          }
+        },
+        "id": "1751497892001685504",
+        "location": "maimai DX Circle (Int’l)",
+        "name": "45.206 MHᴢ 🇳🇿",
+        "pinned_tweet_id": "2073043887845998831",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039289556911194112/f7iNbdDq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3346,
+          "following_count": 496,
+          "like_count": 38048,
+          "listed_count": 1,
+          "media_count": 894,
+          "tweet_count": 4757
+        },
+        "url": "https://t.co/bRhXiVkO12",
+        "username": "45_206MHz",
+        "verified": true
+      }
+    ]
+  }
+}

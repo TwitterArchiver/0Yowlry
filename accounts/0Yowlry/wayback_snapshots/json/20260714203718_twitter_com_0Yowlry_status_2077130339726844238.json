@@ -1,0 +1,224 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2015159943096091055",
+    "created_at": "2026-07-14T20:37:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T21:37:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077130339726844238"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 4,
+          "id": "14499829",
+          "start": 0,
+          "username": "WHO"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077130339726844238",
+    "in_reply_to_user_id": "14499829",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015159943096091055",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@WHO FUCK W.H.O.!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2015159943096091055",
+        "created_at": "2026-07-14T20:37:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T21:37:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077130339726844238"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 4,
+              "id": "14499829",
+              "start": 0,
+              "username": "WHO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077130339726844238",
+        "in_reply_to_user_id": "14499829",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015159943096091055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@WHO FUCK W.H.O.!"
+      },
+      {
+        "article": {
+          "title": "WHO statement on notification of withdrawal of the United States"
+        },
+        "attachments": {},
+        "author_id": "14499829",
+        "conversation_id": "2015159943096091055",
+        "created_at": "2026-01-24T20:29:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-24T21:29:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015159943096091055"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/i/article/2015…",
+              "end": 23,
+              "expanded_url": "http://x.com/i/article/2015155257563865089",
+              "start": 0,
+              "status": 500,
+              "unwound_url": "https://x.com/i/article/2015155257563865089",
+              "url": "https://t.co/cihfJ16HQt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015159943096091055",
+        "lang": "zxx",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 686,
+          "impression_count": 693191,
+          "like_count": 3188,
+          "quote_count": 150,
+          "reply_count": 493,
+          "retweet_count": 1079
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/cihfJ16HQt"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Aerospace | Girls Band | Game | Journey | Natural Science",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2262,
+          "following_count": 3376,
+          "like_count": 48333,
+          "listed_count": 10,
+          "media_count": 385,
+          "tweet_count": 15000
+        },
+        "url": "",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2008-04-23T19:56:27.000Z",
+        "description": "We are the @UN’s health agency working for #HealthForAll\nAlways check our latest tweets for updated advice/information.",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 56,
+                "start": 43,
+                "tag": "HealthForAll"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 14,
+                "start": 11,
+                "username": "UN"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "who.int",
+                "end": 23,
+                "expanded_url": "http://www.who.int",
+                "start": 0,
+                "url": "https://t.co/28yN4nSRNK"
+              }
+            ]
+          }
+        },
+        "id": "14499829",
+        "location": "Geneva, Switzerland",
+        "name": "World Health Organization (WHO)",
+        "pinned_tweet_id": "2076924695882903663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1572512818796335105/YF_H68EL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 12644258,
+          "following_count": 1733,
+          "like_count": 13905,
+          "listed_count": 33695,
+          "media_count": 26072,
+          "tweet_count": 83039
+        },
+        "url": "https://t.co/28yN4nSRNK",
+        "username": "WHO",
+        "verified": true
+      }
+    ]
+  }
+}

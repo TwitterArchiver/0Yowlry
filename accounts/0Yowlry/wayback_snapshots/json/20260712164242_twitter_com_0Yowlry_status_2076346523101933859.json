@@ -1,0 +1,236 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2036384207581356136",
+    "created_at": "2026-07-12T16:42:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T17:42:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076346523101933859"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1847835560175685635",
+          "start": 0,
+          "username": "OPPOFANS114514"
+        },
+        {
+          "end": 26,
+          "id": "1306129238827778048",
+          "start": 16,
+          "username": "YukinonCC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076346523101933859",
+    "in_reply_to_user_id": "1847835560175685635",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076344191119147417",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@OPPOFANS114514 @YukinonCC 那个我知道，给派来的专案组烧si了好像（）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2076344191119147417].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2076344191119147417",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2076344191119147417"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2036384207581356136",
+        "created_at": "2026-07-12T16:42:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T17:42:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076346523101933859"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1847835560175685635",
+              "start": 0,
+              "username": "OPPOFANS114514"
+            },
+            {
+              "end": 26,
+              "id": "1306129238827778048",
+              "start": 16,
+              "username": "YukinonCC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076346523101933859",
+        "in_reply_to_user_id": "1847835560175685635",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076344191119147417",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@OPPOFANS114514 @YukinonCC 那个我知道，给派来的专案组烧si了好像（）"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Aerospace | Girls Band | Game | Journey | Natural Science",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2237,
+          "following_count": 3342,
+          "like_count": 47233,
+          "listed_count": 10,
+          "media_count": 383,
+          "tweet_count": 14661
+        },
+        "url": "",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-20T03:02:37.000Z",
+        "description": "我可能开心，我也可能不开心\n但记住，你一定要天天开心~ ₍˄·͈༝·͈˄*₎◞ ̑̑\n不吃🍔了，现在已对🍕上瘾 INFP-T\n颜文字万岁！( ≧▽≦ )",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/oppofans",
+                "end": 23,
+                "expanded_url": "https://ngl.link/oppofans",
+                "start": 0,
+                "url": "https://t.co/hNOuTw9yN4"
+              }
+            ]
+          }
+        },
+        "id": "1847835560175685635",
+        "name": "OPPOFANS",
+        "pinned_tweet_id": "1899040879727509924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005659214631575553/AcPZ89dY_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 2195,
+          "following_count": 2234,
+          "like_count": 22764,
+          "listed_count": 6,
+          "media_count": 870,
+          "tweet_count": 22163
+        },
+        "url": "https://t.co/hNOuTw9yN4",
+        "username": "OPPOFANS114514",
+        "verified": false
+      },
+      {
+        "created_at": "2020-09-16T07:14:21.000Z",
+        "description": "🐧人間になりたいですわ | 💫ℙ𝕖𝕣 𝕒𝕤𝕡𝕖𝕣𝕒 𝕒𝕕 𝕒𝕤𝕥𝕣𝕒 🌠|🚪：𝟭𝘽𝙏𝘾｜Ask me anonymously : https://t.co/jmSdkECPE6｜Personal site : https://t.co/YBAOgiCM9e",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/yukinoncc",
+                "end": 88,
+                "expanded_url": "https://ngl.link/yukinoncc",
+                "start": 65,
+                "url": "https://t.co/jmSdkECPE6"
+              },
+              {
+                "display_url": "yukinon.cc",
+                "end": 128,
+                "expanded_url": "https://www.yukinon.cc",
+                "start": 105,
+                "url": "https://t.co/YBAOgiCM9e"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yukinon.cc",
+                "end": 23,
+                "expanded_url": "https://www.yukinon.cc",
+                "start": 0,
+                "url": "https://t.co/YBAOgiCM9e"
+              }
+            ]
+          }
+        },
+        "id": "1306129238827778048",
+        "location": "ワンピンナンルー600号より脱走中",
+        "name": "ユキ🎀",
+        "pinned_tweet_id": "2070333005898637336",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036544477750534144/nGFWjjWa_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1440,
+          "following_count": 692,
+          "like_count": 15729,
+          "listed_count": 0,
+          "media_count": 635,
+          "tweet_count": 4262
+        },
+        "url": "https://t.co/YBAOgiCM9e",
+        "username": "YukinonCC",
+        "verified": true
+      }
+    ]
+  }
+}

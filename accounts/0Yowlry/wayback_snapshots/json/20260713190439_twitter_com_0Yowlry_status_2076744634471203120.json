@@ -1,0 +1,189 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1846584319088984373",
+    "created_at": "2026-07-13T19:04:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T20:04:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076744634471203120"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1626578993821675521",
+          "start": 0,
+          "username": "linmen589064"
+        },
+        {
+          "end": 27,
+          "id": "1945844615715938305",
+          "start": 14,
+          "username": "XizxRich8964"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076744634471203120",
+    "in_reply_to_user_id": "1626578993821675521",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1846752552316293310",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linmen589064 @XizxRich8964 👀👀👀"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1846752552316293310].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1846752552316293310",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1846752552316293310"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1846584319088984373",
+        "created_at": "2026-07-13T19:04:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T20:04:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076744634471203120"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1626578993821675521",
+              "start": 0,
+              "username": "linmen589064"
+            },
+            {
+              "end": 27,
+              "id": "1945844615715938305",
+              "start": 14,
+              "username": "XizxRich8964"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076744634471203120",
+        "in_reply_to_user_id": "1626578993821675521",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1846752552316293310",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linmen589064 @XizxRich8964 👀👀👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Aerospace | Girls Band | Game | Journey | Natural Science",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2255,
+          "following_count": 3358,
+          "like_count": 47841,
+          "listed_count": 10,
+          "media_count": 383,
+          "tweet_count": 14858
+        },
+        "url": "",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-17T13:48:49.000Z",
+        "description": "为长崎而素食",
+        "id": "1626578993821675521",
+        "name": "Soyo丶Chihaya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070374407592087552/Zl0wlzHH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1694,
+          "following_count": 439,
+          "like_count": 71254,
+          "listed_count": 4,
+          "media_count": 1123,
+          "tweet_count": 20721
+        },
+        "url": "",
+        "username": "linmen589064",
+        "verified": false
+      },
+      {
+        "created_at": "2025-07-17T13:55:01.000Z",
+        "description": "",
+        "id": "1945844615715938305",
+        "name": "高松燈",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945844693012791296/HQ72e0d8_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 10,
+          "following_count": 7,
+          "like_count": 1066,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 30
+        },
+        "url": "",
+        "username": "XizxRich8964",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,169 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2067696724005761266",
+    "created_at": "2026-07-14T01:10:49.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T02:10:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076836782965248216"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1699273463465443328",
+          "start": 0,
+          "username": "AmmieColl84391"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076836782965248216",
+    "in_reply_to_user_id": "1699273463465443328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067696724005761266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmmieColl84391 情人节"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2067696724005761266].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2067696724005761266",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2067696724005761266"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2067696724005761266",
+        "created_at": "2026-07-14T01:10:49.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T02:10:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076836782965248216"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1699273463465443328",
+              "start": 0,
+              "username": "AmmieColl84391"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076836782965248216",
+        "in_reply_to_user_id": "1699273463465443328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067696724005761266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmmieColl84391 情人节"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Aerospace | Girls Band | Game | Journey | Natural Science",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2254,
+          "following_count": 3359,
+          "like_count": 48037,
+          "listed_count": 10,
+          "media_count": 384,
+          "tweet_count": 14929
+        },
+        "url": "",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T04:09:05.000Z",
+        "description": "🚼里人格 ｜ 🔙首都@DurantRaym93677 ｜ \n一个人过家家用的账号 ｜ ⚠️可能会包含无聊的发言、逻辑混乱、自言自语，以及负能或错误的内容哦🥺 ｜ \n📮电邮：ZephyrusLuke@proton.me",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 10,
+                "username": "DurantRaym93677"
+              }
+            ]
+          }
+        },
+        "id": "1699273463465443328",
+        "name": "五月雨🌧️🇯🇵",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701877594340438016/jJsS0DtQ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 228,
+          "following_count": 299,
+          "like_count": 3365,
+          "listed_count": 1,
+          "media_count": 52,
+          "tweet_count": 1536
+        },
+        "url": "",
+        "username": "AmmieColl84391",
+        "verified": true
+      }
+    ]
+  }
+}

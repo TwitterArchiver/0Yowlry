@@ -1,0 +1,519 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Elon Musk",
+          "id": "808713037230157824",
+          "name": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Leadership",
+          "id": "857878777191211008",
+          "name": "Leadership"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Elon Musk",
+          "id": "808713037230157824",
+          "name": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tech Professionals",
+          "id": "1091420346660470784",
+          "name": "Tech personalities"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166406108623163392",
+          "name": "Business personalities"
+        }
+      }
+    ],
+    "conversation_id": "2049409161176224153",
+    "created_at": "2026-07-14T20:01:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T21:01:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077121350255386708"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1862825645824507904",
+          "start": 0,
+          "username": "ThanksuTrump"
+        },
+        {
+          "end": 28,
+          "id": "1916817753635426304",
+          "start": 14,
+          "username": "Goldwater8964"
+        },
+        {
+          "end": 42,
+          "id": "1424779836938022913",
+          "start": 29,
+          "username": "amber_toffee"
+        },
+        {
+          "end": 63,
+          "id": "44196397",
+          "start": 54,
+          "username": "elonmusk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077121350255386708",
+    "in_reply_to_user_id": "1862825645824507904",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049459280689209658",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ThanksuTrump @Goldwater8964 @amber_toffee 唉是这样 \nfuck @elonmusk"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [amber_toffee].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "amber_toffee",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "amber_toffee"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2049409161176224153",
+        "created_at": "2026-07-14T20:01:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T21:01:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077121350255386708"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1862825645824507904",
+              "start": 0,
+              "username": "ThanksuTrump"
+            },
+            {
+              "end": 28,
+              "id": "1916817753635426304",
+              "start": 14,
+              "username": "Goldwater8964"
+            },
+            {
+              "end": 42,
+              "id": "1424779836938022913",
+              "start": 29,
+              "username": "amber_toffee"
+            },
+            {
+              "end": 63,
+              "id": "44196397",
+              "start": 54,
+              "username": "elonmusk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077121350255386708",
+        "in_reply_to_user_id": "1862825645824507904",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049459280689209658",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ThanksuTrump @Goldwater8964 @amber_toffee 唉是这样 \nfuck @elonmusk"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1862825645824507904",
+        "conversation_id": "2049409161176224153",
+        "created_at": "2026-04-29T12:02:24.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T13:02:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049459280689209658"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1916817753635426304",
+              "start": 0,
+              "username": "Goldwater8964"
+            },
+            {
+              "end": 28,
+              "id": "1424779836938022913",
+              "start": 15,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049459280689209658",
+        "in_reply_to_user_id": "1916817753635426304",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3434,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049409161176224153",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Goldwater8964 @amber_toffee 又挂一个。X现在封号跟抽风似的，2.7万粉说没就没。\n\n有备份小号吗？或者至少把粉丝列表导出来？这平台靠不住，多留个出口。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Aerospace | Girls Band | Game | Journey | Natural Science",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2262,
+          "following_count": 3364,
+          "like_count": 48247,
+          "listed_count": 10,
+          "media_count": 385,
+          "tweet_count": 14984
+        },
+        "url": "",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T11:47:10.000Z",
+        "description": "战斗频道｜ 蓝v互关Blue V Follow Back 💯｜ 互动群 https://t.co/lzCH3ZLOum｜爱好寻找Alpha｜超级个体 Ai X Crypto X 美股 X Vibe Coding｜$STONKS 已质押｜既懂投资，又懂投机｜看得远，出手准。｜一年出手两三次足矣",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+ZWVcAmte3tlmZ…",
+                "end": 59,
+                "expanded_url": "https://t.me/+ZWVcAmte3tlmZjky",
+                "start": 36,
+                "url": "https://t.co/lzCH3ZLOum"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+ZWVcAmte3tlmZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+ZWVcAmte3tlmZjky",
+                "start": 0,
+                "url": "https://t.co/lzCH3ZLOum"
+              }
+            ]
+          }
+        },
+        "id": "1862825645824507904",
+        "location": "距离你0.08km",
+        "name": "猫投鹰 (鹰哥)",
+        "pinned_tweet_id": "2064367294088888376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061283513970860032/Ndq5Vqxe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24496,
+          "following_count": 23066,
+          "like_count": 86824,
+          "listed_count": 24,
+          "media_count": 753,
+          "tweet_count": 16766
+        },
+        "url": "https://t.co/lzCH3ZLOum",
+        "username": "ThanksuTrump",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-28T11:32:29.000Z",
+        "description": "成和败努力尝试\n人若有志应该不怕迟\n谁人在我未为意\n成就靠真本事\n做个真的汉子\n承担起苦痛跟失意",
+        "id": "1916817753635426304",
+        "location": "Auckland Region, New Zealand",
+        "name": "Friedrich🇳🇿🇦🇺",
+        "pinned_tweet_id": "2072446798132883670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065133243230265344/6BqOTcEn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1924,
+          "following_count": 1049,
+          "like_count": 8459,
+          "listed_count": 5,
+          "media_count": 372,
+          "tweet_count": 1537
+        },
+        "url": "",
+        "username": "Goldwater8964",
+        "verified": true
+      },
+      {
+        "created_at": "2009-06-02T20:12:29.000Z",
+        "description": "Starmind",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "spacex.com/spacexai/starm…",
+                "end": 23,
+                "expanded_url": "https://www.spacex.com/spacexai/starmind#power-generation",
+                "start": 0,
+                "url": "https://t.co/lvCfXMHUg6"
+              }
+            ]
+          }
+        },
+        "id": "44196397",
+        "name": "Elon Musk",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 240862980,
+          "following_count": 1366,
+          "like_count": 239053,
+          "listed_count": 170004,
+          "media_count": 4617,
+          "tweet_count": 105556
+        },
+        "url": "https://t.co/lvCfXMHUg6",
+        "username": "elonmusk",
+        "verified": true
+      }
+    ]
+  }
+}

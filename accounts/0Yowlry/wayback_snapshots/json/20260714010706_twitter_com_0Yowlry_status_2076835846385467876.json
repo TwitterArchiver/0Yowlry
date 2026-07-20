@@ -1,0 +1,206 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2076589277094568020",
+    "created_at": "2026-07-14T01:07:06.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T02:07:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076835846385467876"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1911628907842818049",
+          "start": 0,
+          "username": "codyhunk"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076835846385467876",
+    "in_reply_to_user_id": "1911628907842818049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076589277094568020",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@codyhunk 360°转一圈看看商圈"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 603,
+        "media_key": "3_2076588181701730304",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNGF8vMbIAAV18d.jpg",
+        "width": 1032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2076589277094568020",
+        "created_at": "2026-07-14T01:07:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T02:07:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076835846385467876"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1911628907842818049",
+              "start": 0,
+              "username": "codyhunk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076835846385467876",
+        "in_reply_to_user_id": "1911628907842818049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076589277094568020",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@codyhunk 360°转一圈看看商圈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2076588181701730304"
+          ]
+        },
+        "author_id": "1911628907842818049",
+        "conversation_id": "2076589277094568020",
+        "created_at": "2026-07-13T08:47:19.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T09:43:00.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076588189402419653",
+          "2076589277094568020"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/aTZx46quNR",
+              "end": 36,
+              "expanded_url": "https://x.com/codyhunk/status/2076589277094568020/photo/1",
+              "media_key": "3_2076588181701730304",
+              "start": 13,
+              "url": "https://t.co/aTZx46quNR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076589277094568020",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 11,
+          "impression_count": 25195,
+          "like_count": 204,
+          "quote_count": 1,
+          "reply_count": 16,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "开之前可以先找勇哥咨询下 https://t.co/aTZx46quNR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Aerospace | Girls Band | Game | Journey | Natural Science",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2254,
+          "following_count": 3359,
+          "like_count": 48004,
+          "listed_count": 10,
+          "media_count": 384,
+          "tweet_count": 14920
+        },
+        "url": "",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-14T03:54:03.000Z",
+        "description": "夜之城老鼠人",
+        "id": "1911628907842818049",
+        "location": "night city",
+        "name": "夜之城鼠鼠",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010660572497666048/CL2FTU_a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14780,
+          "following_count": 1116,
+          "like_count": 24953,
+          "listed_count": 43,
+          "media_count": 6899,
+          "tweet_count": 10287
+        },
+        "url": "",
+        "username": "codyhunk",
+        "verified": true
+      }
+    ]
+  }
+}

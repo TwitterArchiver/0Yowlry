@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2075816959284043876",
+    "created_at": "2026-07-12T10:28:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T11:28:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076252428270465032"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1060755243795922946",
+          "start": 0,
+          "username": "sunseal2"
+        },
+        {
+          "end": 21,
+          "id": "1684788633797287936",
+          "start": 10,
+          "username": "Moningmeng"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/BrndnStrssng/s…",
+          "end": 45,
+          "expanded_url": "https://x.com/BrndnStrssng/status/2066924411018412044?s=20",
+          "start": 22,
+          "url": "https://t.co/QCkLDMWl48"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076252428270465032",
+    "in_reply_to_user_id": "1060755243795922946",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066924411018412044",
+        "type": "quoted"
+      },
+      {
+        "id": "2075957011272122517",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sunseal2 @Moningmeng https://t.co/QCkLDMWl48\n其实不管哪个语言的搜索都很废物，这属于是马斯克的问题了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2075816959284043876",
+        "created_at": "2026-07-12T10:28:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T11:28:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076252428270465032"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1060755243795922946",
+              "start": 0,
+              "username": "sunseal2"
+            },
+            {
+              "end": 21,
+              "id": "1684788633797287936",
+              "start": 10,
+              "username": "Moningmeng"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/BrndnStrssng/s…",
+              "end": 45,
+              "expanded_url": "https://x.com/BrndnStrssng/status/2066924411018412044?s=20",
+              "start": 22,
+              "url": "https://t.co/QCkLDMWl48"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076252428270465032",
+        "in_reply_to_user_id": "1060755243795922946",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066924411018412044",
+            "type": "quoted"
+          },
+          {
+            "id": "2075957011272122517",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sunseal2 @Moningmeng https://t.co/QCkLDMWl48\n其实不管哪个语言的搜索都很废物，这属于是马斯克的问题了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1258483736",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2066924411018412044",
+        "created_at": "2026-06-16T16:42:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-16T17:42:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2066924411018412044"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2066924411018412044",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1613,
+          "impression_count": 1201036,
+          "like_count": 74301,
+          "quote_count": 401,
+          "reply_count": 352,
+          "retweet_count": 8582
+        },
+        "reply_settings": "everyone",
+        "text": "Twitter's search function rocks because you can type in anything at all, and the results will not feature a single word you included in your search"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1060755243795922946",
+        "conversation_id": "2075816959284043876",
+        "created_at": "2026-07-11T14:54:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-11T15:54:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2075957011272122517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1684788633797287936",
+              "start": 0,
+              "username": "Moningmeng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2075957011272122517",
+        "in_reply_to_user_id": "1684788633797287936",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 399,
+          "like_count": 18,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2075816959284043876",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Moningmeng 主要是中文的搜索很粪，英文你就算错过了，大不了费心搜一下，中文只能说我搜个🔨咯"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Aerospace | Girls Band | Game | Journey | Natural Science",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2236,
+          "following_count": 3339,
+          "like_count": 47068,
+          "listed_count": 10,
+          "media_count": 383,
+          "tweet_count": 14623
+        },
+        "url": "",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2018-11-09T04:45:32.000Z",
+        "description": "",
+        "id": "1060755243795922946",
+        "name": "sunseal",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1789524790942052352/rL7Gw1U1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 92,
+          "following_count": 607,
+          "like_count": 32104,
+          "listed_count": 7,
+          "media_count": 79,
+          "tweet_count": 1918
+        },
+        "url": "",
+        "username": "sunseal2",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-28T04:51:35.000Z",
+        "description": "🏳️‍⚧️ 小证 | 互fo请私信 | 谷歌粉丝 | 闺蜜 @maoxianACT | 提问箱📦https://t.co/tfhHbaQ0gW",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 41,
+                "start": 30,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/moningmeng",
+                "end": 71,
+                "expanded_url": "https://ngl.link/moningmeng",
+                "start": 48,
+                "url": "https://t.co/tfhHbaQ0gW"
+              }
+            ]
+          }
+        },
+        "id": "1684788633797287936",
+        "location": "Taiwan",
+        "name": "沫柠🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075833712986714112/3j84SM6e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28254,
+          "following_count": 11589,
+          "like_count": 94055,
+          "listed_count": 104,
+          "media_count": 5391,
+          "tweet_count": 18787
+        },
+        "url": "",
+        "username": "Moningmeng",
+        "verified": true
+      },
+      {
+        "created_at": "2013-03-11T03:14:59.000Z",
+        "description": "Bylines: Vulture, The Ringer, GQ, Inverse, Men's & Women's Health, Letterboxd Journal, The AV Club, The Playlist, Fangoria, Paste, The Film Stage, Filmmaker Mag",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "muckrack.com/brandon-streus…",
+                "end": 23,
+                "expanded_url": "https://muckrack.com/brandon-streussnig-1",
+                "start": 0,
+                "url": "https://t.co/QzSrXB0syU"
+              }
+            ]
+          }
+        },
+        "id": "1258483736",
+        "location": "PGH➡️NYC",
+        "name": "Brandon Streussnig",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069244484227932160/NQRQEbLI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31452,
+          "following_count": 2088,
+          "like_count": 639837,
+          "listed_count": 214,
+          "media_count": 15587,
+          "tweet_count": 108492
+        },
+        "url": "https://t.co/QzSrXB0syU",
+        "username": "BrndnStrssng",
+        "verified": false
+      }
+    ]
+  }
+}

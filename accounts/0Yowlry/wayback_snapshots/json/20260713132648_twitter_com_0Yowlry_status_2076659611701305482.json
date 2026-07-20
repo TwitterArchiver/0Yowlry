@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2062123072736682403",
+    "created_at": "2026-07-13T13:26:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T14:26:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076659611701305482"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1915087790913810432",
+          "start": 0,
+          "username": "Jougasaki_Noa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076659611701305482",
+    "in_reply_to_user_id": "1915087790913810432",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2062123072736682403",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Jougasaki_Noa 滴泪"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1448,
+        "media_key": "3_2062123069716717568",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4iAZ2aYAAQR3E.jpg",
+        "width": 1086
+      },
+      {
+        "height": 1448,
+        "media_key": "3_2062123069360238592",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HJ4iAYha8AAysoD.jpg",
+        "width": 1086
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2062123072736682403",
+        "created_at": "2026-07-13T13:26:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T14:26:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076659611701305482"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1915087790913810432",
+              "start": 0,
+              "username": "Jougasaki_Noa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076659611701305482",
+        "in_reply_to_user_id": "1915087790913810432",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2062123072736682403",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Jougasaki_Noa 滴泪"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2062123069716717568",
+            "3_2062123069360238592"
+          ]
+        },
+        "author_id": "1915087790913810432",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2062123072736682403",
+        "created_at": "2026-06-03T10:43:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-03T11:43:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2062123072736682403"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/gTQ3R2gx6B",
+              "end": 62,
+              "expanded_url": "https://x.com/Jougasaki_Noa/status/2062123072736682403/photo/1",
+              "media_key": "3_2062123069716717568",
+              "start": 39,
+              "url": "https://t.co/gTQ3R2gx6B"
+            },
+            {
+              "display_url": "pic.x.com/gTQ3R2gx6B",
+              "end": 62,
+              "expanded_url": "https://x.com/Jougasaki_Noa/status/2062123072736682403/photo/1",
+              "media_key": "3_2062123069360238592",
+              "start": 39,
+              "url": "https://t.co/gTQ3R2gx6B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2062123072736682403",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1455,
+          "like_count": 44,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "ChatGPT生成的图也挺好看的，而且没有豆包那种违和感，我尤其喜欢第一张😋 https://t.co/gTQ3R2gx6B"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Aerospace | Girls Band | Game | Journey | Natural Science",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2244,
+          "following_count": 3345,
+          "like_count": 47634,
+          "listed_count": 10,
+          "media_count": 383,
+          "tweet_count": 14798
+        },
+        "url": "",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-23T16:58:29.000Z",
+        "description": "小号:@xinglinai8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 17,
+                "start": 3,
+                "username": "xinglinai8964"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/JqJ8p6gr",
+                "end": 23,
+                "expanded_url": "https://discord.gg/JqJ8p6gr",
+                "start": 0,
+                "url": "https://t.co/nvqfZ0OF67"
+              }
+            ]
+          }
+        },
+        "id": "1915087790913810432",
+        "name": "城ケ崎 ノア",
+        "pinned_tweet_id": "1957072684271194469",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049272880979202048/h9vyY4VT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 480,
+          "following_count": 491,
+          "like_count": 47775,
+          "listed_count": 2,
+          "media_count": 99,
+          "tweet_count": 1022
+        },
+        "url": "https://t.co/nvqfZ0OF67",
+        "username": "Jougasaki_Noa",
+        "verified": false
+      }
+    ]
+  }
+}

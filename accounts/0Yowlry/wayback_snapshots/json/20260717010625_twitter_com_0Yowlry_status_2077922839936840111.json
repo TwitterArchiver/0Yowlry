@@ -1,0 +1,476 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2065377344848843247",
+    "created_at": "2026-07-17T01:06:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T02:06:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077922839936840111"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1761599169066893312",
+          "start": 0,
+          "username": "13witch_Trials"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077922839936840111",
+    "in_reply_to_user_id": "1761599169066893312",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2065377344848843247",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@13witch_Trials 🥰🥰🥰"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "3_2065376117473832960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HKmwotGacAAsNEq.jpg",
+        "width": 900
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2065377344848843247",
+        "created_at": "2026-07-17T01:06:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T02:06:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077922839936840111"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1761599169066893312",
+              "start": 0,
+              "username": "13witch_Trials"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077922839936840111",
+        "in_reply_to_user_id": "1761599169066893312",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2065377344848843247",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@13witch_Trials 🥰🥰🥰"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2065376117473832960"
+          ]
+        },
+        "author_id": "1761599169066893312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1256236649253449729",
+              "name": "Fashion & beauty"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1235998170233991168",
+              "name": "Sneakers"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "id": "839543390668673024",
+              "name": "Fashion"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Fashion",
+              "id": "846810837301932032",
+              "name": "Shoes"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1235998170233991168",
+              "name": "Sneakers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1585790663575994368",
+              "name": "Magical girl"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2065377344848843247",
+        "created_at": "2026-06-12T10:15:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-06-12T11:15:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2065377344848843247"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 88,
+              "start": 83,
+              "tag": "まのさば"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/psU0V1JrKv",
+              "end": 112,
+              "expanded_url": "https://x.com/13witch_Trials/status/2065377344848843247/photo/1",
+              "media_key": "3_2065376117473832960",
+              "start": 89,
+              "url": "https://t.co/psU0V1JrKv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2065377344848843247",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1490,
+          "impression_count": 628211,
+          "like_count": 17703,
+          "quote_count": 257,
+          "reply_count": 81,
+          "retweet_count": 3779
+        },
+        "reply_settings": "everyone",
+        "text": "◆新規イラスト公開◆\n\n7/31発売 \nスニーカー文庫小説 『魔法少女ノ魔女裁判』より\n口絵イラストが公開されました。\n\n今回公開される少女は\n【桜羽エマ】です。\n\n#まのさば https://t.co/psU0V1JrKv"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Girls Band | Game | Journey | Natural Science | Information Tech | Aerospace",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnVfQI"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2271,
+          "following_count": 3410,
+          "like_count": 49077,
+          "listed_count": 10,
+          "media_count": 388,
+          "tweet_count": 15223
+        },
+        "url": "https://t.co/ZXakBnVfQI",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T03:49:14.000Z",
+        "description": "「Acacia」がお届けする魔法議論ミステリゲーム「魔法少女ノ魔女裁判」公式です。Steam/Switch版発売中。#まのさば\n\nYoutube：https://t.co/2vD4itw83M\nShop：https://t.co/3ZvBm16ybz\nLink：https://t.co/Nj5V4ScWW9\n運営：@Acacia_offical_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 58,
+                "tag": "まのさば"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 174,
+                "start": 158,
+                "username": "Acacia_offical_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/uAqSn",
+                "end": 96,
+                "expanded_url": "https://x.gd/uAqSn",
+                "start": 73,
+                "url": "https://t.co/2vD4itw83M"
+              },
+              {
+                "display_url": "x.gd/XHFVjQ",
+                "end": 125,
+                "expanded_url": "https://x.gd/XHFVjQ",
+                "start": 102,
+                "url": "https://t.co/3ZvBm16ybz"
+              },
+              {
+                "display_url": "x.gd/T4Vle",
+                "end": 154,
+                "expanded_url": "https://x.gd/T4Vle",
+                "start": 131,
+                "url": "https://t.co/Nj5V4ScWW9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "manosaba.com",
+                "end": 23,
+                "expanded_url": "https://manosaba.com",
+                "start": 0,
+                "url": "https://t.co/3ri3J0EKXa"
+              }
+            ]
+          }
+        },
+        "id": "1761599169066893312",
+        "location": "シナリオ制作会社Re,AER",
+        "name": "魔法少女ノ魔女裁判 公式",
+        "pinned_tweet_id": "2074871445977715074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774974247125106688/8mB9zMiW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258536,
+          "following_count": 54,
+          "like_count": 3614,
+          "listed_count": 407,
+          "media_count": 735,
+          "tweet_count": 1352
+        },
+        "url": "https://t.co/3ri3J0EKXa",
+        "username": "13witch_Trials",
+        "verified": true
+      }
+    ]
+  }
+}

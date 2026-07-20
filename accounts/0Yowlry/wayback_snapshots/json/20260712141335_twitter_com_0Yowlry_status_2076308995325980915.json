@@ -1,0 +1,268 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2056973907660566897",
+    "created_at": "2026-07-12T14:13:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T15:13:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076308995325980915"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1689257282348158976",
+          "start": 0,
+          "username": "Inaba_Tsumugi"
+        },
+        {
+          "end": 24,
+          "id": "1651982136709357568",
+          "start": 15,
+          "username": "clorami_"
+        },
+        {
+          "end": 41,
+          "id": "1806225733045690368",
+          "start": 25,
+          "username": "MizutaniSubaru_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076308995325980915",
+    "in_reply_to_user_id": "1689257282348158976",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2057114937974239596",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Inaba_Tsumugi @clorami_ @MizutaniSubaru_ 🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2057114937974239596].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2057114937974239596",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2057114937974239596"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2056973907660566897",
+        "created_at": "2026-07-12T14:13:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T15:13:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076308995325980915"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1689257282348158976",
+              "start": 0,
+              "username": "Inaba_Tsumugi"
+            },
+            {
+              "end": 24,
+              "id": "1651982136709357568",
+              "start": 15,
+              "username": "clorami_"
+            },
+            {
+              "end": 41,
+              "id": "1806225733045690368",
+              "start": 25,
+              "username": "MizutaniSubaru_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076308995325980915",
+        "in_reply_to_user_id": "1689257282348158976",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2057114937974239596",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Inaba_Tsumugi @clorami_ @MizutaniSubaru_ 🥺"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Aerospace | Girls Band | Game | Journey | Natural Science",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2237,
+          "following_count": 3342,
+          "like_count": 47160,
+          "listed_count": 10,
+          "media_count": 383,
+          "tweet_count": 14638
+        },
+        "url": "",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-09T12:48:24.000Z",
+        "description": "aka. 𝓣𝓼𝓾𝓶𝓾𝓰𝓲𝓱𝓸𝓵𝓲𝓬！/ ✌🦌夏が近づくと胸が騒めくのは何でなんでしょうか。 / 🍔🍟麦当劳重度依赖 / ☁共犯招募中 / #青ブタ #ボカロ #夢見る #みずえな 🎀🎨 / 🏳️‍🌈🏳️‍⚧️🇦🇶🏴‍☠️ 里账（碎碎念/照片）@Amamiya_kksk",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 73,
+                "start": 69,
+                "tag": "青ブタ"
+              },
+              {
+                "end": 78,
+                "start": 74,
+                "tag": "ボカロ"
+              },
+              {
+                "end": 83,
+                "start": 79,
+                "tag": "夢見る"
+              },
+              {
+                "end": 89,
+                "start": 84,
+                "tag": "みずえな"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 134,
+                "start": 121,
+                "username": "Amamiya_kksk"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tsumugi.icu",
+                "end": 23,
+                "expanded_url": "http://tsumugi.icu/",
+                "start": 0,
+                "url": "https://t.co/S2zNmBUE7o"
+              }
+            ]
+          }
+        },
+        "id": "1689257282348158976",
+        "location": "🌙",
+        "name": "🌙つむぎ🇦🇶",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2050261091830349824/B8Gd3fcQ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 793,
+          "following_count": 1127,
+          "like_count": 51834,
+          "listed_count": 3,
+          "media_count": 1354,
+          "tweet_count": 9882
+        },
+        "url": "https://t.co/S2zNmBUE7o",
+        "username": "Inaba_Tsumugi",
+        "verified": false
+      },
+      {
+        "created_at": "2023-04-28T16:10:26.000Z",
+        "description": "大城市的郊区有着明亮的月亮 明天的露水在墙上凝结",
+        "id": "1651982136709357568",
+        "location": "新川崎",
+        "name": "半紜",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1651982946931441666/T4x20ozy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 557,
+          "following_count": 341,
+          "like_count": 129836,
+          "listed_count": 2,
+          "media_count": 200,
+          "tweet_count": 4354
+        },
+        "url": "",
+        "username": "clorami_",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-27T07:19:18.000Z",
+        "description": "目标是天天开心｜愿你被世界温柔相待.🏳️‍🌈",
+        "id": "1806225733045690368",
+        "location": "In Freedom",
+        "name": "水谷昴",
+        "pinned_tweet_id": "2067863985891017197",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2031314735795417095/AHtCnHWn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 437,
+          "following_count": 581,
+          "like_count": 8397,
+          "listed_count": 1,
+          "media_count": 158,
+          "tweet_count": 1666
+        },
+        "url": "",
+        "username": "MizutaniSubaru_",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2021613945807933625",
+    "created_at": "2026-07-12T20:36:20.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T21:36:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076405320554029497"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1853777198018404352",
+          "start": 0,
+          "username": "huthawar17115"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076405320554029497",
+    "in_reply_to_user_id": "1853777198018404352",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2021613945807933625",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huthawar17115 😿"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2021613945807933625].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2021613945807933625",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2021613945807933625"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2021613945807933625",
+        "created_at": "2026-07-12T20:36:20.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T21:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076405320554029497"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1853777198018404352",
+              "start": 0,
+              "username": "huthawar17115"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076405320554029497",
+        "in_reply_to_user_id": "1853777198018404352",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2021613945807933625",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huthawar17115 😿"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Aerospace | Girls Band | Game | Journey | Natural Science",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2237,
+          "following_count": 3342,
+          "like_count": 47375,
+          "listed_count": 10,
+          "media_count": 383,
+          "tweet_count": 14712
+        },
+        "url": "",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-05T12:32:14.000Z",
+        "description": "Roma catholic🇻🇦☨/欢迎互fo/🚪1919180VND",
+        "id": "1853777198018404352",
+        "location": "距离你4.2光年",
+        "name": "✠葡萄汽水☨🥤🇻🇦",
+        "pinned_tweet_id": "2009624763724136527",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023342430033219584/qAux-j0y_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1249,
+          "following_count": 1821,
+          "like_count": 51377,
+          "listed_count": 6,
+          "media_count": 1311,
+          "tweet_count": 17295
+        },
+        "url": "",
+        "username": "huthawar17115",
+        "verified": false
+      }
+    ]
+  }
+}

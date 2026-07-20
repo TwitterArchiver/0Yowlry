@@ -1,0 +1,159 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1895413593593749591",
+    "created_at": "2026-07-12T20:20:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T21:20:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076401320735789461"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1848778576507842560",
+          "start": 0,
+          "username": "LovelyCheshire_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076401320735789461",
+    "in_reply_to_user_id": "1848778576507842560",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1895413593593749591",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LovelyCheshire_ 我也发现有个人大号和我是互fo小号和我是互b👀"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1895413593593749591].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1895413593593749591",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1895413593593749591"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1895413593593749591",
+        "created_at": "2026-07-12T20:20:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T21:20:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076401320735789461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1848778576507842560",
+              "start": 0,
+              "username": "LovelyCheshire_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076401320735789461",
+        "in_reply_to_user_id": "1848778576507842560",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1895413593593749591",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LovelyCheshire_ 我也发现有个人大号和我是互fo小号和我是互b👀"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Aerospace | Girls Band | Game | Journey | Natural Science",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2237,
+          "following_count": 3342,
+          "like_count": 47299,
+          "listed_count": 10,
+          "media_count": 383,
+          "tweet_count": 14679
+        },
+        "url": "",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-22T17:29:09.000Z",
+        "description": "潜水ing",
+        "id": "1848778576507842560",
+        "location": "K-ON！",
+        "name": "琴吹 紬",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029596309519519744/_Z-pqvQ2_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 262,
+          "like_count": 6651,
+          "listed_count": 4,
+          "media_count": 744,
+          "tweet_count": 3406
+        },
+        "url": "",
+        "username": "LovelyCheshire_",
+        "verified": false
+      }
+    ]
+  }
+}

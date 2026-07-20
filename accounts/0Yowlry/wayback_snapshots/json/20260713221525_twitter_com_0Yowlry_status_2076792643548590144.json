@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2076293951875952888",
+    "created_at": "2026-07-13T22:15:25.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-13T23:15:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076792643548590144"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1340208634999934976",
+          "start": 0,
+          "username": "nyarinrin17"
+        },
+        {
+          "end": 29,
+          "id": "1699273459325390848",
+          "start": 13,
+          "username": "DurantRaym93677"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076792643548590144",
+    "in_reply_to_user_id": "1340208634999934976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076319810724725018",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyarinrin17 @DurantRaym93677 但是万一要是不感兴趣怎么办（）这种状态真的会对生活中任何东西都索然无味，找不到能够引起自己兴趣的东西，很难受≧ ﹏ ≦"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2076319810724725018].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2076319810724725018",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2076319810724725018"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2076293951875952888",
+        "created_at": "2026-07-13T22:15:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-13T23:15:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076792643548590144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1340208634999934976",
+              "start": 0,
+              "username": "nyarinrin17"
+            },
+            {
+              "end": 29,
+              "id": "1699273459325390848",
+              "start": 13,
+              "username": "DurantRaym93677"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076792643548590144",
+        "in_reply_to_user_id": "1340208634999934976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076319810724725018",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyarinrin17 @DurantRaym93677 但是万一要是不感兴趣怎么办（）这种状态真的会对生活中任何东西都索然无味，找不到能够引起自己兴趣的东西，很难受≧ ﹏ ≦"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Aerospace | Girls Band | Game | Journey | Natural Science",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2255,
+          "following_count": 3358,
+          "like_count": 47907,
+          "listed_count": 10,
+          "media_count": 383,
+          "tweet_count": 14883
+        },
+        "url": "",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-19T08:15:26.000Z",
+        "description": "职业trader，副业是上班。梦想是不用上班。",
+        "id": "1340208634999934976",
+        "name": "にゃりんりん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973774792441622528/A8z3qZ39_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4260,
+          "following_count": 791,
+          "like_count": 242884,
+          "listed_count": 27,
+          "media_count": 8467,
+          "tweet_count": 57993
+        },
+        "url": "",
+        "username": "nyarinrin17",
+        "verified": false
+      },
+      {
+        "created_at": "2023-09-06T04:09:04.000Z",
+        "description": "🍊 あぁ 闇はただ純粋で | \n🚼 🔑サブ: @AmmieColl84391 (フォロー歓迎) | 💼 Speaker of the Parliament of @enchenia | 💕 @chiyorin8964",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 23,
+                "username": "AmmieColl84391"
+              },
+              {
+                "end": 90,
+                "start": 81,
+                "username": "enchenia"
+              },
+              {
+                "end": 108,
+                "start": 95,
+                "username": "chiyorin8964"
+              }
+            ]
+          }
+        },
+        "id": "1699273459325390848",
+        "location": "Japan",
+        "name": "Luke 鈴木 さくらみ⛩️",
+        "pinned_tweet_id": "1991763708138397781",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036740912668389376/LWPePSYk_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3448,
+          "following_count": 4025,
+          "like_count": 50493,
+          "listed_count": 15,
+          "media_count": 598,
+          "tweet_count": 12105
+        },
+        "url": "",
+        "username": "DurantRaym93677",
+        "verified": true
+      }
+    ]
+  }
+}

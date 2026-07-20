@@ -1,0 +1,191 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1887129310160699421",
+    "created_at": "2026-07-12T20:43:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T21:43:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076407174679724066"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1626578993821675521",
+          "start": 0,
+          "username": "linmen589064"
+        },
+        {
+          "end": 23,
+          "id": "1750804799031824384",
+          "start": 14,
+          "username": "lizi5202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076407174679724066",
+    "in_reply_to_user_id": "1626578993821675521",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1887150665832779789",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linmen589064 @lizi5202 羡慕"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1887150665832779789].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1887150665832779789",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1887150665832779789"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1887129310160699421",
+        "created_at": "2026-07-12T20:43:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T21:43:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076407174679724066"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1626578993821675521",
+              "start": 0,
+              "username": "linmen589064"
+            },
+            {
+              "end": 23,
+              "id": "1750804799031824384",
+              "start": 14,
+              "username": "lizi5202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076407174679724066",
+        "in_reply_to_user_id": "1626578993821675521",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1887150665832779789",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linmen589064 @lizi5202 羡慕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Aerospace | Girls Band | Game | Journey | Natural Science",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2237,
+          "following_count": 3342,
+          "like_count": 47399,
+          "listed_count": 10,
+          "media_count": 383,
+          "tweet_count": 14729
+        },
+        "url": "",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-17T13:48:49.000Z",
+        "description": "为长崎而素食",
+        "id": "1626578993821675521",
+        "name": "Soyo丶Chihaya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070374407592087552/Zl0wlzHH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1693,
+          "following_count": 439,
+          "like_count": 71203,
+          "listed_count": 4,
+          "media_count": 1122,
+          "tweet_count": 20716
+        },
+        "url": "",
+        "username": "linmen589064",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T08:56:14.000Z",
+        "description": "西郊有密林，助君出重围",
+        "id": "1750804799031824384",
+        "location": "月之森女子学园",
+        "name": "漓莫莫",
+        "pinned_tweet_id": "1961424998943305808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870709592155619328/TM8eQYzZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1427,
+          "following_count": 1320,
+          "like_count": 15756,
+          "listed_count": 4,
+          "media_count": 600,
+          "tweet_count": 6890
+        },
+        "url": "",
+        "username": "lizi5202",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,628 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2032664272908783616"
+      ],
+      "media_source_tweet_id": [
+        "2032664635460190341"
+      ]
+    },
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1322309763716145153",
+          "name": "White Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "id": "1322309763716145153",
+          "name": "White Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1322309763716145153",
+          "name": "White Day"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2077922361354113345",
+    "created_at": "2026-07-17T01:04:31.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T02:04:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077922361354113345"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1761599169066893312",
+          "start": 3,
+          "username": "13witch_Trials"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/SiB5y7hCPY",
+          "end": 54,
+          "expanded_url": "https://x.com/13witch_Trials/status/2032664635460190341/photo/1",
+          "media_key": "3_2032664272908783616",
+          "start": 31,
+          "url": "https://t.co/SiB5y7hCPY"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077922361354113345",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 5384
+    },
+    "referenced_tweets": [
+      {
+        "id": "2032664635460190341",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @13witch_Trials: みなさんのせいです。 https://t.co/SiB5y7hCPY"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2032664272908783616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HDV5Yv5bEAAh1hG.jpg",
+        "width": 1600
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032664272908783616"
+          ]
+        },
+        "author_id": "1761599169066893312",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1322309763716145153",
+              "name": "White Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1322309763716145153",
+              "name": "White Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1322309763716145153",
+              "name": "White Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2032664635460190341",
+        "created_at": "2026-03-14T03:46:28.000Z",
+        "edit_controls": {
+          "editable_until": "2026-03-14T04:46:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2032664635460190341"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/SiB5y7hCPY",
+              "end": 34,
+              "expanded_url": "https://x.com/13witch_Trials/status/2032664635460190341/photo/1",
+              "media_key": "3_2032664272908783616",
+              "start": 11,
+              "url": "https://t.co/SiB5y7hCPY"
+            },
+            {
+              "display_url": "x.com/13witch_Trials…",
+              "end": 58,
+              "expanded_url": "https://twitter.com/13witch_Trials/status/2022593222082781600",
+              "start": 35,
+              "url": "https://t.co/JwOSs9k1Xj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2032664635460190341",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2079,
+          "impression_count": 1751497,
+          "like_count": 25092,
+          "quote_count": 356,
+          "reply_count": 173,
+          "retweet_count": 5384
+        },
+        "referenced_tweets": [
+          {
+            "id": "2022593222082781600",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "みなさんのせいです。 https://t.co/SiB5y7hCPY https://t.co/JwOSs9k1Xj"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2032664272908783616"
+          ],
+          "media_source_tweet_id": [
+            "2032664635460190341"
+          ]
+        },
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1322309763716145153",
+              "name": "White Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "id": "1322309763716145153",
+              "name": "White Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1322309763716145153",
+              "name": "White Day"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2077922361354113345",
+        "created_at": "2026-07-17T01:04:31.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T02:04:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077922361354113345"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1761599169066893312",
+              "start": 3,
+              "username": "13witch_Trials"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/SiB5y7hCPY",
+              "end": 54,
+              "expanded_url": "https://x.com/13witch_Trials/status/2032664635460190341/photo/1",
+              "media_key": "3_2032664272908783616",
+              "start": 31,
+              "url": "https://t.co/SiB5y7hCPY"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077922361354113345",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 5384
+        },
+        "referenced_tweets": [
+          {
+            "id": "2032664635460190341",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @13witch_Trials: みなさんのせいです。 https://t.co/SiB5y7hCPY"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Girls Band | Game | Journey | Natural Science | Information Tech | Aerospace",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnVfQI"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2271,
+          "following_count": 3410,
+          "like_count": 49062,
+          "listed_count": 10,
+          "media_count": 388,
+          "tweet_count": 15218
+        },
+        "url": "https://t.co/ZXakBnVfQI",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-25T03:49:14.000Z",
+        "description": "「Acacia」がお届けする魔法議論ミステリゲーム「魔法少女ノ魔女裁判」公式です。Steam/Switch版発売中。#まのさば\n\nYoutube：https://t.co/2vD4itw83M\nShop：https://t.co/3ZvBm16ybz\nLink：https://t.co/Nj5V4ScWW9\n運営：@Acacia_offical_",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 63,
+                "start": 58,
+                "tag": "まのさば"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 174,
+                "start": 158,
+                "username": "Acacia_offical_"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/uAqSn",
+                "end": 96,
+                "expanded_url": "https://x.gd/uAqSn",
+                "start": 73,
+                "url": "https://t.co/2vD4itw83M"
+              },
+              {
+                "display_url": "x.gd/XHFVjQ",
+                "end": 125,
+                "expanded_url": "https://x.gd/XHFVjQ",
+                "start": 102,
+                "url": "https://t.co/3ZvBm16ybz"
+              },
+              {
+                "display_url": "x.gd/T4Vle",
+                "end": 154,
+                "expanded_url": "https://x.gd/T4Vle",
+                "start": 131,
+                "url": "https://t.co/Nj5V4ScWW9"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "manosaba.com",
+                "end": 23,
+                "expanded_url": "https://manosaba.com",
+                "start": 0,
+                "url": "https://t.co/3ri3J0EKXa"
+              }
+            ]
+          }
+        },
+        "id": "1761599169066893312",
+        "location": "シナリオ制作会社Re,AER",
+        "name": "魔法少女ノ魔女裁判 公式",
+        "pinned_tweet_id": "2074871445977715074",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774974247125106688/8mB9zMiW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 258536,
+          "following_count": 54,
+          "like_count": 3614,
+          "listed_count": 407,
+          "media_count": 735,
+          "tweet_count": 1352
+        },
+        "url": "https://t.co/3ri3J0EKXa",
+        "username": "13witch_Trials",
+        "verified": true
+      }
+    ]
+  }
+}

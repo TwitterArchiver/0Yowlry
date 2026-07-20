@@ -1,0 +1,227 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1986352447607218199",
+    "created_at": "2026-07-12T20:41:48.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-12T21:41:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2076406693089649071"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1587653801305153538",
+          "start": 0,
+          "username": "XiaoHuiHuiH"
+        },
+        {
+          "end": 28,
+          "id": "1845454917236031495",
+          "start": 13,
+          "username": "Dontbesadforit"
+        },
+        {
+          "end": 45,
+          "id": "1430852247093538821",
+          "start": 29,
+          "username": "GraceBrown54188"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2076406693089649071",
+    "in_reply_to_user_id": "1587653801305153538",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1986391918377398501",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@XiaoHuiHuiH @Dontbesadforit @GraceBrown54188 原来你是在中国上的高中吗（"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [GraceBrown54188].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "GraceBrown54188",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "GraceBrown54188"
+    },
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1986391918377398501].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1986391918377398501",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1986391918377398501"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1986352447607218199",
+        "created_at": "2026-07-12T20:41:48.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-12T21:41:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076406693089649071"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1587653801305153538",
+              "start": 0,
+              "username": "XiaoHuiHuiH"
+            },
+            {
+              "end": 28,
+              "id": "1845454917236031495",
+              "start": 13,
+              "username": "Dontbesadforit"
+            },
+            {
+              "end": 45,
+              "id": "1430852247093538821",
+              "start": 29,
+              "username": "GraceBrown54188"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076406693089649071",
+        "in_reply_to_user_id": "1587653801305153538",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1986391918377398501",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@XiaoHuiHuiH @Dontbesadforit @GraceBrown54188 原来你是在中国上的高中吗（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Aerospace | Girls Band | Game | Journey | Natural Science",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2237,
+          "following_count": 3342,
+          "like_count": 47391,
+          "listed_count": 10,
+          "media_count": 383,
+          "tweet_count": 14723
+        },
+        "url": "",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2022-11-02T03:52:34.000Z",
+        "description": "咴咴（2003-2026）\n\n账号永久锁定状态 不再接受任何新关注请求\n\n好东西曾在咱主页的“亮点”里🥹\n/日常+抽象+涩涩推🫣/\nmtx(f)🏳️‍⚧️但可以把我当男娘喵🏳️‍🌈/含糖🍥2023.12.7/嘈嘈风流往事…/🩷💜/？？岁/单身了/多伦多🇨🇦/",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@XiaoHuiHuiH",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@XiaoHuiHuiH",
+                "start": 0,
+                "url": "https://t.co/L7JqMJXoei"
+              }
+            ]
+          }
+        },
+        "id": "1587653801305153538",
+        "location": "Toronto, Ontario🇨🇦",
+        "name": "小咴咴喵(⁠≧⁠▽⁠≦⁠)/🍥喵喵艺术家~",
+        "pinned_tweet_id": "2074532156722782453",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1904236723636224000/W8Cl9P5f_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 12388,
+          "following_count": 1349,
+          "like_count": 155877,
+          "listed_count": 36,
+          "media_count": 5083,
+          "tweet_count": 67599
+        },
+        "url": "https://t.co/L7JqMJXoei",
+        "username": "XiaoHuiHuiH",
+        "verified": false
+      },
+      {
+        "created_at": "2024-10-13T13:22:23.000Z",
+        "description": "没有脑子",
+        "id": "1845454917236031495",
+        "location": "Earth",
+        "name": "老中",
+        "pinned_tweet_id": "2032491408985333996",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063207895135862785/ciSOUURv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2488,
+          "following_count": 981,
+          "like_count": 77884,
+          "listed_count": 5,
+          "media_count": 491,
+          "tweet_count": 9634
+        },
+        "url": "",
+        "username": "Dontbesadforit",
+        "verified": true
+      }
+    ]
+  }
+}

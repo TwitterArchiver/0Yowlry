@@ -1,0 +1,277 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2063872235459481835",
+    "created_at": "2026-07-14T16:35:05.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T17:35:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077069384225591346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1340208634999934976",
+          "start": 0,
+          "username": "nyarinrin17"
+        },
+        {
+          "end": 24,
+          "id": "1629688098505510912",
+          "start": 13,
+          "username": "Unknow_CVC"
+        },
+        {
+          "end": 34,
+          "id": "1103830967163117568",
+          "start": 25,
+          "username": "anblk984"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077069384225591346",
+    "in_reply_to_user_id": "1340208634999934976",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2064121003735921125",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nyarinrin17 @Unknow_CVC @anblk984 是这样，b站创作激励就那么一点导致不接广根本不赚钱"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2064121003735921125].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2064121003735921125",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2064121003735921125"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2063872235459481835",
+        "created_at": "2026-07-14T16:35:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T17:35:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077069384225591346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1340208634999934976",
+              "start": 0,
+              "username": "nyarinrin17"
+            },
+            {
+              "end": 24,
+              "id": "1629688098505510912",
+              "start": 13,
+              "username": "Unknow_CVC"
+            },
+            {
+              "end": 34,
+              "id": "1103830967163117568",
+              "start": 25,
+              "username": "anblk984"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077069384225591346",
+        "in_reply_to_user_id": "1340208634999934976",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2064121003735921125",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nyarinrin17 @Unknow_CVC @anblk984 是这样，b站创作激励就那么一点导致不接广根本不赚钱"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Aerospace | Girls Band | Game | Journey | Natural Science",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2260,
+          "following_count": 3361,
+          "like_count": 48199,
+          "listed_count": 10,
+          "media_count": 385,
+          "tweet_count": 14970
+        },
+        "url": "",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2020-12-19T08:15:26.000Z",
+        "description": "职业trader，副业是上班。梦想是不用上班。",
+        "id": "1340208634999934976",
+        "name": "にゃりんりん",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973774792441622528/A8z3qZ39_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 4261,
+          "following_count": 792,
+          "like_count": 243216,
+          "listed_count": 27,
+          "media_count": 8479,
+          "tweet_count": 58104
+        },
+        "url": "",
+        "username": "nyarinrin17",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-26T03:41:48.000Z",
+        "description": "ex-ex-Coder学业淡码|Qt|PyTorch苦手|粤|LGBT友好|历史|kizuner|JOJI|Otaku|替え歌|音游|卡拉比丘|朮力口|↙🌹|泛亚|INTJ-T|男子高中牲|🍅🍅🍅|🦐🦐🦐|全系结肠炎享受者\n私帐：@CenKawaru21120|https://t.co/q0TRSt2d53",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 130,
+                "start": 115,
+                "username": "CenKawaru21120"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "t.me/unknow_c",
+                "end": 154,
+                "expanded_url": "http://t.me/unknow_c",
+                "start": 131,
+                "url": "https://t.co/q0TRSt2d53"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/n9s42gculd7i0d…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/n9s42gculd7i0dr?t=HjKp17&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/3dxIv9ej9s"
+              }
+            ]
+          }
+        },
+        "id": "1629688098505510912",
+        "location": "珠江口蓝色油桶中",
+        "name": "🍅超中专級の𝒞𝑒𝓃𝒱𝒞𝑒𝑒🍤",
+        "pinned_tweet_id": "2002402192716632415",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1936645319963406336/GL7lqDiv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 442,
+          "following_count": 1634,
+          "like_count": 28751,
+          "listed_count": 0,
+          "media_count": 2467,
+          "tweet_count": 17869
+        },
+        "url": "https://t.co/3dxIv9ej9s",
+        "username": "Unknow_CVC",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-08T01:33:05.000Z",
+        "description": "黄泛区说书人/17岁美少蛆/狐鸣鬼泣，醒时尽皆虚妄；嬉笑怒骂，更无一物是真  /数学家教接单中私信窝即可 /最后感谢大爹画窝头像@data_syuxchu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 64,
+                "username": "data_syuxchu"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/orewamaruganesu",
+                "end": 23,
+                "expanded_url": "https://t.me/orewamaruganesu",
+                "start": 0,
+                "url": "https://t.co/H2pejl6igE"
+              }
+            ]
+          }
+        },
+        "id": "1103830967163117568",
+        "location": "梁家河冲浪里          下面是tg频道",
+        "name": "琵琶牧々",
+        "pinned_tweet_id": "2063872235459481835",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2020118049534472192/Qa7ES9rk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15726,
+          "following_count": 1051,
+          "like_count": 125751,
+          "listed_count": 75,
+          "media_count": 3252,
+          "tweet_count": 30369
+        },
+        "url": "https://t.co/H2pejl6igE",
+        "username": "anblk984",
+        "verified": true
+      }
+    ]
+  }
+}

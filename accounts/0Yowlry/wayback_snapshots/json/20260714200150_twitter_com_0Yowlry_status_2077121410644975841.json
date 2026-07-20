@@ -1,0 +1,386 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2049409161176224153",
+    "created_at": "2026-07-14T20:01:50.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-14T21:01:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077121410644975841"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1108737084301307904",
+          "start": 0,
+          "username": "EntropyF73"
+        },
+        {
+          "end": 25,
+          "id": "1844926832967286785",
+          "start": 12,
+          "username": "ZX65535plus1"
+        },
+        {
+          "end": 39,
+          "id": "1862825645824507904",
+          "start": 26,
+          "username": "ThanksuTrump"
+        },
+        {
+          "end": 54,
+          "id": "1916817753635426304",
+          "start": 40,
+          "username": "Goldwater8964"
+        },
+        {
+          "end": 68,
+          "id": "1424779836938022913",
+          "start": 55,
+          "username": "amber_toffee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077121410644975841",
+    "in_reply_to_user_id": "1108737084301307904",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2049546113603064258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EntropyF73 @ZX65535plus1 @ThanksuTrump @Goldwater8964 @amber_toffee 🥲"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [amber_toffee].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "amber_toffee",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "amber_toffee"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2049409161176224153",
+        "created_at": "2026-07-14T20:01:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T21:01:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077121410644975841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1108737084301307904",
+              "start": 0,
+              "username": "EntropyF73"
+            },
+            {
+              "end": 25,
+              "id": "1844926832967286785",
+              "start": 12,
+              "username": "ZX65535plus1"
+            },
+            {
+              "end": 39,
+              "id": "1862825645824507904",
+              "start": 26,
+              "username": "ThanksuTrump"
+            },
+            {
+              "end": 54,
+              "id": "1916817753635426304",
+              "start": 40,
+              "username": "Goldwater8964"
+            },
+            {
+              "end": 68,
+              "id": "1424779836938022913",
+              "start": 55,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077121410644975841",
+        "in_reply_to_user_id": "1108737084301307904",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049546113603064258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EntropyF73 @ZX65535plus1 @ThanksuTrump @Goldwater8964 @amber_toffee 🥲"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1108737084301307904",
+        "conversation_id": "2049409161176224153",
+        "created_at": "2026-04-29T17:47:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-29T18:47:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2049546113603064258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1844926832967286785",
+              "start": 0,
+              "username": "ZX65535plus1"
+            },
+            {
+              "end": 27,
+              "id": "1862825645824507904",
+              "start": 14,
+              "username": "ThanksuTrump"
+            },
+            {
+              "end": 42,
+              "id": "1916817753635426304",
+              "start": 28,
+              "username": "Goldwater8964"
+            },
+            {
+              "end": 56,
+              "id": "1424779836938022913",
+              "start": 43,
+              "username": "amber_toffee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2049546113603064258",
+        "in_reply_to_user_id": "1844926832967286785",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 905,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2049463229244751893",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ZX65535plus1 @ThanksuTrump @Goldwater8964 @amber_toffee 两个号都没了😭😭😭"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Aerospace | Girls Band | Game | Journey | Natural Science",
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2262,
+          "following_count": 3364,
+          "like_count": 48249,
+          "listed_count": 10,
+          "media_count": 385,
+          "tweet_count": 14985
+        },
+        "url": "",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2019-03-21T14:28:15.000Z",
+        "description": "🏳️‍🌈+🖤🩶🤍💜 Indie VTuber 个人势 | enby INFJ-A 中文 & EN｜Weibo & Bilibili: 熵x殇Entropy (GB based) cptsd自救 | Support Me⬇️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/entropyf73",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/entropyf73",
+                "start": 0,
+                "url": "https://t.co/aSj9f0QHM2"
+              }
+            ]
+          }
+        },
+        "id": "1108737084301307904",
+        "location": "East, England",
+        "name": "Entropy 📎💙",
+        "pinned_tweet_id": "1548475185132552193",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1546099766416871426/3J0rGG_I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 886,
+          "following_count": 1253,
+          "like_count": 34529,
+          "listed_count": 1,
+          "media_count": 425,
+          "tweet_count": 3679
+        },
+        "url": "https://t.co/aSj9f0QHM2",
+        "username": "EntropyF73",
+        "verified": true
+      },
+      {
+        "created_at": "2024-10-12T02:23:45.000Z",
+        "description": "挨揍不如嘴贱 brat统治世界  |  \n只要不去就诊我就是健全B  |  \n一直试图在没有血缘关系的人身上找到家 | \n非计算机专业 | \n发现男的太傻逼但不太想否认自己历史，遂加入双性恋阵营",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/i/chat/group_j…",
+                "end": 23,
+                "expanded_url": "https://x.com/i/chat/group_join/g2043367970999832925/7jUBUlO2qh",
+                "start": 0,
+                "url": "https://t.co/pdJCzdgssh"
+              }
+            ]
+          }
+        },
+        "id": "1844926832967286785",
+        "location": "万达广场楼下",
+        "name": "小竹子一掰就断🏳️‍⚧️",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036702817168265216/LUEbpUzW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4699,
+          "following_count": 1451,
+          "like_count": 81969,
+          "listed_count": 11,
+          "media_count": 1183,
+          "tweet_count": 23933
+        },
+        "url": "https://t.co/pdJCzdgssh",
+        "username": "ZX65535plus1",
+        "verified": false
+      },
+      {
+        "created_at": "2024-11-30T11:47:10.000Z",
+        "description": "战斗频道｜ 蓝v互关Blue V Follow Back 💯｜ 互动群 https://t.co/lzCH3ZLOum｜爱好寻找Alpha｜超级个体 Ai X Crypto X 美股 X Vibe Coding｜$STONKS 已质押｜既懂投资，又懂投机｜看得远，出手准。｜一年出手两三次足矣",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/+ZWVcAmte3tlmZ…",
+                "end": 59,
+                "expanded_url": "https://t.me/+ZWVcAmte3tlmZjky",
+                "start": 36,
+                "url": "https://t.co/lzCH3ZLOum"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+ZWVcAmte3tlmZ…",
+                "end": 23,
+                "expanded_url": "https://t.me/+ZWVcAmte3tlmZjky",
+                "start": 0,
+                "url": "https://t.co/lzCH3ZLOum"
+              }
+            ]
+          }
+        },
+        "id": "1862825645824507904",
+        "location": "距离你0.08km",
+        "name": "猫投鹰 (鹰哥)",
+        "pinned_tweet_id": "2064367294088888376",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2061283513970860032/Ndq5Vqxe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 24496,
+          "following_count": 23066,
+          "like_count": 86824,
+          "listed_count": 24,
+          "media_count": 753,
+          "tweet_count": 16766
+        },
+        "url": "https://t.co/lzCH3ZLOum",
+        "username": "ThanksuTrump",
+        "verified": true
+      },
+      {
+        "created_at": "2025-04-28T11:32:29.000Z",
+        "description": "成和败努力尝试\n人若有志应该不怕迟\n谁人在我未为意\n成就靠真本事\n做个真的汉子\n承担起苦痛跟失意",
+        "id": "1916817753635426304",
+        "location": "Auckland Region, New Zealand",
+        "name": "Friedrich🇳🇿🇦🇺",
+        "pinned_tweet_id": "2072446798132883670",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065133243230265344/6BqOTcEn_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1924,
+          "following_count": 1049,
+          "like_count": 8459,
+          "listed_count": 5,
+          "media_count": 372,
+          "tweet_count": 1537
+        },
+        "url": "",
+        "username": "Goldwater8964",
+        "verified": true
+      }
+    ]
+  }
+}

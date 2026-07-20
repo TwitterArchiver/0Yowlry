@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2076994141628547245",
+    "created_at": "2026-07-17T02:53:47.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T03:53:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077949859752198568"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "63485337",
+          "start": 0,
+          "username": "notch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077949859752198568",
+    "in_reply_to_user_id": "63485337",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076994141628547245",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@notch ELECT A.I."
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2076994141628547245",
+        "created_at": "2026-07-17T02:53:47.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T03:53:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077949859752198568"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "63485337",
+              "start": 0,
+              "username": "notch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077949859752198568",
+        "in_reply_to_user_id": "63485337",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076994141628547245",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@notch ELECT A.I."
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "63485337",
+        "conversation_id": "2076994141628547245",
+        "created_at": "2026-07-14T11:36:06.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-14T12:36:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2076994141628547245"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2076994141628547245",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2701,
+          "impression_count": 4989633,
+          "like_count": 69495,
+          "quote_count": 990,
+          "reply_count": 2128,
+          "retweet_count": 5655
+        },
+        "reply_settings": "everyone",
+        "text": "Reject AI."
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Girls Band | Game | Journey | Natural Science | Information Tech | Aerospace",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnVfQI"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2271,
+          "following_count": 3411,
+          "like_count": 49134,
+          "listed_count": 10,
+          "media_count": 392,
+          "tweet_count": 15235
+        },
+        "url": "https://t.co/ZXakBnVfQI",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2009-08-06T17:08:06.000Z",
+        "description": "Currently working on Levers and Chests, a dungeon crawler roguelike roguelite.",
+        "id": "63485337",
+        "name": "notch",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1523817638706700288/tVCx9ZP1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3250497,
+          "following_count": 243,
+          "like_count": 16107,
+          "listed_count": 8840,
+          "media_count": 2551,
+          "tweet_count": 99558
+        },
+        "url": "",
+        "username": "notch",
+        "verified": true
+      }
+    ]
+  }
+}

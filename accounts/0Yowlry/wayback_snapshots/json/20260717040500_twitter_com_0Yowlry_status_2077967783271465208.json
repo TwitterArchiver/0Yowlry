@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1945426456731062411",
+    "created_at": "2026-07-17T04:05:00.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T05:05:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077967783271465208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1586985695461064704",
+          "start": 0,
+          "username": "Lmao_Quien"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077967783271465208",
+    "in_reply_to_user_id": "1586985695461064704",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1945575723474862585",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lmao_Quien 妈妈"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1945426456731062411",
+        "created_at": "2026-07-17T04:05:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T05:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077967783271465208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1586985695461064704",
+              "start": 0,
+              "username": "Lmao_Quien"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077967783271465208",
+        "in_reply_to_user_id": "1586985695461064704",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945575723474862585",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lmao_Quien 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1586985695461064704",
+        "conversation_id": "1945426456731062411",
+        "created_at": "2025-07-16T20:06:14.000Z",
+        "edit_controls": {
+          "editable_until": "2025-07-16T21:06:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1945575723474862585"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "1945575723474862585",
+        "in_reply_to_user_id": "1768487038645678080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 168,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1945426456731062411",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yamada_Ryo4 妈妈"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Girls Band | Game | Journey | Natural Science | Information Tech | Aerospace",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnVfQI"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2271,
+          "following_count": 3412,
+          "like_count": 49157,
+          "listed_count": 10,
+          "media_count": 391,
+          "tweet_count": 15250
+        },
+        "url": "https://t.co/ZXakBnVfQI",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2022-10-31T07:37:47.000Z",
+        "description": "",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gov.cn",
+                "end": 23,
+                "expanded_url": "http://gov.cn",
+                "start": 0,
+                "url": "https://t.co/QE5dw8nVGU"
+              }
+            ]
+          }
+        },
+        "id": "1586985695461064704",
+        "name": "我也要取名字吗",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2021790534134611968/h1WgGOtF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 397,
+          "following_count": 582,
+          "like_count": 16491,
+          "listed_count": 4,
+          "media_count": 448,
+          "tweet_count": 10851
+        },
+        "url": "https://t.co/QE5dw8nVGU",
+        "username": "Lmao_Quien",
+        "verified": false
+      }
+    ]
+  }
+}

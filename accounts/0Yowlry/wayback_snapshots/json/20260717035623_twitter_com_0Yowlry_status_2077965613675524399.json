@@ -1,0 +1,202 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1981696718677868977",
+    "created_at": "2026-07-17T03:56:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-17T04:56:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2077965613675524399"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1626578993821675521",
+          "start": 0,
+          "username": "linmen589064"
+        },
+        {
+          "end": 23,
+          "id": "1687116360814637056",
+          "start": 14,
+          "username": "wwwsgry_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2077965613675524399",
+    "in_reply_to_user_id": "1626578993821675521",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1981772794297036870",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@linmen589064 @wwwsgry_ 是这样"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1981772794297036870].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1981772794297036870",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1981772794297036870"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1981696718677868977",
+        "created_at": "2026-07-17T03:56:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-17T04:56:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2077965613675524399"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1626578993821675521",
+              "start": 0,
+              "username": "linmen589064"
+            },
+            {
+              "end": 23,
+              "id": "1687116360814637056",
+              "start": 14,
+              "username": "wwwsgry_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077965613675524399",
+        "in_reply_to_user_id": "1626578993821675521",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1981772794297036870",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@linmen589064 @wwwsgry_ 是这样"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Girls Band | Game | Journey | Natural Science | Information Tech | Aerospace",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnVfQI"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2271,
+          "following_count": 3411,
+          "like_count": 49215,
+          "listed_count": 10,
+          "media_count": 393,
+          "tweet_count": 15250
+        },
+        "url": "https://t.co/ZXakBnVfQI",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2023-02-17T13:48:49.000Z",
+        "description": "为长崎而素食",
+        "id": "1626578993821675521",
+        "name": "Soyo丶Chihaya",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070374407592087552/Zl0wlzHH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1692,
+          "following_count": 438,
+          "like_count": 71276,
+          "listed_count": 4,
+          "media_count": 1126,
+          "tweet_count": 20744
+        },
+        "url": "",
+        "username": "linmen589064",
+        "verified": false
+      },
+      {
+        "created_at": "2023-08-03T15:01:28.000Z",
+        "description": "這個人很神秘，什麼都沒有寫",
+        "id": "1687116360814637056",
+        "name": "梣🍂",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2063608854403788801/UXw4chE9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 773,
+          "following_count": 998,
+          "like_count": 17186,
+          "listed_count": 4,
+          "media_count": 604,
+          "tweet_count": 6827
+        },
+        "url": "",
+        "username": "wwwsgry_",
+        "verified": false
+      }
+    ]
+  }
+}
