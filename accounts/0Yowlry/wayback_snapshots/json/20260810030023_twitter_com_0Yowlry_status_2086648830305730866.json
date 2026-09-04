@@ -1,0 +1,814 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Elon Musk",
+          "id": "808713037230157824",
+          "name": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Leadership",
+          "id": "857878777191211008",
+          "name": "Leadership"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Elon Musk",
+          "id": "808713037230157824",
+          "name": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tech Professionals",
+          "id": "1091420346660470784",
+          "name": "Tech personalities"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166406108623163392",
+          "name": "Business personalities"
+        }
+      }
+    ],
+    "conversation_id": "2086461277048910156",
+    "created_at": "2026-08-10T03:00:23.000Z",
+    "display_text_range": [
+      24,
+      98
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T04:00:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086648830305730866"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2086341615153762304",
+          "start": 0,
+          "username": "yukiha_Air"
+        },
+        {
+          "end": 23,
+          "id": "1988187586339467264",
+          "start": 12,
+          "username": "Air_Yukiha"
+        },
+        {
+          "end": 33,
+          "id": "44196397",
+          "start": 24,
+          "username": "elonmusk"
+        },
+        {
+          "end": 36,
+          "id": "783214",
+          "start": 34,
+          "username": "X"
+        },
+        {
+          "end": 45,
+          "id": "17874544",
+          "start": 37,
+          "username": "Support"
+        },
+        {
+          "end": 58,
+          "id": "636513296",
+          "start": 47,
+          "username": "nikitabier"
+        },
+        {
+          "end": 94,
+          "id": "1988187586339467264",
+          "start": 83,
+          "username": "Air_Yukiha"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086648830305730866",
+    "in_reply_to_user_id": "2086341615153762304",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086461277048910156",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yukiha_Air @Air_Yukiha @elonmusk @X @Support  @nikitabier \nWE NEED HELP!\nFREE THE @Air_Yukiha !!!"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [Air_Yukiha].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Air_Yukiha",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Air_Yukiha"
+    },
+    {
+      "detail": "User has been suspended: [Air_Yukiha].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "Air_Yukiha",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "Air_Yukiha"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1921,
+        "media_key": "3_2086461267259293696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPSZd9CaAAAKTST.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1151,
+        "media_key": "3_2086461267292848128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPSZd9KaAAA32oP.jpg",
+        "width": 1440
+      },
+      {
+        "height": 1706,
+        "media_key": "3_2086461267309649920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPSZd9OaYAAdhtS.jpg",
+        "width": 1280
+      },
+      {
+        "height": 1437,
+        "media_key": "3_2086461267242610688",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPSZd8-bcAAdoDq.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2086461277048910156",
+        "created_at": "2026-08-10T03:00:23.000Z",
+        "display_text_range": [
+          24,
+          98
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T04:00:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086648830305730866"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2086341615153762304",
+              "start": 0,
+              "username": "yukiha_Air"
+            },
+            {
+              "end": 23,
+              "id": "1988187586339467264",
+              "start": 12,
+              "username": "Air_Yukiha"
+            },
+            {
+              "end": 33,
+              "id": "44196397",
+              "start": 24,
+              "username": "elonmusk"
+            },
+            {
+              "end": 36,
+              "id": "783214",
+              "start": 34,
+              "username": "X"
+            },
+            {
+              "end": 45,
+              "id": "17874544",
+              "start": 37,
+              "username": "Support"
+            },
+            {
+              "end": 58,
+              "id": "636513296",
+              "start": 47,
+              "username": "nikitabier"
+            },
+            {
+              "end": 94,
+              "id": "1988187586339467264",
+              "start": 83,
+              "username": "Air_Yukiha"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086648830305730866",
+        "in_reply_to_user_id": "2086341615153762304",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086461277048910156",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yukiha_Air @Air_Yukiha @elonmusk @X @Support  @nikitabier \nWE NEED HELP!\nFREE THE @Air_Yukiha !!!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086461267259293696",
+            "3_2086461267292848128",
+            "3_2086461267309649920",
+            "3_2086461267242610688"
+          ]
+        },
+        "author_id": "2086341615153762304",
+        "conversation_id": "2086461277048910156",
+        "created_at": "2026-08-09T14:35:07.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T15:35:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086461277048910156"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1988187586339467264",
+              "start": 8,
+              "username": "Air_Yukiha"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/I4lKKOydyo",
+              "end": 52,
+              "expanded_url": "https://x.com/yukiha_Air/status/2086461277048910156/photo/1",
+              "media_key": "3_2086461267259293696",
+              "start": 29,
+              "url": "https://t.co/I4lKKOydyo"
+            },
+            {
+              "display_url": "pic.x.com/I4lKKOydyo",
+              "end": 52,
+              "expanded_url": "https://x.com/yukiha_Air/status/2086461277048910156/photo/1",
+              "media_key": "3_2086461267292848128",
+              "start": 29,
+              "url": "https://t.co/I4lKKOydyo"
+            },
+            {
+              "display_url": "pic.x.com/I4lKKOydyo",
+              "end": 52,
+              "expanded_url": "https://x.com/yukiha_Air/status/2086461277048910156/photo/1",
+              "media_key": "3_2086461267309649920",
+              "start": 29,
+              "url": "https://t.co/I4lKKOydyo"
+            },
+            {
+              "display_url": "pic.x.com/I4lKKOydyo",
+              "end": 52,
+              "expanded_url": "https://x.com/yukiha_Air/status/2086461277048910156/photo/1",
+              "media_key": "3_2086461267242610688",
+              "start": 29,
+              "url": "https://t.co/I4lKKOydyo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086461277048910156",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086461267259293696"
+          },
+          {
+            "media_key": "3_2086461267292848128"
+          },
+          {
+            "media_key": "3_2086461267309649920"
+          },
+          {
+            "media_key": "3_2086461267242610688"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2599,
+          "like_count": 52,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "我是小翼😭\n前世@Air_Yukiha 助力我找回互fo https://t.co/I4lKKOydyo"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Girls Band | Game | Journey | Natural Science | Information Tech | Aerospace | Among Us | Magical Girl Witch Trials\n\n若有遗漏的未回fo账户请评论或私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnUI1a"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2086648830305730866",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2369,
+          "following_count": 3622,
+          "like_count": 60176,
+          "listed_count": 11,
+          "media_count": 456,
+          "tweet_count": 18175
+        },
+        "url": "https://t.co/ZXakBnUI1a",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-09T06:42:26.000Z",
+        "description": "前世@Air_Yukiha\n误封正在申诉中😭\n\n一個普普通通的超可愛小女孩🥹",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 13,
+                "start": 2,
+                "username": "Air_Yukiha"
+              }
+            ]
+          }
+        },
+        "id": "2086341615153762304",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086623996448227572",
+        "name": "翼（2.0寻回互fo版",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086341615153762304/1786324373",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086342687171719168/jf3n2JTd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 112,
+          "following_count": 105,
+          "like_count": 10,
+          "listed_count": 2,
+          "media_count": 3,
+          "tweet_count": 11
+        },
+        "url": "",
+        "username": "yukiha_Air",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1955359038532653056/OSHY3ewP_bigger.jpg",
+          "description": "X",
+          "url": "https://twitter.com/X",
+          "user_id": [
+            "783214"
+          ]
+        },
+        "created_at": "2009-06-02T20:12:29.000Z",
+        "description": "https://t.co/ZdBx5WABYx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Terafab.AI",
+                "end": 23,
+                "expanded_url": "http://Terafab.AI",
+                "start": 0,
+                "url": "https://t.co/ZdBx5WABYx"
+              }
+            ]
+          }
+        },
+        "id": "44196397",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086614832300626142",
+        "name": "Elon Musk",
+        "pinned_tweet_id": "2085377974396752305",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1774145451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241228596,
+          "following_count": 1386,
+          "like_count": 243289,
+          "listed_count": 170257,
+          "media_count": 4697,
+          "tweet_count": 106897
+        },
+        "url": "",
+        "username": "elonmusk",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2007-02-20T14:35:54.000Z",
+        "description": "what's happening?!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "https://x.com",
+                "start": 0,
+                "url": "https://t.co/Xp0xJlcROt"
+              }
+            ]
+          }
+        },
+        "id": "783214",
+        "is_identity_verified": false,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2081809802515136887",
+        "name": "X",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1690175171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955359038532653056/OSHY3ewP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60775937,
+          "following_count": 1,
+          "like_count": 5976,
+          "listed_count": 85218,
+          "media_count": 2490,
+          "tweet_count": 15711
+        },
+        "url": "https://t.co/Xp0xJlcROt",
+        "username": "X",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1955359038532653056/OSHY3ewP_bigger.jpg",
+          "description": "X",
+          "url": "https://twitter.com/X",
+          "user_id": [
+            "783214"
+          ]
+        },
+        "created_at": "2008-12-04T18:51:57.000Z",
+        "description": "Official @X support account. Find answers to common questions and get help on our Help Center: https://t.co/EO1OOUj5T5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 9,
+                "username": "X"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "help.x.com",
+                "end": 118,
+                "expanded_url": "http://help.x.com",
+                "start": 95,
+                "url": "https://t.co/EO1OOUj5T5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "help.x.com",
+                "end": 23,
+                "expanded_url": "https://help.x.com",
+                "start": 0,
+                "url": "https://t.co/wzqJpIOEcM"
+              }
+            ]
+          }
+        },
+        "id": "17874544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "1912572496655892718",
+        "name": "Support",
+        "pinned_tweet_id": "1912572496655892718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17874544/1690214608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683508200069296129/KM80Wkfx_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 6352028,
+          "following_count": 3,
+          "like_count": 479,
+          "listed_count": 14539,
+          "media_count": 273,
+          "tweet_count": 84605
+        },
+        "url": "https://t.co/wzqJpIOEcM",
+        "username": "Support",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-07-15T22:44:07.000Z",
+        "description": "ex-head of product @x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 19,
+                "username": "x"
+              }
+            ]
+          }
+        },
+        "id": "636513296",
+        "is_identity_verified": false,
+        "location": "Palo Alto",
+        "most_recent_tweet_id": "2086529060272996493",
+        "name": "Nikita Bier",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/636513296/1777070372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1278406,
+          "following_count": 2057,
+          "like_count": 40016,
+          "listed_count": 6085,
+          "media_count": 1633,
+          "tweet_count": 11806
+        },
+        "url": "",
+        "username": "nikitabier",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

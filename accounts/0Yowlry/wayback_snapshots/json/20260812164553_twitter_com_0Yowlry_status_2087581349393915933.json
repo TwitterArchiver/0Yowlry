@@ -1,0 +1,562 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Gordon Ramsay",
+          "id": "811358326592180224",
+          "name": "Gordon Ramsay"
+        }
+      },
+      {
+        "domain": {
+          "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+          "id": "58",
+          "name": "Entertainment Personality"
+        },
+        "entity": {
+          "description": "Gordon Ramsay",
+          "id": "811358326592180224",
+          "name": "Gordon Ramsay"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Food",
+          "id": "825047692124442624",
+          "name": "Food"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Food Person",
+          "id": "834524042648440832",
+          "name": "Food Person"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gordon Ramsay",
+          "id": "811358326592180224",
+          "name": "Gordon Ramsay"
+        }
+      }
+    ],
+    "conversation_id": "2086306943002673331",
+    "created_at": "2026-08-12T16:45:53.000Z",
+    "display_text_range": [
+      21,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-12T17:45:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087581349393915933"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 6,
+          "id": "2012698854785941504",
+          "start": 0,
+          "username": "Fzwos"
+        },
+        {
+          "end": 20,
+          "id": "110365072",
+          "start": 7,
+          "username": "GordonRamsay"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087581349393915933",
+    "in_reply_to_user_id": "2012698854785941504",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086306943002673331",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Fzwos @GordonRamsay who are you👁"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 266,
+        "media_key": "16_2086306732901605376",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HPQM63sbIAArjPn.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HPQM63sbIAArjPn.mp4"
+          }
+        ],
+        "width": 480
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Gordon Ramsay",
+              "id": "811358326592180224",
+              "name": "Gordon Ramsay"
+            }
+          },
+          {
+            "domain": {
+              "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+              "id": "58",
+              "name": "Entertainment Personality"
+            },
+            "entity": {
+              "description": "Gordon Ramsay",
+              "id": "811358326592180224",
+              "name": "Gordon Ramsay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Food Person",
+              "id": "834524042648440832",
+              "name": "Food Person"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gordon Ramsay",
+              "id": "811358326592180224",
+              "name": "Gordon Ramsay"
+            }
+          }
+        ],
+        "conversation_id": "2086306943002673331",
+        "created_at": "2026-08-12T16:45:53.000Z",
+        "display_text_range": [
+          21,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-12T17:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087581349393915933"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 6,
+              "id": "2012698854785941504",
+              "start": 0,
+              "username": "Fzwos"
+            },
+            {
+              "end": 20,
+              "id": "110365072",
+              "start": 7,
+              "username": "GordonRamsay"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087581349393915933",
+        "in_reply_to_user_id": "2012698854785941504",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086306943002673331",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Fzwos @GordonRamsay who are you👁"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2086306732901605376"
+          ]
+        },
+        "author_id": "2012698854785941504",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Gordon Ramsay",
+              "id": "811358326592180224",
+              "name": "Gordon Ramsay"
+            }
+          },
+          {
+            "domain": {
+              "description": "An entertainment personality in the world, like Anderson Cooper or Miranda Sings",
+              "id": "58",
+              "name": "Entertainment Personality"
+            },
+            "entity": {
+              "description": "Gordon Ramsay",
+              "id": "811358326592180224",
+              "name": "Gordon Ramsay"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Food",
+              "id": "825047692124442624",
+              "name": "Food"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Food Person",
+              "id": "834524042648440832",
+              "name": "Food Person"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gordon Ramsay",
+              "id": "811358326592180224",
+              "name": "Gordon Ramsay"
+            }
+          }
+        ],
+        "conversation_id": "2086306943002673331",
+        "created_at": "2026-08-09T04:21:51.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T05:21:03.000Z",
+          "edits_remaining": 4,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086306742695289231",
+          "2086306943002673331"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "110365072",
+              "start": 0,
+              "username": "GordonRamsay"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/TDQSxFbrf4",
+              "end": 64,
+              "expanded_url": "https://x.com/Fzwos/status/2086306943002673331/photo/1",
+              "media_key": "16_2086306732901605376",
+              "start": 41,
+              "url": "https://t.co/TDQSxFbrf4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086306943002673331",
+        "in_reply_to_user_id": "110365072",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2086306732901605376"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 142,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "@GordonRamsay Follow/Subscribe me please https://t.co/TDQSxFbrf4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Girls Band | Game | Journey | Natural Science | Information Tech | Aerospace | Among Us | Magical Girl Witch Trials\n\n若有遗漏的未回fo账户请评论或私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnUI1a"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2087581349393915933",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼",
+        "pinned_tweet_id": "2087252693509423164",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2389,
+          "following_count": 3649,
+          "like_count": 61789,
+          "listed_count": 11,
+          "media_count": 468,
+          "tweet_count": 18615
+        },
+        "url": "https://t.co/ZXakBnUI1a",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-01-18T01:29:50.000Z",
+        "description": "Subscribe me for a pair of socks. X @Fzwnz Instagram @fzwisme WhatsApp @Fzoyr YouTube @Fiwick / Located in Tsuen Wan, Hong Kong.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 42,
+                "start": 36,
+                "username": "Fzwnz"
+              },
+              {
+                "end": 61,
+                "start": 53,
+                "username": "fzwisme"
+              },
+              {
+                "end": 77,
+                "start": 71,
+                "username": "Fzoyr"
+              },
+              {
+                "end": 93,
+                "start": 86,
+                "username": "Fiwick"
+              }
+            ]
+          }
+        },
+        "id": "2012698854785941504",
+        "is_identity_verified": false,
+        "location": "Mennouveaux, France",
+        "most_recent_tweet_id": "2087556204432408975",
+        "name": "Amfanio",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2012698854785941504/1768700127",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085633394571116544/4Am-MMZ1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 26,
+          "following_count": 177,
+          "like_count": 15,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 10
+        },
+        "url": "",
+        "username": "Fzwos",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-02-01T08:31:59.000Z",
+        "description": "Always near food....",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gordonramsay.com/links",
+                "end": 23,
+                "expanded_url": "http://www.gordonramsay.com/links",
+                "start": 0,
+                "url": "https://t.co/Dc8WvC2tPF"
+              }
+            ]
+          }
+        },
+        "id": "110365072",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2071423219639238763",
+        "name": "Gordon Ramsay",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/110365072/1780016272",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1879345638028029952/Gw2v3KnM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7236875,
+          "following_count": 30416,
+          "like_count": 1034,
+          "listed_count": 11533,
+          "media_count": 7895,
+          "tweet_count": 25637
+        },
+        "url": "https://t.co/Dc8WvC2tPF",
+        "username": "GordonRamsay",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

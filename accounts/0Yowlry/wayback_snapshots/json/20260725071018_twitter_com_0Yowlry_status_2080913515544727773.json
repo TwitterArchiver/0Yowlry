@@ -1,0 +1,404 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2080897098862698963",
+    "created_at": "2026-07-25T07:10:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T08:10:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080913515544727773"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1902568136450424832",
+          "start": 0,
+          "username": "aoim33"
+        },
+        {
+          "end": 19,
+          "id": "2012826439356383232",
+          "start": 8,
+          "username": "hoshimiasa"
+        },
+        {
+          "end": 35,
+          "id": "1918274202580467713",
+          "start": 20,
+          "username": "CyberKanjousen"
+        },
+        {
+          "end": 44,
+          "id": "1802287807324635136",
+          "start": 36,
+          "username": "Rrakuen"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080913515544727773",
+    "in_reply_to_user_id": "1902568136450424832",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080897098862698963",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aoim33 @hoshimiasa @CyberKanjousen @Rrakuen awsl"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3000,
+        "media_key": "3_2080897085549989888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HODU385aUAAuNKK.jpg",
+        "width": 4000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2080897098862698963",
+        "created_at": "2026-07-25T07:10:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T08:10:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080913515544727773"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1902568136450424832",
+              "start": 0,
+              "username": "aoim33"
+            },
+            {
+              "end": 19,
+              "id": "2012826439356383232",
+              "start": 8,
+              "username": "hoshimiasa"
+            },
+            {
+              "end": 35,
+              "id": "1918274202580467713",
+              "start": 20,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 44,
+              "id": "1802287807324635136",
+              "start": 36,
+              "username": "Rrakuen"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080913515544727773",
+        "in_reply_to_user_id": "1902568136450424832",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080897098862698963",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aoim33 @hoshimiasa @CyberKanjousen @Rrakuen awsl"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080897085549989888"
+          ]
+        },
+        "author_id": "1902568136450424832",
+        "conversation_id": "2080897098862698963",
+        "created_at": "2026-07-25T06:05:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T07:05:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080897098862698963"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "2012826439356383232",
+              "start": 8,
+              "username": "hoshimiasa"
+            },
+            {
+              "end": 35,
+              "id": "1918274202580467713",
+              "start": 20,
+              "username": "CyberKanjousen"
+            },
+            {
+              "end": 43,
+              "id": "1902568136450424832",
+              "start": 36,
+              "username": "aoim33"
+            },
+            {
+              "end": 52,
+              "id": "1802287807324635136",
+              "start": 44,
+              "username": "Rrakuen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6o4qfjZAkd",
+              "end": 76,
+              "expanded_url": "https://x.com/aoim33/status/2080897098862698963/photo/1",
+              "media_key": "3_2080897085549989888",
+              "start": 53,
+              "url": "https://t.co/6o4qfjZAkd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080897098862698963",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 453,
+          "like_count": 16,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "你好，新朋友\n\n@hoshimiasa @CyberKanjousen @aoim33 @Rrakuen https://t.co/6o4qfjZAkd"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Girls Band | Game | Journey | Natural Science | Information Tech | Aerospace | Among Us | Magical Girl Witch Trials",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnVfQI"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2290,
+          "following_count": 3465,
+          "like_count": 52175,
+          "listed_count": 11,
+          "media_count": 399,
+          "tweet_count": 16124
+        },
+        "url": "https://t.co/ZXakBnVfQI",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2025-03-20T03:49:39.000Z",
+        "description": "在语言、教育与心灵的细微处，陪人慢慢长出理解世界的能力 / 臭打舞萌的 / @supernovaArcaea / 和我聊天: aoimsmi@outlook.com / 可以找我上英语日语课",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 54,
+                "start": 38,
+                "username": "supernovaArcaea"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/aoinohanaya",
+                "end": 23,
+                "expanded_url": "https://telegram.me/aoinohanaya",
+                "start": 0,
+                "url": "https://t.co/cIk53ics5B"
+              }
+            ]
+          }
+        },
+        "id": "1902568136450424832",
+        "location": "杭州 / 温州 / 上海",
+        "name": "Aoi M",
+        "pinned_tweet_id": "2067301620720030139",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2066456235218493441/7u5vGmjH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6556,
+          "following_count": 3160,
+          "like_count": 57153,
+          "listed_count": 22,
+          "media_count": 3689,
+          "tweet_count": 14904
+        },
+        "url": "https://t.co/cIk53ics5B",
+        "username": "aoim33",
+        "verified": true
+      },
+      {
+        "created_at": "2026-01-18T09:56:42.000Z",
+        "description": "吾辈是梓鸠phi /橘伊汐phi    11年苦逼初中生‖拉拉人‖涉猎范围极窄‖phiedit谱师 ‖舞萌内屏w5 外键w3玩家     希望和大家交朋友_(:зゝ∠)_",
+        "id": "2012826439356383232",
+        "name": "橘伊汐C₂H₄",
+        "pinned_tweet_id": "2071624112334922233",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079962207006441472/5GEecpto_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 179,
+          "following_count": 185,
+          "like_count": 2432,
+          "listed_count": 3,
+          "media_count": 147,
+          "tweet_count": 391
+        },
+        "url": "",
+        "username": "hoshimiasa",
+        "verified": false
+      },
+      {
+        "created_at": "2025-05-02T12:00:51.000Z",
+        "description": "中国人 | CN/EN/JP | まのさば好き | 友跨 | 想当猫猫 | 头像来自 @xfoopy | 部分推文发自 @yameta_www\n日语号：@NihonKanjousen\n给我钱：https://t.co/NMKeNLoCQ8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 50,
+                "start": 43,
+                "username": "xfoopy"
+              },
+              {
+                "end": 71,
+                "start": 60,
+                "username": "yameta_www"
+              },
+              {
+                "end": 91,
+                "start": 76,
+                "username": "NihonKanjousen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/CyberKanjousen",
+                "end": 119,
+                "expanded_url": "https://buymeacoffee.com/CyberKanjousen",
+                "start": 96,
+                "url": "https://t.co/NMKeNLoCQ8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kanjousen.com",
+                "end": 23,
+                "expanded_url": "https://kanjousen.com",
+                "start": 0,
+                "url": "https://t.co/s9lflnLycZ"
+              }
+            ]
+          }
+        },
+        "id": "1918274202580467713",
+        "name": "サイバー環状線",
+        "pinned_tweet_id": "2061036992599925240",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2040429111588605952/rKqVKsen_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11890,
+          "following_count": 882,
+          "like_count": 31578,
+          "listed_count": 20,
+          "media_count": 2236,
+          "tweet_count": 10999
+        },
+        "url": "https://t.co/s9lflnLycZ",
+        "username": "CyberKanjousen",
+        "verified": true
+      },
+      {
+        "created_at": "2024-06-16T10:31:22.000Z",
+        "description": "中文🇨🇳/English🇺🇸/日本語🇯🇵\n友跨🏳️‍⚧️",
+        "id": "1802287807324635136",
+        "location": "被炸飞的电化学实验室",
+        "name": "結月ゆかり",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080895809072349184/4rBVznpA_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 16,
+          "following_count": 43,
+          "like_count": 300,
+          "listed_count": 0,
+          "media_count": 12,
+          "tweet_count": 129
+        },
+        "url": "",
+        "username": "Rrakuen",
+        "verified": false
+      }
+    ]
+  }
+}

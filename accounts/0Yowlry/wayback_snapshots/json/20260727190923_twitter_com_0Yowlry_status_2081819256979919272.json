@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1950463361738531072",
+    "created_at": "2026-07-27T19:09:23.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T20:09:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081819256979919272"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1869496646503219200",
+          "start": 0,
+          "username": "BarkerAT18"
+        },
+        {
+          "end": 21,
+          "id": "1750804799031824384",
+          "start": 12,
+          "username": "lizi5202"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081819256979919272",
+    "in_reply_to_user_id": "1869496646503219200",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1950472855130603589",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@BarkerAT18 @lizi5202 羡慕"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1950472855130603589].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1950472855130603589",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "1950472855130603589"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1950463361738531072",
+        "created_at": "2026-07-27T19:09:23.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T20:09:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081819256979919272"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1869496646503219200",
+              "start": 0,
+              "username": "BarkerAT18"
+            },
+            {
+              "end": 21,
+              "id": "1750804799031824384",
+              "start": 12,
+              "username": "lizi5202"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081819256979919272",
+        "in_reply_to_user_id": "1869496646503219200",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1950472855130603589",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@BarkerAT18 @lizi5202 羡慕"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Girls Band | Game | Journey | Natural Science | Information Tech | Aerospace | Among Us | Magical Girl Witch Trials",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnVfQI"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2305,
+          "following_count": 3500,
+          "like_count": 53955,
+          "listed_count": 11,
+          "media_count": 418,
+          "tweet_count": 16622
+        },
+        "url": "https://t.co/ZXakBnVfQI",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2024-12-18T21:35:33.000Z",
+        "description": "曾用名DJ132rTabler、绝望大逃祥｜无政治立场｜男的女的跨都友好｜一击脱离你妈死了｜祝你幸福｜男友君@hu7073388783548",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 70,
+                "start": 54,
+                "username": "hu7073388783548"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/barkerat18",
+                "end": 23,
+                "expanded_url": "https://ngl.link/barkerat18",
+                "start": 0,
+                "url": "https://t.co/aseK7OkNsE"
+              }
+            ]
+          }
+        },
+        "id": "1869496646503219200",
+        "location": "月之森贵族学院",
+        "name": "巴克尔（心之壁）",
+        "pinned_tweet_id": "2054749525571723480",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081531859897561088/WrV6ipMO_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 262,
+          "following_count": 252,
+          "like_count": 18854,
+          "listed_count": 1,
+          "media_count": 285,
+          "tweet_count": 6542
+        },
+        "url": "https://t.co/aseK7OkNsE",
+        "username": "BarkerAT18",
+        "verified": false
+      },
+      {
+        "created_at": "2024-01-26T08:56:14.000Z",
+        "description": "西郊有密林，助君出重围",
+        "id": "1750804799031824384",
+        "location": "月之森女子学园",
+        "name": "漓莫莫",
+        "pinned_tweet_id": "1961424998943305808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870709592155619328/TM8eQYzZ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1424,
+          "following_count": 1315,
+          "like_count": 15725,
+          "listed_count": 4,
+          "media_count": 600,
+          "tweet_count": 6887
+        },
+        "url": "",
+        "username": "lizi5202",
+        "verified": false
+      }
+    ]
+  }
+}

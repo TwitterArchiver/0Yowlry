@@ -1,0 +1,329 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2077543741859021079",
+    "created_at": "2026-07-22T16:26:42.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-22T17:26:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2079966375561572474"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1260553941714186241",
+          "start": 0,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2079966375561572474",
+    "in_reply_to_user_id": "1260553941714186241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2077543741859021079",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@whyyoutouzhele 铜锣湾书店"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 27910,
+        "height": 1280,
+        "media_key": "13_2077390484339658752",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2077390484339658752/img/wkWLWLWbombT4zxk.jpg",
+        "public_metrics": {
+          "view_count": 126571
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077390484339658752/vid/avc1/320x568/M19stxSgGqfQqiJf.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077390484339658752/vid/avc1/480x852/c11EPkbQ7icJvMhu.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2077390484339658752/vid/avc1/720x1280/U4R0qwpqyHvWi4_j.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2077390484339658752/pl/e1eQqGkyFrDz_w9o.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      },
+      {
+        "height": 795,
+        "media_key": "3_2077390483702050816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRfo3DWcAAr5i2.jpg",
+        "width": 1200
+      },
+      {
+        "height": 675,
+        "media_key": "3_2077390484373196800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HNRfo5jXUAAMqAs.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2077543741859021079",
+        "created_at": "2026-07-22T16:26:42.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-22T17:26:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2079966375561572474"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2079966375561572474",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2077543741859021079",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 铜锣湾书店"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2077390484339658752",
+            "3_2077390483702050816",
+            "3_2077390484373196800"
+          ]
+        },
+        "author_id": "1260553941714186241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2077543741859021079",
+        "created_at": "2026-07-16T00:00:01.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-16T01:00:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2077543741859021079"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/g9il0RqBTg",
+              "end": 151,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2077543741859021079/video/1",
+              "media_key": "13_2077390484339658752",
+              "start": 128,
+              "url": "https://t.co/g9il0RqBTg"
+            },
+            {
+              "display_url": "pic.x.com/g9il0RqBTg",
+              "end": 151,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2077543741859021079/video/1",
+              "media_key": "3_2077390483702050816",
+              "start": 128,
+              "url": "https://t.co/g9il0RqBTg"
+            },
+            {
+              "display_url": "pic.x.com/g9il0RqBTg",
+              "end": 151,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2077543741859021079/video/1",
+              "media_key": "3_2077390484373196800",
+              "start": 128,
+              "url": "https://t.co/g9il0RqBTg"
+            },
+            {
+              "display_url": "x.com/whyyoutouzhele…",
+              "end": 175,
+              "expanded_url": "https://twitter.com/whyyoutouzhele/status/2069941141710270719",
+              "start": 152,
+              "url": "https://t.co/OXK8LtTtp0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2077543741859021079",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "7月15日，继猎人书店之后，香港警方国安处又出动查处独立书店，包括位于太子的“留下书舍”和旺角的“田园书屋”。\n5人以「煽动罪」被捕，据悉包括“留下书舍”的店长和店员。\n\n有传媒引述消息称，海关早前在一批由境外寄到香港的货物中，发现“具煽动意图”的书籍。\n该书为台湾出版社“卫城出版”的《唯红花绽放：习近平时代的认同与归属》。\n\n有网友介绍：《唯红花绽放》的作者冯哲芸在中国境内与海外采访了20名被中国体制“教育过”的抗争者。\n从司法、艺术、宗教、少数民族、网络等多个面向，展示这些原本深爱自己文化的普通人，是如何被国家重新塑造成符合标准的「顺民」。\n书中提到，习近平因担心中国重演苏联解体，认为如果没有共同的国族认同，中国就会走向分裂，因此他的解决办法就是强势推行中国化，将全国自上而下按照共产党的意志，打造统一的民族认同。\n而这，正是无数悲剧的起点。\n\n书中的抗争者曾说道：\n「当祖国不爱你时，该如何去爱它？」\n\n对此，“人权观察（Human rights watch）”中国部研究员亚力坤·乌鲁尧勒评论道：\n香港当局持续打压并拘捕书店从业者，凸显中国政府最害怕的正是自由思想。中国政府试图塑造一个只容许官方思想存在的世界。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 464,
+          "impression_count": 1761010,
+          "like_count": 1842,
+          "quote_count": 24,
+          "reply_count": 260,
+          "retweet_count": 286
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069941141710270719",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "7月15日，继猎人书店之后，香港警方国安处又出动查处独立书店，包括位于太子的“留下书舍”和旺角的“田园书屋”。\n5人以「煽动罪」被捕，据悉包括“留下书舍”的店长和店员。\n\n有传媒引述消息称，海关早前在一批由境外寄到香港的货物中，发现“具煽动意图”的书籍。 https://t.co/g9il0RqBTg https://t.co/OXK8LtTtp0"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Girls Band | Game | Journey | Natural Science | Information Tech | Aerospace | Among Us | Magical Girl Witch Trials",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnVfQI"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2282,
+          "following_count": 3436,
+          "like_count": 50693,
+          "listed_count": 11,
+          "media_count": 396,
+          "tweet_count": 15730
+        },
+        "url": "https://t.co/ZXakBnVfQI",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "location": "偷乐星球",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2078717699849630025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2243374,
+          "following_count": 1079,
+          "like_count": 9806,
+          "listed_count": 8831,
+          "media_count": 50869,
+          "tweet_count": 58089
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true
+      }
+    ]
+  }
+}

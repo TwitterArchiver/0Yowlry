@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2066545136130281849",
+    "created_at": "2026-07-28T05:18:14.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T06:18:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081972479548162230"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1263250188757426176",
+          "start": 0,
+          "username": "yunyunyunnya"
+        },
+        {
+          "end": 28,
+          "id": "1894285195651813378",
+          "start": 14,
+          "username": "xiaozhuhua_tv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081972479548162230",
+    "in_reply_to_user_id": "1263250188757426176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2066551203383976182",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yunyunyunnya @xiaozhuhua_tv 那你也08年之前两年就出生了吗👁👁"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2066551203383976182].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2066551203383976182",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2066551203383976182"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2066545136130281849",
+        "created_at": "2026-07-28T05:18:14.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T06:18:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081972479548162230"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1263250188757426176",
+              "start": 0,
+              "username": "yunyunyunnya"
+            },
+            {
+              "end": 28,
+              "id": "1894285195651813378",
+              "start": 14,
+              "username": "xiaozhuhua_tv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081972479548162230",
+        "in_reply_to_user_id": "1263250188757426176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2066551203383976182",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunyunyunnya @xiaozhuhua_tv 那你也08年之前两年就出生了吗👁👁"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Girls Band | Game | Journey | Natural Science | Information Tech | Aerospace | Among Us | Magical Girl Witch Trials",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnVfQI"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2308,
+          "following_count": 3506,
+          "like_count": 54030,
+          "listed_count": 12,
+          "media_count": 421,
+          "tweet_count": 16645
+        },
+        "url": "https://t.co/ZXakBnVfQI",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2020-05-20T23:28:22.000Z",
+        "description": "我的痛苦、愤怒、恐惧每一天都在我脑内冲击着我的精神",
+        "id": "1263250188757426176",
+        "location": "有鲨鲨枕头酱和很多玩偶的地方",
+        "name": "口腔溃疡！！！！！！",
+        "pinned_tweet_id": "2037079005460127859",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079902228031340544/ms-bru8q_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1059,
+          "following_count": 1559,
+          "like_count": 169032,
+          "listed_count": 4,
+          "media_count": 983,
+          "tweet_count": 12382
+        },
+        "url": "",
+        "username": "yunyunyunnya",
+        "verified": true
+      },
+      {
+        "created_at": "2025-02-25T07:16:55.000Z",
+        "description": "喜欢《吹响吧！上低音号》的都是好孩子",
+        "id": "1894285195651813378",
+        "name": "小猪话TV",
+        "pinned_tweet_id": "2066908155901309411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065440742122872832/h7as0dJa_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1367,
+          "following_count": 1198,
+          "like_count": 13432,
+          "listed_count": 6,
+          "media_count": 120,
+          "tweet_count": 9417
+        },
+        "url": "",
+        "username": "xiaozhuhua_tv",
+        "verified": false
+      }
+    ]
+  }
+}

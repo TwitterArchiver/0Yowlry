@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2084448932764209152"
+      ]
+    },
+    "author_id": "1839263401845075974",
+    "conversation_id": "2050348902201876813",
+    "created_at": "2026-08-04T01:18:51.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T02:18:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084448948513812616"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "804884049823027200",
+          "start": 0,
+          "username": "0222ArayaTouka"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/6sj3yCKMMj",
+          "end": 39,
+          "expanded_url": "https://x.com/0Yowlry/status/2084448948513812616/photo/1",
+          "media_key": "16_2084448932764209152",
+          "start": 16,
+          "url": "https://t.co/6sj3yCKMMj"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084448948513812616",
+    "in_reply_to_user_id": "804884049823027200",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2050348902201876813",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@0222ArayaTouka https://t.co/6sj3yCKMMj"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2050348902201876813].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2050348902201876813",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2050348902201876813"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 240,
+        "media_key": "16_2084448932764209152",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HO1zQq3aUAAaQud.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HO1zQq3aUAAaQud.mp4"
+          }
+        ],
+        "width": 220
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2084448932764209152"
+          ]
+        },
+        "author_id": "1839263401845075974",
+        "conversation_id": "2050348902201876813",
+        "created_at": "2026-08-04T01:18:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T02:18:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084448948513812616"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "804884049823027200",
+              "start": 0,
+              "username": "0222ArayaTouka"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6sj3yCKMMj",
+              "end": 39,
+              "expanded_url": "https://x.com/0Yowlry/status/2084448948513812616/photo/1",
+              "media_key": "16_2084448932764209152",
+              "start": 16,
+              "url": "https://t.co/6sj3yCKMMj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084448948513812616",
+        "in_reply_to_user_id": "804884049823027200",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2050348902201876813",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0222ArayaTouka https://t.co/6sj3yCKMMj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Girls Band | Game | Journey | Natural Science | Information Tech | Aerospace | Among Us | Magical Girl Witch Trials",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnVfQI"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2342,
+          "following_count": 3567,
+          "like_count": 57757,
+          "listed_count": 12,
+          "media_count": 435,
+          "tweet_count": 17603
+        },
+        "url": "https://t.co/ZXakBnVfQI",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2016-12-03T03:04:46.000Z",
+        "description": "@Jaime_Rimi的里推，熟悉的推u可以关注下。\n月の彼方で逢いましょう",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 0,
+                "username": "Jaime_Rimi"
+              }
+            ]
+          }
+        },
+        "id": "804884049823027200",
+        "location": "月の彼方",
+        "name": "𝗧𝗼𝘂𝗸𝗮",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2013522376172929025/eVneVOXG_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 236,
+          "like_count": 48,
+          "listed_count": 1,
+          "media_count": 3,
+          "tweet_count": 26
+        },
+        "url": "",
+        "username": "0222ArayaTouka",
+        "verified": false
+      }
+    ]
+  }
+}

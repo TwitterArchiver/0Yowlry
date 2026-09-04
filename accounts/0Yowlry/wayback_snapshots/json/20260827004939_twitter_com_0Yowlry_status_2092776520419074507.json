@@ -1,0 +1,311 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2092548728087515418",
+    "created_at": "2026-08-27T00:49:39.000Z",
+    "display_text_range": [
+      39,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-27T01:49:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2092776520419074507"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1263250188757426176",
+          "start": 0,
+          "username": "yunyunyunnya"
+        },
+        {
+          "end": 24,
+          "id": "1420205241404772352",
+          "start": 14,
+          "username": "yanbo2004"
+        },
+        {
+          "end": 38,
+          "id": "987876884284231680",
+          "start": 25,
+          "username": "Yuushimo2333"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2092776520419074507",
+    "in_reply_to_user_id": "1263250188757426176",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092663960738877839",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@yunyunyunnya @yanbo2004 @Yuushimo2333 🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2092663960738877839].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2092663960738877839",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2092663960738877839"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2092548728087515418",
+        "created_at": "2026-08-27T00:49:39.000Z",
+        "display_text_range": [
+          39,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-27T01:49:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2092776520419074507"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1263250188757426176",
+              "start": 0,
+              "username": "yunyunyunnya"
+            },
+            {
+              "end": 24,
+              "id": "1420205241404772352",
+              "start": 14,
+              "username": "yanbo2004"
+            },
+            {
+              "end": 38,
+              "id": "987876884284231680",
+              "start": 25,
+              "username": "Yuushimo2333"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092776520419074507",
+        "in_reply_to_user_id": "1263250188757426176",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092663960738877839",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@yunyunyunnya @yanbo2004 @Yuushimo2333 🥺"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnUI1a"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2092776520419074507",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2538,
+          "following_count": 3805,
+          "like_count": 69253,
+          "listed_count": 12,
+          "media_count": 576,
+          "tweet_count": 20829
+        },
+        "url": "https://t.co/ZXakBnUI1a",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-20T23:28:22.000Z",
+        "description": "要与他人解耦，要独立，要自由",
+        "id": "1263250188757426176",
+        "is_identity_verified": false,
+        "location": "有鲨鲨枕头酱和很多玩偶的地方",
+        "most_recent_tweet_id": "2060666855715672556",
+        "name": "口腔溃疡！！！！！！",
+        "pinned_tweet_id": "2037079005460127859",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1263250188757426176/1743599290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079902228031340544/ms-bru8q_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1044,
+          "following_count": 1581,
+          "like_count": 172808,
+          "listed_count": 5,
+          "media_count": 992,
+          "tweet_count": 12622
+        },
+        "url": "",
+        "username": "yunyunyunnya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2008452174083485698/WaDlss-k_bigger.jpg",
+          "description": "KITE AI",
+          "url": "https://twitter.com/GoKiteAI",
+          "user_id": [
+            "1841881477371592704"
+          ]
+        },
+        "created_at": "2021-07-28T02:11:40.000Z",
+        "description": "21 yo.｜prev. DevRel & Now building @WorkWorkOrg｜Drop out｜Digital Nomad & Writer & Photoghapher｜Backpacking trip to 21 countries & all of China",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 35,
+                "username": "WorkWorkOrg"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "yanbowa.ng",
+                "end": 23,
+                "expanded_url": "http://yanbowa.ng",
+                "start": 0,
+                "url": "https://t.co/LIctNgWGSA"
+              }
+            ]
+          }
+        },
+        "id": "1420205241404772352",
+        "is_identity_verified": false,
+        "location": "Remote everywhere, Born in 延边.",
+        "most_recent_tweet_id": "2092776313811841270",
+        "name": "烟波 Yanbo🍡@🇳🇵",
+        "pinned_tweet_id": "2087483876323291190",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1420205241404772352/1682784511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058876241566928896/lTiQJnCP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6720,
+          "following_count": 1943,
+          "like_count": 119447,
+          "listed_count": 41,
+          "media_count": 3101,
+          "tweet_count": 25478
+        },
+        "url": "https://t.co/LIctNgWGSA",
+        "username": "yanbo2004",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-04-22T02:12:57.000Z",
+        "description": "“真实自有万钧之力。”\n膜法师 | 酒寄彩叶单推人 | 东方众 | 音MAD初心者 | 克服社恐中 | ADHDer | INFJ-T \n不键政 | 想认识优秀的人、变得更可爱 | 偶尔会搞抽象/说怪话 | 回fo（尤其是蓝v）会查成分，致歉 | 欢迎关注~",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hanamiyuushimo.github.io",
+                "end": 23,
+                "expanded_url": "https://hanamiyuushimo.github.io",
+                "start": 0,
+                "url": "https://t.co/IjcmffFdO4"
+              }
+            ]
+          }
+        },
+        "id": "987876884284231680",
+        "is_identity_verified": false,
+        "location": "中国",
+        "most_recent_tweet_id": "2092772204757020797",
+        "name": "幽霜Yuushimo",
+        "pinned_tweet_id": "1675378006561533953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/987876884284231680/1740643186",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2016541875373543425/SFaXlmOD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1429,
+          "following_count": 3211,
+          "like_count": 163663,
+          "listed_count": 18,
+          "media_count": 868,
+          "tweet_count": 9346
+        },
+        "url": "https://t.co/IjcmffFdO4",
+        "username": "Yuushimo2333",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

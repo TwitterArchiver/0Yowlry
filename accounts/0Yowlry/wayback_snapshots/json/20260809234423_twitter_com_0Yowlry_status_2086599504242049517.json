@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2083193390036852736"
+      ],
+      "media_source_tweet_id": [
+        "2083193567363641834"
+      ]
+    },
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2086599504242049517",
+    "created_at": "2026-08-09T23:44:23.000Z",
+    "display_text_range": [
+      0,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T00:44:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086599504242049517"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1588438589896998912",
+          "start": 3,
+          "username": "melio_an9ling"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/RrB1hDMWY9",
+          "end": 71,
+          "expanded_url": "https://x.com/melio_an9ling/status/2083193567363641834/video/1",
+          "media_key": "13_2083193390036852736",
+          "start": 48,
+          "url": "https://t.co/RrB1hDMWY9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086599504242049517",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "13_2083193390036852736"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 673
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083193567363641834",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @melio_an9ling: Anon Tokyo around the world！ https://t.co/RrB1hDMWY9"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 59627,
+        "height": 720,
+        "media_key": "13_2083193390036852736",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2083193390036852736/img/B1WWsoNTmRqMKMPZ.jpg",
+        "public_metrics": {
+          "view_count": 58362
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083193390036852736/vid/avc1/480x270/UEhKmEpLNMrFboK1.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083193390036852736/vid/avc1/640x360/kUaG_YdOqlOosfm6.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2083193390036852736/vid/avc1/1280x720/L9dklBwzLlM3b9sE.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2083193390036852736/pl/nUwpunN73VEwQV5E.m3u8?v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083193390036852736"
+          ]
+        },
+        "author_id": "1588438589896998912",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2083193567363641834",
+        "created_at": "2026-07-31T14:10:24.000Z",
+        "display_text_range": [
+          0,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-31T15:10:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083193567363641834"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/RrB1hDMWY9",
+              "end": 52,
+              "expanded_url": "https://x.com/melio_an9ling/status/2083193567363641834/video/1",
+              "media_key": "13_2083193390036852736",
+              "start": 29,
+              "url": "https://t.co/RrB1hDMWY9"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "457b4814b4240d87"
+        },
+        "id": "2083193567363641834",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2083193390036852736"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 553,
+          "impression_count": 135789,
+          "like_count": 5737,
+          "quote_count": 19,
+          "reply_count": 40,
+          "retweet_count": 673
+        },
+        "reply_settings": "everyone",
+        "text": "Anon Tokyo around the world！ https://t.co/RrB1hDMWY9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2083193390036852736"
+          ],
+          "media_source_tweet_id": [
+            "2083193567363641834"
+          ]
+        },
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2086599504242049517",
+        "created_at": "2026-08-09T23:44:23.000Z",
+        "display_text_range": [
+          0,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T00:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086599504242049517"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1588438589896998912",
+              "start": 3,
+              "username": "melio_an9ling"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/RrB1hDMWY9",
+              "end": 71,
+              "expanded_url": "https://x.com/melio_an9ling/status/2083193567363641834/video/1",
+              "media_key": "13_2083193390036852736",
+              "start": 48,
+              "url": "https://t.co/RrB1hDMWY9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086599504242049517",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2083193390036852736"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 673
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083193567363641834",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @melio_an9ling: Anon Tokyo around the world！ https://t.co/RrB1hDMWY9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Girls Band | Game | Journey | Natural Science | Information Tech | Aerospace | Among Us | Magical Girl Witch Trials\n\n若有遗漏的未回fo账户请评论或私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnUI1a"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2086599504242049517",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2366,
+          "following_count": 3620,
+          "like_count": 60034,
+          "listed_count": 11,
+          "media_count": 456,
+          "tweet_count": 18148
+        },
+        "url": "https://t.co/ZXakBnUI1a",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-04T07:51:34.000Z",
+        "description": "",
+        "id": "1588438589896998912",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2086255987388829835",
+        "name": "Melio-An_9Ling",
+        "pinned_tweet_id": "2083193567363641834",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1588438589896998912/1738425262",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056901131113021440/j7KAkSwN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 584,
+          "following_count": 2611,
+          "like_count": 20642,
+          "listed_count": 2,
+          "media_count": 522,
+          "tweet_count": 564
+        },
+        "url": "",
+        "username": "melio_an9ling",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

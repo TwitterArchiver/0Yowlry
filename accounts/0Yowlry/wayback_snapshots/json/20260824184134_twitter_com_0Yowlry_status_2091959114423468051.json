@@ -1,0 +1,419 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1575492091660054532",
+          "name": "Countdown"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2091959114423468051",
+    "created_at": "2026-08-24T18:41:34.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T19:41:34.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091959114423468051"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1839263401845075974",
+          "start": 3,
+          "username": "0Yowlry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091959114423468051",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091761784734797838",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0Yowlry: 桌面版谷歌地球进入关停倒计时，将在几个月后正式下架所有桌面版下载渠道，若有需要可先下载一个安装包\nthe countdown to Google Earth Pro Desktop's shutdown has begun, with all desk…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 886,
+        "media_key": "3_2091760607112691713",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQdtMIYbgAE9OgL.jpg",
+        "width": 1893
+      },
+      {
+        "height": 400,
+        "media_key": "3_2091760622488956928",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQdtNBqasAAPibO.png",
+        "width": 640
+      },
+      {
+        "height": 1008,
+        "media_key": "3_2091760649722589184",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQdtOnHa8AA4Xv8.jpg",
+        "width": 1920
+      },
+      {
+        "height": 103,
+        "media_key": "3_2091760692567388160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQdtRGuasAA2PFK.png",
+        "width": 112
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1575492091660054532",
+              "name": "Countdown"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2091959114423468051",
+        "created_at": "2026-08-24T18:41:34.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T19:41:34.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091959114423468051"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1839263401845075974",
+              "start": 3,
+              "username": "0Yowlry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091959114423468051",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091761784734797838",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0Yowlry: 桌面版谷歌地球进入关停倒计时，将在几个月后正式下架所有桌面版下载渠道，若有需要可先下载一个安装包\nthe countdown to Google Earth Pro Desktop's shutdown has begun, with all desk…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091760607112691713",
+            "3_2091760622488956928",
+            "3_2091760649722589184",
+            "3_2091760692567388160"
+          ]
+        },
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1575492091660054532",
+              "name": "Countdown"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2091761784734797838",
+        "created_at": "2026-08-24T05:37:27.000Z",
+        "display_text_range": [
+          0,
+          231
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T06:37:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091761784734797838"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/NahUUM1ofk",
+              "end": 255,
+              "expanded_url": "https://x.com/0Yowlry/status/2091761784734797838/photo/1",
+              "media_key": "3_2091760607112691713",
+              "start": 232,
+              "url": "https://t.co/NahUUM1ofk"
+            },
+            {
+              "display_url": "pic.x.com/NahUUM1ofk",
+              "end": 255,
+              "expanded_url": "https://x.com/0Yowlry/status/2091761784734797838/photo/1",
+              "media_key": "3_2091760622488956928",
+              "start": 232,
+              "url": "https://t.co/NahUUM1ofk"
+            },
+            {
+              "display_url": "pic.x.com/NahUUM1ofk",
+              "end": 255,
+              "expanded_url": "https://x.com/0Yowlry/status/2091761784734797838/photo/1",
+              "media_key": "3_2091760649722589184",
+              "start": 232,
+              "url": "https://t.co/NahUUM1ofk"
+            },
+            {
+              "display_url": "pic.x.com/NahUUM1ofk",
+              "end": 255,
+              "expanded_url": "https://x.com/0Yowlry/status/2091761784734797838/photo/1",
+              "media_key": "3_2091760692567388160",
+              "start": 232,
+              "url": "https://t.co/NahUUM1ofk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091761784734797838",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2091760607112691713"
+          },
+          {
+            "media_key": "3_2091760622488956928"
+          },
+          {
+            "media_key": "3_2091760649722589184"
+          },
+          {
+            "media_key": "3_2091760692567388160"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 4986,
+          "like_count": 87,
+          "quote_count": 2,
+          "reply_count": 9,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "桌面版谷歌地球进入关停倒计时，将在几个月后正式下架所有桌面版下载渠道，若有需要可先下载一个安装包\nthe countdown to Google Earth Pro Desktop's shutdown has begun, with all desktop download channels closing permanently in a few months. Download an installer now if you still need it https://t.co/NahUUM1ofk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnUI1a"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2091959114423468051",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2517,
+          "following_count": 3799,
+          "like_count": 68416,
+          "listed_count": 12,
+          "media_count": 567,
+          "tweet_count": 20539
+        },
+        "url": "https://t.co/ZXakBnUI1a",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

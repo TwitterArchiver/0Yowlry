@@ -1,0 +1,696 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Yokohama",
+          "id": "1009174794506399744",
+          "name": "Yokohama"
+        }
+      }
+    ],
+    "conversation_id": "2087151197799264297",
+    "created_at": "2026-08-11T12:16:37.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T13:16:37.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087151197799264297"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "899985949001568257",
+          "start": 3,
+          "username": "anianimatsuri"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087151197799264297",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 695
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086599821193076754",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @anianimatsuri: 横浜駅に\n✨『バンドリの聖地』登場✨⁉️\n\n現在販売されている『バンドリ』の機種でBOXを構成しました✨\n\n盛り上げる為にクラブZから相葉あいなさんと西尾夕香さんのサイン入りパネルも借りてきました🎵\n\n8月15日には『西尾夕香』さんの来店も…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4080,
+        "media_key": "3_2086599779627503616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPUXcb0bEAAktF4.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4080,
+        "media_key": "3_2086599791463792640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPUXdH6agAAvFlp.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4080,
+        "media_key": "3_2086599801173581824",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPUXdsFaIAAQ8oN.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4080,
+        "media_key": "3_2086599812343099392",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPUXeVsbcAAsVXE.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Yokohama",
+              "id": "1009174794506399744",
+              "name": "Yokohama"
+            }
+          }
+        ],
+        "conversation_id": "2087151197799264297",
+        "created_at": "2026-08-11T12:16:37.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T13:16:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087151197799264297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "899985949001568257",
+              "start": 3,
+              "username": "anianimatsuri"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087151197799264297",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 695
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086599821193076754",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @anianimatsuri: 横浜駅に\n✨『バンドリの聖地』登場✨⁉️\n\n現在販売されている『バンドリ』の機種でBOXを構成しました✨\n\n盛り上げる為にクラブZから相葉あいなさんと西尾夕香さんのサイン入りパネルも借りてきました🎵\n\n8月15日には『西尾夕香』さんの来店も…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086599779627503616",
+            "3_2086599791463792640",
+            "3_2086599801173581824",
+            "3_2086599812343099392"
+          ]
+        },
+        "author_id": "899985949001568257",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Yokohama",
+              "id": "1009174794506399744",
+              "name": "Yokohama"
+            }
+          }
+        ],
+        "conversation_id": "2086599821193076754",
+        "created_at": "2026-08-09T23:45:39.000Z",
+        "display_text_range": [
+          0,
+          152
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T00:45:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086599821193076754"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 143,
+              "start": 138,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 152,
+              "start": 144,
+              "tag": "バンドリの聖地"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 135,
+              "id": "1112674980603428866",
+              "start": 128,
+              "username": "240y_k"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/92WRnJonXD",
+              "end": 176,
+              "expanded_url": "https://x.com/anianimatsuri/status/2086599821193076754/photo/1",
+              "media_key": "3_2086599779627503616",
+              "start": 153,
+              "url": "https://t.co/92WRnJonXD"
+            },
+            {
+              "display_url": "pic.x.com/92WRnJonXD",
+              "end": 176,
+              "expanded_url": "https://x.com/anianimatsuri/status/2086599821193076754/photo/1",
+              "media_key": "3_2086599791463792640",
+              "start": 153,
+              "url": "https://t.co/92WRnJonXD"
+            },
+            {
+              "display_url": "pic.x.com/92WRnJonXD",
+              "end": 176,
+              "expanded_url": "https://x.com/anianimatsuri/status/2086599821193076754/photo/1",
+              "media_key": "3_2086599801173581824",
+              "start": 153,
+              "url": "https://t.co/92WRnJonXD"
+            },
+            {
+              "display_url": "pic.x.com/92WRnJonXD",
+              "end": 176,
+              "expanded_url": "https://x.com/anianimatsuri/status/2086599821193076754/photo/1",
+              "media_key": "3_2086599812343099392",
+              "start": 153,
+              "url": "https://t.co/92WRnJonXD"
+            }
+          ]
+        },
+        "geo": {
+          "place_id": "44bd8dbe9ffe1625"
+        },
+        "id": "2086599821193076754",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086599779627503616"
+          },
+          {
+            "media_key": "3_2086599791463792640"
+          },
+          {
+            "media_key": "3_2086599801173581824"
+          },
+          {
+            "media_key": "3_2086599812343099392"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 413,
+          "impression_count": 866455,
+          "like_count": 2953,
+          "quote_count": 244,
+          "reply_count": 14,
+          "retweet_count": 695
+        },
+        "reply_settings": "everyone",
+        "text": "横浜駅に\n✨『バンドリの聖地』登場✨⁉️\n\n現在販売されている『バンドリ』の機種でBOXを構成しました✨\n\n盛り上げる為にクラブZから相葉あいなさんと西尾夕香さんのサイン入りパネルも借りてきました🎵\n\n8月15日には『西尾夕香』さんの来店も予定してます！\n@240y_k \n\n#バンドリ #バンドリの聖地 https://t.co/92WRnJonXD"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Girls Band | Game | Journey | Natural Science | Information Tech | Aerospace | Among Us | Magical Girl Witch Trials\n\n若有遗漏的未回fo账户请评论或私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnUI1a"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2087151197799264297",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2382,
+          "following_count": 3634,
+          "like_count": 60995,
+          "listed_count": 11,
+          "media_count": 460,
+          "tweet_count": 18412
+        },
+        "url": "https://t.co/ZXakBnUI1a",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-08-22T13:25:45.000Z",
+        "description": "横浜で一番アニメ好きが集まるお店☆彡 スタッフも皆アニメ好きばかりです！ アニメ装飾ではどこにも負けないお店創りを目指しています☆彡 #パチンコ #スロット #パチスロ #アニメ 公式LINEアカウントもぜひぜひ登録お願いします‼️https://t.co/GTzBDjHr9D",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 72,
+                "start": 67,
+                "tag": "パチンコ"
+              },
+              {
+                "end": 78,
+                "start": 73,
+                "tag": "スロット"
+              },
+              {
+                "end": 84,
+                "start": 79,
+                "tag": "パチスロ"
+              },
+              {
+                "end": 89,
+                "start": 85,
+                "tag": "アニメ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "lin.ee/BDnQpfY",
+                "end": 139,
+                "expanded_url": "http://lin.ee/BDnQpfY",
+                "start": 116,
+                "url": "https://t.co/GTzBDjHr9D"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCw54L…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCw54L1OIFyZGeg9aEGDxiCg",
+                "start": 0,
+                "url": "https://t.co/QzKkMNWtku"
+              }
+            ]
+          }
+        },
+        "id": "899985949001568257",
+        "is_identity_verified": false,
+        "location": "神奈川県横浜市西区南幸1-13-4",
+        "most_recent_tweet_id": "2087100974599193012",
+        "name": "キングEX@横浜駅西口ビブレ前",
+        "pinned_tweet_id": "2086599821193076754",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/899985949001568257/1783754394",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2075713420519944192/OVB6kXFj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2595,
+          "following_count": 1348,
+          "like_count": 10849,
+          "listed_count": 11,
+          "media_count": 2385,
+          "tweet_count": 4819
+        },
+        "url": "https://t.co/QzKkMNWtku",
+        "username": "anianimatsuri",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

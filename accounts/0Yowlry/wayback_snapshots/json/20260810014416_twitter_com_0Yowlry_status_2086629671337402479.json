@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2086175313458069967",
+    "created_at": "2026-08-10T01:44:16.000Z",
+    "display_text_range": [
+      12,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-10T02:44:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086629671337402479"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1979708886425935872",
+          "start": 0,
+          "username": "Miti_Blue2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086629671337402479",
+    "in_reply_to_user_id": "1979708886425935872",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086175313458069967",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Miti_Blue2 🙏🙏🙏"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 683,
+        "media_key": "3_2086175310194806785",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPOVZD9aEAEW7kQ.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2086175313458069967",
+        "created_at": "2026-08-10T01:44:16.000Z",
+        "display_text_range": [
+          12,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T02:44:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086629671337402479"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1979708886425935872",
+              "start": 0,
+              "username": "Miti_Blue2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086629671337402479",
+        "in_reply_to_user_id": "1979708886425935872",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086175313458069967",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Miti_Blue2 🙏🙏🙏"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086175310194806785"
+          ]
+        },
+        "author_id": "1979708886425935872",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "US President Joe Biden",
+              "id": "10040395078",
+              "name": "Joe Biden"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about global finance and economies.",
+              "id": "847511168268644352",
+              "name": "Global Economy"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2086175313458069967",
+        "created_at": "2026-08-08T19:38:48.000Z",
+        "display_text_range": [
+          0,
+          285
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-08T20:38:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086175313458069967"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TueHCqsgja",
+              "end": 309,
+              "expanded_url": "https://x.com/Miti_Blue2/status/2086175313458069967/photo/1",
+              "media_key": "3_2086175310194806785",
+              "start": 286,
+              "url": "https://t.co/TueHCqsgja"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086175313458069967",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2086175310194806785"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "President Biden appreciation post:\n\nThe media never treated him fairly. He never got enough credit for what he has done. Economy grew under his leadership & he created more jobs than any other president. We know how hard he worked for us & we should always say:\n\nTHANK YOU JOE, THANK YOU 🥲💙"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 66,
+          "impression_count": 49294,
+          "like_count": 7695,
+          "quote_count": 83,
+          "reply_count": 434,
+          "retweet_count": 1762
+        },
+        "reply_settings": "everyone",
+        "text": "President Biden appreciation post:\n\nThe media never treated him fairly. He never got enough credit for what he has done. Economy grew under his leadership &amp; he created more jobs than any other president. We know how hard he worked for us &amp; we should always say:\n\nTHANK YOU JOE, https://t.co/TueHCqsgja"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Girls Band | Game | Journey | Natural Science | Information Tech | Aerospace | Among Us | Magical Girl Witch Trials\n\n若有遗漏的未回fo账户请评论或私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnUI1a"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2086629671337402479",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2368,
+          "following_count": 3621,
+          "like_count": 60123,
+          "listed_count": 11,
+          "media_count": 456,
+          "tweet_count": 18164
+        },
+        "url": "https://t.co/ZXakBnUI1a",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-19T00:40:04.000Z",
+        "description": "backup account for @Miti_Blue, RESISTER, NO MAGA🚫DM🚫",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 29,
+                "start": 19,
+                "username": "Miti_Blue"
+              }
+            ]
+          }
+        },
+        "id": "1979708886425935872",
+        "is_identity_verified": false,
+        "location": "California, USA",
+        "most_recent_tweet_id": "2086600876022812969",
+        "name": "Miti 💙🕊️",
+        "pinned_tweet_id": "2086175313458069967",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1979708886425935872/1760836001",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1979709445966807040/cSxZiuf-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1215,
+          "following_count": 2038,
+          "like_count": 632,
+          "listed_count": 0,
+          "media_count": 54,
+          "tweet_count": 472
+        },
+        "url": "",
+        "username": "Miti_Blue2",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

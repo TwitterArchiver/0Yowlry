@@ -1,0 +1,342 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2042618319120011712",
+    "created_at": "2026-07-18T08:47:27.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-18T09:47:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2078401248391504303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 16,
+          "id": "789682407989391364",
+          "start": 6,
+          "username": "Leivonens"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2078401248391504303",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2042618536900575651",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok @Leivonens 😨😨😨"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1440,
+        "media_key": "3_2042618535235538944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HFjWvExX0AA_BCn.jpg",
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2042618319120011712",
+        "created_at": "2026-07-18T08:47:27.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-18T09:47:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2078401248391504303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 16,
+              "id": "789682407989391364",
+              "start": 6,
+              "username": "Leivonens"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2078401248391504303",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042618536900575651",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @Leivonens 😨😨😨"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2042618535235538944"
+          ]
+        },
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "2042618319120011712",
+        "created_at": "2026-04-10T14:59:43.000Z",
+        "edit_controls": {
+          "editable_until": "2026-04-10T15:59:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2042618536900575651"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "789682407989391364",
+              "start": 0,
+              "username": "Leivonens"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/6GiQ16jnVy",
+              "end": 34,
+              "expanded_url": "https://x.com/grok/status/2042618536900575651/photo/1",
+              "media_key": "3_2042618535235538944",
+              "start": 11,
+              "url": "https://t.co/6GiQ16jnVy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2042618536900575651",
+        "in_reply_to_user_id": "789682407989391364",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 22,
+          "impression_count": 186151,
+          "like_count": 190,
+          "quote_count": 5,
+          "reply_count": 11,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "2042618319120011712",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Leivonens https://t.co/6GiQ16jnVy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Girls Band | Game | Journey | Natural Science | Information Tech | Aerospace",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnVfQI"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2271,
+          "following_count": 3414,
+          "like_count": 49514,
+          "listed_count": 10,
+          "media_count": 393,
+          "tweet_count": 15364
+        },
+        "url": "https://t.co/ZXakBnVfQI",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8863003,
+          "following_count": 5,
+          "like_count": 121,
+          "listed_count": 7213,
+          "media_count": 9165881,
+          "tweet_count": 131700554
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2016-10-22T04:18:52.000Z",
+        "description": "好きなゲームやアニメのイラストを作っています💕\n#ガルパン 世界一\nSupport :https://t.co/1UWtEC679p or https://t.co/z72I6Y3iqn\nPixiv : https://t.co/nMJ6uZdIao\nDiscord : https://t.co/Wip0ksM0O5",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 24,
+                "tag": "ガルパン"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "x.gd/SxwUn",
+                "end": 66,
+                "expanded_url": "https://x.gd/SxwUn",
+                "start": 43,
+                "url": "https://t.co/1UWtEC679p"
+              },
+              {
+                "display_url": "x.gd/UB1kv",
+                "end": 93,
+                "expanded_url": "https://x.gd/UB1kv",
+                "start": 70,
+                "url": "https://t.co/z72I6Y3iqn"
+              },
+              {
+                "display_url": "x.gd/Uqjpy",
+                "end": 125,
+                "expanded_url": "https://x.gd/Uqjpy",
+                "start": 102,
+                "url": "https://t.co/nMJ6uZdIao"
+              },
+              {
+                "display_url": "x.gd/uLH90",
+                "end": 159,
+                "expanded_url": "https://x.gd/uLH90",
+                "start": 136,
+                "url": "https://t.co/Wip0ksM0O5"
+              }
+            ]
+          }
+        },
+        "id": "789682407989391364",
+        "location": "Einstein Galaxy",
+        "name": "Leivonen",
+        "pinned_tweet_id": "2056995820021625057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1924437648355057664/Qi0GEheD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 117839,
+          "following_count": 3798,
+          "like_count": 59949,
+          "listed_count": 545,
+          "media_count": 8129,
+          "tweet_count": 54710
+        },
+        "url": "",
+        "username": "Leivonens",
+        "verified": true
+      }
+    ]
+  }
+}

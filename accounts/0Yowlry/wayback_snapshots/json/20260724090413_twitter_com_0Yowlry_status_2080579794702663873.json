@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Nico Nico Douga",
+          "id": "1034894313908396037",
+          "name": "Nico Nico Douga"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Nico Nico Douga",
+          "id": "1034894313908396037",
+          "name": "Nico Nico Douga"
+        }
+      }
+    ],
+    "conversation_id": "2080226877156004054",
+    "created_at": "2026-07-24T09:04:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T10:04:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080579794702663873"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1326112544474345473",
+          "start": 0,
+          "username": "osushi_yee"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080579794702663873",
+    "in_reply_to_user_id": "1326112544474345473",
+    "lang": "es",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080226877156004054",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@osushi_yee niconico"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2080226870910709760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HN5zUUza8AA7fcM.jpg",
+        "width": 1005
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Nico Nico Douga",
+              "id": "1034894313908396037",
+              "name": "Nico Nico Douga"
+            }
+          }
+        ],
+        "conversation_id": "2080226877156004054",
+        "created_at": "2026-07-24T09:04:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T10:04:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080579794702663873"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1326112544474345473",
+              "start": 0,
+              "username": "osushi_yee"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080579794702663873",
+        "in_reply_to_user_id": "1326112544474345473",
+        "lang": "es",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080226877156004054",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@osushi_yee niconico"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080226870910709760"
+          ]
+        },
+        "author_id": "1326112544474345473",
+        "conversation_id": "2080226877156004054",
+        "created_at": "2026-07-23T09:41:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T10:41:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2080226877156004054"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TzxaaPGNeg",
+              "end": 51,
+              "expanded_url": "https://x.com/osushi_yee/status/2080226877156004054/photo/1",
+              "media_key": "3_2080226870910709760",
+              "start": 28,
+              "url": "https://t.co/TzxaaPGNeg"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080226877156004054",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 842,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "えあなたいつのまにapple storeに来てたの？？ https://t.co/TzxaaPGNeg"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Girls Band | Game | Journey | Natural Science | Information Tech | Aerospace | Among Us | Magical Girl Witch Trials",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnVfQI"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2278,
+          "following_count": 3446,
+          "like_count": 51541,
+          "listed_count": 11,
+          "media_count": 398,
+          "tweet_count": 15942
+        },
+        "url": "https://t.co/ZXakBnVfQI",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2020-11-10T10:47:09.000Z",
+        "description": "スウェーデン要素はほとんどない 語学/世界史/音楽/アークナイツ/まのさば/スタレ/マイムジ/百合",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "instagram.com/osushi0254",
+                "end": 23,
+                "expanded_url": "https://www.instagram.com/osushi0254",
+                "start": 0,
+                "url": "https://t.co/0znx0qawb5"
+              }
+            ]
+          }
+        },
+        "id": "1326112544474345473",
+        "name": "🍡美味しいｨｨｨｨお寿司ｨｨｨｨ",
+        "pinned_tweet_id": "1873384348332020010",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1947072563579899904/ySe6L4VB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5291,
+          "following_count": 5478,
+          "like_count": 224332,
+          "listed_count": 26,
+          "media_count": 1980,
+          "tweet_count": 69835
+        },
+        "url": "https://t.co/0znx0qawb5",
+        "username": "osushi_yee",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,479 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2091935271986266112"
+      ]
+    },
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Chairman of the Japanese Communist Party, Shii Kazuo (志位 和夫)",
+          "id": "915301560585879552",
+          "name": "Shii Kazuo"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Chairman of the Japanese Communist Party, Shii Kazuo (志位 和夫)",
+          "id": "915301560585879552",
+          "name": "Shii Kazuo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Chairman of the Japanese Communist Party, Shii Kazuo (志位 和夫)",
+          "id": "915301560585879552",
+          "name": "Shii Kazuo"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2091935310389408216",
+    "created_at": "2026-08-24T17:06:58.000Z",
+    "display_text_range": [
+      0,
+      7
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T18:06:58.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2091935310389408216"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "pic.x.com/zrFDDPkpEV",
+          "end": 31,
+          "expanded_url": "https://x.com/0Yowlry/status/2091935310389408216/photo/1",
+          "media_key": "3_2091935271986266112",
+          "start": 8,
+          "url": "https://t.co/zrFDDPkpEV"
+        },
+        {
+          "display_url": "x.com/EzraRan__/stat…",
+          "end": 55,
+          "expanded_url": "https://twitter.com/EzraRan__/status/2067193313460195625",
+          "start": 32,
+          "url": "https://t.co/aC3OksB8nU"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091935310389408216",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2091935271986266112"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2067193313460195625",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "豆包还真回答了 https://t.co/zrFDDPkpEV https://t.co/aC3OksB8nU"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1013,
+        "media_key": "3_2091935271986266112",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQgMC9vaAAAaNrt.jpg",
+        "width": 1499
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091935271986266112"
+          ]
+        },
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Chairman of the Japanese Communist Party, Shii Kazuo (志位 和夫)",
+              "id": "915301560585879552",
+              "name": "Shii Kazuo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Chairman of the Japanese Communist Party, Shii Kazuo (志位 和夫)",
+              "id": "915301560585879552",
+              "name": "Shii Kazuo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Chairman of the Japanese Communist Party, Shii Kazuo (志位 和夫)",
+              "id": "915301560585879552",
+              "name": "Shii Kazuo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2091935310389408216",
+        "created_at": "2026-08-24T17:06:58.000Z",
+        "display_text_range": [
+          0,
+          7
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T18:06:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091935310389408216"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zrFDDPkpEV",
+              "end": 31,
+              "expanded_url": "https://x.com/0Yowlry/status/2091935310389408216/photo/1",
+              "media_key": "3_2091935271986266112",
+              "start": 8,
+              "url": "https://t.co/zrFDDPkpEV"
+            },
+            {
+              "display_url": "x.com/EzraRan__/stat…",
+              "end": 55,
+              "expanded_url": "https://twitter.com/EzraRan__/status/2067193313460195625",
+              "start": 32,
+              "url": "https://t.co/aC3OksB8nU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091935310389408216",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091935271986266112"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2067193313460195625",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "豆包还真回答了 https://t.co/zrFDDPkpEV https://t.co/aC3OksB8nU"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1968187553695272960",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Chairman of the Japanese Communist Party, Shii Kazuo (志位 和夫)",
+              "id": "915301560585879552",
+              "name": "Shii Kazuo"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Chairman of the Japanese Communist Party, Shii Kazuo (志位 和夫)",
+              "id": "915301560585879552",
+              "name": "Shii Kazuo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Chairman of the Japanese Communist Party, Shii Kazuo (志位 和夫)",
+              "id": "915301560585879552",
+              "name": "Shii Kazuo"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2067193313460195625",
+        "created_at": "2026-06-17T10:31:07.000Z",
+        "display_text_range": [
+          0,
+          118
+        ],
+        "edit_controls": {
+          "editable_until": "2026-06-17T11:31:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2067193313460195625"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1431933733",
+              "start": 11,
+              "username": "jcp_cc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2067193313460195625",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {
+            "mentions": [
+              {
+                "end": 18,
+                "id": "1431933733",
+                "start": 11,
+                "username": "jcp_cc"
+              }
+            ]
+          },
+          "text": "一直以来想问日本共产党@jcp_cc 一个问题：\n\n贵党前党魁志位和夫（しい かずお）2000年担任贵党党魁至2024年卸任，总任期长达24年。\n2024年卸任后随即就任贵党中央委员会第四代议长，至今仍在贵党继续“辛劳”，担任高级职务。\n\n贵党连最基本的党内民主都没有，党魁在党内独裁了24年，下台后仍“垂帘听政”，这样的党，怎么能让别人相信，若自己变成了日本的执政党后，会让日本更民主更自由呢？想听听贵党的见解。\n\n以上。"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1557,
+          "like_count": 17,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "一直以来想问日本共产党@jcp_cc 一个问题：\n\n贵党前党魁志位和夫（しい かずお）2000年担任贵党党魁至2024年卸任，总任期长达24年。\n2024年卸任后随即就任贵党中央委员会第四代议长，至今仍在贵党继续“辛劳”，担任高级职务。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnUI1a"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2091935310389408216",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2523,
+          "following_count": 3800,
+          "like_count": 68401,
+          "listed_count": 12,
+          "media_count": 567,
+          "tweet_count": 20537
+        },
+        "url": "https://t.co/ZXakBnUI1a",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-17T05:37:44.000Z",
+        "description": "高強度上網衝浪，過激評論可能，海涵。\n#StandWithUkraine 🇺🇦",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 36,
+                "start": 19,
+                "tag": "StandWithUkraine"
+              }
+            ]
+          }
+        },
+        "id": "1968187553695272960",
+        "is_identity_verified": false,
+        "location": "亞太",
+        "most_recent_tweet_id": "2091925467221942495",
+        "name": "漣 絵樹羅Ezra",
+        "pinned_tweet_id": "2067193313460195625",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1968187553695272960/1781639025",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1993195957132181506/QEgIPinV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1239,
+          "following_count": 2533,
+          "like_count": 33875,
+          "listed_count": 5,
+          "media_count": 1311,
+          "tweet_count": 10350
+        },
+        "url": "",
+        "username": "EzraRan__",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

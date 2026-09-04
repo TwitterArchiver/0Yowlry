@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1830242658691821862",
+    "created_at": "2026-07-24T19:46:07.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-24T20:46:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080741336383447041"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1547431894056402945",
+          "start": 0,
+          "username": "YslineRieulle"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080741336383447041",
+    "in_reply_to_user_id": "1547431894056402945",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1830242658691821862",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YslineRieulle 图卢兹，波尔多，斯特拉斯堡，亚眠"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1830242658691821862",
+        "created_at": "2026-07-24T19:46:07.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-24T20:46:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080741336383447041"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1547431894056402945",
+              "start": 0,
+              "username": "YslineRieulle"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080741336383447041",
+        "in_reply_to_user_id": "1547431894056402945",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830242658691821862",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YslineRieulle 图卢兹，波尔多，斯特拉斯堡，亚眠"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1547431894056402945",
+        "conversation_id": "1830242658691821862",
+        "created_at": "2024-09-01T13:53:48.000Z",
+        "edit_controls": {
+          "editable_until": "2024-09-01T14:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1830242658691821862"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/U7dc8Sf9/statu…",
+              "end": 49,
+              "expanded_url": "https://twitter.com/U7dc8Sf9/status/1830098893184360894",
+              "start": 26,
+              "url": "https://t.co/CMXm50O3K3"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1830242658691821862",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 110970,
+          "like_count": 125,
+          "quote_count": 36,
+          "reply_count": 201,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "1830098893184360894",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "請寫出三個法國城市名字 但不能是巴黎 馬賽 或里昂 https://t.co/CMXm50O3K3"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Girls Band | Game | Journey | Natural Science | Information Tech | Aerospace | Among Us | Magical Girl Witch Trials",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnVfQI"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2286,
+          "following_count": 3458,
+          "like_count": 51951,
+          "listed_count": 11,
+          "media_count": 399,
+          "tweet_count": 16073
+        },
+        "url": "https://t.co/ZXakBnVfQI",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2022-07-14T04:05:04.000Z",
+        "description": "Anarchism無政府主義🏴️/Zaunhegnin上海人/Palaeography 古文字/Linguistics語言學/Heraldry紋章學/Poetry詩歌/09年/Transfem🏳️‍⚧️/Lang: Mand/Goet/En/Kreyòl Ayisyen/Fr",
+        "id": "1547431894056402945",
+        "location": "Nancy, France",
+        "name": "未命名-Ys. A. J. Rieulle",
+        "pinned_tweet_id": "1613129051753050112",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973695402642649088/UWbstKP-_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 909,
+          "following_count": 1586,
+          "like_count": 2520,
+          "listed_count": 4,
+          "media_count": 380,
+          "tweet_count": 3211
+        },
+        "url": "",
+        "username": "YslineRieulle",
+        "verified": false
+      }
+    ]
+  }
+}

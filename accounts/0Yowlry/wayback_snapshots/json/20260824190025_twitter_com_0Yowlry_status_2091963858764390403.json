@@ -1,0 +1,314 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2091341574483607673",
+    "created_at": "2026-08-24T19:00:25.000Z",
+    "display_text_range": [
+      11,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T20:00:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091963858764390403"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1821849172368355328",
+          "start": 0,
+          "username": "L98808Lju"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091963858764390403",
+    "in_reply_to_user_id": "1821849172368355328",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091341574483607673",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@L98808Lju 是这样，天天筛选这个筛选那个的，累不累啊"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 198878,
+        "height": 1280,
+        "media_key": "13_2090416204926124033",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2090416204926124033/img/bvskCkNhPjzOTl31.jpg",
+        "public_metrics": {
+          "view_count": 318731
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090416204926124033/vid/avc1/320x568/pTXo78SxGD2BBjjG.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090416204926124033/vid/avc1/480x852/vZ1Fo-ltm2BjRf_Q.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2090416204926124033/vid/avc1/720x1280/6tZnppxjbnz316bd.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2090416204926124033/pl/keBM2gTgRWjLMaWZ.m3u8?v=aa0"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2091341574483607673",
+        "created_at": "2026-08-24T19:00:25.000Z",
+        "display_text_range": [
+          11,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T20:00:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091963858764390403"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1821849172368355328",
+              "start": 0,
+              "username": "L98808Lju"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091963858764390403",
+        "in_reply_to_user_id": "1821849172368355328",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091341574483607673",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@L98808Lju 是这样，天天筛选这个筛选那个的，累不累啊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2090416204926124033"
+          ],
+          "media_source_tweet_id": [
+            "2090539367383121964"
+          ]
+        },
+        "author_id": "1821849172368355328",
+        "conversation_id": "2091341574483607673",
+        "created_at": "2026-08-23T01:47:41.000Z",
+        "display_text_range": [
+          0,
+          85
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T02:47:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091341574483607673"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/7eDLuWydEU",
+              "end": 258,
+              "expanded_url": "https://x.com/whyyoutouzhele/status/2090539367383121964/video/1?s=46",
+              "media_key": "13_2090416204926124033",
+              "start": 235,
+              "url": "https://t.co/7eDLuWydEU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091341574483607673",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2090416204926124033"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "x.com/whyyoutouzhele…",
+                "end": 258,
+                "expanded_url": "https://x.com/whyyoutouzhele/status/2090539367383121964/video/1?s=46",
+                "start": 235,
+                "url": "https://t.co/7eDLuWydEU"
+              }
+            ]
+          },
+          "text": "只和所谓“有条件的人”交朋友是一种非常功利主义的思维呢，Yoyi觉得交朋友更重要的是缘分和感觉啦，太过重视功利而忽视情感会产生心理压力，也可能在现实里遭到其它人排挤哦😉。\n另外有钱、有能力、品德好三项能同时满足的人也是比较少的，何为有钱有能力这些评价方式也是主观且相对的。有些看起来很富裕的人也可能精神贫穷导致他们反而很贪婪；有些看起来品德好的可能只是戴上了面具的伪装，关键时刻反而会踢你一脚。所以没必要强行设置一个所谓的标杆，多去相处交流找到合适感觉的人才更重要啦。 https://t.co/7eDLuWydEU"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 13,
+          "impression_count": 13096,
+          "like_count": 34,
+          "quote_count": 2,
+          "reply_count": 39,
+          "retweet_count": 3
+        },
+        "reply_settings": "everyone",
+        "text": "只和所谓“有条件的人”交朋友是一种非常功利主义的思维呢，Yoyi觉得交朋友更重要的是缘分和感觉啦，太过重视功利而忽视情感会产生心理压力，也可能在现实里遭到其它人排挤哦😉。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnUI1a"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2091963858764390403",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2517,
+          "following_count": 3799,
+          "like_count": 68425,
+          "listed_count": 12,
+          "media_count": 568,
+          "tweet_count": 20541
+        },
+        "url": "https://t.co/ZXakBnUI1a",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-08-09T10:01:27.000Z",
+        "description": "I’m Anon’s (千早爱音) sister. PhD in Science🎓,首席AI政治学家🦋,谣言家^_^Share Knowledge/Social View/Animation. 亲爱的骑士@Romanorum_ 学生@C4_rRed 油管有时直播CS/日麻",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 113,
+                "start": 102,
+                "username": "Romanorum_"
+              },
+              {
+                "end": 124,
+                "start": 116,
+                "username": "C4_rRed"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@yoyi-f6q",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/@yoyi-f6q",
+                "start": 0,
+                "url": "https://t.co/fyCyiOfIWn"
+              }
+            ]
+          }
+        },
+        "id": "1821849172368355328",
+        "is_identity_verified": false,
+        "location": "Singapore",
+        "most_recent_tweet_id": "2091839720657764762",
+        "name": "神樂坂🌸Yoyi🇸🇬",
+        "pinned_tweet_id": "2061737251789570249",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1821849172368355328/1732710181",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1920668084102459395/1OyHpsxL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2190,
+          "following_count": 551,
+          "like_count": 51470,
+          "listed_count": 10,
+          "media_count": 1068,
+          "tweet_count": 17116
+        },
+        "url": "https://t.co/fyCyiOfIWn",
+        "username": "L98808Lju",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

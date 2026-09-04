@@ -1,0 +1,209 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2088616722475720740",
+    "created_at": "2026-08-15T14:14:33.000Z",
+    "display_text_range": [
+      13,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-15T15:14:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2088630429121487269"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1807972342955405313",
+          "start": 0,
+          "username": "SuXiNewleft"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2088630429121487269",
+    "in_reply_to_user_id": "1807972342955405313",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2088629488586568043",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@SuXiNewleft 全国可飞（bushi）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2088629488586568043].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2088629488586568043",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2088629488586568043"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2088616722475720740",
+        "created_at": "2026-08-15T14:14:33.000Z",
+        "display_text_range": [
+          13,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-15T15:14:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2088630429121487269"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1807972342955405313",
+              "start": 0,
+              "username": "SuXiNewleft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2088630429121487269",
+        "in_reply_to_user_id": "1807972342955405313",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2088629488586568043",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@SuXiNewleft 全国可飞（bushi）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Girls Band | Game | Journey | Natural Science | Information Tech | Aerospace | Among Us | Magical Girl Witch Trials\n\n若有遺漏請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnUI1a"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2088630429121487269",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2087252693509423164",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2409,
+          "following_count": 3686,
+          "like_count": 63747,
+          "listed_count": 12,
+          "media_count": 494,
+          "tweet_count": 19116
+        },
+        "url": "https://t.co/ZXakBnUI1a",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2024-07-02T02:59:43.000Z",
+        "description": "左派/坚持阶级斗争/对绝大多数人民主，对极少数人专政/民主但不民粹/极端进步/支持🏳️‍🌈 🏳️‍⚧️/酷儿 泛性恋",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/suxi1848",
+                "end": 23,
+                "expanded_url": "http://ngl.link/suxi1848",
+                "start": 0,
+                "url": "https://t.co/X063tjHwDZ"
+              }
+            ]
+          }
+        },
+        "id": "1807972342955405313",
+        "is_identity_verified": false,
+        "location": "泛亚社会主义共和国",
+        "most_recent_tweet_id": "2088514110896108030",
+        "name": "溯汐汐",
+        "pinned_tweet_id": "2065349261450227850",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1807972342955405313/1777684941",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041309548351516672/7uzqUGJn_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 364,
+          "following_count": 344,
+          "like_count": 2382,
+          "listed_count": 1,
+          "media_count": 118,
+          "tweet_count": 1498
+        },
+        "url": "https://t.co/X063tjHwDZ",
+        "username": "SuXiNewleft",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

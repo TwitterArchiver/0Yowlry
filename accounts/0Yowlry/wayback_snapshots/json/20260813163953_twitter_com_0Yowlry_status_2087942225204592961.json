@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2086346629444165880",
+    "created_at": "2026-08-13T16:39:53.000Z",
+    "display_text_range": [
+      10,
+      11
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-13T17:39:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087942225204592961"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1701400589924708352",
+          "start": 0,
+          "username": "smplg997"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087942225204592961",
+    "in_reply_to_user_id": "1701400589924708352",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086346629444165880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@smplg997 🌅"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2086346629444165880].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2086346629444165880",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2086346629444165880"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2086346629444165880",
+        "created_at": "2026-08-13T16:39:53.000Z",
+        "display_text_range": [
+          10,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-13T17:39:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087942225204592961"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1701400589924708352",
+              "start": 0,
+              "username": "smplg997"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087942225204592961",
+        "in_reply_to_user_id": "1701400589924708352",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086346629444165880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@smplg997 🌅"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Girls Band | Game | Journey | Natural Science | Information Tech | Aerospace | Among Us | Magical Girl Witch Trials\n\n若有遺漏請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnUI1a"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2087942225204592961",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼です",
+        "pinned_tweet_id": "2087252693509423164",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2398,
+          "following_count": 3669,
+          "like_count": 62935,
+          "listed_count": 11,
+          "media_count": 471,
+          "tweet_count": 18874
+        },
+        "url": "https://t.co/ZXakBnUI1a",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-12T01:02:06.000Z",
+        "description": "这条蛆已经失去任何幻想，达到了圣人无梦的境界。       \n巣を張ろう、三千世界の隅々に！\n某人的小号",
+        "id": "1701400589924708352",
+        "is_identity_verified": false,
+        "location": "次元のはて",
+        "most_recent_tweet_id": "2056168712919789932",
+        "name": "motherless maggot",
+        "pinned_tweet_id": "2079780736018870636",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1701400589924708352/1781789306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1870798813495201792/mIz7Jnr2_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 204,
+          "following_count": 253,
+          "like_count": 13651,
+          "listed_count": 3,
+          "media_count": 268,
+          "tweet_count": 5545
+        },
+        "url": "",
+        "username": "smplg997",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

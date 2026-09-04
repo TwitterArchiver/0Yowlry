@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2093614084839088364",
+    "created_at": "2026-08-30T11:39:36.000Z",
+    "display_text_range": [
+      18,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-30T12:39:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094027249477656897"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1984316739363209216",
+          "start": 0,
+          "username": "iamooklw"
+        },
+        {
+          "end": 17,
+          "id": "2093612895066038273",
+          "start": 10,
+          "username": "9ao5j7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094027249477656897",
+    "in_reply_to_user_id": "1984316739363209216",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093614084839088364",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iamooklw @9ao5j7 🥰"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2093614084839088364].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2093614084839088364",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2093614084839088364"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2093614084839088364",
+        "created_at": "2026-08-30T11:39:36.000Z",
+        "display_text_range": [
+          18,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-30T12:39:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094027249477656897"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1984316739363209216",
+              "start": 0,
+              "username": "iamooklw"
+            },
+            {
+              "end": 17,
+              "id": "2093612895066038273",
+              "start": 10,
+              "username": "9ao5j7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094027249477656897",
+        "in_reply_to_user_id": "1984316739363209216",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093614084839088364",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iamooklw @9ao5j7 🥰"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnUI1a"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2094027249477656897",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2553,
+          "following_count": 3815,
+          "like_count": 70549,
+          "listed_count": 12,
+          "media_count": 590,
+          "tweet_count": 21236
+        },
+        "url": "https://t.co/ZXakBnUI1a",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-31T17:49:28.000Z",
+        "description": "马克思主义 泛亚主义\n支持民主计划经济",
+        "id": "1984316739363209216",
+        "is_identity_verified": false,
+        "location": "蓬莱",
+        "most_recent_tweet_id": "2092895368665047360",
+        "name": "阳🇵🇸🇺🇦🇨🇳",
+        "pinned_tweet_id": "2093614084839088364",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1984316739363209216/1787903995",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092594974621847553/79czdhpD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 551,
+          "following_count": 1371,
+          "like_count": 10130,
+          "listed_count": 2,
+          "media_count": 198,
+          "tweet_count": 3523
+        },
+        "url": "",
+        "username": "iamooklw",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-29T08:14:17.000Z",
+        "description": "大号@iamooklw",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 2,
+                "username": "iamooklw"
+              }
+            ]
+          }
+        },
+        "id": "2093612895066038273",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2093988241347080452",
+        "name": "怅寥廓",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093614571432878080/9aU3_FjX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 28,
+          "following_count": 93,
+          "like_count": 148,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 47
+        },
+        "url": "",
+        "username": "9ao5j7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

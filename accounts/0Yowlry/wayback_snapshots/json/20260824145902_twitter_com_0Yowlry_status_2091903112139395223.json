@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2091899424704479423",
+    "created_at": "2026-08-24T14:59:02.000Z",
+    "display_text_range": [
+      9,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T15:59:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091903112139395223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "50017608",
+          "start": 0,
+          "username": "iskuggy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091903112139395223",
+    "in_reply_to_user_id": "50017608",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091899424704479423",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@iskuggy 哪一年"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2091899424704479423",
+        "created_at": "2026-08-24T14:59:02.000Z",
+        "display_text_range": [
+          9,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T15:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091903112139395223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "50017608",
+              "start": 0,
+              "username": "iskuggy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091903112139395223",
+        "in_reply_to_user_id": "50017608",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091899424704479423",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@iskuggy 哪一年"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "50017608",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1575492091660054532",
+              "name": "Countdown"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2091899424704479423",
+        "created_at": "2026-08-24T14:44:23.000Z",
+        "display_text_range": [
+          0,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T15:44:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091899424704479423"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/0yowlry/status…",
+              "end": 61,
+              "expanded_url": "https://twitter.com/0yowlry/status/2091761784734797838",
+              "start": 38,
+              "url": "https://t.co/JSfJxuVRSc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091899424704479423",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 9,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091761784734797838",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我高中的时候用它看到美国随便一个城市的卫星图像，密密麻麻的汽车把我震惊了… https://t.co/JSfJxuVRSc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnUI1a"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2091903112139395223",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2523,
+          "following_count": 3799,
+          "like_count": 68374,
+          "listed_count": 12,
+          "media_count": 565,
+          "tweet_count": 20526
+        },
+        "url": "https://t.co/ZXakBnUI1a",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-06-23T16:09:19.000Z",
+        "description": "😢😯😊😄",
+        "id": "50017608",
+        "is_identity_verified": false,
+        "location": "🌍",
+        "most_recent_tweet_id": "2091899901110333698",
+        "name": "CoolMamama",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/50017608/1708867045",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1908140771733393408/w8orolEQ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 149,
+          "following_count": 574,
+          "like_count": 5041,
+          "listed_count": 13,
+          "media_count": 1194,
+          "tweet_count": 33185
+        },
+        "url": "",
+        "username": "iskuggy",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

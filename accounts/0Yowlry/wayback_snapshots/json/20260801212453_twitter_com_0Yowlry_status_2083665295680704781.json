@@ -1,0 +1,471 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "id": "10045422267",
+          "name": "隅田川花火大会"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "1402708318829694976",
+          "name": "Fireworks festivals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1291095284756357120",
+          "name": "Cultural events"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1324489219360784384",
+          "name": "Summer festivals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1402708318829694976",
+          "name": "Fireworks festivals"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Tokyo",
+          "id": "855095546553393152",
+          "name": "Tokyo"
+        }
+      }
+    ],
+    "conversation_id": "2083665295680704781",
+    "created_at": "2026-08-01T21:24:53.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T22:24:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083665295680704781"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "771291882894667777",
+          "start": 3,
+          "username": "halohalo_travel"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083665295680704781",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 692
+    },
+    "referenced_tweets": [
+      {
+        "id": "2080931805075841349",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @halohalo_travel: 【日程確定】全国の主な花火大会2026まとめ✍️🎆\n\n【東京】\n7/25：隅田川花火大会（2万発）\n7/25：立川まつり\n7/28：葛飾花火大会（2万発）\n8/1：いたばし花火大会（1.5万発）\n8/1：江戸川花火大会（1.4万発）\n1…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1301,
+        "media_key": "3_2080931797177896960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOD0cbyakAAo-C6.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10045422267",
+              "name": "隅田川花火大会"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1402708318829694976",
+              "name": "Fireworks festivals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324489219360784384",
+              "name": "Summer festivals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1402708318829694976",
+              "name": "Fireworks festivals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2083665295680704781",
+        "created_at": "2026-08-01T21:24:53.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T22:24:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083665295680704781"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "771291882894667777",
+              "start": 3,
+              "username": "halohalo_travel"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083665295680704781",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 692
+        },
+        "referenced_tweets": [
+          {
+            "id": "2080931805075841349",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @halohalo_travel: 【日程確定】全国の主な花火大会2026まとめ✍️🎆\n\n【東京】\n7/25：隅田川花火大会（2万発）\n7/25：立川まつり\n7/28：葛飾花火大会（2万発）\n8/1：いたばし花火大会（1.5万発）\n8/1：江戸川花火大会（1.4万発）\n1…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2080931797177896960"
+          ]
+        },
+        "author_id": "771291882894667777",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "id": "10045422267",
+              "name": "隅田川花火大会"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "1402708318829694976",
+              "name": "Fireworks festivals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291095284756357120",
+              "name": "Cultural events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1324489219360784384",
+              "name": "Summer festivals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1402708318829694976",
+              "name": "Fireworks festivals"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Tokyo",
+              "id": "855095546553393152",
+              "name": "Tokyo"
+            }
+          }
+        ],
+        "conversation_id": "2080931805075841349",
+        "created_at": "2026-07-25T08:22:58.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T09:22:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080931805075841349"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h5IvgxcxBy",
+              "end": 184,
+              "expanded_url": "https://x.com/halohalo_travel/status/2080931805075841349/photo/1",
+              "media_key": "3_2080931797177896960",
+              "start": 161,
+              "url": "https://t.co/h5IvgxcxBy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080931805075841349",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "【日程確定】全国の主な花火大会2026まとめ✍️🎆\n\n【東京】\n7/25：隅田川花火大会（2万発）\n7/25：立川まつり\n7/28：葛飾花火大会（2万発）\n8/1：いたばし花火大会（1.5万発）\n8/1：江戸川花火大会（1.4万発）\n10/3：多摩川花火大会\n10/24：東京湾大華火祭\n11/14：六郷土手\n【神奈川】\n8/1：小田原酒匂川花火大会\n8/22：金沢まつり\n8/24：みなとみらいスマートフェスティバル\n9/5：相模原納涼花火大会\n10/3：多摩川花火大会\n10/10・11：あつぎ鮎まつり\n【大阪】\n7/25：天神祭\n8/8：茨木辯天花火大会\n8/22：泉州夢花火\n10/17：なにわ淀川花火大会\n\nーーーーー\n【北海道】\n未定：室蘭満天花火\n7/25：網走花火（1.2万発）\n7/26：おたる潮まつり\n7/31：道新・UHB花火大会\n8/1：函館港まつり\n8/13：勝毎花火大会\n【青森】\n8/7：青森花火大会\n【岩手】\n8/11：盛岡花火\n10/11：高田松原花火（1.5万発）\n【秋田】\n8/14：男鹿日本海花火大会（1万発）\n8/29：大曲の花火（1.8万発）\n【宮城】\n8/5：仙台七夕（1.6万発）\n9/13：東北未来芸術花火\n10/10：みやこんじょ花火大会（1.3万発）\n【福島】\n7/25：ふくしま花火大会\n8/1：いわき花火大会（1.2万発）\n【山形】\n8/15：赤川花火大会（1.2万発）\n9/12：酒田の花火\n【茨城】\n7/25：水戸黄門まつり\n8/1：古河花火大会\n9/19：利根川大花火大会\n9/26：大洗海上花火（2万発）\n10/17：ちくせい花火大会（2万発）\n11/7：土浦全国花火競技大会（2万発）\n【栃木】\n7/25：真岡市（1.5万発）\n8/1：足利花火大会（2万発）\n8/8：うつのみや花火大会\n10/3：小山の花火（2万発）\n【群馬】\n8/8：前橋花火大会\n8/22：高崎まつり大花火大会（1.5万発）\n【埼玉】\n7/25：越谷花火大会\n7/25：さいたま市花火大会＠大和田公園\n8/1：朝霞市民まつり\n8/1：戸田橋花火大会（1.5万発）\n8/8：さいたま市花火大会＠大間木公園\n8/8：熊谷花火大会\n10/3：三郷花火大会（1.4万発）\n10/10：こうのす花火大会（2万発）\n【千葉】\n8/1：手賀沼花火大会（1.3万発）\n8/1：幕張ビーチ花火フェスタ（2.4万発）\n8/1：松戸花火大会（1.2万発）\n8/15：木更津港まつり\n【新潟】\n7/26：ぎおん柏崎まつり（1.6万発）\n8/2・8/3：長岡まつり大花火大会\n9/12：片貝まつり\n【富山】\n8/1：北日本新聞納涼花火大会\n【石川】\n7/25：北國新聞花火大会＠金沢\n【福井】\n8/11：三国花火大会（1.5万発）\n8/16：敦賀花火大会\n【山梨】\n8/5：河口湖湖上祭\n8/7：神明の花火（2万発）\n【長野】\n8/15：諏訪湖\n11/23：長野えびす講祭全国花火大会\n【岐阜】\n8/8：ぎふ長良川花火大会\n【静岡】\n7/25・7/26：沼津夏まつり\n7/25：ふくろい遠州の花火\n8/10：按針祭（2万発）\n【愛知】\n7/26：豊田おいでんまつり花火大会\n8/8：東海まつり\n8/15：刈谷わんさか祭り\n中止：名古屋みなと祭\n【三重】\n7/18：伊勢神宮奉納全国花火大会\n【滋賀】\n8/6：びわ湖大花火大会\n【京都】\n6/3：京都芸術花火\n【兵庫】\n8/1：芦屋サマーカーニバル\n10/19-23：みなとHANABI-2026-\n【奈良】\n8/15：吉野川祭り\n【和歌山】\n7/25：和歌山港まつり花火大会\n【鳥取】\n8/15：鳥取しゃんしゃん祭\n【島根】\n8/1・8/2：松江水郷祭（計：2.1万発）\n【岡山】\n8/2：津山納涼ごんごまつり\n【広島】\n7/25：おのみち住吉花火まつり（1.3万発）\n7/25：宮島水中花火大会\n8/15：福山夏まつり（1.6万発）\n【山口】\n8/13：関門海峡花火大会（1.8万発）\n【徳島】\n8/11：徳島市阿波おどり初日記念花火\n11/14：にし阿波の花火大会（2万発）\n【香川】\n8/13：さぬき高松まつり花火大会\n【愛媛】\n8/1：松山港まつり\n【高知】\n8/9：高知市納涼花火大会\n8/9：今治市民花火\n【福岡】\n8/5：筑後川花火大会（1.5万発）\n8/13：関門海峡花火大会（1.8万発）\n【佐賀】\n5/23：佐賀城下栄の国まつり\n【長崎】\n11/14：ハウステンボス 九州一花火大会（2.2万発）\n【熊本】\n10/17：やつしろ全国花火競技大会\n【大分】\n7/26：べっぷ火の海まつり\n【宮崎】\n8/1：宮崎納涼花火大会\n【鹿児島】\n8/29：かごしま錦江湾サマーナイト大花火大会\n【沖縄県】\n8/9：大宜味村夏まつり"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2155,
+          "impression_count": 1139442,
+          "like_count": 3847,
+          "quote_count": 167,
+          "reply_count": 14,
+          "retweet_count": 692
+        },
+        "reply_settings": "everyone",
+        "text": "【日程確定】全国の主な花火大会2026まとめ✍️🎆\n\n【東京】\n7/25：隅田川花火大会（2万発）\n7/25：立川まつり\n7/28：葛飾花火大会（2万発）\n8/1：いたばし花火大会（1.5万発）\n8/1：江戸川花火大会（1.4万発）\n10/3：多摩川花火大会\n10/24：東京湾大華火祭\n11/14：六郷土手\n【神奈川】 https://t.co/h5IvgxcxBy"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Girls Band | Game | Journey | Natural Science | Information Tech | Aerospace | Among Us | Magical Girl Witch Trials",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnVfQI"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2334,
+          "following_count": 3563,
+          "like_count": 56621,
+          "listed_count": 12,
+          "media_count": 429,
+          "tweet_count": 17317
+        },
+        "url": "https://t.co/ZXakBnVfQI",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2016-09-01T10:21:29.000Z",
+        "description": "日々旅行しながら国内外の最新旅行レジャー情報やホテル・旅館を発信しています✈︎ / 航空券・新幹線セールやキャンペーン・クーポン速報⛱",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "lit.link/halohalo",
+                "end": 23,
+                "expanded_url": "https://lit.link/halohalo",
+                "start": 0,
+                "url": "https://t.co/cOkARcCery"
+              }
+            ]
+          }
+        },
+        "id": "771291882894667777",
+        "location": "Tokyo / ✉️info@halohalo.space",
+        "name": "Halohalo｜旅行レジャー情報",
+        "pinned_tweet_id": "2082666228603318729",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1547991366382546944/4DfnHaZV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 632147,
+          "following_count": 465,
+          "like_count": 88070,
+          "listed_count": 2642,
+          "media_count": 4892,
+          "tweet_count": 10701
+        },
+        "url": "https://t.co/cOkARcCery",
+        "username": "halohalo_travel",
+        "verified": true
+      }
+    ]
+  }
+}

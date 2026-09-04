@@ -1,0 +1,357 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2082805130798444679",
+    "created_at": "2026-07-31T08:52:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-31T09:52:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083113664526381513"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1801809484936826880",
+          "start": 0,
+          "username": "Akirameru_QAQ"
+        },
+        {
+          "end": 27,
+          "id": "1663066129923981312",
+          "start": 15,
+          "username": "Ak1raQ_love"
+        },
+        {
+          "end": 44,
+          "id": "1640917359493005313",
+          "start": 28,
+          "username": "shizukululu0721"
+        },
+        {
+          "end": 57,
+          "id": "1806849464386416640",
+          "start": 45,
+          "username": "tangeorange"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083113664526381513",
+    "in_reply_to_user_id": "1801809484936826880",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083112728294834431",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@Akirameru_QAQ @Ak1raQ_love @shizukululu0721 @tangeorange 我就说不可能住酒店（"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2083112728294834431].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2083112728294834431",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2083112728294834431"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2082805130798444679",
+        "created_at": "2026-07-31T08:52:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-31T09:52:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083113664526381513"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1801809484936826880",
+              "start": 0,
+              "username": "Akirameru_QAQ"
+            },
+            {
+              "end": 27,
+              "id": "1663066129923981312",
+              "start": 15,
+              "username": "Ak1raQ_love"
+            },
+            {
+              "end": 44,
+              "id": "1640917359493005313",
+              "start": 28,
+              "username": "shizukululu0721"
+            },
+            {
+              "end": 57,
+              "id": "1806849464386416640",
+              "start": 45,
+              "username": "tangeorange"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083113664526381513",
+        "in_reply_to_user_id": "1801809484936826880",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083112728294834431",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@Akirameru_QAQ @Ak1raQ_love @shizukululu0721 @tangeorange 我就说不可能住酒店（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Girls Band | Game | Journey | Natural Science | Information Tech | Aerospace | Among Us | Magical Girl Witch Trials",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnVfQI"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2317,
+          "following_count": 3518,
+          "like_count": 55460,
+          "listed_count": 12,
+          "media_count": 428,
+          "tweet_count": 16975
+        },
+        "url": "https://t.co/ZXakBnVfQI",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-15T02:51:07.000Z",
+        "description": "裏垢 | 秋月姐姐 @qiuylove | 阿堇🕯️@Akatsuki_QAQ",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 19,
+                "start": 10,
+                "username": "qiuylove"
+              },
+              {
+                "end": 39,
+                "start": 26,
+                "username": "Akatsuki_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "project.mikachan.dpdns.org",
+                "end": 23,
+                "expanded_url": "https://project.mikachan.dpdns.org",
+                "start": 0,
+                "url": "https://t.co/joDdH0U6cs"
+              }
+            ]
+          }
+        },
+        "id": "1801809484936826880",
+        "name": "秋以降🍥",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080057145429807104/AuEzlLZN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 138,
+          "following_count": 116,
+          "like_count": 341,
+          "listed_count": 0,
+          "media_count": 23,
+          "tweet_count": 103
+        },
+        "url": "https://t.co/joDdH0U6cs",
+        "username": "Akirameru_QAQ",
+        "verified": false
+      },
+      {
+        "created_at": "2023-05-29T06:14:23.000Z",
+        "description": "弃羽酱💫/🩵🩷🤍🩷🩵/non-mtf/hrt 26.7.31/向往自由/欢迎推u面基/#蓝v互关/原创meme/顺直女 @zhwevea/日常 @Akirameru_QAQ",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 48,
+                "start": 43,
+                "tag": "蓝v互关"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 68,
+                "start": 60,
+                "username": "zhwevea"
+              },
+              {
+                "end": 86,
+                "start": 72,
+                "username": "Akirameru_QAQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mihari.cyou",
+                "end": 23,
+                "expanded_url": "https://mihari.cyou/",
+                "start": 0,
+                "url": "https://t.co/ENDNzh3PSn"
+              }
+            ]
+          }
+        },
+        "id": "1663066129923981312",
+        "location": " 苏州/厦门",
+        "name": "🩷Akiramenai💫",
+        "pinned_tweet_id": "2040090150819213463",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2069374801127567360/Cuj2bNTF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8932,
+          "following_count": 1192,
+          "like_count": 206937,
+          "listed_count": 6,
+          "media_count": 1062,
+          "tweet_count": 8338
+        },
+        "url": "https://t.co/ENDNzh3PSn",
+        "username": "Ak1raQ_love",
+        "verified": true
+      },
+      {
+        "created_at": "2023-03-29T03:22:47.000Z",
+        "description": "ACG、交通迷、玩机｜负面情绪警告❗️｜Student｜ISFJ｜顺直但友跨｜不麦｜喜欢聊天欢迎扩列喵～",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/Lulushizukuuu",
+                "end": 23,
+                "expanded_url": "https://t.me/Lulushizukuuu",
+                "start": 0,
+                "url": "https://t.co/IxTJNDUbn0"
+              }
+            ]
+          }
+        },
+        "id": "1640917359493005313",
+        "location": "Suzhou",
+        "name": "雨下るる",
+        "pinned_tweet_id": "2082418128307564928",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2076653649988837376/qIB73UYk_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 313,
+          "following_count": 1372,
+          "like_count": 1389,
+          "listed_count": 0,
+          "media_count": 139,
+          "tweet_count": 1028
+        },
+        "url": "https://t.co/IxTJNDUbn0",
+        "username": "shizukululu0721",
+        "verified": false
+      },
+      {
+        "created_at": "2024-06-29T00:37:43.000Z",
+        "description": "i am not too dare to face the reality",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "orangestd.cn",
+                "end": 23,
+                "expanded_url": "http://orangestd.cn",
+                "start": 0,
+                "url": "https://t.co/NqG6Q8k88z"
+              }
+            ]
+          }
+        },
+        "id": "1806849464386416640",
+        "location": "Shinjuku-ku, Tokyo",
+        "name": "橙子🫪",
+        "pinned_tweet_id": "2080144271894876640",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2064054650006020096/YsducvYi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3362,
+          "following_count": 2900,
+          "like_count": 9290,
+          "listed_count": 5,
+          "media_count": 1461,
+          "tweet_count": 9339
+        },
+        "url": "https://t.co/NqG6Q8k88z",
+        "username": "tangeorange",
+        "verified": true
+      }
+    ]
+  }
+}

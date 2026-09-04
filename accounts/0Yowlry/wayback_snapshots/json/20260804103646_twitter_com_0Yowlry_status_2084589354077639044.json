@@ -1,0 +1,313 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2084234907526803456",
+        "3_2084234918130016256"
+      ],
+      "media_source_tweet_id": [
+        "2084234929328808021",
+        "2084234929328808021"
+      ]
+    },
+    "author_id": "1839263401845075974",
+    "conversation_id": "2084589354077639044",
+    "created_at": "2026-08-04T10:36:46.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T11:36:46.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084589354077639044"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "982638749661069315",
+          "start": 3,
+          "username": "Lyytoaoitori"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/j7D8w55s9v",
+          "end": 45,
+          "expanded_url": "https://x.com/Lyytoaoitori/status/2084234929328808021/photo/1",
+          "media_key": "3_2084234907526803456",
+          "start": 22,
+          "url": "https://t.co/j7D8w55s9v"
+        },
+        {
+          "display_url": "pic.x.com/j7D8w55s9v",
+          "end": 45,
+          "expanded_url": "https://x.com/Lyytoaoitori/status/2084234929328808021/photo/1",
+          "media_key": "3_2084234918130016256",
+          "start": 22,
+          "url": "https://t.co/j7D8w55s9v"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084589354077639044",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1565
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084234929328808021",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Lyytoaoitori: お詫び https://t.co/j7D8w55s9v"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1840,
+        "media_key": "3_2084234907526803456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOywmwuasAARJs6.jpg",
+        "width": 1320
+      },
+      {
+        "height": 1840,
+        "media_key": "3_2084234918130016256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOywnYOa4AAseVn.jpg",
+        "width": 1320
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084234907526803456",
+            "3_2084234918130016256"
+          ]
+        },
+        "author_id": "982638749661069315",
+        "conversation_id": "2084234929328808021",
+        "created_at": "2026-08-03T11:08:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T12:08:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084234929328808021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/j7D8w55s9v",
+              "end": 27,
+              "expanded_url": "https://x.com/Lyytoaoitori/status/2084234929328808021/photo/1",
+              "media_key": "3_2084234907526803456",
+              "start": 4,
+              "url": "https://t.co/j7D8w55s9v"
+            },
+            {
+              "display_url": "pic.x.com/j7D8w55s9v",
+              "end": 27,
+              "expanded_url": "https://x.com/Lyytoaoitori/status/2084234929328808021/photo/1",
+              "media_key": "3_2084234918130016256",
+              "start": 4,
+              "url": "https://t.co/j7D8w55s9v"
+            },
+            {
+              "display_url": "x.com/Lyytoaoitori/s…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/Lyytoaoitori/status/2082426270240080040",
+              "start": 28,
+              "url": "https://t.co/GoVUoZVqUz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084234929328808021",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 850,
+          "impression_count": 324282,
+          "like_count": 14548,
+          "quote_count": 14,
+          "reply_count": 32,
+          "retweet_count": 1565
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082426270240080040",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "お詫び https://t.co/j7D8w55s9v https://t.co/GoVUoZVqUz"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2084234907526803456",
+            "3_2084234918130016256"
+          ],
+          "media_source_tweet_id": [
+            "2084234929328808021",
+            "2084234929328808021"
+          ]
+        },
+        "author_id": "1839263401845075974",
+        "conversation_id": "2084589354077639044",
+        "created_at": "2026-08-04T10:36:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T11:36:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084589354077639044"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "982638749661069315",
+              "start": 3,
+              "username": "Lyytoaoitori"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/j7D8w55s9v",
+              "end": 45,
+              "expanded_url": "https://x.com/Lyytoaoitori/status/2084234929328808021/photo/1",
+              "media_key": "3_2084234907526803456",
+              "start": 22,
+              "url": "https://t.co/j7D8w55s9v"
+            },
+            {
+              "display_url": "pic.x.com/j7D8w55s9v",
+              "end": 45,
+              "expanded_url": "https://x.com/Lyytoaoitori/status/2084234929328808021/photo/1",
+              "media_key": "3_2084234918130016256",
+              "start": 22,
+              "url": "https://t.co/j7D8w55s9v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084589354077639044",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1565
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084234929328808021",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Lyytoaoitori: お詫び https://t.co/j7D8w55s9v"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Girls Band | Game | Journey | Natural Science | Information Tech | Aerospace | Among Us | Magical Girl Witch Trials",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnVfQI"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2346,
+          "following_count": 3571,
+          "like_count": 57932,
+          "listed_count": 12,
+          "media_count": 436,
+          "tweet_count": 17621
+        },
+        "url": "https://t.co/ZXakBnVfQI",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2018-04-07T15:18:29.000Z",
+        "description": "リズと青い鳥、MyGO!!!!!に中毒。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/member.php?id=…",
+                "end": 23,
+                "expanded_url": "https://www.pixiv.net/member.php?id=4033649",
+                "start": 0,
+                "url": "https://t.co/f3o4fAnUn7"
+              }
+            ]
+          }
+        },
+        "id": "982638749661069315",
+        "location": "北宇治アイマスク専門大学院",
+        "name": "Lyy",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1144463536355102721/lDmnwqX7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 340051,
+          "following_count": 171,
+          "like_count": 1669,
+          "listed_count": 1293,
+          "media_count": 474,
+          "tweet_count": 622
+        },
+        "url": "https://t.co/f3o4fAnUn7",
+        "username": "Lyytoaoitori",
+        "verified": false
+      }
+    ]
+  }
+}

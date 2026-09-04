@@ -1,0 +1,296 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1918890118347129162",
+    "created_at": "2026-08-20T18:05:47.000Z",
+    "display_text_range": [
+      30,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-20T19:05:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2090500557962346845"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1646550974553522183",
+          "start": 0,
+          "username": "_9tysk"
+        },
+        {
+          "end": 19,
+          "id": "1504799211799265282",
+          "start": 8,
+          "username": "LiuSuK7777"
+        },
+        {
+          "end": 29,
+          "id": "1589809419822329857",
+          "start": 20,
+          "username": "jianlvup"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2090500557962346845",
+    "in_reply_to_user_id": "1646550974553522183",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1919308038416285911",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_9tysk @LiuSuK7777 @jianlvup 你是？"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1919308038416285911].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1919308038416285911",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "1919308038416285911"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1918890118347129162",
+        "created_at": "2026-08-20T18:05:47.000Z",
+        "display_text_range": [
+          30,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-20T19:05:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090500557962346845"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1646550974553522183",
+              "start": 0,
+              "username": "_9tysk"
+            },
+            {
+              "end": 19,
+              "id": "1504799211799265282",
+              "start": 8,
+              "username": "LiuSuK7777"
+            },
+            {
+              "end": 29,
+              "id": "1589809419822329857",
+              "start": 20,
+              "username": "jianlvup"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090500557962346845",
+        "in_reply_to_user_id": "1646550974553522183",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1919308038416285911",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_9tysk @LiuSuK7777 @jianlvup 你是？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Girls Band | Game | Journey | Natural Science | Information Tech | Aerospace | Among Us | Magical Girl Witch Trials\n\n若有遺漏請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnUI1a"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2090500557962346845",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2504,
+          "following_count": 3760,
+          "like_count": 66813,
+          "listed_count": 12,
+          "media_count": 548,
+          "tweet_count": 20015
+        },
+        "url": "https://t.co/ZXakBnUI1a",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-13T16:28:58.000Z",
+        "description": "",
+        "id": "1646550974553522183",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2017264327238262868",
+        "name": "～…",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1646550974553522183/1732640224",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059264976435703808/OTXz8dlM_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 761,
+          "following_count": 789,
+          "like_count": 72424,
+          "listed_count": 7,
+          "media_count": 419,
+          "tweet_count": 7205
+        },
+        "url": "",
+        "username": "_9tysk",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏 现居杭州 生产日期🍰2008.02.29 舞萌/东方/Arcaea/明日方舟/三角洲/火影 q3860174763",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "is_identity_verified": false,
+        "location": "error",
+        "most_recent_tweet_id": "2090449454222770559",
+        "name": "流苏",
+        "pinned_tweet_id": "2068533981818290551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1504799211799265282/1760452671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060157452931465216/9MujmSVL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3740,
+          "following_count": 2793,
+          "like_count": 34236,
+          "listed_count": 14,
+          "media_count": 1717,
+          "tweet_count": 35542
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-08T02:38:07.000Z",
+        "description": "小号：@jianlvya\n搭档:@KawawaDiana8964\n奇怪的人  INTJ 欢迎交流",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 12,
+                "start": 3,
+                "username": "jianlvya"
+              },
+              {
+                "end": 32,
+                "start": 16,
+                "username": "KawawaDiana8964"
+              }
+            ]
+          }
+        },
+        "id": "1589809419822329857",
+        "is_identity_verified": false,
+        "location": "为爱发电",
+        "most_recent_tweet_id": "2090447416076255479",
+        "name": "简律（私信互关）",
+        "pinned_tweet_id": "2090356780857729376",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1589809419822329857/1744989387",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004901762986389504/M3hchdWr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 20430,
+          "following_count": 1612,
+          "like_count": 91001,
+          "listed_count": 68,
+          "media_count": 4154,
+          "tweet_count": 7973
+        },
+        "url": "",
+        "username": "jianlvup",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

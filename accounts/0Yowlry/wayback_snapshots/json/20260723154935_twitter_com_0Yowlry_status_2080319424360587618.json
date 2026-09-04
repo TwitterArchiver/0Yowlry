@@ -1,0 +1,205 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2076662059962716640",
+    "created_at": "2026-07-23T15:49:35.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-23T16:49:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2080319424360587618"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1894285195651813378",
+          "start": 0,
+          "username": "xiaozhuhua_tv"
+        },
+        {
+          "end": 31,
+          "id": "1682687182375636992",
+          "start": 15,
+          "username": "Cavaradossi1008"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2080319424360587618",
+    "in_reply_to_user_id": "1894285195651813378",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076970352446669264",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xiaozhuhua_tv @Cavaradossi1008 为什么我就没做梦过"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2076970352446669264].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2076970352446669264",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2076970352446669264"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2076662059962716640",
+        "created_at": "2026-07-23T15:49:35.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-23T16:49:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2080319424360587618"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1894285195651813378",
+              "start": 0,
+              "username": "xiaozhuhua_tv"
+            },
+            {
+              "end": 31,
+              "id": "1682687182375636992",
+              "start": 15,
+              "username": "Cavaradossi1008"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2080319424360587618",
+        "in_reply_to_user_id": "1894285195651813378",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076970352446669264",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xiaozhuhua_tv @Cavaradossi1008 为什么我就没做梦过"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Girls Band | Game | Journey | Natural Science | Information Tech | Aerospace | Among Us | Magical Girl Witch Trials",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnVfQI"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2281,
+          "following_count": 3440,
+          "like_count": 51105,
+          "listed_count": 11,
+          "media_count": 396,
+          "tweet_count": 15830
+        },
+        "url": "https://t.co/ZXakBnVfQI",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-25T07:16:55.000Z",
+        "description": "喜欢《吹响吧！上低音号》的都是好孩子",
+        "id": "1894285195651813378",
+        "name": "小猪话TV",
+        "pinned_tweet_id": "2066908155901309411",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2065440742122872832/h7as0dJa_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1371,
+          "following_count": 1202,
+          "like_count": 13403,
+          "listed_count": 6,
+          "media_count": 119,
+          "tweet_count": 9407
+        },
+        "url": "",
+        "username": "xiaozhuhua_tv",
+        "verified": false
+      },
+      {
+        "created_at": "2023-07-22T09:41:26.000Z",
+        "description": "🔱🇮🇳शिव नाम से है जगत में उजाला",
+        "id": "1682687182375636992",
+        "location": "Ganga",
+        "name": "🇮🇳MerryMerryHearn",
+        "pinned_tweet_id": "2049939605114515756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079635182836170752/GwkkvqsV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1408,
+          "following_count": 1412,
+          "like_count": 174126,
+          "listed_count": 10,
+          "media_count": 1443,
+          "tweet_count": 18365
+        },
+        "url": "",
+        "username": "Cavaradossi1008",
+        "verified": false
+      }
+    ]
+  }
+}

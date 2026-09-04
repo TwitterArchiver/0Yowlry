@@ -1,0 +1,319 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1618189851760947207",
+    "created_at": "2026-08-09T12:37:03.000Z",
+    "display_text_range": [
+      47,
+      50
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-09T13:37:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2086431564091789673"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1423639638141411332",
+          "start": 0,
+          "username": "hiMp3zgpX8ao3MF"
+        },
+        {
+          "end": 30,
+          "id": "1381523094087507974",
+          "start": 17,
+          "username": "pear14525902"
+        },
+        {
+          "end": 46,
+          "id": "1517964203813875712",
+          "start": 31,
+          "username": "NankyuHaneturu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2086431564091789673",
+    "in_reply_to_user_id": "1423639638141411332",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1618274360317603841",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@hiMp3zgpX8ao3MF @pear14525902 @NankyuHaneturu 为什么"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [NankyuHaneturu].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "NankyuHaneturu",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.twitter.com/2/problems/resource-not-found",
+      "value": "NankyuHaneturu"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1618189851760947207",
+        "created_at": "2026-08-09T12:37:03.000Z",
+        "display_text_range": [
+          47,
+          50
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T13:37:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2086431564091789673"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1423639638141411332",
+              "start": 0,
+              "username": "hiMp3zgpX8ao3MF"
+            },
+            {
+              "end": 30,
+              "id": "1381523094087507974",
+              "start": 17,
+              "username": "pear14525902"
+            },
+            {
+              "end": 46,
+              "id": "1517964203813875712",
+              "start": 31,
+              "username": "NankyuHaneturu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086431564091789673",
+        "in_reply_to_user_id": "1423639638141411332",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1618274360317603841",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@hiMp3zgpX8ao3MF @pear14525902 @NankyuHaneturu 为什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1423639638141411332",
+        "conversation_id": "1618189851760947207",
+        "created_at": "2023-01-25T15:47:28.000Z",
+        "display_text_range": [
+          30,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2023-01-25T16:17:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1618274360317603841"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1381523094087507974",
+              "start": 0,
+              "username": "pear14525902"
+            },
+            {
+              "end": 29,
+              "id": "1517964203813875712",
+              "start": 14,
+              "username": "NankyuHaneturu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1618274360317603841",
+        "in_reply_to_user_id": "1381523094087507974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2111,
+          "like_count": 13,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1618254627639824384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pear14525902 @NankyuHaneturu 开发屁眼的可以开除左籍了"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Girls Band | Game | Journey | Natural Science | Information Tech | Aerospace | Among Us | Magical Girl Witch Trials\n\n若有遗漏的未回fo账户请评论或私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnUI1a"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2086431564091789673",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2365,
+          "following_count": 3614,
+          "like_count": 59870,
+          "listed_count": 11,
+          "media_count": 454,
+          "tweet_count": 18108
+        },
+        "url": "https://t.co/ZXakBnUI1a",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-08-06T13:38:41.000Z",
+        "description": "粉红别骂我，我是资深建制派\n支黑别骂我，我是少数民族\n左人别骂我，我是教员的学生\n右人别骂我，我支持自由民主",
+        "id": "1423639638141411332",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2018753759254565186",
+        "name": "风间琉璃",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1617863269250916352/-l3awVs5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22,
+          "following_count": 38,
+          "like_count": 50,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 953
+        },
+        "url": "",
+        "username": "hiMp3zgpX8ao3MF",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-12T08:22:37.000Z",
+        "description": "在美国佛州养老。政治经济学者，现代马克思主义者，新左派，现代毛派。数十次预言成功。支持高福利社会+毒品合法化+自由开明独裁。爱中国人民。人比较复杂介绍不完。tg群：https://t.co/yofG5Z0M7z 个人tg：https://t.co/GShUlP4pC4 长毛象：pear14525。男，双性恋",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/pearfan",
+                "end": 105,
+                "expanded_url": "http://t.me/pearfan",
+                "start": 82,
+                "url": "https://t.co/yofG5Z0M7z"
+              },
+              {
+                "display_url": "t.me/orange113",
+                "end": 134,
+                "expanded_url": "http://t.me/orange113",
+                "start": 111,
+                "url": "https://t.co/GShUlP4pC4"
+              }
+            ]
+          }
+        },
+        "id": "1381523094087507974",
+        "is_identity_verified": false,
+        "location": "Florida, USA",
+        "most_recent_tweet_id": "2022470681783603673",
+        "name": "🍐老师🔮",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1381523094087507974/1632283846",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1621701647465594882/YyRdZJ5c_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 44073,
+          "following_count": 1363,
+          "like_count": 131118,
+          "listed_count": 183,
+          "media_count": 2624,
+          "tweet_count": 120640
+        },
+        "url": "",
+        "username": "pear14525902",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

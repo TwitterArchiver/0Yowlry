@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2091451623620878482",
+    "created_at": "2026-08-24T02:26:33.000Z",
+    "display_text_range": [
+      12,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-24T03:26:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091713742853845015"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1485299509047398403",
+          "start": 0,
+          "username": "Lyan040925"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091713742853845015",
+    "in_reply_to_user_id": "1485299509047398403",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2091451623620878482",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Lyan040925 😊"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1600,
+        "media_key": "3_2091451615824015360",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HQZUKeIbcAAnlxF.jpg",
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2091451623620878482",
+        "created_at": "2026-08-24T02:26:33.000Z",
+        "display_text_range": [
+          12,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-24T03:26:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091713742853845015"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1485299509047398403",
+              "start": 0,
+              "username": "Lyan040925"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091713742853845015",
+        "in_reply_to_user_id": "1485299509047398403",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2091451623620878482",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Lyan040925 😊"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2091451615824015360"
+          ]
+        },
+        "author_id": "1485299509047398403",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2091451623620878482",
+        "created_at": "2026-08-23T09:04:59.000Z",
+        "display_text_range": [
+          0,
+          4
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T10:04:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2091451623620878482"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/vrwaSPdQlP",
+              "end": 28,
+              "expanded_url": "https://x.com/Lyan040925/status/2091451623620878482/photo/1",
+              "media_key": "3_2091451615824015360",
+              "start": 5,
+              "url": "https://t.co/vrwaSPdQlP"
+            },
+            {
+              "display_url": "x.com/Lyan040925/sta…",
+              "end": 52,
+              "expanded_url": "https://twitter.com/Lyan040925/status/1729545348538847569",
+              "start": 29,
+              "url": "https://t.co/q0OXYwA3BT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091451623620878482",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2091451615824015360"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 55,
+          "impression_count": 7942,
+          "like_count": 648,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 123
+        },
+        "referenced_tweets": [
+          {
+            "id": "1729545348538847569",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "重绘一下 https://t.co/vrwaSPdQlP https://t.co/q0OXYwA3BT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n若有遺漏請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnUI1a"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2091713742853845015",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2527,
+          "following_count": 3800,
+          "like_count": 68152,
+          "listed_count": 12,
+          "media_count": 563,
+          "tweet_count": 20456
+        },
+        "url": "https://t.co/ZXakBnUI1a",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-01-23T17:13:09.000Z",
+        "description": "请不要无标注转载！头像@feiyu30903448\n♀/🏳️‍🌈/2️⃣1️⃣ 中文/English/日本語👌🏻 ฉันกำลังเรียนภาษาไทย\n qq3207242994请扩！ @heeeeeepei92903 是黑泥子帐",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 25,
+                "start": 11,
+                "username": "feiyu30903448"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "heeeeeepei92903"
+              }
+            ]
+          }
+        },
+        "id": "1485299509047398403",
+        "is_identity_verified": false,
+        "location": "🇨🇳",
+        "most_recent_tweet_id": "2091708805986091108",
+        "name": "末影龙眼球Logan",
+        "pinned_tweet_id": "1871247823527915764",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1485299509047398403/1688111227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971170653593276416/rxTYQ507_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5394,
+          "following_count": 1420,
+          "like_count": 16123,
+          "listed_count": 19,
+          "media_count": 589,
+          "tweet_count": 10176
+        },
+        "url": "",
+        "username": "Lyan040925",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

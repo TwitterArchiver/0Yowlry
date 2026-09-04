@@ -1,0 +1,217 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2068952083345309761",
+    "created_at": "2026-07-25T16:53:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-25T17:53:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081060230079885798"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1874680837322706945",
+          "start": 0,
+          "username": "NineteenYizuka"
+        },
+        {
+          "end": 28,
+          "id": "1887807500558503936",
+          "start": 16,
+          "username": "SubOrc30678"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081060230079885798",
+    "in_reply_to_user_id": "1874680837322706945",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2069467800666841316",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NineteenYizuka @SubOrc30678 🥵🥵🥵"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2069467800666841316].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2069467800666841316",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2069467800666841316"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2068952083345309761",
+        "created_at": "2026-07-25T16:53:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-25T17:53:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081060230079885798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1874680837322706945",
+              "start": 0,
+              "username": "NineteenYizuka"
+            },
+            {
+              "end": 28,
+              "id": "1887807500558503936",
+              "start": 16,
+              "username": "SubOrc30678"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081060230079885798",
+        "in_reply_to_user_id": "1874680837322706945",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2069467800666841316",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NineteenYizuka @SubOrc30678 🥵🥵🥵"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Girls Band | Game | Journey | Natural Science | Information Tech | Aerospace | Among Us | Magical Girl Witch Trials",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnVfQI"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "mortis",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2291,
+          "following_count": 3480,
+          "like_count": 52664,
+          "listed_count": 11,
+          "media_count": 398,
+          "tweet_count": 16221
+        },
+        "url": "https://t.co/ZXakBnVfQI",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2025-01-02T04:55:43.000Z",
+        "description": "これは@JyushitiYizukaの脱出ポッド｜查成分后放行，只fo熟悉的人｜本账号作息与主账分开｜会存放一些主帐号不想发的东西",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 3,
+                "username": "JyushitiYizuka"
+              }
+            ]
+          }
+        },
+        "id": "1874680837322706945",
+        "location": "距离你17m",
+        "name": "JYUKYU拾玖",
+        "pinned_tweet_id": "1987527377161982104",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1911010527930703872/Urwbufmp_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 150,
+          "following_count": 130,
+          "like_count": 2113,
+          "listed_count": 0,
+          "media_count": 26,
+          "tweet_count": 446
+        },
+        "url": "",
+        "username": "NineteenYizuka",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-07T10:17:13.000Z",
+        "description": "永久锁推号，严禁外传内容，传了我画个圈圈诅咒你\n发点内心话，含有政治内容，介意勿关\n用来倾泻情绪垃圾，负责暴躁，开骂和吐槽\n只过熟人\n誰かさんのサブ垢、内通禁止\n普段話さないこと話す\n不健全内容多発\n\n*成分複雑注意*",
+        "id": "1887807500558503936",
+        "location": "满洲-蒙古二元帝国",
+        "name": "满蒙帝国爱新觉罗法天启运圣武帝",
+        "pinned_tweet_id": "1933523294806020227",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070121244016676864/qiyJvLpF_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 77,
+          "following_count": 539,
+          "like_count": 18239,
+          "listed_count": 1,
+          "media_count": 575,
+          "tweet_count": 5965
+        },
+        "url": "",
+        "username": "SubOrc30678",
+        "verified": false
+      }
+    ]
+  }
+}

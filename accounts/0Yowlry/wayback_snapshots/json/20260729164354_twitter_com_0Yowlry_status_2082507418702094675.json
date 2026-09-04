@@ -1,0 +1,622 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597105094656",
+          "name": "TV/Movies Related - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BBC",
+          "id": "1065659570578612224",
+          "name": "BBC"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165640192",
+          "name": "Telco"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040459264",
+          "name": "giffgaff"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2082507418702094675",
+    "created_at": "2026-07-29T16:43:54.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-29T17:43:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082507418702094675"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1165044876297134080",
+          "start": 3,
+          "username": "realNyarime"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082507418702094675",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 42
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082457097233646045",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @realNyarime: Giffgaff开始拒绝退款，并提供不退话费申请PAC码渠道，以供被封禁的gg用户转出号码\n卡里还有话费余额，退不掉的，可以捐出去发挥价值，直接从 gg 的话费余额扣，省得这笔钱烂在O2公司手里\n\n1. 捐给BBC Children in Ne…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 450,
+        "media_key": "3_2082456752646393856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZfYhmaEAAUbPz.png",
+        "width": 800
+      },
+      {
+        "height": 750,
+        "media_key": "3_2082456858909167616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZfetdbUAAssD8.jpg",
+        "width": 1200
+      },
+      {
+        "height": 196,
+        "media_key": "3_2082456959329144832",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZfkjjakAAtbC2.png",
+        "width": 510
+      },
+      {
+        "height": 534,
+        "media_key": "3_2082457009367216128",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOZfnd9a8AAVl5O.png",
+        "width": 800
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2082507418702094675",
+        "created_at": "2026-07-29T16:43:54.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T17:43:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082507418702094675"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1165044876297134080",
+              "start": 3,
+              "username": "realNyarime"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082507418702094675",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082457097233646045",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @realNyarime: Giffgaff开始拒绝退款，并提供不退话费申请PAC码渠道，以供被封禁的gg用户转出号码\n卡里还有话费余额，退不掉的，可以捐出去发挥价值，直接从 gg 的话费余额扣，省得这笔钱烂在O2公司手里\n\n1. 捐给BBC Children in Ne…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2082456752646393856",
+            "3_2082456858909167616",
+            "3_2082456959329144832",
+            "3_2082457009367216128"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BBC",
+              "id": "1065659570578612224",
+              "name": "BBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2082457097233646045",
+        "created_at": "2026-07-29T13:23:56.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-29T14:23:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082457097233646045"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BbX573eVz0",
+              "end": 149,
+              "expanded_url": "https://x.com/realNyarime/status/2082457097233646045/photo/1",
+              "media_key": "3_2082456752646393856",
+              "start": 126,
+              "url": "https://t.co/BbX573eVz0"
+            },
+            {
+              "display_url": "pic.x.com/BbX573eVz0",
+              "end": 149,
+              "expanded_url": "https://x.com/realNyarime/status/2082457097233646045/photo/1",
+              "media_key": "3_2082456858909167616",
+              "start": 126,
+              "url": "https://t.co/BbX573eVz0"
+            },
+            {
+              "display_url": "pic.x.com/BbX573eVz0",
+              "end": 149,
+              "expanded_url": "https://x.com/realNyarime/status/2082457097233646045/photo/1",
+              "media_key": "3_2082456959329144832",
+              "start": 126,
+              "url": "https://t.co/BbX573eVz0"
+            },
+            {
+              "display_url": "pic.x.com/BbX573eVz0",
+              "end": 149,
+              "expanded_url": "https://x.com/realNyarime/status/2082457097233646045/photo/1",
+              "media_key": "3_2082457009367216128",
+              "start": 126,
+              "url": "https://t.co/BbX573eVz0"
+            },
+            {
+              "display_url": "x.com/realNyarime/st…",
+              "end": 173,
+              "expanded_url": "https://twitter.com/realNyarime/status/2081673065872973990",
+              "start": 150,
+              "url": "https://t.co/3VAqTJ3lqi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082457097233646045",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "Giffgaff开始拒绝退款，并提供不退话费申请PAC码渠道，以供被封禁的gg用户转出号码\n卡里还有话费余额，退不掉的，可以捐出去发挥价值，直接从 gg 的话费余额扣，省得这笔钱烂在O2公司手里\n\n1. 捐给BBC Children in Need；\n方法一：发送短信FIVE到70701，捐款5英镑。发送的FIVE可以替换成TEN,TWENTY,THIRTY,FORTY，分别对应捐款10/20/30/40英镑。\n方法二：发送短信DONATE给70405，捐款5英镑；发给70410就是10英镑；70420捐20英镑；70430捐30英镑。\n\n2. 捐给Make-A-Wish基金会；\n发送短信WISH1到70450，一次性捐1英镑。这家有定期捐助，此处只列出一次性捐赠。其中短信内容WISH后跟的数字可以是1-20任意整数，对应捐出的金额，预付费卡会直接从话费余额扣除，另外可能收取一条普通短信费。该渠道由 Donr 处理，慈善机构实际收到捐款的 95%，例如捐 £1 会收到 £0.95。\n\n3. 捐给Cancer Research UK（英国癌症研究中心）；\n发送短信BEAT到70180捐5英镑，发送RACE10 给 70181捐10英镑。\n\n4. 捐给英国红十字会；\n发送GIVE10至70141，捐款10英镑；发送内容中GIVE后跟数字可以是10/20/30，对应捐出去多少钱。\n同时还可以向 英国通信管理局 OFCOM 投诉 giffgaff。"
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 471,
+          "impression_count": 52974,
+          "like_count": 458,
+          "quote_count": 9,
+          "reply_count": 66,
+          "retweet_count": 42
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081673065872973990",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "Giffgaff开始拒绝退款，并提供不退话费申请PAC码渠道，以供被封禁的gg用户转出号码\n卡里还有话费余额，退不掉的，可以捐出去发挥价值，直接从 gg 的话费余额扣，省得这笔钱烂在O2公司手里\n\n1. 捐给BBC Children in Need； https://t.co/BbX573eVz0 https://t.co/3VAqTJ3lqi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Girls Band | Game | Journey | Natural Science | Information Tech | Aerospace | Among Us | Magical Girl Witch Trials",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnVfQI"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2312,
+          "following_count": 3512,
+          "like_count": 54745,
+          "listed_count": 12,
+          "media_count": 426,
+          "tweet_count": 16817
+        },
+        "url": "https://t.co/ZXakBnVfQI",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi｜Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "location": "Xiamen, Fujian, PR. China",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2073749903319380427",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2037172678558425088/ZVuft4sK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 42764,
+          "following_count": 671,
+          "like_count": 20610,
+          "listed_count": 186,
+          "media_count": 2494,
+          "tweet_count": 17263
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true
+      }
+    ]
+  }
+}

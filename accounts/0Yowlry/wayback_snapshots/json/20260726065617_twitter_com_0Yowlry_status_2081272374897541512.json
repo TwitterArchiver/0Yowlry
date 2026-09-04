@@ -1,0 +1,172 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2081088685437595697",
+    "created_at": "2026-07-26T06:56:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-26T07:56:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081272374897541512"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1934297878115102720",
+          "start": 0,
+          "username": "MihariSuki"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081272374897541512",
+    "in_reply_to_user_id": "1934297878115102720",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081088685437595697",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MihariSuki 我喜欢小的（"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2081088685437595697].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2081088685437595697",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.twitter.com/2/problems/not-authorized-for-resource",
+      "value": "2081088685437595697"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2081088685437595697",
+        "created_at": "2026-07-26T06:56:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-26T07:56:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081272374897541512"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1934297878115102720",
+              "start": 0,
+              "username": "MihariSuki"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081272374897541512",
+        "in_reply_to_user_id": "1934297878115102720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081088685437595697",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MihariSuki 我喜欢小的（"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Girls Band | Game | Journey | Natural Science | Information Tech | Aerospace | Among Us | Magical Girl Witch Trials",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnVfQI"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "location": "Neoaurorium City",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2293,
+          "following_count": 3491,
+          "like_count": 52948,
+          "listed_count": 11,
+          "media_count": 407,
+          "tweet_count": 16305
+        },
+        "url": "https://t.co/ZXakBnVfQI",
+        "username": "0Yowlry",
+        "verified": false
+      },
+      {
+        "created_at": "2025-06-15T17:12:22.000Z",
+        "description": "中中之中就是老中里推的意思 老中下海了",
+        "id": "1934297878115102720",
+        "name": "中中之中",
+        "pinned_tweet_id": "2020741667943555417",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1934299026947735552/-Aml34fH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 122,
+          "following_count": 123,
+          "like_count": 3549,
+          "listed_count": 0,
+          "media_count": 75,
+          "tweet_count": 434
+        },
+        "url": "",
+        "username": "MihariSuki",
+        "verified": false
+      }
+    ]
+  }
+}

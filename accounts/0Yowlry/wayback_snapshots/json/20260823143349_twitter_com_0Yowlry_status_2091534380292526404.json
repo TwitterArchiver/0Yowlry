@@ -1,0 +1,396 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1983959394040922606",
+    "created_at": "2026-08-23T14:33:49.000Z",
+    "display_text_range": [
+      57,
+      59
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-23T15:33:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2091534380292526404"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1504799211799265282",
+          "start": 0,
+          "username": "LiuSuK7777"
+        },
+        {
+          "end": 22,
+          "id": "1955859743580545024",
+          "start": 12,
+          "username": "xiyingqwq"
+        },
+        {
+          "end": 39,
+          "id": "1711988080599789568",
+          "start": 23,
+          "username": "ShinozakiYuurei"
+        },
+        {
+          "end": 56,
+          "id": "1915099918189867008",
+          "start": 40,
+          "username": "0721SenrenBanka"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2091534380292526404",
+    "in_reply_to_user_id": "1504799211799265282",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1983959394040922606",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LiuSuK7777 @xiyingqwq @ShinozakiYuurei @0721SenrenBanka 妈妈"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [ShinozakiYuurei].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "ShinozakiYuurei",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "ShinozakiYuurei"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 811,
+        "media_key": "3_1983959381831249920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G4hwi9ra8AAW99S.png",
+        "width": 640
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1983959394040922606",
+        "created_at": "2026-08-23T14:33:49.000Z",
+        "display_text_range": [
+          57,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-23T15:33:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2091534380292526404"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1504799211799265282",
+              "start": 0,
+              "username": "LiuSuK7777"
+            },
+            {
+              "end": 22,
+              "id": "1955859743580545024",
+              "start": 12,
+              "username": "xiyingqwq"
+            },
+            {
+              "end": 39,
+              "id": "1711988080599789568",
+              "start": 23,
+              "username": "ShinozakiYuurei"
+            },
+            {
+              "end": 56,
+              "id": "1915099918189867008",
+              "start": 40,
+              "username": "0721SenrenBanka"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2091534380292526404",
+        "in_reply_to_user_id": "1504799211799265282",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1983959394040922606",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LiuSuK7777 @xiyingqwq @ShinozakiYuurei @0721SenrenBanka 妈妈"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1983959381831249920"
+          ]
+        },
+        "author_id": "1504799211799265282",
+        "conversation_id": "1983959394040922606",
+        "created_at": "2025-10-30T18:09:14.000Z",
+        "display_text_range": [
+          0,
+          135
+        ],
+        "edit_controls": {
+          "editable_until": "2025-10-30T19:09:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1983959394040922606"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 32,
+              "id": "1955859743580545024",
+              "start": 22,
+              "username": "xiyingqwq"
+            },
+            {
+              "end": 49,
+              "id": "1711988080599789568",
+              "start": 33,
+              "username": "ShinozakiYuurei"
+            },
+            {
+              "end": 93,
+              "id": "1915099918189867008",
+              "start": 77,
+              "username": "0721SenrenBanka"
+            },
+            {
+              "end": 107,
+              "id": "1521781722551103490",
+              "start": 94,
+              "username": "_XiaoYu_OvO_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "infintytweet.me/family-tree?la…",
+              "end": 135,
+              "expanded_url": "https://infintytweet.me/family-tree?lang=zh",
+              "start": 112,
+              "status": 200,
+              "unwound_url": "https://infintytweet.me/family-tree?lang=zh",
+              "url": "https://t.co/6rwlpZLiUA"
+            },
+            {
+              "display_url": "pic.x.com/TbV33loPZU",
+              "end": 159,
+              "expanded_url": "https://x.com/LiuSuK7777/status/1983959394040922606/photo/1",
+              "media_key": "3_1983959381831249920",
+              "start": 136,
+              "url": "https://t.co/TbV33loPZU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1983959394040922606",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_1983959381831249920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 988,
+          "like_count": 17,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "👨‍👩‍👧‍👦 我的推特家庭:\n👫 父母: @xiyingqwq @ShinozakiYuurei\n👰 配偶: @auroralia7777\n👶 孩子: @0721SenrenBanka @_XiaoYu_OvO_\n\n➡️ https://t.co/6rwlpZLiUA https://t.co/TbV33loPZU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n若有遺漏請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnUI1a"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2091534380292526404",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2525,
+          "following_count": 3797,
+          "like_count": 67977,
+          "listed_count": 12,
+          "media_count": 563,
+          "tweet_count": 20393
+        },
+        "url": "https://t.co/ZXakBnUI1a",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-03-18T12:37:55.000Z",
+        "description": "这里是流苏 现居杭州 生产日期🍰2008.02.29 舞萌/东方/Arcaea/明日方舟/三角洲/火影 q3860174763",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "error.com",
+                "end": 23,
+                "expanded_url": "http://error.com",
+                "start": 0,
+                "url": "https://t.co/bOY8ch0Z65"
+              }
+            ]
+          }
+        },
+        "id": "1504799211799265282",
+        "is_identity_verified": false,
+        "location": "error",
+        "most_recent_tweet_id": "2091525028521394344",
+        "name": "流苏",
+        "pinned_tweet_id": "2068533981818290551",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1504799211799265282/1760452671",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090620844435443712/QLml6REu_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3767,
+          "following_count": 2797,
+          "like_count": 34235,
+          "listed_count": 14,
+          "media_count": 1724,
+          "tweet_count": 35625
+        },
+        "url": "https://t.co/bOY8ch0Z65",
+        "username": "LiuSuK7777",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-14T05:11:25.000Z",
+        "description": "May the cold rain fall into your eyes.",
+        "id": "1955859743580545024",
+        "is_identity_verified": false,
+        "location": "云南awa",
+        "most_recent_tweet_id": "2090728343834669146",
+        "name": "落雨汐莺🍥",
+        "pinned_tweet_id": "1988693558266863727",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1955859743580545024/1755148613",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955861158222815234/DEU_zZ5I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31,
+          "following_count": 57,
+          "like_count": 1858,
+          "listed_count": 0,
+          "media_count": 5,
+          "tweet_count": 36
+        },
+        "url": "",
+        "username": "xiyingqwq",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-23T17:46:36.000Z",
+        "description": "🤓\n\n某人的小號",
+        "id": "1915099918189867008",
+        "is_identity_verified": false,
+        "location": "Pasir Ris",
+        "most_recent_tweet_id": "2091262502881640884",
+        "name": "叢雨",
+        "pinned_tweet_id": "1916927605779165208",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1915100316514619392/lpC36_36_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 620,
+          "following_count": 1060,
+          "like_count": 20382,
+          "listed_count": 3,
+          "media_count": 15,
+          "tweet_count": 4693
+        },
+        "url": "",
+        "username": "0721SenrenBanka",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

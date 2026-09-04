@@ -1,0 +1,998 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "card_uri": "https://t.co/tCCwPZknNx",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Elon Musk",
+          "id": "808713037230157824",
+          "name": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Leadership",
+          "id": "857878777191211008",
+          "name": "Leadership"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Elon Musk",
+          "id": "808713037230157824",
+          "name": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tech Professionals",
+          "id": "1091420346660470784",
+          "name": "Tech personalities"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166406108623163392",
+          "name": "Business personalities"
+        }
+      }
+    ],
+    "conversation_id": "2086918725979304390",
+    "created_at": "2026-08-11T07:38:05.000Z",
+    "display_text_range": [
+      15,
+      269
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-11T08:38:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2087081102867640662"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1965572243335053312",
+          "start": 0,
+          "username": "ashasw1919810"
+        },
+        {
+          "end": 28,
+          "id": "44196397",
+          "start": 19,
+          "username": "elonmusk"
+        },
+        {
+          "end": 31,
+          "id": "783214",
+          "start": 29,
+          "username": "X"
+        },
+        {
+          "end": 40,
+          "id": "17874544",
+          "start": 32,
+          "username": "Support"
+        },
+        {
+          "end": 52,
+          "id": "636513296",
+          "start": 41,
+          "username": "nikitabier"
+        }
+      ],
+      "urls": [
+        {
+          "description": "BBB helps consumers and businesses in the United States and Canada. Find trusted BBB Accredited Businesses. Get BBB Accredited. File a complaint, leave a review, report a scam.",
+          "display_url": "bbb.org",
+          "end": 101,
+          "expanded_url": "https://bbb.org",
+          "images": [
+            {
+              "height": 189,
+              "url": "https://pbs.twimg.com/news_img/2084819249382797312/x_d8kSau?format=png&name=orig",
+              "width": 300
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2084819249382797312/x_d8kSau?format=png&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 78,
+          "status": 200,
+          "title": "BBB | Better Business Bureau",
+          "unwound_url": "https://www.bbb.org/",
+          "url": "https://t.co/tCCwPZknNx"
+        },
+        {
+          "display_url": "reportfraud.ftc.gov",
+          "end": 125,
+          "expanded_url": "https://reportfraud.ftc.gov",
+          "start": 102,
+          "unwound_url": "https://reportfraud.ftc.gov",
+          "url": "https://t.co/emtLPcrkpU"
+        },
+        {
+          "description": "Find information and tools to submit a consumer complaint to the Consumer Financial Protection Bureau.",
+          "display_url": "consumerfinance.gov/complaint",
+          "end": 149,
+          "expanded_url": "https://consumerfinance.gov/complaint",
+          "start": 126,
+          "status": 200,
+          "title": "Submit a complaint | Consumer Financial Protection Bureau",
+          "unwound_url": "https://www.consumerfinance.gov/complaint/",
+          "url": "https://t.co/KQZIozyAdu"
+        },
+        {
+          "description": "How to complain about breaches of EU law and what procedures to follow.",
+          "display_url": "european-union.europa.eu/contact-eu/mak…",
+          "end": 173,
+          "expanded_url": "https://european-union.europa.eu/contact-eu/make-complaint_en",
+          "start": 150,
+          "status": 200,
+          "title": "Make a complaint | European Union",
+          "unwound_url": "https://european-union.europa.eu/contact-eu/make-complaint_en",
+          "url": "https://t.co/OI1EDAB0db"
+        },
+        {
+          "description": "If you are seeking emergency or crisis support, please go to our crisis support page. The following questions are important for us to understand how we can help. Is the issue you’re concerned about something that you can report to us?  While we don’t expect the public to know each article of the various laws […]",
+          "display_url": "cnam.ie/general-public…",
+          "end": 197,
+          "expanded_url": "https://cnam.ie/general-public/report-complain/something-i-saw-or-experienced-online/report-to-us/",
+          "images": [
+            {
+              "height": 499,
+              "url": "https://pbs.twimg.com/news_img/2085803073084297216/bfRUa5pD?format=jpg&name=orig",
+              "width": 699
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2085803073084297216/bfRUa5pD?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 174,
+          "status": 200,
+          "title": "Report to us - Coimisiún na Meán",
+          "unwound_url": "https://www.cnam.ie/general-public/report-complain/something-i-saw-or-experienced-online/report-to-us/",
+          "url": "https://t.co/ATN4Ak2O4L"
+        },
+        {
+          "description": "If you wish to raise a concern or lodge a complaint with the Data Protection Commission (DPC), you can go to the ‘Contact the DPC’ section of the DPC website and complete the webform in full. Alternatively, you can email the DPC at info@dataprotection.ie. You will need to clearly set out your data protection concern.",
+          "display_url": "dataprotection.ie/en/faqs/initia…",
+          "end": 221,
+          "expanded_url": "https://dataprotection.ie/en/faqs/initial-contact-dpc/making-complaint-dpc",
+          "images": [
+            {
+              "height": 135,
+              "url": "https://pbs.twimg.com/news_img/2085803506372689920/R47gEgVx?format=png&name=orig",
+              "width": 135
+            },
+            {
+              "height": 135,
+              "url": "https://pbs.twimg.com/news_img/2085803506372689920/R47gEgVx?format=png&name=150x150",
+              "width": 135
+            }
+          ],
+          "start": 198,
+          "status": 200,
+          "title": "Making a complaint with the DPC | Data Protection Commission",
+          "unwound_url": "https://dataprotection.ie/en/faqs/initial-contact-dpc/making-complaint-dpc",
+          "url": "https://t.co/w0LIIIGZzd"
+        },
+        {
+          "description": "We ensure that everyone in Europe benefits from equal data protection rights by providing clear guidance and consistent enforcement. Opinion of the Board (Art. 64) × When you visit our website, if you give your consent, we will use cookies to allow us to collect data for aggregated statistics to improve our services and remember your choice for future visits. If you don't want this, we will only use cookies to remember your choice for future visits (i.e., essential cookies). If you don't select any of",
+          "display_url": "edpb.europa.eu/home_en",
+          "end": 245,
+          "expanded_url": "https://edpb.europa.eu/home_en",
+          "images": [
+            {
+              "height": 683,
+              "url": "https://pbs.twimg.com/news_img/2085803087143534592/GBlzkrSe?format=jpg&name=orig",
+              "width": 1024
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2085803087143534592/GBlzkrSe?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 222,
+          "status": 200,
+          "title": "Home | European Data Protection Board",
+          "unwound_url": "https://www.edpb.europa.eu/home_en",
+          "url": "https://t.co/mPhVrqUrBx"
+        },
+        {
+          "description": "Do you have a question or complaint about a trader? Click your local ECC's contact card below and submit an enquiry via the national ECC's website. Please note: it may take a while before you get a reply because ECCs receive more cases than usual.",
+          "display_url": "eccnet.eu/contact-your-l…",
+          "end": 269,
+          "expanded_url": "https://eccnet.eu/contact-your-local-ecc",
+          "images": [
+            {
+              "height": 1354,
+              "url": "https://pbs.twimg.com/news_img/2085803552866525184/zdKhINZb?format=jpg&name=orig",
+              "width": 2286
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2085803552866525184/zdKhINZb?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 246,
+          "status": 200,
+          "title": "Contact Your Local ECC | European Consumer Centers Network",
+          "unwound_url": "https://www.eccnet.eu/contact-your-local-ecc",
+          "url": "https://t.co/WIsaKW4FUG"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2087081102867640662",
+    "in_reply_to_user_id": "1965572243335053312",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 1,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086918725979304390",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ashasw1919810 HII @elonmusk @X @Support @nikitabier \nWE WILL REPORT THIS TO \nhttps://t.co/tCCwPZknNx https://t.co/emtLPcrkpU https://t.co/KQZIozyAdu https://t.co/OI1EDAB0db https://t.co/ATN4Ak2O4L https://t.co/w0LIIIGZzd https://t.co/mPhVrqUrBx https://t.co/WIsaKW4FUG"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2086918714092584960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPY5g3SagAA9B79.jpg",
+        "width": 2399
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "card_uri": "https://t.co/tCCwPZknNx",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2086918725979304390",
+        "created_at": "2026-08-11T07:38:05.000Z",
+        "display_text_range": [
+          15,
+          269
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-11T08:38:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2087081102867640662"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1965572243335053312",
+              "start": 0,
+              "username": "ashasw1919810"
+            },
+            {
+              "end": 28,
+              "id": "44196397",
+              "start": 19,
+              "username": "elonmusk"
+            },
+            {
+              "end": 31,
+              "id": "783214",
+              "start": 29,
+              "username": "X"
+            },
+            {
+              "end": 40,
+              "id": "17874544",
+              "start": 32,
+              "username": "Support"
+            },
+            {
+              "end": 52,
+              "id": "636513296",
+              "start": 41,
+              "username": "nikitabier"
+            }
+          ],
+          "urls": [
+            {
+              "description": "BBB helps consumers and businesses in the United States and Canada. Find trusted BBB Accredited Businesses. Get BBB Accredited. File a complaint, leave a review, report a scam.",
+              "display_url": "bbb.org",
+              "end": 101,
+              "expanded_url": "https://bbb.org",
+              "images": [
+                {
+                  "height": 189,
+                  "url": "https://pbs.twimg.com/news_img/2084819249382797312/x_d8kSau?format=png&name=orig",
+                  "width": 300
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2084819249382797312/x_d8kSau?format=png&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 78,
+              "status": 200,
+              "title": "BBB | Better Business Bureau",
+              "unwound_url": "https://www.bbb.org/",
+              "url": "https://t.co/tCCwPZknNx"
+            },
+            {
+              "display_url": "reportfraud.ftc.gov",
+              "end": 125,
+              "expanded_url": "https://reportfraud.ftc.gov",
+              "start": 102,
+              "unwound_url": "https://reportfraud.ftc.gov",
+              "url": "https://t.co/emtLPcrkpU"
+            },
+            {
+              "description": "Find information and tools to submit a consumer complaint to the Consumer Financial Protection Bureau.",
+              "display_url": "consumerfinance.gov/complaint",
+              "end": 149,
+              "expanded_url": "https://consumerfinance.gov/complaint",
+              "start": 126,
+              "status": 200,
+              "title": "Submit a complaint | Consumer Financial Protection Bureau",
+              "unwound_url": "https://www.consumerfinance.gov/complaint/",
+              "url": "https://t.co/KQZIozyAdu"
+            },
+            {
+              "description": "How to complain about breaches of EU law and what procedures to follow.",
+              "display_url": "european-union.europa.eu/contact-eu/mak…",
+              "end": 173,
+              "expanded_url": "https://european-union.europa.eu/contact-eu/make-complaint_en",
+              "start": 150,
+              "status": 200,
+              "title": "Make a complaint | European Union",
+              "unwound_url": "https://european-union.europa.eu/contact-eu/make-complaint_en",
+              "url": "https://t.co/OI1EDAB0db"
+            },
+            {
+              "description": "If you are seeking emergency or crisis support, please go to our crisis support page. The following questions are important for us to understand how we can help. Is the issue you’re concerned about something that you can report to us?  While we don’t expect the public to know each article of the various laws […]",
+              "display_url": "cnam.ie/general-public…",
+              "end": 197,
+              "expanded_url": "https://cnam.ie/general-public/report-complain/something-i-saw-or-experienced-online/report-to-us/",
+              "images": [
+                {
+                  "height": 499,
+                  "url": "https://pbs.twimg.com/news_img/2085803073084297216/bfRUa5pD?format=jpg&name=orig",
+                  "width": 699
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2085803073084297216/bfRUa5pD?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 174,
+              "status": 200,
+              "title": "Report to us - Coimisiún na Meán",
+              "unwound_url": "https://www.cnam.ie/general-public/report-complain/something-i-saw-or-experienced-online/report-to-us/",
+              "url": "https://t.co/ATN4Ak2O4L"
+            },
+            {
+              "description": "If you wish to raise a concern or lodge a complaint with the Data Protection Commission (DPC), you can go to the ‘Contact the DPC’ section of the DPC website and complete the webform in full. Alternatively, you can email the DPC at info@dataprotection.ie. You will need to clearly set out your data protection concern.",
+              "display_url": "dataprotection.ie/en/faqs/initia…",
+              "end": 221,
+              "expanded_url": "https://dataprotection.ie/en/faqs/initial-contact-dpc/making-complaint-dpc",
+              "images": [
+                {
+                  "height": 135,
+                  "url": "https://pbs.twimg.com/news_img/2085803506372689920/R47gEgVx?format=png&name=orig",
+                  "width": 135
+                },
+                {
+                  "height": 135,
+                  "url": "https://pbs.twimg.com/news_img/2085803506372689920/R47gEgVx?format=png&name=150x150",
+                  "width": 135
+                }
+              ],
+              "start": 198,
+              "status": 200,
+              "title": "Making a complaint with the DPC | Data Protection Commission",
+              "unwound_url": "https://dataprotection.ie/en/faqs/initial-contact-dpc/making-complaint-dpc",
+              "url": "https://t.co/w0LIIIGZzd"
+            },
+            {
+              "description": "We ensure that everyone in Europe benefits from equal data protection rights by providing clear guidance and consistent enforcement. Opinion of the Board (Art. 64) × When you visit our website, if you give your consent, we will use cookies to allow us to collect data for aggregated statistics to improve our services and remember your choice for future visits. If you don't want this, we will only use cookies to remember your choice for future visits (i.e., essential cookies). If you don't select any of",
+              "display_url": "edpb.europa.eu/home_en",
+              "end": 245,
+              "expanded_url": "https://edpb.europa.eu/home_en",
+              "images": [
+                {
+                  "height": 683,
+                  "url": "https://pbs.twimg.com/news_img/2085803087143534592/GBlzkrSe?format=jpg&name=orig",
+                  "width": 1024
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2085803087143534592/GBlzkrSe?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 222,
+              "status": 200,
+              "title": "Home | European Data Protection Board",
+              "unwound_url": "https://www.edpb.europa.eu/home_en",
+              "url": "https://t.co/mPhVrqUrBx"
+            },
+            {
+              "description": "Do you have a question or complaint about a trader? Click your local ECC's contact card below and submit an enquiry via the national ECC's website. Please note: it may take a while before you get a reply because ECCs receive more cases than usual.",
+              "display_url": "eccnet.eu/contact-your-l…",
+              "end": 269,
+              "expanded_url": "https://eccnet.eu/contact-your-local-ecc",
+              "images": [
+                {
+                  "height": 1354,
+                  "url": "https://pbs.twimg.com/news_img/2085803552866525184/zdKhINZb?format=jpg&name=orig",
+                  "width": 2286
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2085803552866525184/zdKhINZb?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 246,
+              "status": 200,
+              "title": "Contact Your Local ECC | European Consumer Centers Network",
+              "unwound_url": "https://www.eccnet.eu/contact-your-local-ecc",
+              "url": "https://t.co/WIsaKW4FUG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2087081102867640662",
+        "in_reply_to_user_id": "1965572243335053312",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086918725979304390",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ashasw1919810 HII @elonmusk @X @Support @nikitabier \nWE WILL REPORT THIS TO \nhttps://t.co/tCCwPZknNx https://t.co/emtLPcrkpU https://t.co/KQZIozyAdu https://t.co/OI1EDAB0db https://t.co/ATN4Ak2O4L https://t.co/w0LIIIGZzd https://t.co/mPhVrqUrBx https://t.co/WIsaKW4FUG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086918714092584960"
+          ]
+        },
+        "author_id": "1965572243335053312",
+        "conversation_id": "2086918725979304390",
+        "created_at": "2026-08-10T20:52:52.000Z",
+        "display_text_range": [
+          0,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-10T21:52:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086918725979304390"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/bQEJmF1yOL",
+              "end": 49,
+              "expanded_url": "https://x.com/ashasw1919810/status/2086918725979304390/photo/1",
+              "media_key": "3_2086918714092584960",
+              "start": 26,
+              "url": "https://t.co/bQEJmF1yOL"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086918725979304390",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2086918714092584960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 648,
+          "like_count": 40,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大号估计没希望申诉回来了，把以前的老图重新发一下吧 https://t.co/bQEJmF1yOL"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime | Minecraft | Girls Band | Game | Journey | Natural Science | Information Tech | Aerospace | Among Us | Magical Girl Witch Trials\n\n若有遗漏的未回fo账户请评论或私信",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnUI1a"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2087081102867640662",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼",
+        "pinned_tweet_id": "2067658335088943417",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2382,
+          "following_count": 3630,
+          "like_count": 60696,
+          "listed_count": 11,
+          "media_count": 460,
+          "tweet_count": 18339
+        },
+        "url": "https://t.co/ZXakBnUI1a",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-10T00:25:35.000Z",
+        "description": "人生自古谁无死，遗憾地，此人无法再与您进行互动，，，    似掉的大号@ashasw114514",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 48,
+                "start": 35,
+                "username": "ashasw114514"
+              }
+            ]
+          }
+        },
+        "id": "1965572243335053312",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087080410807459872",
+        "name": "搞耍潮爹",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1965572243335053312/1786371212",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086817939937017856/bxU2mrBt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 439,
+          "following_count": 696,
+          "like_count": 695,
+          "listed_count": 3,
+          "media_count": 47,
+          "tweet_count": 327
+        },
+        "url": "",
+        "username": "ashasw1919810",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1955359038532653056/OSHY3ewP_bigger.jpg",
+          "description": "X",
+          "url": "https://twitter.com/X",
+          "user_id": [
+            "783214"
+          ]
+        },
+        "created_at": "2009-06-02T20:12:29.000Z",
+        "description": "https://t.co/ZdBx5WABYx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Terafab.AI",
+                "end": 23,
+                "expanded_url": "http://Terafab.AI",
+                "start": 0,
+                "url": "https://t.co/ZdBx5WABYx"
+              }
+            ]
+          }
+        },
+        "id": "44196397",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2087047112475197546",
+        "name": "Elon Musk",
+        "pinned_tweet_id": "2085377974396752305",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1774145451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2053244804520427520/m8mdWZCG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241242434,
+          "following_count": 1386,
+          "like_count": 243347,
+          "listed_count": 170266,
+          "media_count": 4697,
+          "tweet_count": 106924
+        },
+        "url": "",
+        "username": "elonmusk",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2007-02-20T14:35:54.000Z",
+        "description": "what's happening?!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "https://x.com",
+                "start": 0,
+                "url": "https://t.co/Xp0xJlcROt"
+              }
+            ]
+          }
+        },
+        "id": "783214",
+        "is_identity_verified": false,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2081809802515136887",
+        "name": "X",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1690175171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955359038532653056/OSHY3ewP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60773444,
+          "following_count": 1,
+          "like_count": 5976,
+          "listed_count": 85218,
+          "media_count": 2490,
+          "tweet_count": 15711
+        },
+        "url": "https://t.co/Xp0xJlcROt",
+        "username": "X",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1955359038532653056/OSHY3ewP_bigger.jpg",
+          "description": "X",
+          "url": "https://twitter.com/X",
+          "user_id": [
+            "783214"
+          ]
+        },
+        "created_at": "2008-12-04T18:51:57.000Z",
+        "description": "Official @X support account. Find answers to common questions and get help on our Help Center: https://t.co/EO1OOUj5T5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 9,
+                "username": "X"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "help.x.com",
+                "end": 118,
+                "expanded_url": "http://help.x.com",
+                "start": 95,
+                "url": "https://t.co/EO1OOUj5T5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "help.x.com",
+                "end": 23,
+                "expanded_url": "https://help.x.com",
+                "start": 0,
+                "url": "https://t.co/wzqJpIOEcM"
+              }
+            ]
+          }
+        },
+        "id": "17874544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "1912572496655892718",
+        "name": "Support",
+        "pinned_tweet_id": "1912572496655892718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17874544/1690214608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683508200069296129/KM80Wkfx_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 6351575,
+          "following_count": 3,
+          "like_count": 479,
+          "listed_count": 14541,
+          "media_count": 273,
+          "tweet_count": 84605
+        },
+        "url": "https://t.co/wzqJpIOEcM",
+        "username": "Support",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-07-15T22:44:07.000Z",
+        "description": "ex-head of product @x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 19,
+                "username": "x"
+              }
+            ]
+          }
+        },
+        "id": "636513296",
+        "is_identity_verified": false,
+        "location": "Palo Alto",
+        "most_recent_tweet_id": "2087035295074267470",
+        "name": "Nikita Bier",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/636513296/1777070372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1280462,
+          "following_count": 2057,
+          "like_count": 40026,
+          "listed_count": 6086,
+          "media_count": 1633,
+          "tweet_count": 11813
+        },
+        "url": "",
+        "username": "nikitabier",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
