@@ -1,0 +1,404 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2095811927184425260",
+    "created_at": "2026-09-04T19:31:29.000Z",
+    "display_text_range": [
+      14,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T20:31:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095957944601075807"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3032768018",
+          "start": 0,
+          "username": "Chiyorin0908"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095957944601075807",
+    "in_reply_to_user_id": "3032768018",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095811927184425260",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Chiyorin0908 标志😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 4096,
+        "media_key": "3_2095811918254731264",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRXR1eeacAAdYUd.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2095811918246354944",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRXR1ecaoAAf53a.jpg",
+        "width": 3072
+      },
+      {
+        "height": 1152,
+        "media_key": "3_2095811918271520768",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRXR1eiaoAACFl4.jpg",
+        "width": 1152
+      },
+      {
+        "height": 2283,
+        "media_key": "3_2095811918204379136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRXR1eSaIAA6YiQ.jpg",
+        "width": 1284
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2095811927184425260",
+        "created_at": "2026-09-04T19:31:29.000Z",
+        "display_text_range": [
+          14,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T20:31:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095957944601075807"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3032768018",
+              "start": 0,
+              "username": "Chiyorin0908"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095957944601075807",
+        "in_reply_to_user_id": "3032768018",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095811927184425260",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Chiyorin0908 标志😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095811918254731264",
+            "3_2095811918246354944",
+            "3_2095811918271520768",
+            "3_2095811918204379136"
+          ]
+        },
+        "author_id": "3032768018",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to education such as colleges, school material, schools",
+              "id": "1552291412820893697",
+              "name": "Education Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+              "id": "847546154439000064",
+              "name": "Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Graduate school",
+              "id": "852247095461371904",
+              "name": "Graduate school"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Education through the lens of those passionate about resources and news. This topic excludes Education policy and reform.",
+              "id": "847546154439000064",
+              "name": "Education"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Graduate school",
+              "id": "852247095461371904",
+              "name": "Graduate school"
+            }
+          }
+        ],
+        "conversation_id": "2095811927184425260",
+        "created_at": "2026-09-04T09:51:16.000Z",
+        "display_text_range": [
+          0,
+          153
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T10:51:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095811927184425260"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xI4IrCc3RH",
+              "end": 177,
+              "expanded_url": "https://x.com/Chiyorin0908/status/2095811927184425260/photo/1",
+              "media_key": "3_2095811918254731264",
+              "start": 154,
+              "url": "https://t.co/xI4IrCc3RH"
+            },
+            {
+              "display_url": "pic.x.com/xI4IrCc3RH",
+              "end": 177,
+              "expanded_url": "https://x.com/Chiyorin0908/status/2095811927184425260/photo/1",
+              "media_key": "3_2095811918246354944",
+              "start": 154,
+              "url": "https://t.co/xI4IrCc3RH"
+            },
+            {
+              "display_url": "pic.x.com/xI4IrCc3RH",
+              "end": 177,
+              "expanded_url": "https://x.com/Chiyorin0908/status/2095811927184425260/photo/1",
+              "media_key": "3_2095811918271520768",
+              "start": 154,
+              "url": "https://t.co/xI4IrCc3RH"
+            },
+            {
+              "display_url": "pic.x.com/xI4IrCc3RH",
+              "end": 177,
+              "expanded_url": "https://x.com/Chiyorin0908/status/2095811927184425260/photo/1",
+              "media_key": "3_2095811918204379136",
+              "start": 154,
+              "url": "https://t.co/xI4IrCc3RH"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095811927184425260",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2095811918254731264"
+          },
+          {
+            "media_key": "3_2095811918246354944"
+          },
+          {
+            "media_key": "3_2095811918271520768"
+          },
+          {
+            "media_key": "3_2095811918204379136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "写个新置顶挂在这里\n大家好呀这里是Chiyo\n02老东西 173/65生理心理性别男 取向双 平时是阴暗长发男\n是日留 修士就读中 IP东京 放假会回上海\n以前是键政批，天天输出政治相关和炒作狗内容引流，但是感觉很无聊，于是主播这边也是今年年初开始减肥20kg初见成效后也是开始穿上小裙子转型成好女孩推了哈\n邦多利大好き，爱素痴子，所以目前出的都是木柜子角色，虽然主播笨不会化妆所以平时拍的照片都是挡脸照，但是计划要开始学化妆，还有就是自己不是很会拍骚图家里没什么拍照条件所以自感拍的比较一般还请多见谅（\n玩尼龙但是玩得很渣，现在还没有什么精力和实力去补全完善造型，大佬可以来带带\n平时游戏会玩星铁、战雷还有钢4，CS和战地也打但是有段时间没碰过了\n铁道迷航空迷，经常可以在这个推里看到很多铁道和飞机的推文，平时没事就会出去坐电车，目前最大成就是买了一张青春18花了五天从稚内坐普通车纵贯日本到枕崎（hcm很闹麻\n很喜欢在日本各地旅游，不过通常喜欢一人游，如果和主播好感度足够也可以一起去游\n欢迎男娘同好来扩列贴贴，大家也可以加我的粉丝群，入群需填推特ID，同好可直接过，其他人需审核～\n也欢迎给主播打赏去买更多的衣服穿给大家看"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 29,
+          "impression_count": 11754,
+          "like_count": 271,
+          "quote_count": 3,
+          "reply_count": 112,
+          "retweet_count": 8
+        },
+        "reply_settings": "everyone",
+        "text": "写个新置顶挂在这里\n大家好呀这里是Chiyo\n02老东西 173/65生理心理性别男 取向双 平时是阴暗长发男\n是日留 修士就读中 IP东京 放假会回上海\n以前是键政批，天天输出政治相关和炒作狗内容引流，但是感觉很无聊，于是主播这边也是今年年初开始减肥20kg初见成效后也是开始穿上小裙子转型成好女孩推了哈 https://t.co/xI4IrCc3RH"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnUI1a"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2095957944601075807",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2579,
+          "following_count": 3863,
+          "like_count": 72881,
+          "listed_count": 12,
+          "media_count": 601,
+          "tweet_count": 21907
+        },
+        "url": "https://t.co/ZXakBnUI1a",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-02-20T12:27:32.000Z",
+        "description": "🇪🇺🇺🇦🇯🇵🇹🇼/上海｜東京/02/男/铁道/航空/Airsoft/摄影/BanG Dream/女装 早稲田大学 M1 同好扩列\n😘：@DurantRaym93677 ｜妈妈：@CnDiode\n里：@cccy0037 （🚪48.8",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 83,
+                "start": 67,
+                "username": "DurantRaym93677"
+              },
+              {
+                "end": 96,
+                "start": 88,
+                "username": "CnDiode"
+              },
+              {
+                "end": 108,
+                "start": 99,
+                "username": "cccy0037"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/+50DhiKY5l-s5N…",
+                "end": 23,
+                "expanded_url": "https://t.me/+50DhiKY5l-s5NDBl",
+                "start": 0,
+                "url": "https://t.co/Es5shIbjtN"
+              }
+            ]
+          }
+        },
+        "id": "3032768018",
+        "is_identity_verified": false,
+        "location": "埼玉県 所沢市",
+        "most_recent_tweet_id": "2095942963583172656",
+        "name": "千世Chiyo",
+        "pinned_tweet_id": "2095811927184425260",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3032768018/1784720508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071420961686208513/BNhEveFN_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3692,
+          "following_count": 1804,
+          "like_count": 9971,
+          "listed_count": 10,
+          "media_count": 1259,
+          "tweet_count": 5018
+        },
+        "url": "https://t.co/Es5shIbjtN",
+        "username": "Chiyorin0908",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

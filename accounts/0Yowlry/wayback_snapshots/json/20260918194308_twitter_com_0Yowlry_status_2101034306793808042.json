@@ -1,0 +1,428 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2100581023327363343",
+    "created_at": "2026-09-18T19:43:08.000Z",
+    "display_text_range": [
+      8,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T20:43:08.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101034306793808042"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "136215277",
+          "start": 0,
+          "username": "kaztsu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101034306793808042",
+    "in_reply_to_user_id": "136215277",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100581023327363343",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kaztsu 😋🥳"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2730,
+        "media_key": "3_2100581003815493632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSbDSypbIAAGiEP.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2730,
+        "media_key": "3_2100581003857391616",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSbDSyzacAA_TsH.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2730,
+        "media_key": "3_2100581003857428480",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSbDSyzbAAAS_Ho.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2000,
+        "media_key": "3_2100581003823923200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSbDSyrbwAAbKLM.jpg",
+        "width": 3000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2100581023327363343",
+        "created_at": "2026-09-18T19:43:08.000Z",
+        "display_text_range": [
+          8,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T20:43:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101034306793808042"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "136215277",
+              "start": 0,
+              "username": "kaztsu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101034306793808042",
+        "in_reply_to_user_id": "136215277",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100581023327363343",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kaztsu 😋🥳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100581003815493632",
+            "3_2100581003857391616",
+            "3_2100581003857428480",
+            "3_2100581003823923200"
+          ]
+        },
+        "author_id": "136215277",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          }
+        ],
+        "conversation_id": "2100581023327363343",
+        "created_at": "2026-09-17T13:41:57.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T14:41:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100581023327363343"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 17,
+              "start": 12,
+              "tag": "バンドリ"
+            },
+            {
+              "end": 23,
+              "start": 18,
+              "tag": "ゆめみた"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/ToAXrMphhW",
+              "end": 56,
+              "expanded_url": "https://x.com/kaztsu/status/2100581023327363343/photo/1",
+              "media_key": "3_2100581003815493632",
+              "start": 33,
+              "url": "https://t.co/ToAXrMphhW"
+            },
+            {
+              "display_url": "pic.x.com/ToAXrMphhW",
+              "end": 56,
+              "expanded_url": "https://x.com/kaztsu/status/2100581023327363343/photo/1",
+              "media_key": "3_2100581003857391616",
+              "start": 33,
+              "url": "https://t.co/ToAXrMphhW"
+            },
+            {
+              "display_url": "pic.x.com/ToAXrMphhW",
+              "end": 56,
+              "expanded_url": "https://x.com/kaztsu/status/2100581023327363343/photo/1",
+              "media_key": "3_2100581003857428480",
+              "start": 33,
+              "url": "https://t.co/ToAXrMphhW"
+            },
+            {
+              "display_url": "pic.x.com/ToAXrMphhW",
+              "end": 56,
+              "expanded_url": "https://x.com/kaztsu/status/2100581023327363343/photo/1",
+              "media_key": "3_2100581003823923200",
+              "start": 33,
+              "url": "https://t.co/ToAXrMphhW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100581023327363343",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100581003815493632"
+          },
+          {
+            "media_key": "3_2100581003857391616"
+          },
+          {
+            "media_key": "3_2100581003857428480"
+          },
+          {
+            "media_key": "3_2100581003823923200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 65,
+          "impression_count": 57798,
+          "like_count": 1324,
+          "quote_count": 34,
+          "reply_count": 2,
+          "retweet_count": 280
+        },
+        "reply_settings": "everyone",
+        "text": "BanG Dream! #バンドリ #ゆめみた × アトレ秋葉原 https://t.co/ToAXrMphhW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jUKIs"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2101034306793808042",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2642,
+          "following_count": 4070,
+          "like_count": 81948,
+          "listed_count": 12,
+          "media_count": 668,
+          "tweet_count": 23934
+        },
+        "url": "https://t.co/t6gS8jUKIs",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-04-23T09:36:45.000Z",
+        "description": "こんにちはアキハバラへようこそ",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kaztsu.com",
+                "end": 23,
+                "expanded_url": "https://kaztsu.com",
+                "start": 0,
+                "url": "https://t.co/8c6PBZUdvh"
+              }
+            ]
+          }
+        },
+        "id": "136215277",
+        "is_identity_verified": true,
+        "location": "千代田区外神田一丁目",
+        "most_recent_tweet_id": "2100871683599213047",
+        "name": "ﾂﾙﾐﾛﾎﾞ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/136215277/1420625970",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1163087377834762241/MfVqHyqj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 59036,
+          "following_count": 3,
+          "like_count": 1179,
+          "listed_count": 1009,
+          "media_count": 36238,
+          "tweet_count": 60592
+        },
+        "url": "https://t.co/8c6PBZUdvh",
+        "username": "kaztsu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

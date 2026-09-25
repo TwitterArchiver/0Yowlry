@@ -1,0 +1,408 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098752092378910720"
+      ],
+      "media_source_tweet_id": [
+        "2098752099106554086"
+      ]
+    },
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596740190208",
+          "name": "CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596144599042",
+          "name": "Snacks - CPG"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "Seventeen Ice (セブンティーンアイス)",
+          "id": "1123961096002424832",
+          "name": "Seventeen Ice (セブンティーンアイス)"
+        }
+      }
+    ],
+    "conversation_id": "2098828072846012567",
+    "created_at": "2026-09-12T17:36:21.000Z",
+    "display_text_range": [
+      0,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T18:36:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098828072846012567"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1967560683668783104",
+          "start": 3,
+          "username": "SHIRO_ebihurai"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/amgwxRXOtd",
+          "end": 61,
+          "expanded_url": "https://x.com/SHIRO_ebihurai/status/2098752099106554086/photo/1",
+          "media_key": "3_2098752092378910720",
+          "start": 38,
+          "url": "https://t.co/amgwxRXOtd"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098828072846012567",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2098752092378910720"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 33
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098752099106554086",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @SHIRO_ebihurai: あっちにセブンティーンアイスあるよ https://t.co/amgwxRXOtd"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1591,
+        "media_key": "3_2098752092378910720",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSBD6InaUAAw9ZP.jpg",
+        "width": 1410
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098752092378910720"
+          ],
+          "media_source_tweet_id": [
+            "2098752099106554086"
+          ]
+        },
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596144599042",
+              "name": "Snacks - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Seventeen Ice (セブンティーンアイス)",
+              "id": "1123961096002424832",
+              "name": "Seventeen Ice (セブンティーンアイス)"
+            }
+          }
+        ],
+        "conversation_id": "2098828072846012567",
+        "created_at": "2026-09-12T17:36:21.000Z",
+        "display_text_range": [
+          0,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T18:36:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098828072846012567"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1967560683668783104",
+              "start": 3,
+              "username": "SHIRO_ebihurai"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/amgwxRXOtd",
+              "end": 61,
+              "expanded_url": "https://x.com/SHIRO_ebihurai/status/2098752099106554086/photo/1",
+              "media_key": "3_2098752092378910720",
+              "start": 38,
+              "url": "https://t.co/amgwxRXOtd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098828072846012567",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2098752092378910720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 33
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098752099106554086",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @SHIRO_ebihurai: あっちにセブンティーンアイスあるよ https://t.co/amgwxRXOtd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098752092378910720"
+          ]
+        },
+        "author_id": "1967560683668783104",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596144599042",
+              "name": "Snacks - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "Seventeen Ice (セブンティーンアイス)",
+              "id": "1123961096002424832",
+              "name": "Seventeen Ice (セブンティーンアイス)"
+            }
+          }
+        ],
+        "conversation_id": "2098752099106554086",
+        "created_at": "2026-09-12T12:34:28.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T13:34:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098752099106554086"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/amgwxRXOtd",
+              "end": 41,
+              "expanded_url": "https://x.com/SHIRO_ebihurai/status/2098752099106554086/photo/1",
+              "media_key": "3_2098752092378910720",
+              "start": 18,
+              "url": "https://t.co/amgwxRXOtd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098752099106554086",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2098752092378910720"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 1464,
+          "like_count": 204,
+          "quote_count": 0,
+          "reply_count": 5,
+          "retweet_count": 33
+        },
+        "reply_settings": "everyone",
+        "text": "あっちにセブンティーンアイスあるよ https://t.co/amgwxRXOtd"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2098828072846012567",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2608,
+          "following_count": 4017,
+          "like_count": 78024,
+          "listed_count": 12,
+          "media_count": 644,
+          "tweet_count": 23098
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-09-15T12:07:24.000Z",
+        "description": "絵描いてます！　サブ→@ebiten_tentuyu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 26,
+                "start": 11,
+                "username": "ebiten_tentuyu"
+              }
+            ]
+          }
+        },
+        "id": "1967560683668783104",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098754737583841440",
+        "name": "シロ",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1967560683668783104/1768638335",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967567728316936192/puExTU5Q_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1139,
+          "following_count": 79,
+          "like_count": 2948,
+          "listed_count": 5,
+          "media_count": 173,
+          "tweet_count": 712
+        },
+        "url": "",
+        "username": "SHIRO_ebihurai",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

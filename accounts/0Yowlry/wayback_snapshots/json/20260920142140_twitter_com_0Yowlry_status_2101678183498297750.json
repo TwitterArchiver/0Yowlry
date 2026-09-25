@@ -1,0 +1,400 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1502408087914921989",
+    "created_at": "2026-09-20T14:21:40.000Z",
+    "display_text_range": [
+      13,
+      29
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T15:21:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101678183498297750"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1304333192372027392",
+          "start": 0,
+          "username": "knowmore_17"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101678183498297750",
+    "in_reply_to_user_id": "1304333192372027392",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1502415742842593282",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@knowmore_17 你学过物理学和地球科学和天文学吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 776,
+        "media_key": "3_1502415734839910402",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FNmnJpQXIAISllV.jpg",
+        "width": 749
+      },
+      {
+        "height": 776,
+        "media_key": "3_1502415734835720195",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FNmnJpPXMAMFfA9.jpg",
+        "width": 640
+      },
+      {
+        "height": 1334,
+        "media_key": "3_1502415734835752961",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FNmnJpPXsAEu2WK.jpg",
+        "width": 750
+      },
+      {
+        "height": 1334,
+        "media_key": "3_1502415735108288519",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FNmnJqQWQAcM-J7.jpg",
+        "width": 750
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1502408087914921989",
+        "created_at": "2026-09-20T14:21:40.000Z",
+        "display_text_range": [
+          13,
+          29
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T15:21:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101678183498297750"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1304333192372027392",
+              "start": 0,
+              "username": "knowmore_17"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101678183498297750",
+        "in_reply_to_user_id": "1304333192372027392",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1502415742842593282",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@knowmore_17 你学过物理学和地球科学和天文学吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1502415734839910402",
+            "3_1502415734835720195",
+            "3_1502415734835752961",
+            "3_1502415735108288519"
+          ]
+        },
+        "author_id": "1304333192372027392",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "-",
+              "id": "847868745150119936",
+              "name": "Entertainment industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Fitness",
+              "id": "872553326499422208",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Wellness & Health",
+              "id": "903303816698671104",
+              "name": "Wellness and health"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Physical Wellness",
+              "id": "918538775055048704",
+              "name": "Physical Wellness"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Handstands",
+              "id": "872573517132320768",
+              "name": "Handstands"
+            }
+          }
+        ],
+        "conversation_id": "1502408087914921989",
+        "created_at": "2022-03-11T22:46:41.000Z",
+        "display_text_range": [
+          0,
+          145
+        ],
+        "edit_controls": {
+          "editable_until": "2022-03-11T23:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1502415742842593282"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AFbXZQjKIF",
+              "end": 169,
+              "expanded_url": "https://x.com/knowmore_17/status/1502415742842593282/photo/1",
+              "media_key": "3_1502415734839910402",
+              "start": 146,
+              "url": "https://t.co/AFbXZQjKIF"
+            },
+            {
+              "display_url": "pic.x.com/AFbXZQjKIF",
+              "end": 169,
+              "expanded_url": "https://x.com/knowmore_17/status/1502415742842593282/photo/1",
+              "media_key": "3_1502415734835720195",
+              "start": 146,
+              "url": "https://t.co/AFbXZQjKIF"
+            },
+            {
+              "display_url": "pic.x.com/AFbXZQjKIF",
+              "end": 169,
+              "expanded_url": "https://x.com/knowmore_17/status/1502415742842593282/photo/1",
+              "media_key": "3_1502415734835752961",
+              "start": 146,
+              "url": "https://t.co/AFbXZQjKIF"
+            },
+            {
+              "display_url": "pic.x.com/AFbXZQjKIF",
+              "end": 169,
+              "expanded_url": "https://x.com/knowmore_17/status/1502415742842593282/photo/1",
+              "media_key": "3_1502415735108288519",
+              "start": 146,
+              "url": "https://t.co/AFbXZQjKIF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1502415742842593282",
+        "in_reply_to_user_id": "1304333192372027392",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_1502415734839910402"
+          },
+          {
+            "media_key": "3_1502415734835720195"
+          },
+          {
+            "media_key": "3_1502415734835752961"
+          },
+          {
+            "media_key": "3_1502415735108288519"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 0,
+          "like_count": 12,
+          "quote_count": 13,
+          "reply_count": 7,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1502411561540980744",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "4、如果地面是个球，就有多少个城市是倒立的...例如澳洲、新西兰，全部都是倒立的....在那边生活的人nb大发了，天天倒立却什么感觉没有，脸不红头不晕的👍\n巴西4⃣️位于垂直地方，那里的人还悬空站着呢🤣🤣🤣\n\n有时候在想学校洗脑算不算成功呢？让人坚定不移相信是个球，却又不知自己是站在球上😂 https://t.co/AFbXZQjKIF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2101678183498297750",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2648,
+          "following_count": 4087,
+          "like_count": 82831,
+          "listed_count": 12,
+          "media_count": 671,
+          "tweet_count": 24198
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-11T08:17:38.000Z",
+        "description": "happy & free",
+        "id": "1304333192372027392",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "1832127390958678041",
+        "name": "可以知道更多",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1304333192372027392/1603187232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1565796566547456001/SSeARb2h_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17774,
+          "following_count": 323,
+          "like_count": 745,
+          "listed_count": 66,
+          "media_count": 3851,
+          "tweet_count": 4741
+        },
+        "url": "",
+        "username": "knowmore_17",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

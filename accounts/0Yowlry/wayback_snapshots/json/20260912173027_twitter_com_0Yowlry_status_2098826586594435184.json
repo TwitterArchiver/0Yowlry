@@ -1,0 +1,545 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Yokohama",
+          "id": "1009174794506399744",
+          "name": "Yokohama"
+        }
+      },
+      {
+        "domain": {
+          "description": "Cities around the world",
+          "id": "156",
+          "name": "Cities"
+        },
+        "entity": {
+          "description": "Osaka",
+          "id": "859408738544791552",
+          "name": "Osaka"
+        }
+      }
+    ],
+    "conversation_id": "2098826586594435184",
+    "created_at": "2026-09-12T17:30:27.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T18:30:27.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098826586594435184"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "735474554533908481",
+          "start": 3,
+          "username": "mikusymphony"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "t.co/itmxYSC",
+          "end": 139,
+          "start": 119,
+          "url": "https://t.co/itmxYSC"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098826586594435184",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1095
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098577513928962353",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @mikusymphony: 初音ミクシンフォニー🎻2026-2027\nMelodies on the Keys🎹\n横浜、大阪公演メインビジュアル6キャラクター初公開‼︎\n\nArt by 泉彩 \n\nチケット一般発売中🎫（先着受付）\nhttps://t.co/itmxYSC…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1446,
+        "media_key": "3_2098577510271479808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR-lIHla8AAIy1i.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Yokohama",
+              "id": "1009174794506399744",
+              "name": "Yokohama"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "2098826586594435184",
+        "created_at": "2026-09-12T17:30:27.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T18:30:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098826586594435184"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "735474554533908481",
+              "start": 3,
+              "username": "mikusymphony"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "t.co/itmxYSC",
+              "end": 139,
+              "start": 119,
+              "url": "https://t.co/itmxYSC"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098826586594435184",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1095
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098577513928962353",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @mikusymphony: 初音ミクシンフォニー🎻2026-2027\nMelodies on the Keys🎹\n横浜、大阪公演メインビジュアル6キャラクター初公開‼︎\n\nArt by 泉彩 \n\nチケット一般発売中🎫（先着受付）\nhttps://t.co/itmxYSC…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098577510271479808"
+          ]
+        },
+        "author_id": "735474554533908481",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Yokohama",
+              "id": "1009174794506399744",
+              "name": "Yokohama"
+            }
+          },
+          {
+            "domain": {
+              "description": "Cities around the world",
+              "id": "156",
+              "name": "Cities"
+            },
+            "entity": {
+              "description": "Osaka",
+              "id": "859408738544791552",
+              "name": "Osaka"
+            }
+          }
+        ],
+        "conversation_id": "2098577513928962353",
+        "created_at": "2026-09-12T01:00:43.000Z",
+        "display_text_range": [
+          0,
+          153
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T02:00:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098577513928962353"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 153,
+              "start": 142,
+              "tag": "初音ミクシンフォニー"
+            }
+          ],
+          "urls": [
+            {
+              "description": "バーチャルシンガー楽曲をフルオーケストラで美しく奏でるコンサート",
+              "display_url": "sp.wmg.jp/mikusymphony/",
+              "end": 124,
+              "expanded_url": "https://sp.wmg.jp/mikusymphony/",
+              "images": [
+                {
+                  "height": 1080,
+                  "url": "https://pbs.twimg.com/news_img/2098343622928433152/l5BXHhku?format=jpg&name=orig",
+                  "width": 1920
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2098343622928433152/l5BXHhku?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 101,
+              "status": 200,
+              "title": "初音ミクシンフォニー",
+              "unwound_url": "https://sp.wmg.jp/mikusymphony/",
+              "url": "https://t.co/itmxYSCEZ1"
+            },
+            {
+              "display_url": "pic.x.com/sCkLS2tFJF",
+              "end": 177,
+              "expanded_url": "https://x.com/mikusymphony/status/2098577513928962353/photo/1",
+              "media_key": "3_2098577510271479808",
+              "start": 154,
+              "url": "https://t.co/sCkLS2tFJF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098577513928962353",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2098577510271479808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 424,
+          "impression_count": 297544,
+          "like_count": 4685,
+          "quote_count": 254,
+          "reply_count": 1,
+          "retweet_count": 1095
+        },
+        "reply_settings": "everyone",
+        "text": "初音ミクシンフォニー🎻2026-2027\nMelodies on the Keys🎹\n横浜、大阪公演メインビジュアル6キャラクター初公開‼︎\n\nArt by 泉彩 \n\nチケット一般発売中🎫（先着受付）\nhttps://t.co/itmxYSCEZ1\n\nゲストピアニスト🎹\nまらしぃ\n\n#初音ミクシンフォニー https://t.co/sCkLS2tFJF"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2098826586594435184",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2608,
+          "following_count": 4017,
+          "like_count": 77996,
+          "listed_count": 12,
+          "media_count": 644,
+          "tweet_count": 23093
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-05-25T14:16:13.000Z",
+        "description": "バーチャルシンガー楽曲をフルオーケストラで美しく奏でるコンサート🎻    初音ミクシンフォニー2026-2027 Melodies on the Keys\nゲストピアニスト：まらしぃ🎹 横浜、大阪公演チケット先行受付中\nhttps://t.co/yJJ5c9rUm8 #初音ミクシンフォニー",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 145,
+                "start": 134,
+                "tag": "初音ミクシンフォニー"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "l-tike.com/mikusymphony20…",
+                "end": 133,
+                "expanded_url": "https://l-tike.com/mikusymphony2026/",
+                "start": 110,
+                "url": "https://t.co/yJJ5c9rUm8"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "sp.wmg.jp/mikusymphony/",
+                "end": 23,
+                "expanded_url": "https://sp.wmg.jp/mikusymphony/",
+                "start": 0,
+                "url": "https://t.co/D5wKIWlVhG"
+              }
+            ]
+          }
+        },
+        "id": "735474554533908481",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098578990391054699",
+        "name": "初音ミクシンフォニー公式🎻",
+        "pinned_tweet_id": "2098577513928962353",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/735474554533908481/1777935321",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1243099131570077696/Bsm9hCck_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 76408,
+          "following_count": 385,
+          "like_count": 1522,
+          "listed_count": 487,
+          "media_count": 1065,
+          "tweet_count": 2924
+        },
+        "url": "https://t.co/D5wKIWlVhG",
+        "username": "mikusymphony",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

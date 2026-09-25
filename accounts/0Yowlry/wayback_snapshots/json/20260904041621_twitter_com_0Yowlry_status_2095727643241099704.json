@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "description": "this entity for all conversations for Easter all year ",
+          "id": "1372917575357591554",
+          "name": "Easter"
+        }
+      },
+      {
+        "domain": {
+          "description": "Holidays like Christmas or Halloween",
+          "id": "119",
+          "name": "Holiday"
+        },
+        "entity": {
+          "description": "this entity for all conversations for Easter all year ",
+          "id": "1372917575357591554",
+          "name": "Easter"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "this entity for all conversations for Easter all year ",
+          "id": "1372917575357591554",
+          "name": "Easter"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      },
+      {
+        "domain": {
+          "description": "Video Game Hardware",
+          "id": "79",
+          "name": "Video Game Hardware"
+        },
+        "entity": {
+          "id": "10041873021",
+          "name": "NVIDIA"
+        }
+      }
+    ],
+    "conversation_id": "2095727643241099704",
+    "created_at": "2026-09-04T04:16:21.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T05:16:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095727643241099704"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1261335549215989760",
+          "start": 3,
+          "username": "Polymarket"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095727643241099704",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 104
+    },
+    "referenced_tweets": [
+      {
+        "id": "2095646821485842805",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Polymarket: BREAKING: It’s been revealed NVIDIA's $12,930,300,000.00 acquisition of Hugging Face contains an easter egg.\n\nThe first 6 n…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "this entity for all conversations for Easter all year ",
+              "id": "1372917575357591554",
+              "name": "Easter"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "this entity for all conversations for Easter all year ",
+              "id": "1372917575357591554",
+              "name": "Easter"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "this entity for all conversations for Easter all year ",
+              "id": "1372917575357591554",
+              "name": "Easter"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          }
+        ],
+        "conversation_id": "2095727643241099704",
+        "created_at": "2026-09-04T04:16:21.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T05:16:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095727643241099704"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1261335549215989760",
+              "start": 3,
+              "username": "Polymarket"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095727643241099704",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 104
+        },
+        "referenced_tweets": [
+          {
+            "id": "2095646821485842805",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Polymarket: BREAKING: It’s been revealed NVIDIA's $12,930,300,000.00 acquisition of Hugging Face contains an easter egg.\n\nThe first 6 n…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1261335549215989760",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "this entity for all conversations for Easter all year ",
+              "id": "1372917575357591554",
+              "name": "Easter"
+            }
+          },
+          {
+            "domain": {
+              "description": "Holidays like Christmas or Halloween",
+              "id": "119",
+              "name": "Holiday"
+            },
+            "entity": {
+              "description": "this entity for all conversations for Easter all year ",
+              "id": "1372917575357591554",
+              "name": "Easter"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "this entity for all conversations for Easter all year ",
+              "id": "1372917575357591554",
+              "name": "Easter"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "10041873021",
+              "name": "NVIDIA"
+            }
+          }
+        ],
+        "conversation_id": "2095646821485842805",
+        "created_at": "2026-09-03T22:55:12.000Z",
+        "display_text_range": [
+          0,
+          231
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-03T23:55:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095646821485842805"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2095646821485842805",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 140,
+          "impression_count": 1446926,
+          "like_count": 4511,
+          "quote_count": 54,
+          "reply_count": 66,
+          "retweet_count": 104
+        },
+        "reply_settings": "everyone",
+        "text": "BREAKING: It’s been revealed NVIDIA's $12,930,300,000.00 acquisition of Hugging Face contains an easter egg.\n\nThe first 6 numbers of the acquisition price represent the decimal conversion of Unicode character U+1F917.\n\nThe 🤗 emoji."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnUI1a"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2095727643241099704",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2570,
+          "following_count": 3851,
+          "like_count": 72138,
+          "listed_count": 12,
+          "media_count": 599,
+          "tweet_count": 21698
+        },
+        "url": "https://t.co/ZXakBnUI1a",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-15T16:40:13.000Z",
+        "description": "The World's Largest Prediction Market. Trade politics, news, crypto, culture, sports, tech, & more.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "polymarket.us",
+                "end": 23,
+                "expanded_url": "https://polymarket.us/",
+                "start": 0,
+                "url": "https://t.co/63F3XU0D44"
+              }
+            ]
+          }
+        },
+        "id": "1261335549215989760",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095713964382462229",
+        "name": "Polymarket",
+        "pinned_tweet_id": "2095530373274816595",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1261335549215989760/1773844633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005664281002491904/bz2ZO_nU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1922295,
+          "following_count": 5621,
+          "like_count": 92247,
+          "listed_count": 7009,
+          "media_count": 6055,
+          "tweet_count": 38759
+        },
+        "url": "https://t.co/63F3XU0D44",
+        "username": "Polymarket",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

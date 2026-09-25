@@ -1,0 +1,393 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027474933",
+          "name": "Yahoo!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027474933",
+          "name": "Yahoo!"
+        }
+      }
+    ],
+    "conversation_id": "1802804290412527622",
+    "created_at": "2026-09-07T19:04:21.000Z",
+    "display_text_range": [
+      18,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T20:04:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097038280714060258"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "14870662",
+          "start": 0,
+          "username": "yahoomail"
+        },
+        {
+          "end": 17,
+          "id": "19380829",
+          "start": 11,
+          "username": "Yahoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097038280714060258",
+    "in_reply_to_user_id": "14870662",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1802804290412527622",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yahoomail @Yahoo FUCK YOU!"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027474933",
+              "name": "Yahoo!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027474933",
+              "name": "Yahoo!"
+            }
+          }
+        ],
+        "conversation_id": "1802804290412527622",
+        "created_at": "2026-09-07T19:04:21.000Z",
+        "display_text_range": [
+          18,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T20:04:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097038280714060258"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "14870662",
+              "start": 0,
+              "username": "yahoomail"
+            },
+            {
+              "end": 17,
+              "id": "19380829",
+              "start": 11,
+              "username": "Yahoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097038280714060258",
+        "in_reply_to_user_id": "14870662",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1802804290412527622",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yahoomail @Yahoo FUCK YOU!"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "14870662",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027474933",
+              "name": "Yahoo!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027474933",
+              "name": "Yahoo!"
+            }
+          }
+        ],
+        "conversation_id": "1802804290412527622",
+        "created_at": "2024-06-17T20:43:31.000Z",
+        "display_text_range": [
+          0,
+          253
+        ],
+        "edit_controls": {
+          "editable_until": "2024-06-17T21:43:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1802804290412527622"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 218,
+              "id": "19380829",
+              "start": 212,
+              "username": "Yahoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1802804290412527622",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 12,
+          "impression_count": 33734,
+          "like_count": 19,
+          "quote_count": 3,
+          "reply_count": 215,
+          "retweet_count": 10
+        },
+        "reply_settings": "everyone",
+        "text": "Now smarter, cleaner, and simpler - the redesigned Mail desktop experience helps you stay organized and makes everyday life easier.\n\n&amp; heads up that we are moving Yahoo product updates into one place. Follow @yahoo for future news, tips and content."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnUI1a"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2097038280714060258",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2600,
+          "following_count": 3958,
+          "like_count": 74980,
+          "listed_count": 12,
+          "media_count": 607,
+          "tweet_count": 22423
+        },
+        "url": "https://t.co/ZXakBnUI1a",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2008-05-22T17:05:37.000Z",
+        "description": "Your shortcut to more time",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yhoo.it/2m0nUjC",
+                "end": 23,
+                "expanded_url": "http://yhoo.it/2m0nUjC",
+                "start": 0,
+                "url": "https://t.co/ML4g4yRDov"
+              }
+            ]
+          }
+        },
+        "id": "14870662",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096749809801519166",
+        "name": "Yahoo Mail",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/14870662/1569241413",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1176109846237630464/kmg2lI-1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 61389,
+          "following_count": 4558,
+          "like_count": 1362,
+          "listed_count": 513,
+          "media_count": 856,
+          "tweet_count": 10671
+        },
+        "url": "https://t.co/ML4g4yRDov",
+        "username": "yahoomail",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-01-23T04:14:41.000Z",
+        "description": "Yahootin’ and hollerin’",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yahoo.com",
+                "end": 23,
+                "expanded_url": "http://www.yahoo.com",
+                "start": 0,
+                "url": "https://t.co/kirdY2yYED"
+              }
+            ]
+          }
+        },
+        "id": "19380829",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "1933193096658915561",
+        "name": "Yahoo",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19380829/1739809985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891526243515863040/Dre72Zgf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060428,
+          "following_count": 6995,
+          "like_count": 2643,
+          "listed_count": 7753,
+          "media_count": 32016,
+          "tweet_count": 120230
+        },
+        "url": "https://t.co/kirdY2yYED",
+        "username": "Yahoo",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

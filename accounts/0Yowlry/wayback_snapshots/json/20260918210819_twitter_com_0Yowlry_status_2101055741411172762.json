@@ -1,0 +1,450 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Japanese actress, voice actress and singer",
+          "id": "1070715916969664519",
+          "name": "Haruna Ikezawa"
+        }
+      },
+      {
+        "domain": {
+          "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+          "id": "56",
+          "name": "Actor"
+        },
+        "entity": {
+          "description": "Japanese actress, voice actress and singer",
+          "id": "1070715916969664519",
+          "name": "Haruna Ikezawa"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Japanese actress, voice actress and singer",
+          "id": "1070715916969664519",
+          "name": "Haruna Ikezawa"
+        }
+      }
+    ],
+    "conversation_id": "2099815509214847224",
+    "created_at": "2026-09-18T21:08:19.000Z",
+    "display_text_range": [
+      9,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T22:08:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101055741411172762"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "52241895",
+          "start": 0,
+          "username": "haluna7"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101055741411172762",
+    "in_reply_to_user_id": "52241895",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099815509214847224",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@haluna7 🥰🥰🥰😽😽😽"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese actress, voice actress and singer",
+              "id": "1070715916969664519",
+              "name": "Haruna Ikezawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese actress, voice actress and singer",
+              "id": "1070715916969664519",
+              "name": "Haruna Ikezawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese actress, voice actress and singer",
+              "id": "1070715916969664519",
+              "name": "Haruna Ikezawa"
+            }
+          }
+        ],
+        "conversation_id": "2099815509214847224",
+        "created_at": "2026-09-18T21:08:19.000Z",
+        "display_text_range": [
+          9,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T22:08:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101055741411172762"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "52241895",
+              "start": 0,
+              "username": "haluna7"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101055741411172762",
+        "in_reply_to_user_id": "52241895",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099815509214847224",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@haluna7 🥰🥰🥰😽😽😽"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "52241895",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese actress, voice actress and singer",
+              "id": "1070715916969664519",
+              "name": "Haruna Ikezawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596740190208",
+              "name": "CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596656304128",
+              "name": "Beverage - CPG"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "カルピス",
+              "id": "10049021562",
+              "name": "Calpis (カルピス)"
+            }
+          },
+          {
+            "domain": {
+              "description": "An actor or actress in the world, like Kate Winslet or Leonardo DiCaprio",
+              "id": "56",
+              "name": "Actor"
+            },
+            "entity": {
+              "description": "Japanese actress, voice actress and singer",
+              "id": "1070715916969664519",
+              "name": "Haruna Ikezawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Soda",
+              "id": "850143755873140737",
+              "name": "Soda"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "カルピス",
+              "id": "10049021562",
+              "name": "Calpis (カルピス)"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese actress, voice actress and singer",
+              "id": "1070715916969664519",
+              "name": "Haruna Ikezawa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1357835469099134977",
+              "name": "English language learning"
+            }
+          }
+        ],
+        "conversation_id": "2099815509214847224",
+        "created_at": "2026-09-15T11:00:04.000Z",
+        "display_text_range": [
+          0,
+          141
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T12:00:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099815509214847224"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2099815509214847224",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2028,
+          "impression_count": 4624577,
+          "like_count": 54380,
+          "quote_count": 144,
+          "reply_count": 928,
+          "retweet_count": 1907
+        },
+        "reply_settings": "everyone",
+        "text": "電車の中で女子がばたん！と倒れたので、光の速さで支えに駆け寄った\n貧血っぽい\n中国の学生さんで、まだ言葉がおぼつかない。英語もあまり。わたしの片言の中国語と、AIさんに手伝ってもらって、安心させつつ、次の駅で降りて、駅員さんの控室に\nとりあえず糖分だ！と桃カルピスを買って渡しました"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jUKIs"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2101055741411172762",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2642,
+          "following_count": 4071,
+          "like_count": 82003,
+          "listed_count": 12,
+          "media_count": 668,
+          "tweet_count": 23950
+        },
+        "url": "https://t.co/t6gS8jUKIs",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-06-30T00:20:45.000Z",
+        "description": "池澤春菜:読書、海外SFとFTを偏愛。黒パグクーちゃんを溺愛。台湾と中国茶に片思い、きのこまみれ。料理とガンプラ、作るもの全般。趣味だらけの人生を謳歌中。【@のRT不可の場合は一言お書き添え下さい】",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "across-ent.com/talent/women/h…",
+                "end": 23,
+                "expanded_url": "http://across-ent.com/talent/women/haruna_ikezawa.html",
+                "start": 0,
+                "url": "https://t.co/5s3Q48sxeA"
+              }
+            ]
+          }
+        },
+        "id": "52241895",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100919121538146330",
+        "name": "池澤春菜",
+        "pinned_tweet_id": "2039493720543015384",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/52241895/1712911172",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/544677259571757058/sYHaCnJg_normal.jpeg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 80094,
+          "following_count": 690,
+          "like_count": 828,
+          "listed_count": 4194,
+          "media_count": 8970,
+          "tweet_count": 80889
+        },
+        "url": "https://t.co/5s3Q48sxeA",
+        "username": "haluna7",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

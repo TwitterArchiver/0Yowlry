@@ -1,0 +1,245 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2096021929647808551",
+    "created_at": "2026-09-06T07:05:54.000Z",
+    "display_text_range": [
+      24,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T08:05:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096495088709107791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1263250188757426176",
+          "start": 0,
+          "username": "yunyunyunnya"
+        },
+        {
+          "end": 23,
+          "id": "1227603655903399936",
+          "start": 14,
+          "username": "K66cheng"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096495088709107791",
+    "in_reply_to_user_id": "1263250188757426176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096024514685763754",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@yunyunyunnya @K66cheng 你猜为什么青衫湿了🥵🥵🥵"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2096024514685763754].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2096024514685763754",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2096024514685763754"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2096021929647808551",
+        "created_at": "2026-09-06T07:05:54.000Z",
+        "display_text_range": [
+          24,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T08:05:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096495088709107791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1263250188757426176",
+              "start": 0,
+              "username": "yunyunyunnya"
+            },
+            {
+              "end": 23,
+              "id": "1227603655903399936",
+              "start": 14,
+              "username": "K66cheng"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096495088709107791",
+        "in_reply_to_user_id": "1263250188757426176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096024514685763754",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@yunyunyunnya @K66cheng 你猜为什么青衫湿了🥵🥵🥵"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnUI1a"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2096495088709107791",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2591,
+          "following_count": 3879,
+          "like_count": 73753,
+          "listed_count": 12,
+          "media_count": 605,
+          "tweet_count": 22092
+        },
+        "url": "https://t.co/ZXakBnUI1a",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-20T23:28:22.000Z",
+        "description": "😺",
+        "id": "1263250188757426176",
+        "is_identity_verified": false,
+        "location": "有鲨鲨枕头酱和很多玩偶的地方",
+        "most_recent_tweet_id": "2060666855715672556",
+        "name": "口腔溃疡！！！！！！",
+        "pinned_tweet_id": "2037079005460127859",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1263250188757426176/1743599290",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2079902228031340544/ms-bru8q_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1045,
+          "following_count": 1606,
+          "like_count": 173745,
+          "listed_count": 5,
+          "media_count": 996,
+          "tweet_count": 12716
+        },
+        "url": "",
+        "username": "yunyunyunnya",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2020-02-12T14:42:44.000Z",
+        "description": "伪物空城｜含糖MTX天残党｜厨娘女仆 | \nINTJ-T｜迪迪@BaitangToubao｜皮肤饥渴症终末期患者快和我贴贴｜缺爱｜喵喵｜",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 45,
+                "start": 31,
+                "username": "BaitangToubao"
+              }
+            ]
+          }
+        },
+        "id": "1227603655903399936",
+        "is_identity_verified": false,
+        "location": "北京",
+        "most_recent_tweet_id": "2096437399886983217",
+        "name": "蓝粉白糖🏳️‍⚧️🏳️‍🌈",
+        "pinned_tweet_id": "1892567203943252339",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1227603655903399936/1632565817",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1297561582734467072/wWXPtOUY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 6441,
+          "following_count": 4280,
+          "like_count": 28581,
+          "listed_count": 27,
+          "media_count": 1366,
+          "tweet_count": 18755
+        },
+        "url": "",
+        "username": "K66cheng",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

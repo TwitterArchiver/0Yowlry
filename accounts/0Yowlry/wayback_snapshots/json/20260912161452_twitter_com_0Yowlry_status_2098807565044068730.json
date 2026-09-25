@@ -1,0 +1,600 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098732568678133760",
+        "3_2098732568682315776",
+        "3_2098732568682340352",
+        "3_2098732568673939456"
+      ],
+      "media_source_tweet_id": [
+        "2098732574340444632",
+        "2098732574340444632",
+        "2098732574340444632",
+        "2098732574340444632"
+      ]
+    },
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2098807565044068730",
+    "created_at": "2026-09-12T16:14:52.000Z",
+    "display_text_range": [
+      0,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T17:14:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098807565044068730"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 19,
+          "start": 14,
+          "tag": "初音ミク"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1611758905042022400",
+          "start": 3,
+          "username": "not__sin"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/Q6Ha3SoO3b",
+          "end": 46,
+          "expanded_url": "https://x.com/not__sin/status/2098732574340444632/photo/1",
+          "media_key": "3_2098732568678133760",
+          "start": 23,
+          "url": "https://t.co/Q6Ha3SoO3b"
+        },
+        {
+          "display_url": "pic.x.com/Q6Ha3SoO3b",
+          "end": 46,
+          "expanded_url": "https://x.com/not__sin/status/2098732574340444632/photo/1",
+          "media_key": "3_2098732568682315776",
+          "start": 23,
+          "url": "https://t.co/Q6Ha3SoO3b"
+        },
+        {
+          "display_url": "pic.x.com/Q6Ha3SoO3b",
+          "end": 46,
+          "expanded_url": "https://x.com/not__sin/status/2098732574340444632/photo/1",
+          "media_key": "3_2098732568682340352",
+          "start": 23,
+          "url": "https://t.co/Q6Ha3SoO3b"
+        },
+        {
+          "display_url": "pic.x.com/Q6Ha3SoO3b",
+          "end": 46,
+          "expanded_url": "https://x.com/not__sin/status/2098732574340444632/photo/1",
+          "media_key": "3_2098732568673939456",
+          "start": 23,
+          "url": "https://t.co/Q6Ha3SoO3b"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098807565044068730",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2098732568678133760"
+      },
+      {
+        "media_key": "3_2098732568682315776"
+      },
+      {
+        "media_key": "3_2098732568682340352"
+      },
+      {
+        "media_key": "3_2098732568673939456"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 81
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098732574340444632",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @not__sin: #初音ミク\n✴︎ https://t.co/Q6Ha3SoO3b"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2098732568678133760",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSAyJtKacAAzcRs.jpg",
+        "width": 772
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2098732568682315776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSAyJtLaQAAMrwW.jpg",
+        "width": 1500
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2098732568682340352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSAyJtLaoAAKvUf.jpg",
+        "width": 1252
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2098732568673939456",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSAyJtJacAAgiI_.jpg",
+        "width": 1242
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098732568678133760",
+            "3_2098732568682315776",
+            "3_2098732568682340352",
+            "3_2098732568673939456"
+          ],
+          "media_source_tweet_id": [
+            "2098732574340444632",
+            "2098732574340444632",
+            "2098732574340444632",
+            "2098732574340444632"
+          ]
+        },
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2098807565044068730",
+        "created_at": "2026-09-12T16:14:52.000Z",
+        "display_text_range": [
+          0,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T17:14:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098807565044068730"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 19,
+              "start": 14,
+              "tag": "初音ミク"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1611758905042022400",
+              "start": 3,
+              "username": "not__sin"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q6Ha3SoO3b",
+              "end": 46,
+              "expanded_url": "https://x.com/not__sin/status/2098732574340444632/photo/1",
+              "media_key": "3_2098732568678133760",
+              "start": 23,
+              "url": "https://t.co/Q6Ha3SoO3b"
+            },
+            {
+              "display_url": "pic.x.com/Q6Ha3SoO3b",
+              "end": 46,
+              "expanded_url": "https://x.com/not__sin/status/2098732574340444632/photo/1",
+              "media_key": "3_2098732568682315776",
+              "start": 23,
+              "url": "https://t.co/Q6Ha3SoO3b"
+            },
+            {
+              "display_url": "pic.x.com/Q6Ha3SoO3b",
+              "end": 46,
+              "expanded_url": "https://x.com/not__sin/status/2098732574340444632/photo/1",
+              "media_key": "3_2098732568682340352",
+              "start": 23,
+              "url": "https://t.co/Q6Ha3SoO3b"
+            },
+            {
+              "display_url": "pic.x.com/Q6Ha3SoO3b",
+              "end": 46,
+              "expanded_url": "https://x.com/not__sin/status/2098732574340444632/photo/1",
+              "media_key": "3_2098732568673939456",
+              "start": 23,
+              "url": "https://t.co/Q6Ha3SoO3b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098807565044068730",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2098732568678133760"
+          },
+          {
+            "media_key": "3_2098732568682315776"
+          },
+          {
+            "media_key": "3_2098732568682340352"
+          },
+          {
+            "media_key": "3_2098732568673939456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 81
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098732574340444632",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @not__sin: #初音ミク\n✴︎ https://t.co/Q6Ha3SoO3b"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098732568678133760",
+            "3_2098732568682315776",
+            "3_2098732568682340352",
+            "3_2098732568673939456"
+          ]
+        },
+        "author_id": "1611758905042022400",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2098732574340444632",
+        "created_at": "2026-09-12T11:16:52.000Z",
+        "display_text_range": [
+          0,
+          8
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T12:16:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098732574340444632"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "初音ミク"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Q6Ha3SoO3b",
+              "end": 32,
+              "expanded_url": "https://x.com/not__sin/status/2098732574340444632/photo/1",
+              "media_key": "3_2098732568678133760",
+              "start": 9,
+              "url": "https://t.co/Q6Ha3SoO3b"
+            },
+            {
+              "display_url": "pic.x.com/Q6Ha3SoO3b",
+              "end": 32,
+              "expanded_url": "https://x.com/not__sin/status/2098732574340444632/photo/1",
+              "media_key": "3_2098732568682315776",
+              "start": 9,
+              "url": "https://t.co/Q6Ha3SoO3b"
+            },
+            {
+              "display_url": "pic.x.com/Q6Ha3SoO3b",
+              "end": 32,
+              "expanded_url": "https://x.com/not__sin/status/2098732574340444632/photo/1",
+              "media_key": "3_2098732568682340352",
+              "start": 9,
+              "url": "https://t.co/Q6Ha3SoO3b"
+            },
+            {
+              "display_url": "pic.x.com/Q6Ha3SoO3b",
+              "end": 32,
+              "expanded_url": "https://x.com/not__sin/status/2098732574340444632/photo/1",
+              "media_key": "3_2098732568673939456",
+              "start": 9,
+              "url": "https://t.co/Q6Ha3SoO3b"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098732574340444632",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2098732568678133760"
+          },
+          {
+            "media_key": "3_2098732568682315776"
+          },
+          {
+            "media_key": "3_2098732568682340352"
+          },
+          {
+            "media_key": "3_2098732568673939456"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 52,
+          "impression_count": 7235,
+          "like_count": 1004,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 81
+        },
+        "reply_settings": "everyone",
+        "text": "#初音ミク\n✴︎ https://t.co/Q6Ha3SoO3b"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2098807565044068730",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2609,
+          "following_count": 4017,
+          "like_count": 77795,
+          "listed_count": 12,
+          "media_count": 644,
+          "tweet_count": 23045
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-07T16:17:35.000Z",
+        "description": "何が悪い｜Skeb→ https://t.co/WXg1YHloID",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@not__sin",
+                "end": 34,
+                "expanded_url": "https://skeb.jp/@not__sin",
+                "start": 11,
+                "url": "https://t.co/WXg1YHloID"
+              }
+            ]
+          }
+        },
+        "id": "1611758905042022400",
+        "is_identity_verified": false,
+        "location": "Do not repost/use my artworks",
+        "most_recent_tweet_id": "2098734581554041123",
+        "name": "何",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1611758905042022400/1712997664",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1750570611754307584/Skc5Ag7C_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4855,
+          "following_count": 3,
+          "like_count": 120,
+          "listed_count": 23,
+          "media_count": 54,
+          "tweet_count": 112
+        },
+        "url": "",
+        "username": "not__sin",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

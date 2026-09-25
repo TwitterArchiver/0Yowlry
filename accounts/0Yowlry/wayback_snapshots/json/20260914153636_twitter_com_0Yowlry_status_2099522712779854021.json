@@ -1,0 +1,364 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2039679106623873178",
+    "created_at": "2026-09-14T15:36:36.000Z",
+    "display_text_range": [
+      17,
+      24
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T16:36:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099522712779854021"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1450730882738786305",
+          "start": 0,
+          "username": "Yusuke_Takigawa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099522712779854021",
+    "in_reply_to_user_id": "1450730882738786305",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2039679106623873178",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Yusuke_Takigawa discord"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2039679106623873178",
+        "created_at": "2026-09-14T15:36:36.000Z",
+        "display_text_range": [
+          17,
+          24
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T16:36:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099522712779854021"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1450730882738786305",
+              "start": 0,
+              "username": "Yusuke_Takigawa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099522712779854021",
+        "in_reply_to_user_id": "1450730882738786305",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2039679106623873178",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yusuke_Takigawa discord"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1450730882738786305",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          }
+        ],
+        "conversation_id": "2039679106623873178",
+        "created_at": "2026-04-02T12:19:29.000Z",
+        "display_text_range": [
+          0,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-04-02T13:19:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2039679106623873178"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2039679106623873178",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 10,
+          "impression_count": 75820,
+          "like_count": 213,
+          "quote_count": 3,
+          "reply_count": 22,
+          "retweet_count": 12
+        },
+        "reply_settings": "everyone",
+        "text": "Ｘ(旧Twitter)　タイムカプセル\n２０５６年の４月に『エロゲーおじさんで集まってオフ会をしよう』"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2099522712779854021",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2627,
+          "following_count": 4048,
+          "like_count": 79970,
+          "listed_count": 12,
+          "media_count": 657,
+          "tweet_count": 23483
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-10-20T07:49:36.000Z",
+        "description": "同人美少女ゲームサークル\n【だおソフト　副代表兼ディレクター】\n現在、処女作を鋭意制作中!!\n\n【他のSNS情報】https://t.co/DmdEaE4OYf\n【note】https://t.co/jyJW0WGn9q\n@CharlotteGasly",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 126,
+                "start": 111,
+                "username": "CharlotteGasly"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "miria2022.web.fc2.com/takigawa.html",
+                "end": 80,
+                "expanded_url": "https://miria2022.web.fc2.com/takigawa.html",
+                "start": 57,
+                "url": "https://t.co/DmdEaE4OYf"
+              },
+              {
+                "display_url": "note.com/banana38ru",
+                "end": 110,
+                "expanded_url": "https://note.com/banana38ru",
+                "start": 87,
+                "url": "https://t.co/jyJW0WGn9q"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.gg/jMm29ZcqqG",
+                "end": 23,
+                "expanded_url": "https://discord.gg/jMm29ZcqqG",
+                "start": 0,
+                "url": "https://t.co/2WGLDc3G4c"
+              }
+            ]
+          }
+        },
+        "id": "1450730882738786305",
+        "is_identity_verified": false,
+        "location": "愛知県豊川市",
+        "most_recent_tweet_id": "2099510781633270226",
+        "name": "滝川雄介",
+        "pinned_tweet_id": "2039679106623873178",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1450730882738786305/1781816490",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2074337151526060032/yeWUuFvH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8181,
+          "following_count": 6927,
+          "like_count": 2740,
+          "listed_count": 17,
+          "media_count": 1871,
+          "tweet_count": 18586
+        },
+        "url": "https://t.co/2WGLDc3G4c",
+        "username": "Yusuke_Takigawa",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

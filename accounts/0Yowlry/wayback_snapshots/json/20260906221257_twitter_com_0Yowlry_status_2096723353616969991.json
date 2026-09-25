@@ -1,0 +1,496 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Shigeru Ishiba (石破茂)",
+          "id": "1042469779460710400",
+          "name": "Shigeru Ishiba"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "description": "Shigeru Ishiba (石破茂)",
+          "id": "1042469779460710400",
+          "name": "Shigeru Ishiba"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Shigeru Ishiba (石破茂)",
+          "id": "1042469779460710400",
+          "name": "Shigeru Ishiba"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      }
+    ],
+    "conversation_id": "2086389538159747258",
+    "created_at": "2026-09-06T22:12:57.000Z",
+    "display_text_range": [
+      15,
+      16
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T23:12:57.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096723353616969991"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "808468854",
+          "start": 0,
+          "username": "shigeruishiba"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096723353616969991",
+    "in_reply_to_user_id": "808468854",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2086389538159747258",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@shigeruishiba 🐱"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3024,
+        "media_key": "3_2086389516651438080",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPRYNhMboAAznmD.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2086389516580139008",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPRYNg7bsAAaRyH.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2086389516546527232",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPRYNgza0AAtuCs.jpg",
+        "width": 4032
+      },
+      {
+        "height": 3024,
+        "media_key": "3_2086389516622049280",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HPRYNhFbMAAIDrk.jpg",
+        "width": 4032
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Shigeru Ishiba (石破茂)",
+              "id": "1042469779460710400",
+              "name": "Shigeru Ishiba"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Shigeru Ishiba (石破茂)",
+              "id": "1042469779460710400",
+              "name": "Shigeru Ishiba"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Shigeru Ishiba (石破茂)",
+              "id": "1042469779460710400",
+              "name": "Shigeru Ishiba"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          }
+        ],
+        "conversation_id": "2086389538159747258",
+        "created_at": "2026-09-06T22:12:57.000Z",
+        "display_text_range": [
+          15,
+          16
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T23:12:57.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096723353616969991"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "808468854",
+              "start": 0,
+              "username": "shigeruishiba"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096723353616969991",
+        "in_reply_to_user_id": "808468854",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2086389538159747258",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@shigeruishiba 🐱"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2086389516651438080",
+            "3_2086389516580139008",
+            "3_2086389516546527232",
+            "3_2086389516622049280"
+          ]
+        },
+        "author_id": "808468854",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Shigeru Ishiba (石破茂)",
+              "id": "1042469779460710400",
+              "name": "Shigeru Ishiba"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Shigeru Ishiba (石破茂)",
+              "id": "1042469779460710400",
+              "name": "Shigeru Ishiba"
+            }
+          }
+        ],
+        "conversation_id": "2086389538159747258",
+        "created_at": "2026-08-09T09:50:03.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-09T10:50:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2086389538159747258"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/b9WoHJuNGv",
+              "end": 66,
+              "expanded_url": "https://x.com/shigeruishiba/status/2086389538159747258/photo/1",
+              "media_key": "3_2086389516651438080",
+              "start": 43,
+              "url": "https://t.co/b9WoHJuNGv"
+            },
+            {
+              "display_url": "pic.x.com/b9WoHJuNGv",
+              "end": 66,
+              "expanded_url": "https://x.com/shigeruishiba/status/2086389538159747258/photo/1",
+              "media_key": "3_2086389516580139008",
+              "start": 43,
+              "url": "https://t.co/b9WoHJuNGv"
+            },
+            {
+              "display_url": "pic.x.com/b9WoHJuNGv",
+              "end": 66,
+              "expanded_url": "https://x.com/shigeruishiba/status/2086389538159747258/photo/1",
+              "media_key": "3_2086389516546527232",
+              "start": 43,
+              "url": "https://t.co/b9WoHJuNGv"
+            },
+            {
+              "display_url": "pic.x.com/b9WoHJuNGv",
+              "end": 66,
+              "expanded_url": "https://x.com/shigeruishiba/status/2086389538159747258/photo/1",
+              "media_key": "3_2086389516622049280",
+              "start": 43,
+              "url": "https://t.co/b9WoHJuNGv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2086389538159747258",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2086389516651438080"
+          },
+          {
+            "media_key": "3_2086389516580139008"
+          },
+          {
+            "media_key": "3_2086389516546527232"
+          },
+          {
+            "media_key": "3_2086389516622049280"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 71,
+          "impression_count": 163476,
+          "like_count": 4064,
+          "quote_count": 85,
+          "reply_count": 1104,
+          "retweet_count": 404
+        },
+        "reply_settings": "everyone",
+        "text": "鳥取市国府町で夏休み親子イベント。たくさんのお子さんからいろいろ質問いただきました。 https://t.co/b9WoHJuNGv"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnUI1a"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2096723353616969991",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2594,
+          "following_count": 3947,
+          "like_count": 74525,
+          "listed_count": 12,
+          "media_count": 606,
+          "tweet_count": 22323
+        },
+        "url": "https://t.co/ZXakBnUI1a",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-09-07T08:44:49.000Z",
+        "description": "鳥取一区 衆議院議員 | 自民党  | 公式ブログ https://t.co/wpgypBXjoz | note https://t.co/riwJ8pEIFw | 公式YouTube https://t.co/NeclO4yimY |",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ishiba-shigeru.cocolog-nifty.com",
+                "end": 49,
+                "expanded_url": "http://ishiba-shigeru.cocolog-nifty.com",
+                "start": 26,
+                "url": "https://t.co/wpgypBXjoz"
+              },
+              {
+                "display_url": "note.com/shigeru_ishiba",
+                "end": 80,
+                "expanded_url": "https://note.com/shigeru_ishiba",
+                "start": 57,
+                "url": "https://t.co/riwJ8pEIFw"
+              },
+              {
+                "display_url": "youtube.com/@ishibach",
+                "end": 116,
+                "expanded_url": "https://www.youtube.com/@ishibach",
+                "start": 93,
+                "url": "https://t.co/NeclO4yimY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ishiba.com",
+                "end": 23,
+                "expanded_url": "http://www.ishiba.com/",
+                "start": 0,
+                "url": "https://t.co/0ySZgO9Vap"
+              }
+            ]
+          }
+        },
+        "id": "808468854",
+        "is_identity_verified": false,
+        "location": "自由民主党",
+        "most_recent_tweet_id": "2096129598933418365",
+        "name": "石破茂",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/808468854/1722587686",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1820038227421716480/E4ucOtA3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 513950,
+          "following_count": 163,
+          "like_count": 428,
+          "listed_count": 3678,
+          "media_count": 1060,
+          "tweet_count": 2492
+        },
+        "url": "https://t.co/0ySZgO9Vap",
+        "username": "shigeruishiba",
+        "verified": true,
+        "verified_type": "government"
+      }
+    ]
+  }
+}

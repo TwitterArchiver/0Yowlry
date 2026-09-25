@@ -1,0 +1,467 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098220569909178368"
+      ],
+      "media_source_tweet_id": [
+        "2098220576263622734"
+      ]
+    },
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+          "id": "1557697439489880065",
+          "name": "Travel & Transportation Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Travel",
+          "id": "839159814991167489",
+          "name": "Travel"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Hospitality",
+          "id": "864938653063159808",
+          "name": "Hospitality"
+        }
+      },
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Hotel/Motel",
+          "id": "864939492947275776",
+          "name": "Hotel/Motel"
+        }
+      }
+    ],
+    "conversation_id": "2098850686985507045",
+    "created_at": "2026-09-12T19:06:13.000Z",
+    "display_text_range": [
+      0,
+      99
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T20:06:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098850686985507045"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1356570157766725635",
+          "start": 3,
+          "username": "manjyusen"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/IOlFrZFtu9",
+          "end": 99,
+          "expanded_url": "https://x.com/manjyusen/status/2098220576263622734/photo/1",
+          "media_key": "3_2098220569909178368",
+          "start": 76,
+          "url": "https://t.co/IOlFrZFtu9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098850686985507045",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2098220569909178368"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 98
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098220576263622734",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @manjyusen: 私が5年前に上海のとあるホテルで撮った映像(のスクリーンショット)はこんなに広がってると思いがけないな\nꉂꉂ(ˊᗜˋ*) https://t.co/IOlFrZFtu9"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2098220569909178368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR5gfdHasAAqK-z.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098220569909178368"
+          ],
+          "media_source_tweet_id": [
+            "2098220576263622734"
+          ]
+        },
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Hospitality",
+              "id": "864938653063159808",
+              "name": "Hospitality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Hotel/Motel",
+              "id": "864939492947275776",
+              "name": "Hotel/Motel"
+            }
+          }
+        ],
+        "conversation_id": "2098850686985507045",
+        "created_at": "2026-09-12T19:06:13.000Z",
+        "display_text_range": [
+          0,
+          99
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T20:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098850686985507045"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1356570157766725635",
+              "start": 3,
+              "username": "manjyusen"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/IOlFrZFtu9",
+              "end": 99,
+              "expanded_url": "https://x.com/manjyusen/status/2098220576263622734/photo/1",
+              "media_key": "3_2098220569909178368",
+              "start": 76,
+              "url": "https://t.co/IOlFrZFtu9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098850686985507045",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2098220569909178368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 98
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098220576263622734",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @manjyusen: 私が5年前に上海のとあるホテルで撮った映像(のスクリーンショット)はこんなに広がってると思いがけないな\nꉂꉂ(ˊᗜˋ*) https://t.co/IOlFrZFtu9"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098220569909178368"
+          ]
+        },
+        "author_id": "1356570157766725635",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Hospitality",
+              "id": "864938653063159808",
+              "name": "Hospitality"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Hotel/Motel",
+              "id": "864939492947275776",
+              "name": "Hotel/Motel"
+            }
+          }
+        ],
+        "conversation_id": "2098220576263622734",
+        "created_at": "2026-09-11T01:22:23.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T02:22:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098220576263622734"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/IOlFrZFtu9",
+              "end": 84,
+              "expanded_url": "https://x.com/manjyusen/status/2098220576263622734/photo/1",
+              "media_key": "3_2098220569909178368",
+              "start": 61,
+              "url": "https://t.co/IOlFrZFtu9"
+            },
+            {
+              "display_url": "x.com/notsu311406/st…",
+              "end": 108,
+              "expanded_url": "https://twitter.com/notsu311406/status/2098038150572732698",
+              "start": 85,
+              "url": "https://t.co/ONtpptoYkq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098220576263622734",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2098220569909178368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 206,
+          "impression_count": 122555,
+          "like_count": 2221,
+          "quote_count": 5,
+          "reply_count": 60,
+          "retweet_count": 98
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098038150572732698",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "私が5年前に上海のとあるホテルで撮った映像(のスクリーンショット)はこんなに広がってると思いがけないな\nꉂꉂ(ˊᗜˋ*) https://t.co/IOlFrZFtu9 https://t.co/ONtpptoYkq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2098850686985507045",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2610,
+          "following_count": 4027,
+          "like_count": 78244,
+          "listed_count": 12,
+          "media_count": 644,
+          "tweet_count": 23130
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-02T11:48:58.000Z",
+        "description": "23歳、モンゴル人です、日本語を話せる//鉄道/銭湯/ラノベ/美少女ゲーム/初音ミク/東方プロジェクト/艦これ/落語/日本文学/演歌/任天堂/ソニー/シスコン/楽器:ユーフォニアム(一番上手)/ジャズ🎷🎺/日本語N1/한국어 초보자/English(daily conversation)/ 2026년４월22일更新",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "b23.tv/bCsVeH",
+                "end": 23,
+                "expanded_url": "https://b23.tv/bCsVeH",
+                "start": 0,
+                "url": "https://t.co/LhN0y8PjTI"
+              }
+            ]
+          }
+        },
+        "id": "1356570157766725635",
+        "is_identity_verified": false,
+        "location": "ᠰᡳ᠍ᠯᡳ   ᠶᡳ᠍ᠨ  ᡥᠣᡨᡝ᠋",
+        "most_recent_tweet_id": "2098756515788460114",
+        "name": "モンゴル人♨饅頭右衛門미쿠의 광팬",
+        "pinned_tweet_id": "2085004472548495794",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1356570157766725635/1704458456",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2006733772369395713/UdRisDf0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 352,
+          "following_count": 694,
+          "like_count": 49413,
+          "listed_count": 2,
+          "media_count": 3020,
+          "tweet_count": 9117
+        },
+        "url": "https://t.co/LhN0y8PjTI",
+        "username": "manjyusen",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

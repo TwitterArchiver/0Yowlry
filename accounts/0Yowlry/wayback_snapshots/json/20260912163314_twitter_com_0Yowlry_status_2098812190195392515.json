@@ -1,0 +1,589 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098676070522433537",
+        "3_2098677301177470976",
+        "3_2098677977831911424",
+        "3_2098677987852128256"
+      ],
+      "media_source_tweet_id": [
+        "2098680561867067437",
+        "2098680561867067437",
+        "2098680561867067437",
+        "2098680561867067437"
+      ]
+    },
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+          "id": "67",
+          "name": "Interests and Hobbies"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Drawing and sketching",
+          "id": "847869251595542528",
+          "name": "Drawing & illustration"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Visual Arts",
+          "id": "1046577790353428480",
+          "name": "Visual arts"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1265660441822281728",
+          "name": "Art"
+        }
+      }
+    ],
+    "conversation_id": "2098812190195392515",
+    "created_at": "2026-09-12T16:33:14.000Z",
+    "display_text_range": [
+      0,
+      96
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T17:33:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098812190195392515"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1417493712368717827",
+          "start": 3,
+          "username": "Crysepia"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/jsLQNTFJ1p",
+          "end": 96,
+          "expanded_url": "https://x.com/Crysepia/status/2098680561867067437/photo/1",
+          "media_key": "3_2098676070522433537",
+          "start": 73,
+          "url": "https://t.co/jsLQNTFJ1p"
+        },
+        {
+          "display_url": "pic.x.com/jsLQNTFJ1p",
+          "end": 96,
+          "expanded_url": "https://x.com/Crysepia/status/2098680561867067437/photo/1",
+          "media_key": "3_2098677301177470976",
+          "start": 73,
+          "url": "https://t.co/jsLQNTFJ1p"
+        },
+        {
+          "display_url": "pic.x.com/jsLQNTFJ1p",
+          "end": 96,
+          "expanded_url": "https://x.com/Crysepia/status/2098680561867067437/photo/1",
+          "media_key": "3_2098677977831911424",
+          "start": 73,
+          "url": "https://t.co/jsLQNTFJ1p"
+        },
+        {
+          "display_url": "pic.x.com/jsLQNTFJ1p",
+          "end": 96,
+          "expanded_url": "https://x.com/Crysepia/status/2098680561867067437/photo/1",
+          "media_key": "3_2098677987852128256",
+          "start": 73,
+          "url": "https://t.co/jsLQNTFJ1p"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098812190195392515",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2098676070522433537"
+      },
+      {
+        "media_key": "3_2098677301177470976"
+      },
+      {
+        "media_key": "3_2098677977831911424"
+      },
+      {
+        "media_key": "3_2098677987852128256"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 214
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098680561867067437",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Crysepia: フォローしてもらえると嬉しいですが、あなたのタイムラインに狂ったイラストが流れ始めます。\n\nお大事になさってください https://t.co/jsLQNTFJ1p"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1250,
+        "media_key": "3_2098676070522433537",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR_-xFIaMAEEBWd.jpg",
+        "width": 1000
+      },
+      {
+        "height": 1250,
+        "media_key": "3_2098677301177470976",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR__4trb0AAGngH.jpg",
+        "width": 1000
+      },
+      {
+        "height": 1250,
+        "media_key": "3_2098677977831911424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSAAgGabMAAbrKR.jpg",
+        "width": 1000
+      },
+      {
+        "height": 1250,
+        "media_key": "3_2098677987852128256",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSAAgrvbkAAuxRe.jpg",
+        "width": 1000
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098676070522433537",
+            "3_2098677301177470976",
+            "3_2098677977831911424",
+            "3_2098677987852128256"
+          ],
+          "media_source_tweet_id": [
+            "2098680561867067437",
+            "2098680561867067437",
+            "2098680561867067437",
+            "2098680561867067437"
+          ]
+        },
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2098812190195392515",
+        "created_at": "2026-09-12T16:33:14.000Z",
+        "display_text_range": [
+          0,
+          96
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T17:33:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098812190195392515"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1417493712368717827",
+              "start": 3,
+              "username": "Crysepia"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/jsLQNTFJ1p",
+              "end": 96,
+              "expanded_url": "https://x.com/Crysepia/status/2098680561867067437/photo/1",
+              "media_key": "3_2098676070522433537",
+              "start": 73,
+              "url": "https://t.co/jsLQNTFJ1p"
+            },
+            {
+              "display_url": "pic.x.com/jsLQNTFJ1p",
+              "end": 96,
+              "expanded_url": "https://x.com/Crysepia/status/2098680561867067437/photo/1",
+              "media_key": "3_2098677301177470976",
+              "start": 73,
+              "url": "https://t.co/jsLQNTFJ1p"
+            },
+            {
+              "display_url": "pic.x.com/jsLQNTFJ1p",
+              "end": 96,
+              "expanded_url": "https://x.com/Crysepia/status/2098680561867067437/photo/1",
+              "media_key": "3_2098677977831911424",
+              "start": 73,
+              "url": "https://t.co/jsLQNTFJ1p"
+            },
+            {
+              "display_url": "pic.x.com/jsLQNTFJ1p",
+              "end": 96,
+              "expanded_url": "https://x.com/Crysepia/status/2098680561867067437/photo/1",
+              "media_key": "3_2098677987852128256",
+              "start": 73,
+              "url": "https://t.co/jsLQNTFJ1p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098812190195392515",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2098676070522433537"
+          },
+          {
+            "media_key": "3_2098677301177470976"
+          },
+          {
+            "media_key": "3_2098677977831911424"
+          },
+          {
+            "media_key": "3_2098677987852128256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 214
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098680561867067437",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Crysepia: フォローしてもらえると嬉しいですが、あなたのタイムラインに狂ったイラストが流れ始めます。\n\nお大事になさってください https://t.co/jsLQNTFJ1p"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098676070522433537",
+            "3_2098677301177470976",
+            "3_2098677977831911424",
+            "3_2098677987852128256"
+          ]
+        },
+        "author_id": "1417493712368717827",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2098680561867067437",
+        "created_at": "2026-09-12T07:50:12.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T08:50:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098680561867067437"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/jsLQNTFJ1p",
+              "end": 82,
+              "expanded_url": "https://x.com/Crysepia/status/2098680561867067437/photo/1",
+              "media_key": "3_2098676070522433537",
+              "start": 59,
+              "url": "https://t.co/jsLQNTFJ1p"
+            },
+            {
+              "display_url": "pic.x.com/jsLQNTFJ1p",
+              "end": 82,
+              "expanded_url": "https://x.com/Crysepia/status/2098680561867067437/photo/1",
+              "media_key": "3_2098677301177470976",
+              "start": 59,
+              "url": "https://t.co/jsLQNTFJ1p"
+            },
+            {
+              "display_url": "pic.x.com/jsLQNTFJ1p",
+              "end": 82,
+              "expanded_url": "https://x.com/Crysepia/status/2098680561867067437/photo/1",
+              "media_key": "3_2098677977831911424",
+              "start": 59,
+              "url": "https://t.co/jsLQNTFJ1p"
+            },
+            {
+              "display_url": "pic.x.com/jsLQNTFJ1p",
+              "end": 82,
+              "expanded_url": "https://x.com/Crysepia/status/2098680561867067437/photo/1",
+              "media_key": "3_2098677987852128256",
+              "start": 59,
+              "url": "https://t.co/jsLQNTFJ1p"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098680561867067437",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2098676070522433537"
+          },
+          {
+            "media_key": "3_2098677301177470976"
+          },
+          {
+            "media_key": "3_2098677977831911424"
+          },
+          {
+            "media_key": "3_2098677987852128256"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 138,
+          "impression_count": 17317,
+          "like_count": 2719,
+          "quote_count": 0,
+          "reply_count": 9,
+          "retweet_count": 214
+        },
+        "reply_settings": "everyone",
+        "text": "フォローしてもらえると嬉しいですが、あなたのタイムラインに狂ったイラストが流れ始めます。\n\nお大事になさってください https://t.co/jsLQNTFJ1p"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2098812190195392515",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2608,
+          "following_count": 4017,
+          "like_count": 77886,
+          "listed_count": 12,
+          "media_count": 644,
+          "tweet_count": 23056
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-07-20T14:37:01.000Z",
+        "description": "クライセピア　作曲　シュールなミクテト描く人\nご依頼、お問い合わせ：crysepia@gmail.com\n外部サイトまとめ→https://t.co/1joOW150km\n生成AI❌",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "lit.link/crysepia",
+                "end": 85,
+                "expanded_url": "https://lit.link/crysepia",
+                "start": 62,
+                "url": "https://t.co/1joOW150km"
+              }
+            ]
+          }
+        },
+        "id": "1417493712368717827",
+        "is_identity_verified": false,
+        "location": "日本",
+        "most_recent_tweet_id": "2098686744120234150",
+        "name": "倉維セピア/Crysepia",
+        "pinned_tweet_id": "2081862195659362677",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1417493712368717827/1786391963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2060592156377743360/izSVNk-a_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 19868,
+          "following_count": 964,
+          "like_count": 1390,
+          "listed_count": 34,
+          "media_count": 331,
+          "tweet_count": 1034
+        },
+        "url": "",
+        "username": "Crysepia",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

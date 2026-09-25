@@ -1,0 +1,420 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2100500071322444235",
+    "created_at": "2026-09-19T16:29:44.000Z",
+    "display_text_range": [
+      16,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T17:29:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101348024043900939"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1894461745277931524",
+          "start": 0,
+          "username": "Rain_Antar1121"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101348024043900939",
+    "in_reply_to_user_id": "1894461745277931524",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100500071322444235",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rain_Antar1121 ヽ(✿ﾟ▽ﾟ)ノ😽"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2100500050615132160",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSZ5qsea4AACgoj.jpg",
+        "width": 4096
+      },
+      {
+        "height": 2689,
+        "media_key": "3_2100500050615128064",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSZ5qsea0AAwa50.jpg",
+        "width": 3602
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2100500050602582016",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSZ5qsbbYAAzAyv.jpg",
+        "width": 3072
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2100500050648711168",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSZ5qsmbQAA4IIC.jpg",
+        "width": 3072
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2100500071322444235",
+        "created_at": "2026-09-19T16:29:44.000Z",
+        "display_text_range": [
+          16,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T17:29:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101348024043900939"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101348024043900939",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100500071322444235",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 ヽ(✿ﾟ▽ﾟ)ノ😽"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100500050615132160",
+            "3_2100500050615128064",
+            "3_2100500050602582016",
+            "3_2100500050648711168"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "description": "Drinks",
+              "id": "834828264786898945",
+              "name": "Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Generic Drinks",
+              "id": "834828445238431744",
+              "name": "Generic Drinks"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Coffee",
+              "id": "850442647088971776",
+              "name": "Coffee"
+            }
+          }
+        ],
+        "conversation_id": "2100500071322444235",
+        "created_at": "2026-09-17T08:20:17.000Z",
+        "display_text_range": [
+          0,
+          153
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T09:20:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100500071322444235"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1kmr3Kwwma",
+              "end": 177,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2100500071322444235/photo/1",
+              "media_key": "3_2100500050615132160",
+              "start": 154,
+              "url": "https://t.co/1kmr3Kwwma"
+            },
+            {
+              "display_url": "pic.x.com/1kmr3Kwwma",
+              "end": 177,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2100500071322444235/photo/1",
+              "media_key": "3_2100500050615128064",
+              "start": 154,
+              "url": "https://t.co/1kmr3Kwwma"
+            },
+            {
+              "display_url": "pic.x.com/1kmr3Kwwma",
+              "end": 177,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2100500071322444235/photo/1",
+              "media_key": "3_2100500050602582016",
+              "start": 154,
+              "url": "https://t.co/1kmr3Kwwma"
+            },
+            {
+              "display_url": "pic.x.com/1kmr3Kwwma",
+              "end": 177,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2100500071322444235/photo/1",
+              "media_key": "3_2100500050648711168",
+              "start": 154,
+              "url": "https://t.co/1kmr3Kwwma"
+            },
+            {
+              "display_url": "x.com/rain_antar1121…",
+              "end": 201,
+              "expanded_url": "https://twitter.com/rain_antar1121/status/2100144759230943659",
+              "start": 178,
+              "url": "https://t.co/12uiEYNdaS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100500071322444235",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100500050615132160"
+          },
+          {
+            "media_key": "3_2100500050615128064"
+          },
+          {
+            "media_key": "3_2100500050602582016"
+          },
+          {
+            "media_key": "3_2100500050648711168"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 1326,
+          "like_count": 53,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100144759230943659",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "😘南京水平方的Stage☆Cafe女仆咖啡厅喵～第一次体验仆咖耶好开心(ﾉ´ヮ´)ﾉ*:･ﾟ✧\n\n和温柔的阿念姐姐合影了拍立得～怎么能把咱拍得这么可爱呜…姐姐画的装饰也超好看🥰背面的寄语特意让姐姐用蓝粉白🏳️‍⚧️写了～字真的超萌喵呜🥹\n\n抹茶冰淇淋很好吃！也喜欢粉萌萌的陈设…咱好愿意再去陪姐姐们玩的☺️ https://t.co/1kmr3Kwwma https://t.co/12uiEYNdaS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jUKIs"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2101348024043900939",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2641,
+          "following_count": 4077,
+          "like_count": 82309,
+          "listed_count": 12,
+          "media_count": 669,
+          "tweet_count": 24040
+        },
+        "url": "https://t.co/t6gS8jUKIs",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年的南京女孩纸🍬 | 同类互fo喵🍥 | 可以叫我瑞或者ra | 温顺软软小动物 | 社恐小透明 | 阵发性中二病 | 可爱就忍不住想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2101310102024454214",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5334,
+          "following_count": 7297,
+          "like_count": 22081,
+          "listed_count": 12,
+          "media_count": 483,
+          "tweet_count": 6626
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2093280590996869487",
+    "created_at": "2026-08-31T12:17:09.000Z",
+    "display_text_range": [
+      11,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T13:17:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094399090562138397"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "583749678",
+          "start": 0,
+          "username": "RyanLaley"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094399090562138397",
+    "in_reply_to_user_id": "583749678",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2093280590996869487",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RyanLaley 🥺"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 97198,
+        "height": 1920,
+        "media_key": "13_2093280405747011584",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2093280405747011584/img/G5j2K7uLJ3itZ8VA.jpg",
+        "public_metrics": {
+          "view_count": 1043816
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093280405747011584/vid/avc1/480x852/x86c_vr32Ul_3Kry.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093280405747011584/vid/avc1/1080x1920/MqvEHeJihUTapI7a.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093280405747011584/vid/avc1/720x1280/x9UZzjGYH3hc09F9.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2093280405747011584/vid/avc1/320x568/8Dy_njhIFrZcIX5O.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2093280405747011584/pl/LGqTInqqymg8cY4t.m3u8?v=698"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2093280590996869487",
+        "created_at": "2026-08-31T12:17:09.000Z",
+        "display_text_range": [
+          11,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T13:17:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094399090562138397"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "583749678",
+              "start": 0,
+              "username": "RyanLaley"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094399090562138397",
+        "in_reply_to_user_id": "583749678",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2093280590996869487",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RyanLaley 🥺"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2093280405747011584"
+          ]
+        },
+        "author_id": "583749678",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291094662682271744",
+              "name": "Gaming events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1428763260409434114",
+              "name": "Gamescom"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2093280590996869487",
+        "created_at": "2026-08-28T10:12:38.000Z",
+        "display_text_range": [
+          0,
+          259
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-28T11:12:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2093280590996869487"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 12,
+              "start": 3,
+              "tag": "gamescom"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/dKpp3Of6df",
+              "end": 283,
+              "expanded_url": "https://x.com/RyanLaley/status/2093280590996869487/video/1",
+              "media_key": "13_2093280405747011584",
+              "start": 260,
+              "url": "https://t.co/dKpp3Of6df"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2093280590996869487",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2093280405747011584"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1631,
+          "impression_count": 4589658,
+          "like_count": 23831,
+          "quote_count": 405,
+          "reply_count": 759,
+          "retweet_count": 2035
+        },
+        "reply_settings": "everyone",
+        "text": "My #gamescom cut short. Our equipment was stolen last night from the booth.\n\nPolice reports have been filed.\n\nAt a loss for words to describe the feeling. Just defeated. Gonna do my best with what's left of the week. \n\nBut a huge blow financially and mentally https://t.co/dKpp3Of6df"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnUI1a"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2094399090562138397",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2563,
+          "following_count": 3829,
+          "like_count": 70904,
+          "listed_count": 12,
+          "media_count": 593,
+          "tweet_count": 21360
+        },
+        "url": "https://t.co/ZXakBnUI1a",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-05-18T10:13:52.000Z",
+        "description": "Video game developer and UE5 trainer/consultant. Unreal Authorized Instructor. https://t.co/MPmBXKX76p\n\n✉️ support@ryanlaley.com",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "store.steampowered.com/app/2606850/Mi…",
+                "end": 102,
+                "expanded_url": "https://store.steampowered.com/app/2606850/Mimic/",
+                "start": 79,
+                "url": "https://t.co/MPmBXKX76p"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ryanlaley.com",
+                "end": 23,
+                "expanded_url": "https://www.ryanlaley.com",
+                "start": 0,
+                "url": "https://t.co/yU5fjYa99p"
+              }
+            ]
+          }
+        },
+        "id": "583749678",
+        "is_identity_verified": false,
+        "location": "England",
+        "most_recent_tweet_id": "2094355100768612568",
+        "name": "Mimic | Ryan Laley",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/583749678/1709071109",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057097739171721216/iNtE3VWg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5624,
+          "following_count": 223,
+          "like_count": 2533,
+          "listed_count": 47,
+          "media_count": 613,
+          "tweet_count": 3457
+        },
+        "url": "https://t.co/yU5fjYa99p",
+        "username": "RyanLaley",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

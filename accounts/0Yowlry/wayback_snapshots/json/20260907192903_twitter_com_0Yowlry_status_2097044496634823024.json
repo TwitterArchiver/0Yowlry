@@ -1,0 +1,409 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027474933",
+          "name": "Yahoo!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027474933",
+          "name": "Yahoo!"
+        }
+      }
+    ],
+    "conversation_id": "1496387555797123072",
+    "created_at": "2026-09-07T19:29:03.000Z",
+    "display_text_range": [
+      21,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T20:29:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2097044496634823024"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "164224930",
+          "start": 0,
+          "username": "MinakoOikawa"
+        },
+        {
+          "end": 20,
+          "id": "19380829",
+          "start": 14,
+          "username": "Yahoo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097044496634823024",
+    "in_reply_to_user_id": "164224930",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1496387555797123072",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@MinakoOikawa @yahoo 🫨"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027474933",
+              "name": "Yahoo!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027474933",
+              "name": "Yahoo!"
+            }
+          }
+        ],
+        "conversation_id": "1496387555797123072",
+        "created_at": "2026-09-07T19:29:03.000Z",
+        "display_text_range": [
+          21,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T20:29:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2097044496634823024"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "164224930",
+              "start": 0,
+              "username": "MinakoOikawa"
+            },
+            {
+              "end": 20,
+              "id": "19380829",
+              "start": 14,
+              "username": "Yahoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097044496634823024",
+        "in_reply_to_user_id": "164224930",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1496387555797123072",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@MinakoOikawa @yahoo 🫨"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "164224930",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027474933",
+              "name": "Yahoo!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027474933",
+              "name": "Yahoo!"
+            }
+          }
+        ],
+        "conversation_id": "1496387555797123072",
+        "created_at": "2022-02-23T07:32:49.000Z",
+        "display_text_range": [
+          0,
+          164
+        ],
+        "edit_controls": {
+          "editable_until": "2022-02-23T08:02:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1496387555797123072"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 129,
+              "id": "19380829",
+              "start": 123,
+              "username": "yahoo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1496387555797123072",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "继续看 emscripten 的文档，突然想感觉可以把以前写的 dos 游戏 host 到 web 上。。。这样想的时候。。却发现游戏好像怎么也找不到了。。。无论是发在论坛里的源代码。。还是发在邮箱里的 exe。。。找了一圈。。居然登陆上了以前 @yahoo.com.cn  邮箱。。。但是显然十几年没登陆过邮件也全部都没了。。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnUI1a"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2097044496634823024",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2600,
+          "following_count": 3964,
+          "like_count": 75002,
+          "listed_count": 12,
+          "media_count": 607,
+          "tweet_count": 22427
+        },
+        "url": "https://t.co/ZXakBnUI1a",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-07-08T10:19:29.000Z",
+        "description": "Yet another Dev Rel @Kimi_Moonshot / Prev. SWE @Google / 空手道應酬 /  OIer / Cosplay / My views / HRT since 2022.11.12",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 20,
+                "username": "Kimi_Moonshot"
+              },
+              {
+                "end": 54,
+                "start": 47,
+                "username": "Google"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "shuizilong.com",
+                "end": 23,
+                "expanded_url": "http://www.shuizilong.com/",
+                "start": 0,
+                "url": "https://t.co/jcBGh2Sy3p"
+              }
+            ]
+          }
+        },
+        "id": "164224930",
+        "is_identity_verified": false,
+        "location": "Shanghai, China",
+        "most_recent_tweet_id": "2097044237305213422",
+        "name": "小島みなこ 🏳️‍⚧️",
+        "pinned_tweet_id": "2061913149675290987",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/164224930/1681246278",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1596711607845130240/1y4atMYq_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9648,
+          "following_count": 6180,
+          "like_count": 93351,
+          "listed_count": 113,
+          "media_count": 2834,
+          "tweet_count": 64489
+        },
+        "url": "https://t.co/jcBGh2Sy3p",
+        "username": "MinakoOikawa",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-01-23T04:14:41.000Z",
+        "description": "Yahootin’ and hollerin’",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yahoo.com",
+                "end": 23,
+                "expanded_url": "http://www.yahoo.com",
+                "start": 0,
+                "url": "https://t.co/kirdY2yYED"
+              }
+            ]
+          }
+        },
+        "id": "19380829",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "1933193096658915561",
+        "name": "Yahoo",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/19380829/1739809985",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891526243515863040/Dre72Zgf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1060427,
+          "following_count": 6995,
+          "like_count": 2643,
+          "listed_count": 7753,
+          "media_count": 32016,
+          "tweet_count": 120230
+        },
+        "url": "https://t.co/kirdY2yYED",
+        "username": "Yahoo",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

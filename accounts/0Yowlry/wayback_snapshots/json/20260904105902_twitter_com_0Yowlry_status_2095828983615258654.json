@@ -1,0 +1,590 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_1923363550741012480"
+      ],
+      "media_source_tweet_id": [
+        "1923363824767221959"
+      ]
+    },
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Piano",
+          "id": "898268092110852096",
+          "name": "Piano"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Musical Instruments",
+          "id": "1131990542198247424",
+          "name": "Musical instruments"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Piano",
+          "id": "898268092110852096",
+          "name": "Piano"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Musical Instruments",
+          "id": "1131990542198247424",
+          "name": "Musical instruments"
+        }
+      },
+      {
+        "domain": {
+          "description": "A product taxonomy for labeling categories of products. ",
+          "id": "173",
+          "name": "Product Taxonomy"
+        },
+        "entity": {
+          "description": "Piano",
+          "id": "898268092110852096",
+          "name": "Piano"
+        }
+      }
+    ],
+    "conversation_id": "2095828983615258654",
+    "created_at": "2026-09-04T10:59:02.000Z",
+    "display_text_range": [
+      0,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T11:59:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095828983615258654"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1013099697181843456",
+          "start": 3,
+          "username": "lixim_pf"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/zBolpM3Iex",
+          "end": 49,
+          "expanded_url": "https://x.com/lixim_pf/status/1923363824767221959/video/1",
+          "media_key": "13_1923363550741012480",
+          "start": 26,
+          "url": "https://t.co/zBolpM3Iex"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095828983615258654",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_1923363550741012480"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4898
+    },
+    "referenced_tweets": [
+      {
+        "id": "1923363824767221959",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @lixim_pf: ピアノおもろすぎて横転 https://t.co/zBolpM3Iex"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 49386,
+        "height": 1080,
+        "media_key": "13_1923363550741012480",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/1923363550741012480/img/EP0lE4zTYZ9kSpz9.jpg",
+        "public_metrics": {
+          "view_count": 465784
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1923363550741012480/vid/avc1/1280x720/iuZVBgsJHqOfNYnN.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1923363550741012480/vid/avc1/1920x1080/6HdZAh_S2vl7aKkX.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1923363550741012480/vid/avc1/480x270/heQCAChNGolimOMH.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1923363550741012480/vid/avc1/640x360/yC1xrUag5HGijjEl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1923363550741012480/pl/Vt3nauTc6b26O2rl.m3u8"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1923363550741012480"
+          ],
+          "media_source_tweet_id": [
+            "1923363824767221959"
+          ]
+        },
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Piano",
+              "id": "898268092110852096",
+              "name": "Piano"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Piano",
+              "id": "898268092110852096",
+              "name": "Piano"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Piano",
+              "id": "898268092110852096",
+              "name": "Piano"
+            }
+          }
+        ],
+        "conversation_id": "2095828983615258654",
+        "created_at": "2026-09-04T10:59:02.000Z",
+        "display_text_range": [
+          0,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T11:59:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095828983615258654"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1013099697181843456",
+              "start": 3,
+              "username": "lixim_pf"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zBolpM3Iex",
+              "end": 49,
+              "expanded_url": "https://x.com/lixim_pf/status/1923363824767221959/video/1",
+              "media_key": "13_1923363550741012480",
+              "start": 26,
+              "url": "https://t.co/zBolpM3Iex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095828983615258654",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_1923363550741012480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4898
+        },
+        "referenced_tweets": [
+          {
+            "id": "1923363824767221959",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @lixim_pf: ピアノおもろすぎて横転 https://t.co/zBolpM3Iex"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1923363550741012480"
+          ]
+        },
+        "author_id": "1013099697181843456",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Piano",
+              "id": "898268092110852096",
+              "name": "Piano"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Piano",
+              "id": "898268092110852096",
+              "name": "Piano"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Piano",
+              "id": "898268092110852096",
+              "name": "Piano"
+            }
+          }
+        ],
+        "conversation_id": "1923363824767221959",
+        "created_at": "2025-05-16T13:04:04.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2025-05-16T14:04:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1923363824767221959"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/zBolpM3Iex",
+              "end": 35,
+              "expanded_url": "https://x.com/lixim_pf/status/1923363824767221959/video/1",
+              "media_key": "13_1923363550741012480",
+              "start": 12,
+              "url": "https://t.co/zBolpM3Iex"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1923363824767221959",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_1923363550741012480"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 5080,
+          "impression_count": 679089,
+          "like_count": 45814,
+          "quote_count": 549,
+          "reply_count": 45,
+          "retweet_count": 4898
+        },
+        "reply_settings": "everyone",
+        "text": "ピアノおもろすぎて横転 https://t.co/zBolpM3Iex"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnUI1a"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2095828983615258654",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2574,
+          "following_count": 3855,
+          "like_count": 72379,
+          "listed_count": 12,
+          "media_count": 598,
+          "tweet_count": 21752
+        },
+        "url": "https://t.co/ZXakBnUI1a",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-06-30T16:39:25.000Z",
+        "description": "’00 ピアノとか...... │ https://t.co/F3pcI2ZGjZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/Lixim_",
+                "end": 41,
+                "expanded_url": "http://youtube.com/Lixim_",
+                "start": 18,
+                "url": "https://t.co/F3pcI2ZGjZ"
+              }
+            ]
+          }
+        },
+        "id": "1013099697181843456",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2094417303605784598",
+        "name": "Lixim /りくしむ",
+        "pinned_tweet_id": "1871504102297104474",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1013099697181843456/1669118457",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1595027260440219649/JZLrCvug_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46334,
+          "following_count": 7,
+          "like_count": 40482,
+          "listed_count": 62,
+          "media_count": 60,
+          "tweet_count": 170
+        },
+        "url": "",
+        "username": "lixim_pf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

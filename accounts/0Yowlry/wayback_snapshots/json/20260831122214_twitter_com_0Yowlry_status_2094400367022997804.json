@@ -1,0 +1,246 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2094352293986783371",
+    "created_at": "2026-08-31T12:22:14.000Z",
+    "display_text_range": [
+      21,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-08-31T13:22:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2094400367022997804"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1810940278468964352",
+          "start": 0,
+          "username": "stgggjj"
+        },
+        {
+          "end": 20,
+          "id": "1621761267068473344",
+          "start": 9,
+          "username": "moriyomiko"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2094400367022997804",
+    "in_reply_to_user_id": "1810940278468964352",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2094376102579839068",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stgggjj @moriyomiko 感觉不如买weed😁"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2094376102579839068].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2094376102579839068",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2094376102579839068"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2094352293986783371",
+        "created_at": "2026-08-31T12:22:14.000Z",
+        "display_text_range": [
+          21,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-31T13:22:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2094400367022997804"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1810940278468964352",
+              "start": 0,
+              "username": "stgggjj"
+            },
+            {
+              "end": 20,
+              "id": "1621761267068473344",
+              "start": 9,
+              "username": "moriyomiko"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2094400367022997804",
+        "in_reply_to_user_id": "1810940278468964352",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2094376102579839068",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stgggjj @moriyomiko 感觉不如买weed😁"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnUI1a"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2094400367022997804",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2563,
+          "following_count": 3829,
+          "like_count": 70908,
+          "listed_count": 12,
+          "media_count": 593,
+          "tweet_count": 21362
+        },
+        "url": "https://t.co/ZXakBnUI1a",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-10T07:33:14.000Z",
+        "description": "［我没把握说自己真的是生物、真的在生存什么的］\n\n提问箱https://t.co/xQun8GlnPU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/27rainyseason",
+                "end": 51,
+                "expanded_url": "https://ngl.link/27rainyseason",
+                "start": 28,
+                "url": "https://t.co/xQun8GlnPU"
+              }
+            ]
+          }
+        },
+        "id": "1810940278468964352",
+        "is_identity_verified": false,
+        "location": "Chiyoda-ku, Tokyo",
+        "most_recent_tweet_id": "2092600760446169573",
+        "name": "骑士小鱼🐟",
+        "pinned_tweet_id": "2057843541410480616",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1810940278468964352/1788017825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093724465536573440/gVSnmjDA_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 333,
+          "following_count": 538,
+          "like_count": 11099,
+          "listed_count": 1,
+          "media_count": 511,
+          "tweet_count": 8293
+        },
+        "url": "",
+        "username": "stgggjj",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/semantic_core_img/1428827730364096519/4ZXpTBhS?format=png&name=orig",
+          "description": "Automated"
+        },
+        "created_at": "2023-02-04T06:43:27.000Z",
+        "description": "清算时间到",
+        "id": "1621761267068473344",
+        "is_identity_verified": false,
+        "location": "滨寿司",
+        "most_recent_tweet_id": "2094369987565957276",
+        "name": "太祖赵匡胤",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1621761267068473344/1771116863",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092986328652881920/1TbE7T6__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1156,
+          "following_count": 514,
+          "like_count": 13827,
+          "listed_count": 4,
+          "media_count": 805,
+          "tweet_count": 5285
+        },
+        "url": "",
+        "username": "moriyomiko",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,442 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2097672872336777597",
+    "created_at": "2026-09-10T13:29:30.000Z",
+    "display_text_range": [
+      14,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T14:29:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098041175836082435"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1547929727960199180",
+          "start": 0,
+          "username": "Pirat_Nation"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098041175836082435",
+    "in_reply_to_user_id": "1547929727960199180",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097672872336777597",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pirat_Nation FUCK AUSTRALIA GOVERNMENT!"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1024,
+        "media_key": "3_2097661819372593152",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRxkT5KaYAA-5vK.jpg",
+        "width": 643
+      },
+      {
+        "height": 765,
+        "media_key": "3_2097661819246596097",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRxkT4sX0AEyTz0.jpg",
+        "width": 1361
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2097672872336777597",
+        "created_at": "2026-09-10T13:29:30.000Z",
+        "display_text_range": [
+          14,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T14:29:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098041175836082435"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1547929727960199180",
+              "start": 0,
+              "username": "Pirat_Nation"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098041175836082435",
+        "in_reply_to_user_id": "1547929727960199180",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097672872336777597",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pirat_Nation FUCK AUSTRALIA GOVERNMENT!"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097661819372593152",
+            "3_2097661819246596097"
+          ]
+        },
+        "author_id": "1547929727960199180",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1563854962383171585",
+              "name": "Credit Cards"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1563854962383171585",
+              "name": "Credit Cards"
+            }
+          },
+          {
+            "domain": {
+              "description": "A Video Game Publisher like 'Activision'",
+              "id": "78",
+              "name": "Video Game Publisher"
+            },
+            "entity": {
+              "description": "Valve Corporation",
+              "id": "988798454049652736",
+              "name": "Valve Corporation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Video Game Hardware",
+              "id": "79",
+              "name": "Video Game Hardware"
+            },
+            "entity": {
+              "id": "1174432578503204864",
+              "name": "PC gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Valve Corporation",
+              "id": "988798454049652736",
+              "name": "Valve Corporation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Publisher",
+              "id": "1070028312276127746",
+              "name": "Game development"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Video Game Hardware",
+              "id": "1070028376662888448",
+              "name": "Console gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1174432578503204864",
+              "name": "PC gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392975566253424640",
+              "name": "Gaming retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1392988484256759811",
+              "name": "Steam"
+            }
+          }
+        ],
+        "conversation_id": "2097672872336777597",
+        "created_at": "2026-09-09T13:06:00.000Z",
+        "display_text_range": [
+          0,
+          279
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T14:06:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097672872336777597"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/5Q1k7Ytdfi",
+              "end": 303,
+              "expanded_url": "https://x.com/Pirat_Nation/status/2097672872336777597/photo/1",
+              "media_key": "3_2097661819372593152",
+              "start": 280,
+              "url": "https://t.co/5Q1k7Ytdfi"
+            },
+            {
+              "display_url": "pic.x.com/5Q1k7Ytdfi",
+              "end": 303,
+              "expanded_url": "https://x.com/Pirat_Nation/status/2097672872336777597/photo/1",
+              "media_key": "3_2097661819246596097",
+              "start": 280,
+              "url": "https://t.co/5Q1k7Ytdfi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097672872336777597",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2097661819372593152"
+          },
+          {
+            "media_key": "3_2097661819246596097"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "Steam is now rolling out age verification in Australia for R18+ games, and the method Valve chose is already getting a lot of people annoyed.\n\nThe system asks users to add a credit card to prove they’re 18 or older and people don’t have a credit card and normally use debit cards instead.\n\nCertain debit cards actually work and others not depending on the bank, which makes the whole system even more confusing. \n\nAnd there’s another issue, people say they can be blocked from even viewing the store page for games they already own, including games like Cyberpunk 2077. \n\nI understand that Valve need to follow Australia’s new age-verification rules, but making a credit card the main way to prove you’re an adult when for some people their account is over 18 years old feels unnecessary"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 597,
+          "impression_count": 348845,
+          "like_count": 5472,
+          "quote_count": 209,
+          "reply_count": 429,
+          "retweet_count": 504
+        },
+        "reply_settings": "everyone",
+        "text": "Steam is now rolling out age verification in Australia for R18+ games, and the method Valve chose is already getting a lot of people annoyed.\n\nThe system asks users to add a credit card to prove they’re 18 or older and people don’t have a credit card and normally use debit cards https://t.co/5Q1k7Ytdfi"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2098041175836082435",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2603,
+          "following_count": 3981,
+          "like_count": 76431,
+          "listed_count": 12,
+          "media_count": 629,
+          "tweet_count": 22764
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1986176138612203520/7i9dNuHe_bigger.png",
+          "description": "Skins.com",
+          "url": "https://twitter.com/skinscom",
+          "user_id": [
+            "1813448243281330176"
+          ]
+        },
+        "created_at": "2022-07-15T13:03:09.000Z",
+        "description": "Tech & gaming analysis with the latest updates | TV & Films | alt: @piratnation | Official @skinscom Affiliate",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 67,
+                "username": "piratnation"
+              },
+              {
+                "end": 100,
+                "start": 91,
+                "username": "skinscom"
+              }
+            ]
+          }
+        },
+        "id": "1547929727960199180",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098039251413668096",
+        "name": "Pirat_Nation 🔴",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1547929727960199180/1714831454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795139938586890240/fQtS5oQr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 348747,
+          "following_count": 95,
+          "like_count": 40402,
+          "listed_count": 1133,
+          "media_count": 21835,
+          "tweet_count": 30898
+        },
+        "url": "",
+        "username": "Pirat_Nation",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

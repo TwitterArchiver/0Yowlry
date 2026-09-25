@@ -1,0 +1,192 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1943688025742917699",
+    "created_at": "2026-09-06T14:07:00.000Z",
+    "display_text_range": [
+      11,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T15:07:00.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096601059829678539"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1877087817857380353",
+          "start": 0,
+          "username": "Ciallo003"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096601059829678539",
+    "in_reply_to_user_id": "1877087817857380353",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1943688025742917699",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Ciallo003 👁"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1943688025742917699].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1943688025742917699",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "1943688025742917699"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1943688025742917699",
+        "created_at": "2026-09-06T14:07:00.000Z",
+        "display_text_range": [
+          11,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T15:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096601059829678539"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1877087817857380353",
+              "start": 0,
+              "username": "Ciallo003"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096601059829678539",
+        "in_reply_to_user_id": "1877087817857380353",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1943688025742917699",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Ciallo003 👁"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnUI1a"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2096601059829678539",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2593,
+          "following_count": 3881,
+          "like_count": 74150,
+          "listed_count": 12,
+          "media_count": 605,
+          "tweet_count": 22191
+        },
+        "url": "https://t.co/ZXakBnUI1a",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-08T20:19:55.000Z",
+        "description": "死了……大概",
+        "id": "1877087817857380353",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "1945576648402780542",
+        "name": "耶耶",
+        "pinned_tweet_id": "1926457089452318788",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1877087817857380353/1748503218",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1927736328688664576/gg8XmEmj_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 51,
+          "following_count": 52,
+          "like_count": 614,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 132
+        },
+        "url": "",
+        "username": "Ciallo003",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

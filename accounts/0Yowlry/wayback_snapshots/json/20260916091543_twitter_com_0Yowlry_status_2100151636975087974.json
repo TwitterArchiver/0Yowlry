@@ -1,0 +1,507 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2099880798858158267",
+    "created_at": "2026-09-16T09:15:43.000Z",
+    "display_text_range": [
+      25,
+      68
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-16T10:15:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2100151636975087974"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2066947618178015232",
+          "start": 0,
+          "username": "RyokoPanic"
+        },
+        {
+          "end": 24,
+          "id": "1736265610911428608",
+          "start": 12,
+          "username": "noname2095_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/nikitabier/sta…",
+          "end": 48,
+          "expanded_url": "https://x.com/nikitabier/status/2017134769113542752?s=20",
+          "start": 25,
+          "url": "https://t.co/cYi1qqGltz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2100151636975087974",
+    "in_reply_to_user_id": "2066947618178015232",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2017134769113542752",
+        "type": "quoted"
+      },
+      {
+        "id": "2100020674278383834",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@RyokoPanic @noname2095_ https://t.co/cYi1qqGltz\npaid lapdogs shills"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2099880798858158267",
+        "created_at": "2026-09-16T09:15:43.000Z",
+        "display_text_range": [
+          25,
+          68
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T10:15:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100151636975087974"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2066947618178015232",
+              "start": 0,
+              "username": "RyokoPanic"
+            },
+            {
+              "end": 24,
+              "id": "1736265610911428608",
+              "start": 12,
+              "username": "noname2095_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/nikitabier/sta…",
+              "end": 48,
+              "expanded_url": "https://x.com/nikitabier/status/2017134769113542752?s=20",
+              "start": 25,
+              "url": "https://t.co/cYi1qqGltz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100151636975087974",
+        "in_reply_to_user_id": "2066947618178015232",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017134769113542752",
+            "type": "quoted"
+          },
+          {
+            "id": "2100020674278383834",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@RyokoPanic @noname2095_ https://t.co/cYi1qqGltz\npaid lapdogs shills"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2066947618178015232",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518689897296453633",
+              "name": "United States political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1561891332158738433",
+              "name": "Crime in the United States"
+            }
+          }
+        ],
+        "conversation_id": "2099880798858158267",
+        "created_at": "2026-09-16T00:35:19.000Z",
+        "display_text_range": [
+          13,
+          286
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-16T01:35:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2100020674278383834"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1736265610911428608",
+              "start": 0,
+              "username": "noname2095_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100020674278383834",
+        "in_reply_to_user_id": "1736265610911428608",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {},
+          "text": "Hey im an american and i recently talked about how all those videos that show immaculate chinese cities saying theres no crime or poverty, etc are all bullshit. I even mentioned the giant Meth problem in China, and immediately had 30 accounts on me with weird location data telling me im full of shit but they read meth as marijuana lol so i know they werent americans as they pretended to be so it was the water army."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 3189,
+          "like_count": 22,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099880798858158267",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@noname2095_ Hey im an american and i recently talked about how all those videos that show immaculate chinese cities saying theres no crime or poverty, etc are all bullshit. I even mentioned the giant Meth problem in China, and immediately had 30 accounts on me with weird location data"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "636513296",
+        "conversation_id": "2017126819963818174",
+        "created_at": "2026-01-30T07:16:20.000Z",
+        "display_text_range": [
+          10,
+          249
+        ],
+        "edit_controls": {
+          "editable_until": "2026-01-30T08:16:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2017134769113542752"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1059638356609396736",
+              "start": 0,
+              "username": "fxtrader"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2017134769113542752",
+        "in_reply_to_user_id": "1059638356609396736",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1258,
+          "impression_count": 943046,
+          "like_count": 6003,
+          "quote_count": 389,
+          "reply_count": 324,
+          "retweet_count": 1096
+        },
+        "referenced_tweets": [
+          {
+            "id": "2017133513774927949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@fxtrader The Chinese government floods X search results with porn whenever there is political unrest—to prevent their citizens from finding out real-time information.\n\nThis has been a difficult problem to solve but we are aware &amp; working on it."
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2100151636975087974",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2633,
+          "following_count": 4057,
+          "like_count": 80879,
+          "listed_count": 12,
+          "media_count": 662,
+          "tweet_count": 23643
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-06-16T18:16:21.000Z",
+        "description": "Chilled out Forest Elf who got too tired of the big city after being isekai'd to Earth.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ryokopanic.carrd.co",
+                "end": 23,
+                "expanded_url": "https://ryokopanic.carrd.co",
+                "start": 0,
+                "url": "https://t.co/GKsV4vt78K"
+              }
+            ]
+          }
+        },
+        "id": "2066947618178015232",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100074396706591177",
+        "name": "Ryoko Panic 😱🐦‍⬛",
+        "pinned_tweet_id": "2077789607794500031",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2066947618178015232/1787563093",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094676060654665728/qXFOvyFC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 230,
+          "following_count": 142,
+          "like_count": 628,
+          "listed_count": 3,
+          "media_count": 23,
+          "tweet_count": 74
+        },
+        "url": "https://t.co/GKsV4vt78K",
+        "username": "RyokoPanic",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-17T06:03:03.000Z",
+        "description": "29元包年千G流量VPN👉🏻：https://t.co/MVeoKpvKXj\n\n🧡🤍🩷🏳️‍⚧️\n我很穷啥也不会请给我钱\n那你能帮帮我吗\n我是跨女给我往包裹里倒塞两盒日雌\n个人账号：https://t.co/5wRZ4IDVG0",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "yy.tz69.vip/#/register?cod…",
+                "end": 38,
+                "expanded_url": "https://www.yy.tz69.vip/#/register?code=BkiKFzKe",
+                "start": 15,
+                "url": "https://t.co/MVeoKpvKXj"
+              },
+              {
+                "display_url": "noname2095.bsky.social",
+                "end": 114,
+                "expanded_url": "http://noname2095.bsky.social",
+                "start": 91,
+                "url": "https://t.co/5wRZ4IDVG0"
+              }
+            ]
+          }
+        },
+        "id": "1736265610911428608",
+        "is_identity_verified": false,
+        "location": "南极洲",
+        "most_recent_tweet_id": "2100151246921540095",
+        "name": "noname",
+        "pinned_tweet_id": "1772656363941908692",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1736265610911428608/1702793756",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1945223550417186816/HdhCpSMc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2909,
+          "following_count": 469,
+          "like_count": 5457,
+          "listed_count": 9,
+          "media_count": 326,
+          "tweet_count": 13142
+        },
+        "url": "",
+        "username": "noname2095_",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-07-15T22:44:07.000Z",
+        "description": "ex-head of product @x",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 21,
+                "start": 19,
+                "username": "x"
+              }
+            ]
+          }
+        },
+        "id": "636513296",
+        "is_identity_verified": false,
+        "location": "Palo Alto",
+        "most_recent_tweet_id": "2100004154034835591",
+        "name": "Nikita Bier",
+        "pinned_tweet_id": "2094853541756338533",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/636513296/1777070372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1334160,
+          "following_count": 2064,
+          "like_count": 40393,
+          "listed_count": 6099,
+          "media_count": 1658,
+          "tweet_count": 11945
+        },
+        "url": "",
+        "username": "nikitabier",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-11-06T02:47:26.000Z",
+        "description": "盯紧市场，把握时机。理性客观，利益永恒。",
+        "id": "1059638356609396736",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2100133936450195924",
+        "name": "外汇交易员",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1059638356609396736/1582338929",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056408582779019264/LpiYOnnm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 404689,
+          "following_count": 506,
+          "like_count": 7901,
+          "listed_count": 3917,
+          "media_count": 15680,
+          "tweet_count": 48901
+        },
+        "url": "",
+        "username": "fxtrader",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

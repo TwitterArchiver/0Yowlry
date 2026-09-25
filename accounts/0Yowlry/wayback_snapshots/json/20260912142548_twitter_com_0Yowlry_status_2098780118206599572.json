@@ -1,0 +1,476 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1292858558652923915",
+          "name": "Chunithm"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1292858558652923915",
+          "name": "Chunithm"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      }
+    ],
+    "conversation_id": "2098780118206599572",
+    "created_at": "2026-09-12T14:25:48.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T15:25:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098780118206599572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "1001107099",
+          "start": 3,
+          "username": "maimai_official"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098780118206599572",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1880
+    },
+    "referenced_tweets": [
+      {
+        "id": "1503929043409723393",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @maimai_official: 【UNiVERSE PLUSコラボ情報・第２弾！】\n世界中で絶大な人気の「ツユ」コラボイベント、3/24(木)より開催！\n「くらべられっ子」「あの世行きのバスに乗ってさらば。」が『maimai でらっくす』に収録＆さらにCHUNITHM…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1152,
+        "media_key": "3_1503688759329853440",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/FN4s9bCakAAleKU.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "2098780118206599572",
+        "created_at": "2026-09-12T14:25:48.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T15:25:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098780118206599572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "1001107099",
+              "start": 3,
+              "username": "maimai_official"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098780118206599572",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1880
+        },
+        "referenced_tweets": [
+          {
+            "id": "1503929043409723393",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @maimai_official: 【UNiVERSE PLUSコラボ情報・第２弾！】\n世界中で絶大な人気の「ツユ」コラボイベント、3/24(木)より開催！\n「くらべられっ子」「あの世行きのバスに乗ってさらば。」が『maimai でらっくす』に収録＆さらにCHUNITHM…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1503688759329853440"
+          ]
+        },
+        "author_id": "1001107099",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          }
+        ],
+        "conversation_id": "1503929043409723393",
+        "created_at": "2022-03-16T03:00:00.000Z",
+        "display_text_range": [
+          0,
+          158
+        ],
+        "edit_controls": {
+          "editable_until": "2022-03-16T03:30:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1503929043409723393"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AItryLnSvu",
+              "end": 182,
+              "expanded_url": "https://x.com/maimai_official/status/1503929043409723393/photo/1",
+              "media_key": "3_1503688759329853440",
+              "start": 159,
+              "url": "https://t.co/AItryLnSvu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1503929043409723393",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_1503688759329853440"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 88,
+          "impression_count": 0,
+          "like_count": 4425,
+          "quote_count": 480,
+          "reply_count": 24,
+          "retweet_count": 1880
+        },
+        "reply_settings": "everyone",
+        "text": "【UNiVERSE PLUSコラボ情報・第２弾！】\n世界中で絶大な人気の「ツユ」コラボイベント、3/24(木)より開催！\n「くらべられっ子」「あの世行きのバスに乗ってさらば。」が『maimai でらっくす』に収録＆さらにCHUNITHMより「テリトリーバトル」収録も決定！\nちほーを進んで、キャラたちもゲットしよう！ https://t.co/AItryLnSvu"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2098780118206599572",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2611,
+          "following_count": 3995,
+          "like_count": 77519,
+          "listed_count": 12,
+          "media_count": 641,
+          "tweet_count": 23018
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-12-10T06:53:46.000Z",
+        "description": "洗濯機みたいなSEGA音楽ゲーム「maimai」公式アカウントです。\n▼SEGA音ゲーまとめ→ @performai ▼公式全国大会→ @kop_sega ▼言ノ葉Project→ @kotonoha_PJ ▼CHUNITHM公式→ @chunithm ▼オンゲキ公式→ @ongeki_official",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 48,
+                "username": "performai"
+              },
+              {
+                "end": 77,
+                "start": 68,
+                "username": "kop_sega"
+              },
+              {
+                "end": 103,
+                "start": 91,
+                "username": "kotonoha_PJ"
+              },
+              {
+                "end": 126,
+                "start": 117,
+                "username": "chunithm"
+              },
+              {
+                "end": 152,
+                "start": 136,
+                "username": "ongeki_official"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maimai.sega.jp",
+                "end": 23,
+                "expanded_url": "https://maimai.sega.jp/",
+                "start": 0,
+                "url": "https://t.co/LI9j5dkDL6"
+              }
+            ]
+          }
+        },
+        "id": "1001107099",
+        "is_identity_verified": false,
+        "location": "セガ",
+        "most_recent_tweet_id": "2098245226301448212",
+        "name": "maimai でらっくす公式",
+        "pinned_tweet_id": "2097159253131964569",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1001107099/1773882368",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1270188881581756419/7hrfPNnB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 186643,
+          "following_count": 27,
+          "like_count": 181,
+          "listed_count": 1341,
+          "media_count": 1413,
+          "tweet_count": 3173
+        },
+        "url": "https://t.co/LI9j5dkDL6",
+        "username": "maimai_official",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

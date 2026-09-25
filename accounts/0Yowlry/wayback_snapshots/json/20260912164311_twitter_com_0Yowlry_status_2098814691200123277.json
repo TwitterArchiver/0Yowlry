@@ -1,0 +1,328 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2098388345533628907",
+    "created_at": "2026-09-12T16:43:11.000Z",
+    "display_text_range": [
+      9,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T17:43:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098814691200123277"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "2029529970553597952",
+          "start": 0,
+          "username": "aominzu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098814691200123277",
+    "in_reply_to_user_id": "2029529970553597952",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098388345533628907",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aominzu 🥳"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2098388338822844417",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR75E5BbkAEiVIP.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2098388345533628907",
+        "created_at": "2026-09-12T16:43:11.000Z",
+        "display_text_range": [
+          9,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T17:43:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098814691200123277"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "2029529970553597952",
+              "start": 0,
+              "username": "aominzu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098814691200123277",
+        "in_reply_to_user_id": "2029529970553597952",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098388345533628907",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aominzu 🥳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098388338822844417"
+          ]
+        },
+        "author_id": "2029529970553597952",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2098388345533628907",
+        "created_at": "2026-09-11T12:29:02.000Z",
+        "display_text_range": [
+          0,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T13:29:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098388345533628907"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 29,
+              "start": 24,
+              "tag": "初音ミク"
+            },
+            {
+              "end": 42,
+              "start": 30,
+              "tag": "hatsunemiku"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/CgHQUUphtX",
+              "end": 66,
+              "expanded_url": "https://x.com/aominzu/status/2098388345533628907/photo/1",
+              "media_key": "3_2098388338822844417",
+              "start": 43,
+              "url": "https://t.co/CgHQUUphtX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098388345533628907",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2098388338822844417"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 114,
+          "impression_count": 21637,
+          "like_count": 1557,
+          "quote_count": 1,
+          "reply_count": 5,
+          "retweet_count": 88
+        },
+        "reply_settings": "everyone",
+        "text": "今日は四十分でミクちゃん！ギャルっぽく描いたよ\n#初音ミク　#hatsunemiku https://t.co/CgHQUUphtX"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2098814691200123277",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2608,
+          "following_count": 4017,
+          "like_count": 77933,
+          "listed_count": 12,
+          "media_count": 644,
+          "tweet_count": 23070
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-05T12:10:43.000Z",
+        "description": "初音ミクとことねが大好きでよく描いてます。学マス中心雑多。\nオリジナル垢@aominzusub",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 47,
+                "start": 36,
+                "username": "aominzusub"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "marshmallow-qa.com/t9m1ezllz9jmg3…",
+                "end": 23,
+                "expanded_url": "https://marshmallow-qa.com/t9m1ezllz9jmg33?t=6LwiLh&utm_medium=url_text&utm_source=promotion",
+                "start": 0,
+                "url": "https://t.co/qrbIkjwfAE"
+              }
+            ]
+          }
+        },
+        "id": "2029529970553597952",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098787126158786969",
+        "name": "あおみんず",
+        "pinned_tweet_id": "2096220679461023922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029529970553597952/1788676900",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096378425024167937/Dt4-hEjD_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1173,
+          "following_count": 28,
+          "like_count": 61566,
+          "listed_count": 2,
+          "media_count": 329,
+          "tweet_count": 1121
+        },
+        "url": "https://t.co/qrbIkjwfAE",
+        "username": "aominzu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

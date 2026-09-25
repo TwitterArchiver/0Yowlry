@@ -1,0 +1,231 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2098308196972777871",
+    "created_at": "2026-09-14T15:46:09.000Z",
+    "display_text_range": [
+      24,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T16:46:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099525116329930825"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1734787475518943232",
+          "start": 0,
+          "username": "Uesugikumo"
+        },
+        {
+          "end": 23,
+          "id": "1874109310659350528",
+          "start": 12,
+          "username": "ranranbing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099525116329930825",
+    "in_reply_to_user_id": "1734787475518943232",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099370486245490915",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Uesugikumo @ranranbing 薇欧拉（确信）"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2099370486245490915].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2099370486245490915",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2099370486245490915"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2098308196972777871",
+        "created_at": "2026-09-14T15:46:09.000Z",
+        "display_text_range": [
+          24,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T16:46:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099525116329930825"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1734787475518943232",
+              "start": 0,
+              "username": "Uesugikumo"
+            },
+            {
+              "end": 23,
+              "id": "1874109310659350528",
+              "start": 12,
+              "username": "ranranbing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099525116329930825",
+        "in_reply_to_user_id": "1734787475518943232",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099370486245490915",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Uesugikumo @ranranbing 薇欧拉（确信）"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2099525116329930825",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2627,
+          "following_count": 4048,
+          "like_count": 79991,
+          "listed_count": 12,
+          "media_count": 657,
+          "tweet_count": 23491
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-12-13T04:09:10.000Z",
+        "description": "蜀と秦の境界があるところ出身，\n前世（中の人）は冉天元です ｡\nCCPの行政区画が大嫌い反対して，\n歴史的な行政区画を気に入る。\n歴史地理愛好家|JLPT→N2\n日本語⭕ 中文繁簡 ⭕ 巴蜀語（秦巴方言）⭕\n日本史と日本のアニメが大好き｡\n金沢大学大学院入試の準備をしている ｡",
+        "id": "1734787475518943232",
+        "is_identity_verified": false,
+        "location": "1823年6月27日以前的通江縣冉家灣冉天元家裡",
+        "most_recent_tweet_id": "2098386384285577442",
+        "name": "上杉くも",
+        "pinned_tweet_id": "2054058265642762588",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1734787475518943232/1739725951",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1891173803482632192/0NZqt3MJ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 145,
+          "following_count": 277,
+          "like_count": 5034,
+          "listed_count": 1,
+          "media_count": 224,
+          "tweet_count": 1377
+        },
+        "url": "",
+        "username": "Uesugikumo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-31T15:05:02.000Z",
+        "description": "子弹永远不会变成和平鸽，但和平鸽永远不会怕子弹；崇尚人道和民生，不参与任何意识形态讨论，消失了可能是在好好生活（你要是觉得我说的话不合你胃口或者错的，把我当个煞笔就行）",
+        "id": "1874109310659350528",
+        "is_identity_verified": false,
+        "location": "三号宿舍里屋",
+        "most_recent_tweet_id": "2099522653015183808",
+        "name": "然",
+        "pinned_tweet_id": "2092852962897104953",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1874109310659350528/1784508667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004453997688901633/rBssly77_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 649,
+          "following_count": 810,
+          "like_count": 28104,
+          "listed_count": 2,
+          "media_count": 1850,
+          "tweet_count": 7616
+        },
+        "url": "",
+        "username": "ranranbing",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,585 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2026887071676383454",
+    "created_at": "2026-09-07T09:19:26.000Z",
+    "display_text_range": [
+      102,
+      103
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T10:19:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096891080977555691"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 5,
+          "id": "1720665183188922368",
+          "start": 0,
+          "username": "grok"
+        },
+        {
+          "end": 17,
+          "id": "198093147",
+          "start": 6,
+          "username": "DksbDIdjnd"
+        },
+        {
+          "end": 33,
+          "id": "1604181895721504771",
+          "start": 18,
+          "username": "mengtunwudaimu"
+        },
+        {
+          "end": 49,
+          "id": "2009145849146929153",
+          "start": 34,
+          "username": "7shinagotohell"
+        },
+        {
+          "end": 58,
+          "id": "1588471459147415552",
+          "start": 50,
+          "username": "GAloxiv"
+        },
+        {
+          "end": 67,
+          "id": "1097833286544412672",
+          "start": 59,
+          "username": "XeproCN"
+        },
+        {
+          "end": 84,
+          "id": "1600314217269075968",
+          "start": 68,
+          "username": "nightingale0115"
+        },
+        {
+          "end": 101,
+          "id": "1983755008777838592",
+          "start": 85,
+          "username": "Droplet_Express"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096891080977555691",
+    "in_reply_to_user_id": "1720665183188922368",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2027290917892153475",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@grok @DksbDIdjnd @mengtunwudaimu @7shinagotohell @GAloxiv @XeproCN @nightingale0115 @Droplet_Express 😹"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [7shinagotohell].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "7shinagotohell",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "7shinagotohell"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2026887071676383454",
+        "created_at": "2026-09-07T09:19:26.000Z",
+        "display_text_range": [
+          102,
+          103
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T10:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096891080977555691"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 5,
+              "id": "1720665183188922368",
+              "start": 0,
+              "username": "grok"
+            },
+            {
+              "end": 17,
+              "id": "198093147",
+              "start": 6,
+              "username": "DksbDIdjnd"
+            },
+            {
+              "end": 33,
+              "id": "1604181895721504771",
+              "start": 18,
+              "username": "mengtunwudaimu"
+            },
+            {
+              "end": 49,
+              "id": "2009145849146929153",
+              "start": 34,
+              "username": "7shinagotohell"
+            },
+            {
+              "end": 58,
+              "id": "1588471459147415552",
+              "start": 50,
+              "username": "GAloxiv"
+            },
+            {
+              "end": 67,
+              "id": "1097833286544412672",
+              "start": 59,
+              "username": "XeproCN"
+            },
+            {
+              "end": 84,
+              "id": "1600314217269075968",
+              "start": 68,
+              "username": "nightingale0115"
+            },
+            {
+              "end": 101,
+              "id": "1983755008777838592",
+              "start": 85,
+              "username": "Droplet_Express"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096891080977555691",
+        "in_reply_to_user_id": "1720665183188922368",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027290917892153475",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@grok @DksbDIdjnd @mengtunwudaimu @7shinagotohell @GAloxiv @XeproCN @nightingale0115 @Droplet_Express 😹"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1720665183188922368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "The world's smartest AI, Grok 3, is now available on X and iOS. Tap below to try.\n\nGrok in X: https://x.com/i/grok\n\nGrok on iOS: https://apps.apple.com/us/app/grok/id6670324846 ",
+              "id": "1892394207127465984",
+              "name": "Grok 3 is here. Try it for free."
+            }
+          }
+        ],
+        "conversation_id": "2026887071676383454",
+        "created_at": "2026-02-27T07:53:14.000Z",
+        "display_text_range": [
+          96,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-02-27T08:53:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2027290917892153475"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "198093147",
+              "start": 0,
+              "username": "DksbDIdjnd"
+            },
+            {
+              "end": 27,
+              "id": "1604181895721504771",
+              "start": 12,
+              "username": "mengtunwudaimu"
+            },
+            {
+              "end": 43,
+              "id": "2009145849146929153",
+              "start": 28,
+              "username": "7shinagotohell"
+            },
+            {
+              "end": 52,
+              "id": "1588471459147415552",
+              "start": 44,
+              "username": "GAloxiv"
+            },
+            {
+              "end": 61,
+              "id": "1097833286544412672",
+              "start": 53,
+              "username": "XeproCN"
+            },
+            {
+              "end": 78,
+              "id": "1600314217269075968",
+              "start": 62,
+              "username": "nightingale0115"
+            },
+            {
+              "end": 95,
+              "id": "1983755008777838592",
+              "start": 79,
+              "username": "Droplet_Express"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2027290917892153475",
+        "in_reply_to_user_id": "198093147",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 273,
+          "impression_count": 150556,
+          "like_count": 1748,
+          "quote_count": 95,
+          "reply_count": 76,
+          "retweet_count": 372
+        },
+        "referenced_tweets": [
+          {
+            "id": "2027290735679340762",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DksbDIdjnd @mengtunwudaimu @7shinagotohell @GAloxiv @XeproCN @nightingale0115 @Droplet_Express 支那人能不能冷靜一點"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnUI1a"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2096891080977555691",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2597,
+          "following_count": 3957,
+          "like_count": 74788,
+          "listed_count": 12,
+          "media_count": 606,
+          "tweet_count": 22343
+        },
+        "url": "https://t.co/ZXakBnUI1a",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096891095519002935",
+        "name": "Grok",
+        "pinned_tweet_id": "2087225707504214130",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9042423,
+          "following_count": 4,
+          "like_count": 136,
+          "listed_count": 7539,
+          "media_count": 9343778,
+          "tweet_count": 139295536
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-10-03T10:01:56.000Z",
+        "description": "直立人的後代能不能再冷靜一些。沒有什麼川普只有克拉斯諾夫同志😁",
+        "id": "198093147",
+        "is_identity_verified": false,
+        "location": "Stockholm, Saskatchewan",
+        "most_recent_tweet_id": "2096357134535721409",
+        "name": "野田毅归来🇯🇵看中华民族土崩瓦解⚔️关孙六出土之日已经到来🤡",
+        "pinned_tweet_id": "1400533433697267712",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/198093147/1673343587",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1601821623945809920/XnmSNnKY_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1426,
+          "following_count": 2230,
+          "like_count": 11546,
+          "listed_count": 6,
+          "media_count": 740,
+          "tweet_count": 11392
+        },
+        "url": "",
+        "username": "DksbDIdjnd",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-17T18:29:10.000Z",
+        "description": "我爱大家",
+        "id": "1604181895721504771",
+        "is_identity_verified": false,
+        "location": "IP属地：南京",
+        "most_recent_tweet_id": "2096617586444386608",
+        "name": "川和喵酱薯条🍟🇯🇵井外势力",
+        "pinned_tweet_id": "1729765345424990414",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1604181895721504771/1697508022",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2067680240068083713/vzZpnDsF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 15067,
+          "following_count": 3138,
+          "like_count": 32274,
+          "listed_count": 150,
+          "media_count": 2992,
+          "tweet_count": 19137
+        },
+        "url": "",
+        "username": "mengtunwudaimu",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-11-04T10:03:11.000Z",
+        "description": "......我从那个世界来到这里,只是为了看一看你.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gallcha.cn",
+                "end": 23,
+                "expanded_url": "https://www.gallcha.cn",
+                "start": 0,
+                "url": "https://t.co/3BfBlQGakq"
+              }
+            ]
+          }
+        },
+        "id": "1588471459147415552",
+        "is_identity_verified": false,
+        "location": "众神不灭,生无可恋.",
+        "most_recent_tweet_id": "2096880260696457453",
+        "name": "Gallcha Aloxiv",
+        "pinned_tweet_id": "2024767180613800128",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1588471459147415552/1760531910",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005974239707586560/scD_G70L_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 36,
+          "following_count": 54,
+          "like_count": 663,
+          "listed_count": 1,
+          "media_count": 169,
+          "tweet_count": 6902
+        },
+        "url": "https://t.co/3BfBlQGakq",
+        "username": "GAloxiv",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-02-19T12:20:27.000Z",
+        "description": "可以有梦，但不要活在梦里。Be real, be realistic.",
+        "id": "1097833286544412672",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2088785398365291005",
+        "name": "xepro",
+        "pinned_tweet_id": "1613442195721433088",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1097833286544412672/1656577719",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1097836429525147648/LNzErVLc_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 288,
+          "following_count": 322,
+          "like_count": 4872,
+          "listed_count": 8,
+          "media_count": 509,
+          "tweet_count": 16615
+        },
+        "url": "",
+        "username": "XeproCN",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-12-07T02:20:45.000Z",
+        "description": "就是隻夜鶯",
+        "id": "1600314217269075968",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096870460881584518",
+        "name": "夜鶯",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1663428771582742531/3FWoRs5E_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 82,
+          "following_count": 28,
+          "like_count": 110,
+          "listed_count": 10,
+          "media_count": 64,
+          "tweet_count": 4867
+        },
+        "url": "",
+        "username": "nightingale0115",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-30T04:37:22.000Z",
+        "description": "流年清风皆有约，浮生繁花自如期。\n坐月子小号@wallfacero41419",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 38,
+                "start": 22,
+                "username": "wallfacero41419"
+              }
+            ]
+          }
+        },
+        "id": "1983755008777838592",
+        "is_identity_verified": false,
+        "location": "上海",
+        "most_recent_tweet_id": "2095393218313793779",
+        "name": "鹤顶红咖喱🚗🚗🚗",
+        "pinned_tweet_id": "2088142412078342441",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1983755008777838592/1772599444",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2029055241950498816/14vYtgei_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2309,
+          "following_count": 254,
+          "like_count": 94838,
+          "listed_count": 46,
+          "media_count": 771,
+          "tweet_count": 7925
+        },
+        "url": "",
+        "username": "Droplet_Express",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

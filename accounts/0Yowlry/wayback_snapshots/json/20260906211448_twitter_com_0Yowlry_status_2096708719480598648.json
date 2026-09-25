@@ -1,0 +1,335 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2092263563381350655",
+    "created_at": "2026-09-06T21:14:48.000Z",
+    "display_text_range": [
+      8,
+      9
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T22:14:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096708719480598648"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2480951",
+          "start": 0,
+          "username": "ubuntu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096708719480598648",
+    "in_reply_to_user_id": "2480951",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2092263563381350655",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ubuntu 🥳"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 30000,
+        "height": 720,
+        "media_key": "13_2092263499875426305",
+        "preview_image_url": "https://pbs.twimg.com/media/HQk2mx8XoAAnvdC.jpg",
+        "public_metrics": {
+          "view_count": 195797
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092263499875426305/vid/avc1/480x270/A-MLFnchZDr6MeUu.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092263499875426305/vid/avc1/640x360/S4_GXhSyexteeg8o.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2092263499875426305/vid/avc1/1280x720/OsKi4alVy1_pELTm.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2092263499875426305/pl/MZWWL3FDdPltTn7L.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2092263563381350655",
+        "created_at": "2026-09-06T21:14:48.000Z",
+        "display_text_range": [
+          8,
+          9
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T22:14:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096708719480598648"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2480951",
+              "start": 0,
+              "username": "ubuntu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096708719480598648",
+        "in_reply_to_user_id": "2480951",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2092263563381350655",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ubuntu 🥳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2092263499875426305"
+          ]
+        },
+        "author_id": "2480951",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Linux",
+              "id": "848959431836487680",
+              "name": "Linux"
+            }
+          }
+        ],
+        "conversation_id": "2092263563381350655",
+        "created_at": "2026-08-25T14:51:20.000Z",
+        "display_text_range": [
+          0,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-25T15:51:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2092263563381350655"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/TLEULmtHxQ",
+              "end": 67,
+              "expanded_url": "https://x.com/ubuntu/status/2092263563381350655/video/1",
+              "media_key": "13_2092263499875426305",
+              "start": 44,
+              "url": "https://t.co/TLEULmtHxQ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2092263563381350655",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2092263499875426305"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 798,
+          "impression_count": 529847,
+          "like_count": 23888,
+          "quote_count": 239,
+          "reply_count": 341,
+          "retweet_count": 3594
+        },
+        "reply_settings": "everyone",
+        "text": "35 years strong. 🐧🧡\n\nHappy birthday, Linux. https://t.co/TLEULmtHxQ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnUI1a"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2096708719480598648",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2595,
+          "following_count": 3906,
+          "like_count": 74450,
+          "listed_count": 12,
+          "media_count": 605,
+          "tweet_count": 22308
+        },
+        "url": "https://t.co/ZXakBnUI1a",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2007-03-27T12:47:45.000Z",
+        "description": "Ubuntu is an open source software operating system that runs from the desktop, to the cloud, to all your internet connected things.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ubuntu.com",
+                "end": 23,
+                "expanded_url": "http://www.ubuntu.com",
+                "start": 0,
+                "url": "https://t.co/cROykoVbKD"
+              }
+            ]
+          }
+        },
+        "id": "2480951",
+        "is_identity_verified": false,
+        "location": "Desktop Cloud Server Container",
+        "most_recent_tweet_id": "2096632608218067065",
+        "name": "Ubuntu",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2480951/1751880284",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1630964842197573632/X5VCQoYL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 708064,
+          "following_count": 1054,
+          "like_count": 4145,
+          "listed_count": 5854,
+          "media_count": 7177,
+          "tweet_count": 14053
+        },
+        "url": "https://t.co/cROykoVbKD",
+        "username": "ubuntu",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

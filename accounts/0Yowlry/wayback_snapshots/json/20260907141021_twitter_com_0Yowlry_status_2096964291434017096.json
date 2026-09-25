@@ -1,0 +1,627 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2096615266335719736",
+    "created_at": "2026-09-07T14:10:21.000Z",
+    "display_text_range": [
+      21,
+      53
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-07T15:10:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096964291434017096"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "3889477753",
+          "start": 0,
+          "username": "YJ42_3"
+        },
+        {
+          "end": 20,
+          "id": "1268182838139969540",
+          "start": 8,
+          "username": "HANCYAN0907"
+        },
+        {
+          "end": 29,
+          "id": "1961430478701182976",
+          "start": 21,
+          "username": "ohnohyw"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/ohnohyw/status…",
+          "end": 53,
+          "expanded_url": "https://x.com/ohnohyw/status/2096419526623781281?s=20",
+          "start": 30,
+          "url": "https://t.co/RJ6pWlUyRE"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096964291434017096",
+    "in_reply_to_user_id": "3889477753",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096419526623781281",
+        "type": "quoted"
+      },
+      {
+        "id": "2096724291362730439",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@YJ42_3 @HANCYAN0907 @ohnohyw https://t.co/RJ6pWlUyRE"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 6041,
+        "height": 640,
+        "media_key": "13_2096724269904654337",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2096724269904654337/img/AhQPVYA_u_2rcf6B.jpg",
+        "public_metrics": {
+          "view_count": 38
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 800000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096724269904654337/vid/avc1/320x426/Fhz3by2rUyqjm1j6.mp4?tag=25"
+          },
+          {
+            "bit_rate": 5184000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2096724269904654337/vid/avc1/480x640/SvDdhlXm5jNsfFwg.mp4?tag=25"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2096724269904654337/pl/cHKhUntI3cxqQG2G.m3u8?tag=25"
+          }
+        ],
+        "width": 480
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2096419467664453632",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRf6ZgZacAAy4Qj.jpg",
+        "width": 1920
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2096419477831528448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRf6aGRbsAAr2b7.jpg",
+        "width": 4080
+      },
+      {
+        "height": 1440,
+        "media_key": "3_2096419512640040960",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRf6cH8bcAAxyMZ.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2096615266335719736",
+        "created_at": "2026-09-07T14:10:21.000Z",
+        "display_text_range": [
+          21,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-07T15:10:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096964291434017096"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "3889477753",
+              "start": 0,
+              "username": "YJ42_3"
+            },
+            {
+              "end": 20,
+              "id": "1268182838139969540",
+              "start": 8,
+              "username": "HANCYAN0907"
+            },
+            {
+              "end": 29,
+              "id": "1961430478701182976",
+              "start": 21,
+              "username": "ohnohyw"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/ohnohyw/status…",
+              "end": 53,
+              "expanded_url": "https://x.com/ohnohyw/status/2096419526623781281?s=20",
+              "start": 30,
+              "url": "https://t.co/RJ6pWlUyRE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096964291434017096",
+        "in_reply_to_user_id": "3889477753",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096419526623781281",
+            "type": "quoted"
+          },
+          {
+            "id": "2096724291362730439",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@YJ42_3 @HANCYAN0907 @ohnohyw https://t.co/RJ6pWlUyRE"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2096724269904654337"
+          ]
+        },
+        "author_id": "3889477753",
+        "conversation_id": "2096615266335719736",
+        "created_at": "2026-09-06T22:16:40.000Z",
+        "display_text_range": [
+          13,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T23:16:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096724291362730439"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1268182838139969540",
+              "start": 0,
+              "username": "HANCYAN0907"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/hAcCaQj4qd",
+              "end": 65,
+              "expanded_url": "https://x.com/YJ42_3/status/2096724291362730439/video/1",
+              "media_key": "13_2096724269904654337",
+              "start": 42,
+              "url": "https://t.co/hAcCaQj4qd"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096724291362730439",
+        "in_reply_to_user_id": "1268182838139969540",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2096724269904654337"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 83,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096615266335719736",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HANCYAN0907 半ちゃん、お誕生日おめでとう🎉🎊\nフェ〇りんプレゼント🎁 https://t.co/hAcCaQj4qd"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2096419467664453632",
+            "3_2096419477831528448",
+            "3_2096419512640040960"
+          ]
+        },
+        "author_id": "1961430478701182976",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          }
+        ],
+        "conversation_id": "2096419526623781281",
+        "created_at": "2026-09-06T02:05:39.000Z",
+        "display_text_range": [
+          0,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T03:05:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096419526623781281"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kmFa48JVEK",
+              "end": 38,
+              "expanded_url": "https://x.com/ohnohyw/status/2096419526623781281/photo/1",
+              "media_key": "3_2096419467664453632",
+              "start": 15,
+              "url": "https://t.co/kmFa48JVEK"
+            },
+            {
+              "display_url": "pic.x.com/kmFa48JVEK",
+              "end": 38,
+              "expanded_url": "https://x.com/ohnohyw/status/2096419526623781281/photo/1",
+              "media_key": "3_2096419477831528448",
+              "start": 15,
+              "url": "https://t.co/kmFa48JVEK"
+            },
+            {
+              "display_url": "pic.x.com/kmFa48JVEK",
+              "end": 38,
+              "expanded_url": "https://x.com/ohnohyw/status/2096419526623781281/photo/1",
+              "media_key": "3_2096419512640040960",
+              "start": 15,
+              "url": "https://t.co/kmFa48JVEK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096419526623781281",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2096419467664453632"
+          },
+          {
+            "media_key": "3_2096419477831528448"
+          },
+          {
+            "media_key": "3_2096419512640040960"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2628,
+          "like_count": 100,
+          "quote_count": 1,
+          "reply_count": 11,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "老大你怎么天天吃饭拍娃娃…… https://t.co/kmFa48JVEK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnUI1a"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2096964291434017096",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2599,
+          "following_count": 3960,
+          "like_count": 74892,
+          "listed_count": 12,
+          "media_count": 606,
+          "tweet_count": 22379
+        },
+        "url": "https://t.co/ZXakBnUI1a",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-10-14T07:44:39.000Z",
+        "description": "岡山県/オヂサン界隈(^q^)/#西尾夕香/広町七深/デアリングタクト/藤島慈/遊戯王/気軽に絡んでくれていいよ/ #ZAPご飯モグモグ界隈/#ZAPの聖地巡礼/#全国ZAPPERの会/#ひZAP愛好会/#トリコ遊戯王部/#ぬいグラサン界隈",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 21,
+                "start": 16,
+                "tag": "西尾夕香"
+              },
+              {
+                "end": 70,
+                "start": 58,
+                "tag": "ZAPご飯モグモグ界隈"
+              },
+              {
+                "end": 80,
+                "start": 71,
+                "tag": "ZAPの聖地巡礼"
+              },
+              {
+                "end": 92,
+                "start": 81,
+                "tag": "全国ZAPPERの会"
+              },
+              {
+                "end": 101,
+                "start": 93,
+                "tag": "ひZAP愛好会"
+              },
+              {
+                "end": 110,
+                "start": 102,
+                "tag": "トリコ遊戯王部"
+              },
+              {
+                "end": 120,
+                "start": 111,
+                "tag": "ぬいグラサン界隈"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "anniv-bang-dream.bushimo.jp/morfonica/hiro…",
+                "end": 23,
+                "expanded_url": "https://anniv-bang-dream.bushimo.jp/morfonica/hiromachi-nanami/",
+                "start": 0,
+                "url": "https://t.co/e2eNSXLpRF"
+              }
+            ]
+          }
+        },
+        "id": "3889477753",
+        "is_identity_verified": false,
+        "location": "七深ちゃんのアトリエ",
+        "most_recent_tweet_id": "2096960421622431757",
+        "name": "ゆう@next→モニカ「Movement」参戦🦋",
+        "pinned_tweet_id": "2081319671249440890",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3889477753/1787095125",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2089841970181222400/hJZsbYWE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2372,
+          "following_count": 3832,
+          "like_count": 156774,
+          "listed_count": 37,
+          "media_count": 14291,
+          "tweet_count": 98685
+        },
+        "url": "https://t.co/e2eNSXLpRF",
+        "username": "YJ42_3",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-06-03T14:08:56.000Z",
+        "description": "背後垢です 趣味 #エキタグ カラオケ、アニクラ、ゲーム（#グルミク #ガルパ（AP埋め） #ユメステ #CHUNITHM #ChainBeeT）アニメ #バンドリ #D4DJ #ラブライブ #ガルクラ #ポケモン ぬい活エンジョイ勢、最近はマリメのスピラン作りに沼ってる。毎週木、土、日にスペースを開催！！！",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 14,
+                "start": 9,
+                "tag": "エキタグ"
+              },
+              {
+                "end": 34,
+                "start": 29,
+                "tag": "グルミク"
+              },
+              {
+                "end": 39,
+                "start": 35,
+                "tag": "ガルパ"
+              },
+              {
+                "end": 51,
+                "start": 46,
+                "tag": "ユメステ"
+              },
+              {
+                "end": 61,
+                "start": 52,
+                "tag": "CHUNITHM"
+              },
+              {
+                "end": 72,
+                "start": 62,
+                "tag": "ChainBeeT"
+              },
+              {
+                "end": 82,
+                "start": 77,
+                "tag": "バンドリ"
+              },
+              {
+                "end": 88,
+                "start": 83,
+                "tag": "D4DJ"
+              },
+              {
+                "end": 95,
+                "start": 89,
+                "tag": "ラブライブ"
+              },
+              {
+                "end": 101,
+                "start": 96,
+                "tag": "ガルクラ"
+              },
+              {
+                "end": 107,
+                "start": 102,
+                "tag": "ポケモン"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "twpf.jp/HANCYAN0907",
+                "end": 23,
+                "expanded_url": "https://twpf.jp/HANCYAN0907",
+                "start": 0,
+                "url": "https://t.co/Cb6XX6AJTA"
+              }
+            ]
+          }
+        },
+        "id": "1268182838139969540",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096881052468101167",
+        "name": "⚡⚡オハンチャンビオニス⚡⚡（しばらくビオ語&語尾にですわ）ゆめみた10月現地only参戦！！！",
+        "pinned_tweet_id": "2096615266335719736",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1268182838139969540/1788717600",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096614716059901953/Ms8E5rUH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1916,
+          "following_count": 3293,
+          "like_count": 24475,
+          "listed_count": 9,
+          "media_count": 10434,
+          "tweet_count": 27364
+        },
+        "url": "https://t.co/Cb6XX6AJTA",
+        "username": "HANCYAN0907",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-08-29T14:07:33.000Z",
+        "description": "霜打青松松更青，血染红旗旗更红｜生活号，成分：世界计划，bang dream，魔裁，女声优痴。选择性互fo，qq扩列请私信丨晶哥不要给我推文加书签了我是良民啊",
+        "id": "1961430478701182976",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096927499695587836",
+        "name": "雪莉不是雪梨",
+        "pinned_tweet_id": "1961433650559685107",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1961430478701182976/1762917232",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2022228574091333632/ULOdG8Lg_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1119,
+          "following_count": 758,
+          "like_count": 7365,
+          "listed_count": 2,
+          "media_count": 257,
+          "tweet_count": 3658
+        },
+        "url": "",
+        "username": "ohnohyw",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

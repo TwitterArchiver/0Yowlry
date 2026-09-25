@@ -1,0 +1,411 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1989600157001044093",
+    "created_at": "2026-09-20T16:38:11.000Z",
+    "display_text_range": [
+      33,
+      49
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T17:38:11.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101712536240542065"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1852968203074543616",
+          "start": 0,
+          "username": "FrankHoover2024"
+        },
+        {
+          "end": 32,
+          "id": "1464319347736911877",
+          "start": 17,
+          "username": "sugihara_tatuo"
+        },
+        {
+          "end": 49,
+          "id": "1640674561980260354",
+          "start": 33,
+          "username": "NmsleseResearch"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101712536240542065",
+    "in_reply_to_user_id": "1852968203074543616",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989894317796987384",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@FrankHoover2024 @sugihara_tatuo @NmsleseResearch"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1989600157001044093",
+        "created_at": "2026-09-20T16:38:11.000Z",
+        "display_text_range": [
+          33,
+          49
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T17:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101712536240542065"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1852968203074543616",
+              "start": 0,
+              "username": "FrankHoover2024"
+            },
+            {
+              "end": 32,
+              "id": "1464319347736911877",
+              "start": 17,
+              "username": "sugihara_tatuo"
+            },
+            {
+              "end": 49,
+              "id": "1640674561980260354",
+              "start": 33,
+              "username": "NmsleseResearch"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101712536240542065",
+        "in_reply_to_user_id": "1852968203074543616",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989894317796987384",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@FrankHoover2024 @sugihara_tatuo @NmsleseResearch"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1852968203074543616",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "NHK",
+              "id": "1034881250840915968",
+              "name": "NHK"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "NHK",
+              "id": "1034881250840915968",
+              "name": "NHK"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          }
+        ],
+        "conversation_id": "1989600157001044093",
+        "created_at": "2025-11-16T03:12:30.000Z",
+        "display_text_range": [
+          16,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2025-11-16T04:12:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "1989894317796987384"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1464319347736911877",
+              "start": 0,
+              "username": "sugihara_tatuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989894317796987384",
+        "in_reply_to_user_id": "1464319347736911877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 90,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989600157001044093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sugihara_tatuo NHK假民调而已，敢不敢让我们CCTV去做民调？"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2101712536240542065",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2648,
+          "following_count": 4094,
+          "like_count": 82991,
+          "listed_count": 12,
+          "media_count": 671,
+          "tweet_count": 24219
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-03T06:57:19.000Z",
+        "description": "",
+        "id": "1852968203074543616",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101671130763526642",
+        "name": "Frank Hu",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852968284230160384/X36fawHM_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14,
+          "following_count": 32,
+          "like_count": 6,
+          "listed_count": 2,
+          "media_count": 1,
+          "tweet_count": 412
+        },
+        "url": "",
+        "username": "FrankHoover2024",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-26T19:45:30.000Z",
+        "description": "斃れずば止まじ。邪惡目田狗 退步保守逼 有神論渣滓 無恥死川黑 非支黑。President of @enchenia。\n語言：漢/英/日/阿/西/波/拉。\n歷史架空作品「子夜之后」https://t.co/uE3gW318D2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "enchenia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitter.com/sugihara_tatuo…",
+                "end": 113,
+                "expanded_url": "https://twitter.com/sugihara_tatuo/status/1604130969434279936?s=19",
+                "start": 90,
+                "url": "https://t.co/uE3gW318D2"
+              }
+            ]
+          }
+        },
+        "id": "1464319347736911877",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101676187894587791",
+        "name": "杉原 辰雄 ☭⃠🌸⛩️ （不定期退隱）",
+        "pinned_tweet_id": "1604130969434279936",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1464319347736911877/1756040942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045448471986180097/uMpwJ8KP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5805,
+          "following_count": 761,
+          "like_count": 163722,
+          "listed_count": 34,
+          "media_count": 1869,
+          "tweet_count": 17494
+        },
+        "url": "",
+        "username": "sugihara_tatuo",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-28T11:17:59.000Z",
+        "description": "推特兔友的迷惑行為收集處（晚安推除外）丨歡迎投稿",
+        "id": "1640674561980260354",
+        "is_identity_verified": false,
+        "location": "Nmslese City",
+        "most_recent_tweet_id": "2101330497746211317",
+        "name": "🐻老大🔬兔友研究院Bot",
+        "pinned_tweet_id": "2072306616213643440",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1640674561980260354/1751274890",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1866832536816795648/rAEgM1H5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 17336,
+          "following_count": 2768,
+          "like_count": 450315,
+          "listed_count": 81,
+          "media_count": 9249,
+          "tweet_count": 25470
+        },
+        "url": "",
+        "username": "NmsleseResearch",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

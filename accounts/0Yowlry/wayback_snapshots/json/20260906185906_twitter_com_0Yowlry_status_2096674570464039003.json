@@ -1,0 +1,603 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1378146821214666753",
+          "name": "Sanae Takaichi"
+        }
+      },
+      {
+        "domain": {
+          "description": "Politicians in the world, like Joe Biden",
+          "id": "35",
+          "name": "Politician"
+        },
+        "entity": {
+          "id": "1378146821214666753",
+          "name": "Sanae Takaichi"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politics",
+          "id": "847878884917886977",
+          "name": "Politics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Politician",
+          "id": "1070032753834438656",
+          "name": "Political figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1378146821214666753",
+          "name": "Sanae Takaichi"
+        }
+      }
+    ],
+    "conversation_id": "2096154061305422266",
+    "created_at": "2026-09-06T18:59:06.000Z",
+    "display_text_range": [
+      16,
+      52
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-06T19:59:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2096674570464039003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "218434058",
+          "start": 0,
+          "username": "takaichi_sanae"
+        },
+        {
+          "end": 23,
+          "id": "2874959663",
+          "start": 16,
+          "username": "Russia"
+        },
+        {
+          "end": 40,
+          "id": "205622130",
+          "start": 24,
+          "username": "KremlinRussia_E"
+        },
+        {
+          "end": 52,
+          "id": "255471924",
+          "start": 41,
+          "username": "mfa_russia"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2096674570464039003",
+    "in_reply_to_user_id": "218434058",
+    "lang": "qam",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096154061305422266",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@takaichi_sanae @Russia @KremlinRussia_E @mfa_russia"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          }
+        ],
+        "conversation_id": "2096154061305422266",
+        "created_at": "2026-09-06T18:59:06.000Z",
+        "display_text_range": [
+          16,
+          52
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-06T19:59:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096674570464039003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "218434058",
+              "start": 0,
+              "username": "takaichi_sanae"
+            },
+            {
+              "end": 23,
+              "id": "2874959663",
+              "start": 16,
+              "username": "Russia"
+            },
+            {
+              "end": 40,
+              "id": "205622130",
+              "start": 24,
+              "username": "KremlinRussia_E"
+            },
+            {
+              "end": 52,
+              "id": "255471924",
+              "start": 41,
+              "username": "mfa_russia"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2096674570464039003",
+        "in_reply_to_user_id": "218434058",
+        "lang": "qam",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096154061305422266",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@takaichi_sanae @Russia @KremlinRussia_E @mfa_russia"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "218434058",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1378146821214666753",
+              "name": "Sanae Takaichi"
+            }
+          }
+        ],
+        "conversation_id": "2096154061305422266",
+        "created_at": "2026-09-05T08:30:47.000Z",
+        "display_text_range": [
+          0,
+          137
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T09:30:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2096154061305422266"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096154061305422266",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {},
+          "text": "9月4日、ロシア・ハバロフスク市内において、菊花紋章が型取られた標石をソ連兵が破壊する様子を表現した対日戦勝記念碑の銅像の除幕式が開催されました。\n\n特に、菊花紋章は日本を象徴する紋章として広く認識されており、その破壊を表現する記念碑を設置することは全く受け入れられません。\n\n日本の国民感情に関わる問題であり、政府として、ロシア側に対し、設置の中止及び撤去を強く要請しました。\n\n継続して、その撤去を強く働きかけていきます。\n\n4 сентября в городе Хабаровске состоялось открытие бронзового памятника на тему «победы над Японией», на котором, советский солдат разбивает каменный столб с отпечатком эмблемы с хризантемой. Эмблема с хризантемой широко признана в качестве символа Японии, и установка памятника, изображающего ее разрушение, абсолютно неприемлема. Это затрагивает чувства японского народа, и правительство Японии обращалось к российской стороне с решительным требованием приостановить установку памятника и демонтировать его. Мы и дальше намерены настоятельно призывать российскую сторону демонтировать пограничный столб."
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 976,
+          "impression_count": 3288714,
+          "like_count": 47643,
+          "quote_count": 958,
+          "reply_count": 2955,
+          "retweet_count": 7743
+        },
+        "reply_settings": "everyone",
+        "text": "9月4日、ロシア・ハバロフスク市内において、菊花紋章が型取られた標石をソ連兵が破壊する様子を表現した対日戦勝記念碑の銅像の除幕式が開催されました。\n\n特に、菊花紋章は日本を象徴する紋章として広く認識されており、その破壊を表現する記念碑を設置することは全く受け入れられません。"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnUI1a"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2096674570464039003",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2595,
+          "following_count": 3886,
+          "like_count": 74355,
+          "listed_count": 12,
+          "media_count": 605,
+          "tweet_count": 22275
+        },
+        "url": "https://t.co/ZXakBnUI1a",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-11-22T10:18:33.000Z",
+        "description": "衆議院議員 自由民主党奈良県第2選挙区支部長\n※総理在任中の投稿は、一部広報スタッフによるものを含みます。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sanae.gr.jp",
+                "end": 23,
+                "expanded_url": "https://www.sanae.gr.jp/",
+                "start": 0,
+                "url": "https://t.co/VNedKNe7ny"
+              }
+            ]
+          }
+        },
+        "id": "218434058",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2096424882431013244",
+        "name": "高市早苗",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/218434058/1778462883",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1985639760669655041/3yz_lJbK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2994565,
+          "following_count": 0,
+          "like_count": 46,
+          "listed_count": 6601,
+          "media_count": 530,
+          "tweet_count": 1762
+        },
+        "url": "https://t.co/VNedKNe7ny",
+        "username": "takaichi_sanae",
+        "verified": true,
+        "verified_type": "government"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-11-13T11:36:44.000Z",
+        "description": "Find inspiring, fresh insights from #Russia❗ Home to more than 190 ethnic groups & authentic cultures, with 11 time & 7 climate zones. 🏞 Feel our warm welcome❤",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 43,
+                "start": 36,
+                "tag": "Russia"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mid.ru",
+                "end": 23,
+                "expanded_url": "http://mid.ru",
+                "start": 0,
+                "url": "https://t.co/RvuZwZ73b7"
+              }
+            ]
+          }
+        },
+        "id": "2874959663",
+        "is_identity_verified": false,
+        "location": "Russia",
+        "most_recent_tweet_id": "2096665673158054050",
+        "name": "Russia 🇷🇺",
+        "pinned_tweet_id": "2065388652222439838",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2874959663/1562593662",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1148227150199296001/-U5fmids_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 541515,
+          "following_count": 611,
+          "like_count": 3973,
+          "listed_count": 1776,
+          "media_count": 8914,
+          "tweet_count": 10522
+        },
+        "url": "https://t.co/RvuZwZ73b7",
+        "username": "Russia",
+        "verified": true,
+        "verified_type": "government"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-10-21T08:06:17.000Z",
+        "description": "Official Kremlin news\nOfficial Telegram channel: https://t.co/ASrzdwRxSU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "t.me/news_kremlin_e…",
+                "end": 72,
+                "expanded_url": "https://t.me/news_kremlin_eng",
+                "start": 49,
+                "url": "https://t.co/ASrzdwRxSU"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "en.kremlin.ru",
+                "end": 23,
+                "expanded_url": "http://en.kremlin.ru/",
+                "start": 0,
+                "url": "https://t.co/MfmVE6eQBU"
+              }
+            ]
+          }
+        },
+        "id": "205622130",
+        "is_identity_verified": false,
+        "location": "Moscow, Russian Federation",
+        "most_recent_tweet_id": "1503808533523009542",
+        "name": "President of Russia",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/205622130/1402044538",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/501717583846842368/psd9aFLl_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2027932,
+          "following_count": 22,
+          "like_count": 1,
+          "listed_count": 8011,
+          "media_count": 3201,
+          "tweet_count": 9239
+        },
+        "url": "https://t.co/MfmVE6eQBU",
+        "username": "KremlinRussia_E",
+        "verified": true,
+        "verified_type": "government"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-02-21T12:45:22.000Z",
+        "description": "Ministry of Foreign Affairs of Russia 🇷🇺 (Official account) | Country's account @Russia | По-русски @MID_RF | Español @MAE_Rusia | Arabic - @russia_ar",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 87,
+                "start": 80,
+                "username": "Russia"
+              },
+              {
+                "end": 107,
+                "start": 100,
+                "username": "MID_RF"
+              },
+              {
+                "end": 128,
+                "start": 118,
+                "username": "MAE_Rusia"
+              },
+              {
+                "end": 150,
+                "start": 140,
+                "username": "russia_ar"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mid.ru/en/main_en",
+                "end": 23,
+                "expanded_url": "http://www.mid.ru/en/main_en",
+                "start": 0,
+                "url": "https://t.co/SDlu6xFN9Y"
+              }
+            ]
+          }
+        },
+        "id": "255471924",
+        "is_identity_verified": false,
+        "location": "Russia",
+        "most_recent_tweet_id": "2096428585712079235",
+        "name": "MFA Russia 🇷🇺",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/255471924/1604577773",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1654936203840430084/FUCOS9-i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 894673,
+          "following_count": 1454,
+          "like_count": 27000,
+          "listed_count": 6402,
+          "media_count": 28715,
+          "tweet_count": 89877
+        },
+        "url": "https://t.co/SDlu6xFN9Y",
+        "username": "mfa_russia",
+        "verified": true,
+        "verified_type": "government"
+      }
+    ]
+  }
+}

@@ -1,0 +1,731 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "id": "1206704182717104128",
+          "name": "Model figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1206704182717104128",
+          "name": "Model figures"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1278061468265508864",
+          "name": "Collectibles"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1311345191362523136",
+          "name": "Anime goods"
+        }
+      }
+    ],
+    "conversation_id": "2095815053534740519",
+    "created_at": "2026-09-04T19:27:33.000Z",
+    "display_text_range": [
+      10,
+      33
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-04T20:27:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095956954959237223"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1357938047619276803",
+          "start": 0,
+          "username": "TX451862"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/0Yowlry/status…",
+          "end": 33,
+          "expanded_url": "https://x.com/0Yowlry/status/2081081696523563314?s=20",
+          "start": 10,
+          "url": "https://t.co/zMGUx6zzxB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095956954959237223",
+    "in_reply_to_user_id": "1357938047619276803",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081081696523563314",
+        "type": "quoted"
+      },
+      {
+        "id": "2095815053534740519",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TX451862 https://t.co/zMGUx6zzxB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 3072,
+        "media_key": "3_2095815041664851968",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRXUrSFaoAAkC-T.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2081081590457987072",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOF8rjPacAA6Ahb.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2081081618496913408",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOF8tLsagAAW1_M.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2081081639523020800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOF8uaBbcAAX0K3.jpg",
+        "width": 4096
+      },
+      {
+        "height": 3072,
+        "media_key": "3_2081081682778791936",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOF8w7KaIAAlucs.jpg",
+        "width": 4096
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278061468265508864",
+              "name": "Collectibles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311345191362523136",
+              "name": "Anime goods"
+            }
+          }
+        ],
+        "conversation_id": "2095815053534740519",
+        "created_at": "2026-09-04T19:27:33.000Z",
+        "display_text_range": [
+          10,
+          33
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T20:27:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095956954959237223"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1357938047619276803",
+              "start": 0,
+              "username": "TX451862"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/0Yowlry/status…",
+              "end": 33,
+              "expanded_url": "https://x.com/0Yowlry/status/2081081696523563314?s=20",
+              "start": 10,
+              "url": "https://t.co/zMGUx6zzxB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095956954959237223",
+        "in_reply_to_user_id": "1357938047619276803",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081081696523563314",
+            "type": "quoted"
+          },
+          {
+            "id": "2095815053534740519",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TX451862 https://t.co/zMGUx6zzxB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2095815041664851968"
+          ]
+        },
+        "author_id": "1357938047619276803",
+        "conversation_id": "2095815053534740519",
+        "created_at": "2026-09-04T10:03:41.000Z",
+        "display_text_range": [
+          0,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-04T11:03:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2095815053534740519"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 8,
+              "start": 0,
+              "tag": "バンドリストア"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Cp0HkiS8JG",
+              "end": 60,
+              "expanded_url": "https://x.com/TX451862/status/2095815053534740519/photo/1",
+              "media_key": "3_2095815041664851968",
+              "start": 37,
+              "url": "https://t.co/Cp0HkiS8JG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095815053534740519",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2095815041664851968"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 4,
+          "impression_count": 13141,
+          "like_count": 146,
+          "quote_count": 8,
+          "reply_count": 4,
+          "retweet_count": 9
+        },
+        "reply_settings": "everyone",
+        "text": "#バンドリストア \nりんりんだけいないの草💦💦\nどうしたりんりん………… https://t.co/Cp0HkiS8JG"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2081081590457987072",
+            "3_2081081618496913408",
+            "3_2081081639523020800",
+            "3_2081081682778791936"
+          ]
+        },
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1206704182717104128",
+              "name": "Model figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1278061468265508864",
+              "name": "Collectibles"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311345191362523136",
+              "name": "Anime goods"
+            }
+          }
+        ],
+        "conversation_id": "2081079586025255062",
+        "created_at": "2026-07-25T18:18:35.000Z",
+        "display_text_range": [
+          0,
+          66
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-25T19:18:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081081696523563314"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/3hRyXT9k0v",
+              "end": 90,
+              "expanded_url": "https://x.com/0Yowlry/status/2081081696523563314/photo/1",
+              "media_key": "3_2081081590457987072",
+              "start": 67,
+              "url": "https://t.co/3hRyXT9k0v"
+            },
+            {
+              "display_url": "pic.x.com/3hRyXT9k0v",
+              "end": 90,
+              "expanded_url": "https://x.com/0Yowlry/status/2081081696523563314/photo/1",
+              "media_key": "3_2081081618496913408",
+              "start": 67,
+              "url": "https://t.co/3hRyXT9k0v"
+            },
+            {
+              "display_url": "pic.x.com/3hRyXT9k0v",
+              "end": 90,
+              "expanded_url": "https://x.com/0Yowlry/status/2081081696523563314/photo/1",
+              "media_key": "3_2081081639523020800",
+              "start": 67,
+              "url": "https://t.co/3hRyXT9k0v"
+            },
+            {
+              "display_url": "pic.x.com/3hRyXT9k0v",
+              "end": 90,
+              "expanded_url": "https://x.com/0Yowlry/status/2081081696523563314/photo/1",
+              "media_key": "3_2081081682778791936",
+              "start": 67,
+              "url": "https://t.co/3hRyXT9k0v"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081081696523563314",
+        "in_reply_to_user_id": "1839263401845075974",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2081081590457987072"
+          },
+          {
+            "media_key": "3_2081081618496913408"
+          },
+          {
+            "media_key": "3_2081081639523020800"
+          },
+          {
+            "media_key": "3_2081081682778791936"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 277,
+          "like_count": 10,
+          "quote_count": 1,
+          "reply_count": 1,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081079586025255062",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "上海市の美羅城（徐家匯）、静安大悦城、南京東路でチェックできるアニメフィギュア＆グッズ＆アクスタ、あとガールズバンド系のグッズたち！ https://t.co/3hRyXT9k0v"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnUI1a"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2095956954959237223",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2579,
+          "following_count": 3863,
+          "like_count": 72866,
+          "listed_count": 12,
+          "media_count": 599,
+          "tweet_count": 21900
+        },
+        "url": "https://t.co/ZXakBnUI1a",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-02-06T06:24:17.000Z",
+        "description": "04🚹あかね(@ST161211)の本垢。ソウルジェムの人。愛、さくら、さき最推しのゾンサガ界隈所属、バンドリーマー件ラブライバー。中野マルオ大親友(@nakanomaruo1)声優最推し『相羽あいな』(@aibaaiai)『小原莉子』(@Riko_kohara)推し『中島由貴』(@Yuki_Nakashim)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 16,
+                "start": 7,
+                "username": "ST161211"
+              },
+              {
+                "end": 88,
+                "start": 75,
+                "username": "nakanomaruo1"
+              },
+              {
+                "end": 111,
+                "start": 102,
+                "username": "aibaaiai"
+              },
+              {
+                "end": 131,
+                "start": 119,
+                "username": "Riko_kohara"
+              },
+              {
+                "end": 155,
+                "start": 141,
+                "username": "Yuki_Nakashim"
+              }
+            ]
+          }
+        },
+        "id": "1357938047619276803",
+        "is_identity_verified": false,
+        "location": "Sei stark",
+        "most_recent_tweet_id": "2095929024950468920",
+        "name": "𝓡𝓲𝓬𝓸ゾンビィ@ﾆｼﾞﾆｼﾞ(9/5Liella!体育祭)",
+        "pinned_tweet_id": "2095815053534740519",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1357938047619276803/1779650530",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2092309574410006528/hDPStG28_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1189,
+          "following_count": 1875,
+          "like_count": 12693,
+          "listed_count": 3,
+          "media_count": 2131,
+          "tweet_count": 10050
+        },
+        "url": "",
+        "username": "TX451862",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

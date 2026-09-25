@@ -1,0 +1,271 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2100678933364756880",
+    "created_at": "2026-09-18T21:36:20.000Z",
+    "display_text_range": [
+      16,
+      63
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T22:36:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101062791595696349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1699273463465443328",
+          "start": 0,
+          "username": "AmmieColl84391"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "bilibili.com/video/BV1QnRYB…",
+          "end": 39,
+          "expanded_url": "https://www.bilibili.com/video/BV1QnRYBJE5b",
+          "start": 16,
+          "url": "https://t.co/CTG7CvLam4"
+        },
+        {
+          "description": "17岁，发霉的理想与死掉的我, 视频播放量 1499174、弹幕量 463、点赞数 229348、投硬币枚数 12824、收藏人数 74757、转发人数 1983, 视频作者 白悠Sayoo, 作者简介 谢谢你的驻足，濒危纯手工人类画师，扩列可以私信煮啵喵，稿件需求可以邀请同名米画师，相关视频：一画初音就开智，这个世界需要普通人，✧ 世界的尽头 ✧，不要在立春自杀，被盗麻了的两张凉，画完了感觉像久世静香，同学我也是你青春里淡淡的一笔吗，17岁靠画miku赚了三千万，【稿件展示】“我心中的狂焰……”，米山舞好像关注我了",
+          "display_url": "bilibili.com/video/BV1ajTTz…",
+          "end": 63,
+          "expanded_url": "https://www.bilibili.com/video/BV1ajTTzgE9Z",
+          "images": [
+            {
+              "height": 388,
+              "url": "https://pbs.twimg.com/news_img/2101062791885213696/9RrhYulL?format=jpg&name=orig",
+              "width": 691
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2101062791885213696/9RrhYulL?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 40,
+          "status": 200,
+          "title": "17岁，发霉的理想与死掉的我_哔哩哔哩_bilibili",
+          "unwound_url": "https://www.bilibili.com/video/BV1ajTTzgE9Z/",
+          "url": "https://t.co/ILQBqdynr9"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101062791595696349",
+    "in_reply_to_user_id": "1699273463465443328",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100678933364756880",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@AmmieColl84391 https://t.co/CTG7CvLam4\nhttps://t.co/ILQBqdynr9"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2100678933364756880].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2100678933364756880",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2100678933364756880"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2100678933364756880",
+        "created_at": "2026-09-18T21:36:20.000Z",
+        "display_text_range": [
+          16,
+          63
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T22:36:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101062791595696349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1699273463465443328",
+              "start": 0,
+              "username": "AmmieColl84391"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "bilibili.com/video/BV1QnRYB…",
+              "end": 39,
+              "expanded_url": "https://www.bilibili.com/video/BV1QnRYBJE5b",
+              "start": 16,
+              "url": "https://t.co/CTG7CvLam4"
+            },
+            {
+              "description": "17岁，发霉的理想与死掉的我, 视频播放量 1499174、弹幕量 463、点赞数 229348、投硬币枚数 12824、收藏人数 74757、转发人数 1983, 视频作者 白悠Sayoo, 作者简介 谢谢你的驻足，濒危纯手工人类画师，扩列可以私信煮啵喵，稿件需求可以邀请同名米画师，相关视频：一画初音就开智，这个世界需要普通人，✧ 世界的尽头 ✧，不要在立春自杀，被盗麻了的两张凉，画完了感觉像久世静香，同学我也是你青春里淡淡的一笔吗，17岁靠画miku赚了三千万，【稿件展示】“我心中的狂焰……”，米山舞好像关注我了",
+              "display_url": "bilibili.com/video/BV1ajTTz…",
+              "end": 63,
+              "expanded_url": "https://www.bilibili.com/video/BV1ajTTzgE9Z",
+              "images": [
+                {
+                  "height": 388,
+                  "url": "https://pbs.twimg.com/news_img/2101062791885213696/9RrhYulL?format=jpg&name=orig",
+                  "width": 691
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2101062791885213696/9RrhYulL?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 40,
+              "status": 200,
+              "title": "17岁，发霉的理想与死掉的我_哔哩哔哩_bilibili",
+              "unwound_url": "https://www.bilibili.com/video/BV1ajTTzgE9Z/",
+              "url": "https://t.co/ILQBqdynr9"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101062791595696349",
+        "in_reply_to_user_id": "1699273463465443328",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100678933364756880",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@AmmieColl84391 https://t.co/CTG7CvLam4\nhttps://t.co/ILQBqdynr9"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jUKIs"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2101062791595696349",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2641,
+          "following_count": 4071,
+          "like_count": 82059,
+          "listed_count": 12,
+          "media_count": 668,
+          "tweet_count": 23970
+        },
+        "url": "https://t.co/t6gS8jUKIs",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-06T04:09:05.000Z",
+        "description": "🚼里人格 · 亲友团账号｜ 🌆🔙首都@DurantRaym93677 / 🌠子账户 @AuroraYume｜ \n这里是一个人过家家用的账号 ｜ ⚠️可能会包含无聊的发言、逻辑混乱、自言自语，以及负能或错误的内容哦🥺 跟随该账户代表你接受此类内容⭕️｜ \n📮电邮：ZephyrusLuke@proton.me",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 34,
+                "start": 18,
+                "username": "DurantRaym93677"
+              },
+              {
+                "end": 53,
+                "start": 42,
+                "username": "AuroraYume"
+              }
+            ]
+          }
+        },
+        "id": "1699273463465443328",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "1985692556764840345",
+        "name": "五月雨🌧️🇯🇵",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1699273463465443328/1766671782",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1701877594340438016/jJsS0DtQ_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 315,
+          "following_count": 419,
+          "like_count": 4404,
+          "listed_count": 1,
+          "media_count": 87,
+          "tweet_count": 2075
+        },
+        "url": "",
+        "username": "AmmieColl84391",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

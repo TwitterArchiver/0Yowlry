@@ -1,0 +1,478 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2101654510104133854",
+    "created_at": "2026-09-20T16:29:12.000Z",
+    "display_text_range": [
+      11,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T17:29:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101710275296809146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1433367425358041091",
+          "start": 0,
+          "username": "Citruz_29"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101710275296809146",
+    "in_reply_to_user_id": "1433367425358041091",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101654510104133854",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Citruz_29 这集神了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2101653857898233856",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSqTDHjagAAh1sa.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2101653858082820096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSqTDIPbEAAEbSt.jpg",
+        "width": 1920
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2101653857894039552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSqTDHiagAAl5rW.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2101654510104133854",
+        "created_at": "2026-09-20T16:29:12.000Z",
+        "display_text_range": [
+          11,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T17:29:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101710275296809146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1433367425358041091",
+              "start": 0,
+              "username": "Citruz_29"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101710275296809146",
+        "in_reply_to_user_id": "1433367425358041091",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101654510104133854",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Citruz_29 这集神了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101653857898233856",
+            "3_2101653858082820096",
+            "3_2101653857894039552"
+          ]
+        },
+        "author_id": "1433367425358041091",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Musical Instruments",
+              "id": "1131990542198247424",
+              "name": "Musical instruments"
+            }
+          }
+        ],
+        "conversation_id": "2101654510104133854",
+        "created_at": "2026-09-20T12:47:36.000Z",
+        "display_text_range": [
+          0,
+          45
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T13:47:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101654510104133854"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 0,
+              "tag": "BanGDream"
+            },
+            {
+              "end": 19,
+              "start": 11,
+              "tag": "アニメゆめみた"
+            },
+            {
+              "end": 24,
+              "start": 20,
+              "tag": "ビオラ"
+            },
+            {
+              "end": 35,
+              "start": 25,
+              "tag": "夢限大みゅーたいぷ"
+            },
+            {
+              "end": 39,
+              "start": 36,
+              "tag": "奶龙"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/Hc9rVRr50X",
+              "end": 69,
+              "expanded_url": "https://x.com/Citruz_29/status/2101654510104133854/photo/1",
+              "media_key": "3_2101653857898233856",
+              "start": 46,
+              "url": "https://t.co/Hc9rVRr50X"
+            },
+            {
+              "display_url": "pic.x.com/Hc9rVRr50X",
+              "end": 69,
+              "expanded_url": "https://x.com/Citruz_29/status/2101654510104133854/photo/1",
+              "media_key": "3_2101653858082820096",
+              "start": 46,
+              "url": "https://t.co/Hc9rVRr50X"
+            },
+            {
+              "display_url": "pic.x.com/Hc9rVRr50X",
+              "end": 69,
+              "expanded_url": "https://x.com/Citruz_29/status/2101654510104133854/photo/1",
+              "media_key": "3_2101653857894039552",
+              "start": 46,
+              "url": "https://t.co/Hc9rVRr50X"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101654510104133854",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2101653857898233856"
+          },
+          {
+            "media_key": "3_2101653858082820096"
+          },
+          {
+            "media_key": "3_2101653857894039552"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 920,
+          "impression_count": 195403,
+          "like_count": 8694,
+          "quote_count": 153,
+          "reply_count": 270,
+          "retweet_count": 938
+        },
+        "reply_settings": "everyone",
+        "text": "#BanGDream #アニメゆめみた #ビオラ #夢限大みゅーたいぷ #奶龙\n竜とビオラ https://t.co/Hc9rVRr50X"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2101710275296809146",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2648,
+          "following_count": 4094,
+          "like_count": 82978,
+          "listed_count": 12,
+          "media_count": 671,
+          "tweet_count": 24214
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-09-02T09:53:45.000Z",
+        "description": "画画的\n2026档期已满|Commission close\nPaypal/Vgen\nVgen:https://t.co/3yzHYCIf3t\n⚠nsfw 🔞→@Fu_Ruoming",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 90,
+                "start": 79,
+                "username": "Fu_Ruoming"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vgen.co/ju29",
+                "end": 70,
+                "expanded_url": "https://vgen.co/ju29",
+                "start": 47,
+                "url": "https://t.co/3yzHYCIf3t"
+              }
+            ]
+          }
+        },
+        "id": "1433367425358041091",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101694410455130458",
+        "name": "橘汽車",
+        "pinned_tweet_id": "2094161973005136022",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1433367425358041091/1773188474",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1849503891614019584/bUn7zAo9_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11362,
+          "following_count": 777,
+          "like_count": 874,
+          "listed_count": 57,
+          "media_count": 39,
+          "tweet_count": 554
+        },
+        "url": "",
+        "username": "Citruz_29",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

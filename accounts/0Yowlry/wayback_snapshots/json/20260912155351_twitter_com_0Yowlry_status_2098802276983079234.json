@@ -1,0 +1,517 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839543165002506240",
+          "name": "Anime"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1297951101136732160",
+          "name": "Animation & comics"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1299365067415154689",
+          "name": "Animation news"
+        }
+      }
+    ],
+    "conversation_id": "2098802276983079234",
+    "created_at": "2026-09-12T15:53:51.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T16:53:51.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098802276983079234"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 124,
+          "start": 90,
+          "tag": "五等分の花嫁5thANNIVERSARYEVENTin横浜アリーナ"
+        },
+        {
+          "end": 135,
+          "start": 126,
+          "tag": "五等分は永遠だよ"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1386291354330796033",
+          "start": 3,
+          "username": "keidon_4"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098802276983079234",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 18
+    },
+    "referenced_tweets": [
+      {
+        "id": "1784692045128569133",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @keidon_4: 今年も沢山の感動をありがとう😭\n新作アニメも凄く楽しみ！\n\n多くのファンの方々に愛されている作品\nだと改めて感じました🫶\n\nこれからも応援📣します👍\n\n#五等分の花嫁5thANNIVERSARYEVENTin横浜アリーナ \n#五等分は永遠だよ htt…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_1784692037910167552",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GMR_8-kagAAmurb.jpg",
+        "width": 2048
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1784692037901828096",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GMR_8-ibQAA528n.jpg",
+        "width": 1536
+      },
+      {
+        "height": 2048,
+        "media_key": "3_1784692037905944576",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GMR_8-jaEAARch9.jpg",
+        "width": 1536
+      },
+      {
+        "height": 1536,
+        "media_key": "3_1784692037910216704",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/GMR_8-kbQAAbVow.jpg",
+        "width": 2048
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          }
+        ],
+        "conversation_id": "2098802276983079234",
+        "created_at": "2026-09-12T15:53:51.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T16:53:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098802276983079234"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 124,
+              "start": 90,
+              "tag": "五等分の花嫁5thANNIVERSARYEVENTin横浜アリーナ"
+            },
+            {
+              "end": 135,
+              "start": 126,
+              "tag": "五等分は永遠だよ"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1386291354330796033",
+              "start": 3,
+              "username": "keidon_4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098802276983079234",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 18
+        },
+        "referenced_tweets": [
+          {
+            "id": "1784692045128569133",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @keidon_4: 今年も沢山の感動をありがとう😭\n新作アニメも凄く楽しみ！\n\n多くのファンの方々に愛されている作品\nだと改めて感じました🫶\n\nこれからも応援📣します👍\n\n#五等分の花嫁5thANNIVERSARYEVENTin横浜アリーナ \n#五等分は永遠だよ htt…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1784692037910167552",
+            "3_1784692037901828096",
+            "3_1784692037905944576",
+            "3_1784692037910216704"
+          ]
+        },
+        "author_id": "1386291354330796033",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543165002506240",
+              "name": "Anime"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1297951101136732160",
+              "name": "Animation & comics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1299365067415154689",
+              "name": "Animation news"
+            }
+          }
+        ],
+        "conversation_id": "1784692045128569133",
+        "created_at": "2024-04-28T21:11:56.000Z",
+        "display_text_range": [
+          0,
+          121
+        ],
+        "edit_controls": {
+          "editable_until": "2024-04-28T22:11:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1784692045128569133"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 110,
+              "start": 76,
+              "tag": "五等分の花嫁5thANNIVERSARYEVENTin横浜アリーナ"
+            },
+            {
+              "end": 121,
+              "start": 112,
+              "tag": "五等分は永遠だよ"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/fcNlV11xpc",
+              "end": 145,
+              "expanded_url": "https://x.com/keidon_4/status/1784692045128569133/photo/1",
+              "media_key": "3_1784692037910167552",
+              "start": 122,
+              "url": "https://t.co/fcNlV11xpc"
+            },
+            {
+              "display_url": "pic.x.com/fcNlV11xpc",
+              "end": 145,
+              "expanded_url": "https://x.com/keidon_4/status/1784692045128569133/photo/1",
+              "media_key": "3_1784692037901828096",
+              "start": 122,
+              "url": "https://t.co/fcNlV11xpc"
+            },
+            {
+              "display_url": "pic.x.com/fcNlV11xpc",
+              "end": 145,
+              "expanded_url": "https://x.com/keidon_4/status/1784692045128569133/photo/1",
+              "media_key": "3_1784692037905944576",
+              "start": 122,
+              "url": "https://t.co/fcNlV11xpc"
+            },
+            {
+              "display_url": "pic.x.com/fcNlV11xpc",
+              "end": 145,
+              "expanded_url": "https://x.com/keidon_4/status/1784692045128569133/photo/1",
+              "media_key": "3_1784692037910216704",
+              "start": 122,
+              "url": "https://t.co/fcNlV11xpc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1784692045128569133",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_1784692037910167552"
+          },
+          {
+            "media_key": "3_1784692037901828096"
+          },
+          {
+            "media_key": "3_1784692037905944576"
+          },
+          {
+            "media_key": "3_1784692037910216704"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7,
+          "impression_count": 15368,
+          "like_count": 160,
+          "quote_count": 1,
+          "reply_count": 6,
+          "retweet_count": 18
+        },
+        "reply_settings": "everyone",
+        "text": "今年も沢山の感動をありがとう😭\n新作アニメも凄く楽しみ！\n\n多くのファンの方々に愛されている作品\nだと改めて感じました🫶\n\nこれからも応援📣します👍\n\n#五等分の花嫁5thANNIVERSARYEVENTin横浜アリーナ \n#五等分は永遠だよ https://t.co/fcNlV11xpc"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2098802276983079234",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2609,
+          "following_count": 4011,
+          "like_count": 77677,
+          "listed_count": 12,
+          "media_count": 644,
+          "tweet_count": 23035
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-25T12:10:12.000Z",
+        "description": "五等分の花嫁、カッコウの許嫁、甘神さんちの縁結びなどが大好きです😋ごちうさ、かのかり、魔女の旅々、SPY×FAMILY 、ゆるキャン、まどマギ、響け！ユーフォニアム、リコリコ、葬送のフリーレン、ロシデレなども好きです。たまに京都散策も挙げてます！無言フォローもOKです🙆‍♂️よろしくお願いしま〜す👏",
+        "id": "1386291354330796033",
+        "is_identity_verified": false,
+        "location": "日本 大阪",
+        "most_recent_tweet_id": "2094732559582364063",
+        "name": "keidon",
+        "pinned_tweet_id": "1784692045128569133",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1386291354330796033/1714352161",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1670396699318325249/8YsDgqak_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2524,
+          "following_count": 1984,
+          "like_count": 97981,
+          "listed_count": 16,
+          "media_count": 1571,
+          "tweet_count": 65541
+        },
+        "url": "",
+        "username": "keidon_4",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,351 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1989600157001044093",
+    "created_at": "2026-09-20T16:34:40.000Z",
+    "display_text_range": [
+      16,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-20T17:34:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101711650806186003"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1464319347736911877",
+          "start": 0,
+          "username": "sugihara_tatuo"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101711650806186003",
+    "in_reply_to_user_id": "1464319347736911877",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1989600157001044093",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sugihara_tatuo 天天看营销号魔怔了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 365,
+        "media_key": "3_1989600154417336322",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G5x6zJEbkAIXbT9.jpg",
+        "width": 547
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1989600157001044093",
+        "created_at": "2026-09-20T16:34:40.000Z",
+        "display_text_range": [
+          16,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T17:34:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101711650806186003"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1464319347736911877",
+              "start": 0,
+              "username": "sugihara_tatuo"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101711650806186003",
+        "in_reply_to_user_id": "1464319347736911877",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1989600157001044093",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sugihara_tatuo 天天看营销号魔怔了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1989600154417336322"
+          ]
+        },
+        "author_id": "1464319347736911877",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597105094656",
+              "name": "TV/Movies Related - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "NHK",
+              "id": "1034881250840915968",
+              "name": "NHK"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "NHK",
+              "id": "1034881250840915968",
+              "name": "NHK"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196447117297905665",
+              "name": "News outlets"
+            }
+          }
+        ],
+        "conversation_id": "1989600157001044093",
+        "created_at": "2025-11-15T07:43:37.000Z",
+        "display_text_range": [
+          0,
+          174
+        ],
+        "edit_controls": {
+          "editable_until": "2025-11-15T08:43:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1989600157001044093"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/BOpRT6S7DA",
+              "end": 198,
+              "expanded_url": "https://x.com/sugihara_tatuo/status/1989600157001044093/photo/1",
+              "media_key": "3_1989600154417336322",
+              "start": 175,
+              "url": "https://t.co/BOpRT6S7DA"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1989600157001044093",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_1989600154417336322"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 19,
+          "impression_count": 22249,
+          "like_count": 310,
+          "quote_count": 3,
+          "reply_count": 51,
+          "retweet_count": 21
+        },
+        "reply_settings": "everyone",
+        "text": "而今粉蛆又炒作“琉球独立 并入中国”谬论矣，我找来了NHK沖縄復帰50年民调：\n    \n沖縄回归日本\n很好-39% 较好-45 较坏-12 很坏-2\n自卫队在南西諸島应对中国海军\n必要-31% 应该-45 不必-11 危险-12\n感知中国威胁\n很大-56% 还行-30 不太有-10 没有-1\n\n原来粉蛆口中的“琉球遗民”就是这样支持中国的啊😅😅 https://t.co/BOpRT6S7DA"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2101711650806186003",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2648,
+          "following_count": 4094,
+          "like_count": 82986,
+          "listed_count": 12,
+          "media_count": 671,
+          "tweet_count": 24215
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-26T19:45:30.000Z",
+        "description": "斃れずば止まじ。邪惡目田狗 退步保守逼 有神論渣滓 無恥死川黑 非支黑。President of @enchenia。\n語言：漢/英/日/阿/西/波/拉。\n歷史架空作品「子夜之后」https://t.co/uE3gW318D2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 58,
+                "start": 49,
+                "username": "enchenia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "twitter.com/sugihara_tatuo…",
+                "end": 113,
+                "expanded_url": "https://twitter.com/sugihara_tatuo/status/1604130969434279936?s=19",
+                "start": 90,
+                "url": "https://t.co/uE3gW318D2"
+              }
+            ]
+          }
+        },
+        "id": "1464319347736911877",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2101676187894587791",
+        "name": "杉原 辰雄 ☭⃠🌸⛩️ （不定期退隱）",
+        "pinned_tweet_id": "1604130969434279936",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1464319347736911877/1756040942",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2045448471986180097/uMpwJ8KP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5805,
+          "following_count": 761,
+          "like_count": 163722,
+          "listed_count": 34,
+          "media_count": 1869,
+          "tweet_count": 17494
+        },
+        "url": "",
+        "username": "sugihara_tatuo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

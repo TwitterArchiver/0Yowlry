@@ -1,0 +1,479 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Computer programming",
+          "id": "848921413196984320",
+          "name": "Computer programming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Open source",
+          "id": "849075430715936768",
+          "name": "Open source"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Open source",
+          "id": "849075430715936768",
+          "name": "Open source"
+        }
+      }
+    ],
+    "conversation_id": "2099766948636790809",
+    "created_at": "2026-09-15T07:47:06.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-15T08:47:06.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099766948636790809"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "3242246588",
+          "start": 3,
+          "username": "yakshawan"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099766948636790809",
+    "lang": "ko",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2217
+    },
+    "referenced_tweets": [
+      {
+        "id": "2099037040000278990",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yakshawan: 초파리 뇌에 미소녀 3D 아바타 달아주기 실험 1일차. 대략 12시간 넘게 훈련했는데 적응할 기미가 전혀 안 보이는군. 😓 학습량이 부족한 건지 국소 최적점에 빠진 건지 잘 모르겠어서 일단 조금씩 조정해 가며 훈련을 계속해…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17966,
+        "height": 900,
+        "media_key": "13_2099036207888113664",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2099036207888113664/img/bgt77_kMBNF1FGsY.jpg",
+        "public_metrics": {
+          "view_count": 1266609
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099036207888113664/vid/avc1/516x270/1VOVZJDiVFrTjIl1.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099036207888113664/vid/avc1/688x360/prOukPGIYJOyaHTs.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2099036207888113664/vid/avc1/1376x720/BfqWabTdtZpPeJAn.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2099036207888113664/pl/0EBFW_mPouIPkmPm.m3u8?tag=14&v=cfc"
+          }
+        ],
+        "width": 1720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          }
+        ],
+        "conversation_id": "2099766948636790809",
+        "created_at": "2026-09-15T07:47:06.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-15T08:47:06.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099766948636790809"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "3242246588",
+              "start": 3,
+              "username": "yakshawan"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099766948636790809",
+        "lang": "ko",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2217
+        },
+        "referenced_tweets": [
+          {
+            "id": "2099037040000278990",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yakshawan: 초파리 뇌에 미소녀 3D 아바타 달아주기 실험 1일차. 대략 12시간 넘게 훈련했는데 적응할 기미가 전혀 안 보이는군. 😓 학습량이 부족한 건지 국소 최적점에 빠진 건지 잘 모르겠어서 일단 조금씩 조정해 가며 훈련을 계속해…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2099036207888113664"
+          ]
+        },
+        "author_id": "3242246588",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Computer programming",
+              "id": "848921413196984320",
+              "name": "Computer programming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Open source",
+              "id": "849075430715936768",
+              "name": "Open source"
+            }
+          }
+        ],
+        "conversation_id": "2099037040000278990",
+        "created_at": "2026-09-13T07:26:43.000Z",
+        "display_text_range": [
+          0,
+          129
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T08:26:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099037040000278990"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/phN0JnCxNf",
+              "end": 153,
+              "expanded_url": "https://x.com/yakshawan/status/2099037040000278990/video/1",
+              "media_key": "13_2099036207888113664",
+              "start": 130,
+              "url": "https://t.co/phN0JnCxNf"
+            },
+            {
+              "display_url": "x.com/yakshawan/stat…",
+              "end": 177,
+              "expanded_url": "https://twitter.com/yakshawan/status/2098413419204669909",
+              "start": 154,
+              "url": "https://t.co/lxZfGrNGHG"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099037040000278990",
+        "lang": "ko",
+        "media_metadata": [
+          {
+            "media_key": "13_2099036207888113664"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2666,
+          "impression_count": 4266835,
+          "like_count": 8886,
+          "quote_count": 770,
+          "reply_count": 95,
+          "retweet_count": 2217
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098413419204669909",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "초파리 뇌에 미소녀 3D 아바타 달아주기 실험 1일차. 대략 12시간 넘게 훈련했는데 적응할 기미가 전혀 안 보이는군. 😓 학습량이 부족한 건지 국소 최적점에 빠진 건지 잘 모르겠어서 일단 조금씩 조정해 가며 훈련을 계속해볼 생각. https://t.co/phN0JnCxNf https://t.co/lxZfGrNGHG"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2099766948636790809",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2627,
+          "following_count": 4053,
+          "like_count": 80202,
+          "listed_count": 12,
+          "media_count": 657,
+          "tweet_count": 23532
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-06-11T12:00:14.000Z",
+        "description": "✦ 웹소설 작가/기획자/1인 개발자 #INTP\n✦ 개발한 것들:\n› 집중을 돕는 브라운 노이즈 익스텐션 〈TAKT〉\n› 플리 운영을 위한 음원 마스터링 툴 〈마스터마인드〉\n› AI 미소녀 스크린메이트 〈하루나 온 스크린〉\n› 그외 다수",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 25,
+                "start": 20,
+                "tag": "INTP"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "heavyrain39.github.io/portfolio/",
+                "end": 23,
+                "expanded_url": "https://heavyrain39.github.io/portfolio/",
+                "start": 0,
+                "url": "https://t.co/bnZjf12YYn"
+              }
+            ]
+          }
+        },
+        "id": "3242246588",
+        "is_identity_verified": false,
+        "location": "서울",
+        "most_recent_tweet_id": "2099694057543127338",
+        "name": "야차완",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1969539622306004995/w4hYGuMH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1123,
+          "following_count": 307,
+          "like_count": 56328,
+          "listed_count": 4,
+          "media_count": 2778,
+          "tweet_count": 11002
+        },
+        "url": "https://t.co/bnZjf12YYn",
+        "username": "yakshawan",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

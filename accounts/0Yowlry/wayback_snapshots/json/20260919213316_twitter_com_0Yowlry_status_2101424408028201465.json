@@ -1,0 +1,378 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2101424393008390144"
+      ]
+    },
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781972125179518977",
+          "name": "Auto Manufacturer - Auto"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026377943",
+          "name": "Subaru"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026377943",
+          "name": "Subaru"
+        }
+      }
+    ],
+    "conversation_id": "2100756634222186652",
+    "created_at": "2026-09-19T21:33:16.000Z",
+    "display_text_range": [
+      14,
+      21
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-19T22:33:16.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101424408028201465"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "902233210112925696",
+          "start": 0,
+          "username": "lavilla_enzo"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/oos7yxHMBa",
+          "end": 45,
+          "expanded_url": "https://x.com/0Yowlry/status/2101424408028201465/photo/1",
+          "media_key": "3_2101424393008390144",
+          "start": 22,
+          "url": "https://t.co/oos7yxHMBa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101424408028201465",
+    "in_reply_to_user_id": "902233210112925696",
+    "lang": "in",
+    "media_metadata": [
+      {
+        "media_key": "3_2101424393008390144"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100756634222186652",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lavilla_enzo subaru: https://t.co/oos7yxHMBa"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 516,
+        "media_key": "3_2101424393008390144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSnCWgObIAA63ox.png",
+        "width": 556
+      },
+      {
+        "height": 1232,
+        "media_key": "3_2100756630107209728",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSdjBlkWQAAZ5kh.jpg",
+        "width": 960
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101424393008390144"
+          ]
+        },
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781972125179518977",
+              "name": "Auto Manufacturer - Auto"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026377943",
+              "name": "Subaru"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026377943",
+              "name": "Subaru"
+            }
+          }
+        ],
+        "conversation_id": "2100756634222186652",
+        "created_at": "2026-09-19T21:33:16.000Z",
+        "display_text_range": [
+          14,
+          21
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T22:33:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101424408028201465"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "902233210112925696",
+              "start": 0,
+              "username": "lavilla_enzo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/oos7yxHMBa",
+              "end": 45,
+              "expanded_url": "https://x.com/0Yowlry/status/2101424408028201465/photo/1",
+              "media_key": "3_2101424393008390144",
+              "start": 22,
+              "url": "https://t.co/oos7yxHMBa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101424408028201465",
+        "in_reply_to_user_id": "902233210112925696",
+        "lang": "in",
+        "media_metadata": [
+          {
+            "media_key": "3_2101424393008390144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100756634222186652",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lavilla_enzo subaru: https://t.co/oos7yxHMBa"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100756630107209728"
+          ]
+        },
+        "author_id": "902233210112925696",
+        "conversation_id": "2100756634222186652",
+        "created_at": "2026-09-18T01:19:46.000Z",
+        "display_text_range": [
+          0,
+          0
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T02:19:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100756634222186652"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wgOiTQnnDO",
+              "end": 23,
+              "expanded_url": "https://x.com/lavilla_enzo/status/2100756634222186652/photo/1",
+              "media_key": "3_2100756630107209728",
+              "start": 0,
+              "url": "https://t.co/wgOiTQnnDO"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100756634222186652",
+        "lang": "zxx",
+        "media_metadata": [
+          {
+            "media_key": "3_2100756630107209728"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2398,
+          "impression_count": 603088,
+          "like_count": 22473,
+          "quote_count": 28,
+          "reply_count": 26,
+          "retweet_count": 492
+        },
+        "reply_settings": "everyone",
+        "text": "https://t.co/wgOiTQnnDO"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jUKIs"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2101424408028201465",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2644,
+          "following_count": 4082,
+          "like_count": 82587,
+          "listed_count": 12,
+          "media_count": 671,
+          "tweet_count": 24124
+        },
+        "url": "https://t.co/t6gS8jUKIs",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-08-28T18:15:34.000Z",
+        "description": "Brony derechista 🦄 | No te tomes en serio los memes (Las opiniones si) | Algun dia...",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@LaVilladeEnzo…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@LaVilladeEnzo?feature=shared",
+                "start": 0,
+                "url": "https://t.co/GBywJkFvG5"
+              }
+            ]
+          }
+        },
+        "id": "902233210112925696",
+        "is_identity_verified": false,
+        "location": "Chaosville",
+        "most_recent_tweet_id": "2101416580986863877",
+        "name": "Enzo De Villa 🌠🇻🇪",
+        "pinned_tweet_id": "2082335910436241754",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/902233210112925696/1768972663",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094520178860048384/zcMKJcZm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7827,
+          "following_count": 960,
+          "like_count": 52621,
+          "listed_count": 17,
+          "media_count": 5738,
+          "tweet_count": 23006
+        },
+        "url": "https://t.co/GBywJkFvG5",
+        "username": "lavilla_enzo",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

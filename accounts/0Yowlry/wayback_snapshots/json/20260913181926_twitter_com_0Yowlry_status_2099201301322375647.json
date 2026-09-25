@@ -1,0 +1,280 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1972087906673320098",
+    "created_at": "2026-09-13T18:19:26.000Z",
+    "display_text_range": [
+      39,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T19:19:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099201301322375647"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "1818315659673210880",
+          "start": 0,
+          "username": "NeK1GG"
+        },
+        {
+          "end": 24,
+          "id": "1247753861894291459",
+          "start": 8,
+          "username": "Caoalldictators"
+        },
+        {
+          "end": 38,
+          "id": "76575124",
+          "start": 25,
+          "username": "sawayama0410"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099201301322375647",
+    "in_reply_to_user_id": "1818315659673210880",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1972483957318152314",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NeK1GG @Caoalldictators @sawayama0410 🥺"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1972483957318152314].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1972483957318152314",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "1972483957318152314"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1972087906673320098",
+        "created_at": "2026-09-13T18:19:26.000Z",
+        "display_text_range": [
+          39,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T19:19:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099201301322375647"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1818315659673210880",
+              "start": 0,
+              "username": "NeK1GG"
+            },
+            {
+              "end": 24,
+              "id": "1247753861894291459",
+              "start": 8,
+              "username": "Caoalldictators"
+            },
+            {
+              "end": 38,
+              "id": "76575124",
+              "start": 25,
+              "username": "sawayama0410"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099201301322375647",
+        "in_reply_to_user_id": "1818315659673210880",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1972483957318152314",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NeK1GG @Caoalldictators @sawayama0410 🥺"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2099201301322375647",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2621,
+          "following_count": 4040,
+          "like_count": 79127,
+          "listed_count": 12,
+          "media_count": 650,
+          "tweet_count": 23302
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-30T16:00:37.000Z",
+        "description": "",
+        "id": "1818315659673210880",
+        "is_identity_verified": false,
+        "location": "Oslo, Norway",
+        "most_recent_tweet_id": "2094585521871671318",
+        "name": "Nek1🇳🇴🍎🍮✨",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1818315659673210880/1778693065",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090834178388733952/OaO3zOsr_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1126,
+          "following_count": 1118,
+          "like_count": 48012,
+          "listed_count": 4,
+          "media_count": 652,
+          "tweet_count": 10249
+        },
+        "url": "",
+        "username": "NeK1GG",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-04-08T05:11:45.000Z",
+        "description": "躺平",
+        "id": "1247753861894291459",
+        "is_identity_verified": false,
+        "location": "Hokkien",
+        "most_recent_tweet_id": "2099088822227410989",
+        "name": "hcneedLaisve",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1247753861894291459/1732536757",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2043639321811615745/HT59BM6l_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 271,
+          "following_count": 1734,
+          "like_count": 134807,
+          "listed_count": 4,
+          "media_count": 454,
+          "tweet_count": 5489
+        },
+        "url": "",
+        "username": "Caoalldictators",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-09-23T06:16:36.000Z",
+        "description": "Doctor of theoretical physics. Music composer using Vocaloid. Book writer. World affairs analyst. I know all the official languages of the UN.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "sawayama-phys.com",
+                "end": 23,
+                "expanded_url": "http://sawayama-phys.com/",
+                "start": 0,
+                "url": "https://t.co/JjSE5JM6fN"
+              }
+            ]
+          }
+        },
+        "id": "76575124",
+        "is_identity_verified": true,
+        "location": "Japan",
+        "most_recent_tweet_id": "2002617995794002400",
+        "name": "Dr. Shintaro Sawayama",
+        "pinned_tweet_id": "2002429200234655759",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/76575124/1716778042",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1839676088496373760/a_XYbuXP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 62740,
+          "following_count": 7143,
+          "like_count": 71454,
+          "listed_count": 1110,
+          "media_count": 5746,
+          "tweet_count": 49827
+        },
+        "url": "https://t.co/JjSE5JM6fN",
+        "username": "sawayama0410",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

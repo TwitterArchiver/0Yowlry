@@ -1,0 +1,303 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2098046099764531200"
+      ]
+    },
+    "author_id": "1839263401845075974",
+    "conversation_id": "2051475039074345372",
+    "created_at": "2026-09-10T13:49:07.000Z",
+    "display_text_range": [
+      22,
+      22
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T14:49:07.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098046113198780476"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1810940278468964352",
+          "start": 0,
+          "username": "stgggjj"
+        },
+        {
+          "end": 22,
+          "id": "1893148438239522816",
+          "start": 9,
+          "username": "Ave_Nagasaki"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/iR23jQkzHI",
+          "end": 46,
+          "expanded_url": "https://x.com/0Yowlry/status/2098046113198780476/photo/1",
+          "media_key": "3_2098046099764531200",
+          "start": 23,
+          "url": "https://t.co/iR23jQkzHI"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098046113198780476",
+    "in_reply_to_user_id": "1810940278468964352",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "3_2098046099764531200"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090094050598952960",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@stgggjj @Ave_Nagasaki https://t.co/iR23jQkzHI"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2090094050598952960].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2090094050598952960",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2090094050598952960"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 1470,
+        "media_key": "3_2098046099764531200",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HR3Bz9Lb0AAb477.jpg",
+        "width": 1349
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098046099764531200"
+          ]
+        },
+        "author_id": "1839263401845075974",
+        "conversation_id": "2051475039074345372",
+        "created_at": "2026-09-10T13:49:07.000Z",
+        "display_text_range": [
+          22,
+          22
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T14:49:07.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098046113198780476"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1810940278468964352",
+              "start": 0,
+              "username": "stgggjj"
+            },
+            {
+              "end": 22,
+              "id": "1893148438239522816",
+              "start": 9,
+              "username": "Ave_Nagasaki"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/iR23jQkzHI",
+              "end": 46,
+              "expanded_url": "https://x.com/0Yowlry/status/2098046113198780476/photo/1",
+              "media_key": "3_2098046099764531200",
+              "start": 23,
+              "url": "https://t.co/iR23jQkzHI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098046113198780476",
+        "in_reply_to_user_id": "1810940278468964352",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "3_2098046099764531200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090094050598952960",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@stgggjj @Ave_Nagasaki https://t.co/iR23jQkzHI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2098046113198780476",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2603,
+          "following_count": 3981,
+          "like_count": 76485,
+          "listed_count": 12,
+          "media_count": 630,
+          "tweet_count": 22777
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-07-10T07:33:14.000Z",
+        "description": "［我没把握说自己真的是生物、真的在生存什么的］\n\n提问箱https://t.co/xQun8GlnPU",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/27rainyseason",
+                "end": 51,
+                "expanded_url": "https://ngl.link/27rainyseason",
+                "start": 28,
+                "url": "https://t.co/xQun8GlnPU"
+              }
+            ]
+          }
+        },
+        "id": "1810940278468964352",
+        "is_identity_verified": false,
+        "location": "Chiyoda-ku, Tokyo",
+        "most_recent_tweet_id": "2092600760446169573",
+        "name": "骑士小鱼🐟",
+        "pinned_tweet_id": "2090063190336151778",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1810940278468964352/1788017825",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093724465536573440/gVSnmjDA_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 340,
+          "following_count": 551,
+          "like_count": 11170,
+          "listed_count": 1,
+          "media_count": 515,
+          "tweet_count": 8394
+        },
+        "url": "",
+        "username": "stgggjj",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-22T03:59:03.000Z",
+        "description": "泡沫を喰っちゃ泡沫を吹かす\nlove @lamte15072",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 19,
+                "username": "lamte15072"
+              }
+            ]
+          }
+        },
+        "id": "1893148438239522816",
+        "is_identity_verified": false,
+        "location": "歓楽街",
+        "most_recent_tweet_id": "2098035453215846402",
+        "name": "大博打思惑師",
+        "pinned_tweet_id": "2051475039074345372",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1893148438239522816/1787733062",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097353221937537024/lwwyNb3B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 623,
+          "following_count": 365,
+          "like_count": 21662,
+          "listed_count": 2,
+          "media_count": 561,
+          "tweet_count": 7716
+        },
+        "url": "",
+        "username": "Ave_Nagasaki",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

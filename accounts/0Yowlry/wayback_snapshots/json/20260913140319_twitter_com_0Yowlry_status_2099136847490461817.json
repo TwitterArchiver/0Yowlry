@@ -1,0 +1,501 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2098880021817372788",
+    "created_at": "2026-09-13T14:03:19.000Z",
+    "display_text_range": [
+      8,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T15:03:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099136847490461817"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "2508919105",
+          "start": 0,
+          "username": "ncysea"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099136847490461817",
+    "in_reply_to_user_id": "2508919105",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098880021817372788",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ncysea 还有一些没有旗帜emoji的语言怎么办，比如加泰罗尼亚语、拉丁语（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1156,
+        "media_key": "3_2098880009897418752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSC4P6gaoAA-jBg.jpg",
+        "width": 1224
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2098880021817372788",
+        "created_at": "2026-09-13T14:03:19.000Z",
+        "display_text_range": [
+          8,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T15:03:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099136847490461817"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "2508919105",
+              "start": 0,
+              "username": "ncysea"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099136847490461817",
+        "in_reply_to_user_id": "2508919105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098880021817372788",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ncysea 还有一些没有旗帜emoji的语言怎么办，比如加泰罗尼亚语、拉丁语（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098880009897418752"
+          ]
+        },
+        "author_id": "2508919105",
+        "context_annotations": [
+          {
+            "domain": {
+              "id": "6",
+              "name": "Sports Event"
+            },
+            "entity": {
+              "id": "2064992684024995840",
+              "name": "FC Lorient vs Toulouse FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226237033582593",
+              "name": "Toulouse FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "26",
+              "name": "Sports League"
+            },
+            "entity": {
+              "id": "733756534648274945",
+              "name": "Ligue 1"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2064992684024995840",
+              "name": "FC Lorient vs Toulouse FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Sports Event specific to Soccer matches",
+              "id": "43",
+              "name": "Soccer Match"
+            },
+            "entity": {
+              "id": "2064992684024995840",
+              "name": "FC Lorient vs Toulouse FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596144668673",
+              "name": "Airline - Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to automobile, spacecraft, aircraft and boat manufacturing",
+              "id": "1557696420500541440",
+              "name": "Automotive, Aircraft & Boat Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10043811491",
+              "name": "Lufthansa"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Travel",
+              "id": "839159814991167489",
+              "name": "Travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Air travel",
+              "id": "849076200261603328",
+              "name": "Air travel"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043811491",
+              "name": "Lufthansa"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226237033582593",
+              "name": "Toulouse FC"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756534648274945",
+              "name": "Ligue 1"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Air travel",
+              "id": "849076200261603328",
+              "name": "Air travel"
+            }
+          }
+        ],
+        "conversation_id": "2098880021817372788",
+        "created_at": "2026-09-12T21:02:47.000Z",
+        "display_text_range": [
+          0,
+          251
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T22:02:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098880021817372788"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/EKk2h1TfMg",
+              "end": 275,
+              "expanded_url": "https://x.com/ncysea/status/2098880021817372788/photo/1",
+              "media_key": "3_2098880009897418752",
+              "start": 252,
+              "url": "https://t.co/EKk2h1TfMg"
+            },
+            {
+              "display_url": "x.com/ncysea/status/…",
+              "end": 299,
+              "expanded_url": "https://twitter.com/ncysea/status/2084102452920651781",
+              "start": 276,
+              "url": "https://t.co/WYSaOrKwEE"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098880021817372788",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2098880009897418752"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3,
+          "impression_count": 2165,
+          "like_count": 119,
+          "quote_count": 0,
+          "reply_count": 22,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084102452920651781",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "I have finally reached 2300 followers!\n我終於達到2300位跟蹤者啦！\n🥳🎉🎊🍾🎁🎈🪩🪅\n\n🇦🇲 Շնորհակալություն՜\n🇸🇦 شُكْرًا!\n🇲🇦 ⵜⴰⵏⵎⵎⵉⵔⵜ!\n🇧🇩 ধন্যবাদ!\n🇧🇾 Дзякуй!\n🇧🇦 Hvala!\n🇧🇬 Благодаря!\n🇭🇰 多謝！\n🇹🇼 謝謝！\n🇭🇷 Hvala!\n🇨🇿 Děkuji!\n🇩🇰 Tak!\n🇳🇱 Dank u!\n🏴󠁧󠁢󠁥󠁮󠁧󠁿 Thank you!\n🇪🇪 Tänan!\n🇫🇷 Merci ! https://t.co/EKk2h1TfMg https://t.co/WYSaOrKwEE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2099136847490461817",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2620,
+          "following_count": 4036,
+          "like_count": 78733,
+          "listed_count": 12,
+          "media_count": 650,
+          "tweet_count": 23228
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-05-20T01:01:21.000Z",
+        "description": "🇺🇸 He/Him. Speak 🇬🇧🇭🇰🇹🇼🇯🇵🇪🇸.\nMSc in Computer Science.\nFounder, Federal Councillor and MOFA of @enchenia.\nGloria Encheniae a me defenditur.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 103,
+                "start": 94,
+                "username": "enchenia"
+              }
+            ]
+          }
+        },
+        "id": "2508919105",
+        "is_identity_verified": false,
+        "location": "Federation of Enchenia 英雪尼亞聯邦",
+        "most_recent_tweet_id": "2099043048239882338",
+        "name": "Ngok Ching Ying Suet 樂正瑩雪",
+        "pinned_tweet_id": "1979023440695656567",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2508919105/1789102603",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084851855096487938/LYOUCMp__normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2326,
+          "following_count": 2774,
+          "like_count": 58094,
+          "listed_count": 13,
+          "media_count": 4926,
+          "tweet_count": 42082
+        },
+        "url": "",
+        "username": "ncysea",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

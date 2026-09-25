@@ -1,0 +1,477 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Music and radio",
+          "id": "847524658970636288",
+          "name": "Music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1509257234663952386",
+          "name": "Vocal synthesizers"
+        }
+      }
+    ],
+    "conversation_id": "2098825980307742824",
+    "created_at": "2026-09-12T17:28:02.000Z",
+    "display_text_range": [
+      0,
+      139
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T18:28:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098825980307742824"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1625260687",
+          "start": 3,
+          "username": "yasai31_"
+        },
+        {
+          "end": 137,
+          "id": "972409626607075329",
+          "start": 127,
+          "username": "oda_koden"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098825980307742824",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2269
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098351263301922863",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @yasai31_: 投稿しました！よろしくお願いします \n\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n\nKING / 重音テトSV【SynthV cover】\n\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\nIllustration：Oda Kogane (@oda_koden)…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 21154,
+        "height": 1080,
+        "media_key": "13_2098350069523320833",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2098350069523320833/img/1HjfhcnSrOfqLSbK.jpg",
+        "public_metrics": {
+          "view_count": 2326231
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098350069523320833/vid/avc1/480x270/47vCbFaORGSxvVq-.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2098350069523320833/pl/igGHxfvWi1NSMaeU.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098350069523320833/vid/avc1/1920x1080/4znLw78lsqENx6B7.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098350069523320833/vid/avc1/640x360/1uoxEm8ozbkniXF-.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2098350069523320833/vid/avc1/1280x720/Biw8Ml2rRVq-WA0y.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1509257234663952386",
+              "name": "Vocal synthesizers"
+            }
+          }
+        ],
+        "conversation_id": "2098825980307742824",
+        "created_at": "2026-09-12T17:28:02.000Z",
+        "display_text_range": [
+          0,
+          139
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T18:28:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098825980307742824"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1625260687",
+              "start": 3,
+              "username": "yasai31_"
+            },
+            {
+              "end": 137,
+              "id": "972409626607075329",
+              "start": 127,
+              "username": "oda_koden"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098825980307742824",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2269
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098351263301922863",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @yasai31_: 投稿しました！よろしくお願いします \n\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n\nKING / 重音テトSV【SynthV cover】\n\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\nIllustration：Oda Kogane (@oda_koden)…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2098350069523320833"
+          ]
+        },
+        "author_id": "1625260687",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Music and radio",
+              "id": "847524658970636288",
+              "name": "Music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1509257234663952386",
+              "name": "Vocal synthesizers"
+            }
+          }
+        ],
+        "conversation_id": "2098351263301922863",
+        "created_at": "2026-09-11T10:01:41.000Z",
+        "display_text_range": [
+          0,
+          124
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-11T11:01:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098351263301922863"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 123,
+              "id": "972409626607075329",
+              "start": 113,
+              "username": "oda_koden"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/bqMnbUmzSq",
+              "end": 148,
+              "expanded_url": "https://x.com/yasai31_/status/2098351263301922863/video/1",
+              "media_key": "13_2098350069523320833",
+              "start": 125,
+              "url": "https://t.co/bqMnbUmzSq"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098351263301922863",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2098350069523320833"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7883,
+          "impression_count": 9051799,
+          "like_count": 25804,
+          "quote_count": 376,
+          "reply_count": 15,
+          "retweet_count": 2269
+        },
+        "reply_settings": "everyone",
+        "text": "投稿しました！よろしくお願いします \n\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\n\nKING / 重音テトSV【SynthV cover】\n\n￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣￣\nIllustration：Oda Kogane (@oda_koden) https://t.co/bqMnbUmzSq"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2098825980307742824",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2608,
+          "following_count": 4017,
+          "like_count": 77987,
+          "listed_count": 12,
+          "media_count": 644,
+          "tweet_count": 23089
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-07-27T11:11:50.000Z",
+        "description": "主に重音テトでカバーを投稿しています🥖 絵と調声をする \n◆ニコニコ［https://t.co/8aIZX1tWLr］◆Youtube［https://t.co/MiIeZmXXyQ］\n(JASRAC許諾番号J240540991/NexTone許諾番号ID000009605)",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "bit.ly/3vILq4P",
+                "end": 58,
+                "expanded_url": "http://bit.ly/3vILq4P",
+                "start": 35,
+                "url": "https://t.co/8aIZX1tWLr"
+              },
+              {
+                "display_url": "youtube.com/@yasai31",
+                "end": 91,
+                "expanded_url": "https://www.youtube.com/@yasai31",
+                "start": 68,
+                "url": "https://t.co/MiIeZmXXyQ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "fori.io/yasai31",
+                "end": 23,
+                "expanded_url": "https://fori.io/yasai31",
+                "start": 0,
+                "url": "https://t.co/Wg8W6HroE2"
+              }
+            ]
+          }
+        },
+        "id": "1625260687",
+        "is_identity_verified": false,
+        "location": "yyyasai31✉gmail.com",
+        "most_recent_tweet_id": "2098558715855261991",
+        "name": "yasai31",
+        "pinned_tweet_id": "1946497369237033042",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1625260687/1718122963",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1548113983617413127/IVkCkHXU_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46230,
+          "following_count": 860,
+          "like_count": 56268,
+          "listed_count": 91,
+          "media_count": 896,
+          "tweet_count": 18221
+        },
+        "url": "https://t.co/Wg8W6HroE2",
+        "username": "yasai31_",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-03-10T09:51:36.000Z",
+        "description": "小田こがね / illustration / ご飯と絵が好きです\n✉️odakogane.07@gmail.com",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "odakogane.fanbox.cc",
+                "end": 23,
+                "expanded_url": "https://odakogane.fanbox.cc/",
+                "start": 0,
+                "url": "https://t.co/ZgPdUpvUbC"
+              }
+            ]
+          }
+        },
+        "id": "972409626607075329",
+        "is_identity_verified": false,
+        "location": "お仕事実績など▶︎",
+        "most_recent_tweet_id": "2098771743246831816",
+        "name": "Oda Kogane",
+        "pinned_tweet_id": "2092205849142047131",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/972409626607075329/1691449270",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1431820655704510465/yH-fE0-0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 46676,
+          "following_count": 229,
+          "like_count": 13618,
+          "listed_count": 168,
+          "media_count": 266,
+          "tweet_count": 2251
+        },
+        "url": "https://t.co/ZgPdUpvUbC",
+        "username": "oda_koden",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,257 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2098788867738652795",
+    "created_at": "2026-09-12T18:42:49.000Z",
+    "display_text_range": [
+      27,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T19:42:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098844798824436078"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1547097745797685249",
+          "start": 0,
+          "username": "sth_like_human"
+        },
+        {
+          "end": 26,
+          "id": "878794367103676416",
+          "start": 16,
+          "username": "_NekoKage"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098844798824436078",
+    "in_reply_to_user_id": "1547097745797685249",
+    "lang": "pl",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098808094939845102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@sth_like_human @_NekoKage 😴😴😴(￣o￣) . z Z  (～﹃～)~zZ"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2098808094939845102].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2098808094939845102",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2098808094939845102"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2098788867738652795",
+        "created_at": "2026-09-12T18:42:49.000Z",
+        "display_text_range": [
+          27,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T19:42:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098844798824436078"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1547097745797685249",
+              "start": 0,
+              "username": "sth_like_human"
+            },
+            {
+              "end": 26,
+              "id": "878794367103676416",
+              "start": 16,
+              "username": "_NekoKage"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098844798824436078",
+        "in_reply_to_user_id": "1547097745797685249",
+        "lang": "pl",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098808094939845102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@sth_like_human @_NekoKage 😴😴😴(￣o￣) . z Z  (～﹃～)~zZ"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2098844798824436078",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2609,
+          "following_count": 4027,
+          "like_count": 78217,
+          "listed_count": 12,
+          "media_count": 644,
+          "tweet_count": 23122
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-13T05:57:38.000Z",
+        "description": "我也要bot",
+        "id": "1547097745797685249",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "1996196787896606728",
+        "name": "Flash flame",
+        "pinned_tweet_id": "1590122678585032705",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2010312921864343552/Si-AfgEN_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1543,
+          "following_count": 4410,
+          "like_count": 211115,
+          "listed_count": 7,
+          "media_count": 2218,
+          "tweet_count": 42452
+        },
+        "url": "",
+        "username": "sth_like_human",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2017-06-25T01:57:59.000Z",
+        "description": "🏳️‍⚧️She/They 👩‍❤️‍👩lesbian💉HRT 21.5.1 持证💁INFP🐈猫⚡电工？💻GNU/Linux🦿biid🏥罕见病癌症病弱小女孩📷膠片攝影/相机维修🚬大烟鬼⌚️入门表匠🖥Vintage Mac⚠️裏推:@Kage_Spec❤️@Kuroneko450430的🐈",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 125,
+                "start": 115,
+                "username": "Kage_Spec"
+              },
+              {
+                "end": 142,
+                "start": 127,
+                "username": "Kuroneko450430"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/neko-kage",
+                "end": 23,
+                "expanded_url": "https://github.com/neko-kage",
+                "start": 0,
+                "url": "https://t.co/nHiCplZUCm"
+              }
+            ]
+          }
+        },
+        "id": "878794367103676416",
+        "is_identity_verified": false,
+        "location": "中国 河北省 邯郸市",
+        "most_recent_tweet_id": "2098793188068819194",
+        "name": "NekoKage📸影貓",
+        "pinned_tweet_id": "2032211952341303592",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/878794367103676416/1784999152",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1999359701197426688/XVYEHKoh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9070,
+          "following_count": 6806,
+          "like_count": 16461,
+          "listed_count": 19,
+          "media_count": 3136,
+          "tweet_count": 23101
+        },
+        "url": "https://t.co/nHiCplZUCm",
+        "username": "_NekoKage",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

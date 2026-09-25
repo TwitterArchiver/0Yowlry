@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1602163209112530944",
+    "created_at": "2026-09-14T05:42:43.000Z",
+    "display_text_range": [
+      9,
+      12
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-14T06:42:43.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099373255086002183"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1145314574318485504",
+          "start": 0,
+          "username": "NSJ_zz_"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099373255086002183",
+    "in_reply_to_user_id": "1145314574318485504",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1602163209112530944",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@NSJ_zz_ 🤤🤤🤤"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [1602163209112530944].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "1602163209112530944",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "1602163209112530944"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1602163209112530944",
+        "created_at": "2026-09-14T05:42:43.000Z",
+        "display_text_range": [
+          9,
+          12
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-14T06:42:43.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099373255086002183"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1145314574318485504",
+              "start": 0,
+              "username": "NSJ_zz_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099373255086002183",
+        "in_reply_to_user_id": "1145314574318485504",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1602163209112530944",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@NSJ_zz_ 🤤🤤🤤"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2099373255086002183",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2624,
+          "following_count": 4044,
+          "like_count": 79380,
+          "listed_count": 12,
+          "media_count": 652,
+          "tweet_count": 23357
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-06-30T12:54:08.000Z",
+        "description": "我們終將在沒有惡俗的地方相見。可能是毛主義者。",
+        "id": "1145314574318485504",
+        "is_identity_verified": false,
+        "location": "金邊某火車站二樓某房間",
+        "most_recent_tweet_id": "2091195290242220328",
+        "name": "沙洛特紹（L4-5、L5-S1輕微膨出",
+        "pinned_tweet_id": "1602163209112530944",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1145314574318485504/1611376620",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1746772550225682432/QQZyJAyH_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1373,
+          "following_count": 2079,
+          "like_count": 278180,
+          "listed_count": 17,
+          "media_count": 2056,
+          "tweet_count": 38008
+        },
+        "url": "",
+        "username": "NSJ_zz_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

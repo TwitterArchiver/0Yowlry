@@ -1,0 +1,450 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2100587914958963144",
+    "created_at": "2026-09-18T22:42:29.000Z",
+    "display_text_range": [
+      8,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-18T23:42:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2101079439950094749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "412940784",
+          "start": 0,
+          "username": "kantei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2101079439950094749",
+    "in_reply_to_user_id": "412940784",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100587914958963144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kantei 咋不穿和服"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2600,
+        "media_key": "3_2100587722285215744",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSbJZ25bcAAKYQq.jpg",
+        "width": 2104
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2100587914958963144",
+        "created_at": "2026-09-18T22:42:29.000Z",
+        "display_text_range": [
+          8,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-18T23:42:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101079439950094749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "412940784",
+              "start": 0,
+              "username": "kantei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101079439950094749",
+        "in_reply_to_user_id": "412940784",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100587914958963144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kantei 咋不穿和服"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100587722285215744"
+          ]
+        },
+        "author_id": "412940784",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1070735154535051265",
+              "name": "Minoru Kihara"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1070735154535051265",
+              "name": "Minoru Kihara"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "id": "1377314397727584256",
+              "name": "Japan Cabinet Secretariat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "News",
+              "id": "1046545033657081857",
+              "name": "News"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Japanese politician",
+              "id": "1070735154535051265",
+              "name": "Minoru Kihara"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Journalism",
+              "id": "1074755369530880001",
+              "name": "Journalists"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1377314397727584256",
+              "name": "Japan Cabinet Secretariat"
+            }
+          },
+          {
+            "domain": {
+              "description": "A section of a government, like The Supreme Court",
+              "id": "88",
+              "name": "Political Body"
+            },
+            "entity": {
+              "description": "Conversation about the Japanese Cabinet",
+              "id": "858945566687993856",
+              "name": "Cabinet of Japan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Conversation about the Japanese Cabinet",
+              "id": "858945566687993856",
+              "name": "Cabinet of Japan"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political Body",
+              "id": "1068583660914266113",
+              "name": "Government institutions"
+            }
+          },
+          {
+            "domain": {
+              "description": "News Categories like Entertainment or Technology",
+              "id": "69",
+              "name": "News Vertical"
+            },
+            "entity": {
+              "id": "1192881321577598977",
+              "name": "Japan national news"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192881321577598977",
+              "name": "Japan national news"
+            }
+          }
+        ],
+        "conversation_id": "2100587914958963144",
+        "created_at": "2026-09-17T14:09:20.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T15:09:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100587914958963144"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/AbHjKX2Wdy",
+              "end": 118,
+              "expanded_url": "https://x.com/kantei/status/2100587914958963144/photo/1",
+              "media_key": "3_2100587722285215744",
+              "start": 95,
+              "url": "https://t.co/AbHjKX2Wdy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100587914958963144",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100587722285215744"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 386,
+          "impression_count": 422776,
+          "like_count": 17610,
+          "quote_count": 386,
+          "reply_count": 627,
+          "retweet_count": 2125
+        },
+        "reply_settings": "everyone",
+        "text": "9月17日、木原稔内閣官房長官からの閣僚名簿発表後、宮中での新任の国務大臣の認証式を経て、第2次高市改造内閣が発足しました。高市総理は記者会見を行い、初閣議を開催し、記念撮影を行いました。 https://t.co/AbHjKX2Wdy"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jUKIs"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2101079439950094749",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2641,
+          "following_count": 4071,
+          "like_count": 82120,
+          "listed_count": 12,
+          "media_count": 669,
+          "tweet_count": 23988
+        },
+        "url": "https://t.co/t6gS8jUKIs",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2011-11-15T09:24:43.000Z",
+        "description": "本アカウントは首相官邸の公式アカウントです。日々の総理に関する情報や内閣の重要政策についての情報などをお届けします。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "kantei.go.jp",
+                "end": 23,
+                "expanded_url": "https://www.kantei.go.jp/",
+                "start": 0,
+                "url": "https://t.co/lKMociTte5"
+              }
+            ]
+          }
+        },
+        "id": "412940784",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2100960685534662856",
+        "name": "首相官邸",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/412940784/1464569515",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1929442960221028353/I0KsGLtz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1759793,
+          "following_count": 47,
+          "like_count": 3,
+          "listed_count": 17798,
+          "media_count": 8273,
+          "tweet_count": 23317
+        },
+        "url": "https://t.co/lKMociTte5",
+        "username": "kantei",
+        "verified": true,
+        "verified_type": "government"
+      }
+    ]
+  }
+}

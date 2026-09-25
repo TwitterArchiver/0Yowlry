@@ -1,0 +1,438 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2074849986341192112",
+    "created_at": "2026-09-02T16:12:52.000Z",
+    "display_text_range": [
+      10,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-02T17:12:52.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2095183183071633884"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1891490382",
+          "start": 0,
+          "username": "nexta_tv"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2095183183071633884",
+    "in_reply_to_user_id": "1891490382",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074849986341192112",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nexta_tv 🤭🤭🤭"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 17280,
+        "height": 538,
+        "media_key": "13_2074849702227361792",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2074849702227361792/img/rcaedPDKjkK6TjL-.jpg",
+        "public_metrics": {
+          "view_count": 119186
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074849702227361792/vid/avc1/474x270/xgiWnDgpgpVwX-ns.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074849702227361792/vid/avc1/634x360/2C9oK83R-TFqMgJ_.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2074849702227361792/vid/avc1/948x538/OJ3hAs79DUQoBb0Q.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2074849702227361792/pl/NneuYhevJL2Pqlb0.m3u8?v=3e1"
+          }
+        ],
+        "width": 948
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2074849986341192112",
+        "created_at": "2026-09-02T16:12:52.000Z",
+        "display_text_range": [
+          10,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-02T17:12:52.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2095183183071633884"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1891490382",
+              "start": 0,
+              "username": "nexta_tv"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2095183183071633884",
+        "in_reply_to_user_id": "1891490382",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074849986341192112",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nexta_tv 🤭🤭🤭"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2074849702227361792"
+          ]
+        },
+        "author_id": "1891490382",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "45th US President, Donald Trump",
+              "id": "799022225751871488",
+              "name": "Donald Trump"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "President Trump ends oil waivers to Iran",
+              "id": "1120307801446699009",
+              "name": "President Trump ends oil waivers to Iran"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "President Trump said he’s imposing sanctions on Iran’s supreme leader, Ayatollah Ali Khamenei, and his office, “in response to Iran’s increasingly provocative actions.” The announcement comes after Iran shot down a US Navy drone last week.",
+              "id": "1143192051233644544",
+              "name": "President Trump announces ‘hard hitting’ sanctions on Iran"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brought to you by @Polymarket. Get live, unbiased 2024 election forecasts: https://polymarket.com/elections\n",
+              "id": "1836137739353292800",
+              "name": "2024 US Election"
+            }
+          }
+        ],
+        "conversation_id": "2074849986341192112",
+        "created_at": "2026-07-08T13:36:00.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-08T14:36:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2074849986341192112"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/PZvUaFkEKk",
+              "end": 118,
+              "expanded_url": "https://x.com/nexta_tv/status/2074849986341192112/video/1",
+              "media_key": "13_2074849702227361792",
+              "start": 95,
+              "url": "https://t.co/PZvUaFkEKk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2074849986341192112",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "13_2074849702227361792"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "Trump confused Japan with Iran\n\n“The Islamic Republic of Japan attacked our aircraft carrier.”"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 424,
+          "impression_count": 369406,
+          "like_count": 2312,
+          "quote_count": 150,
+          "reply_count": 239,
+          "retweet_count": 281
+        },
+        "reply_settings": "everyone",
+        "text": "Trump confused Japan with Iran\n\n“The Islamic Republic of Japan attacked our aircraft carrier.” https://t.co/PZvUaFkEKk"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "discord.com",
+                "end": 23,
+                "expanded_url": "https://discord.com",
+                "start": 0,
+                "url": "https://t.co/ZXakBnUI1a"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2095183183071633884",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2571,
+          "following_count": 3838,
+          "like_count": 71454,
+          "listed_count": 12,
+          "media_count": 594,
+          "tweet_count": 21504
+        },
+        "url": "https://t.co/ZXakBnUI1a",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-09-21T21:24:04.000Z",
+        "description": "The largest Eastern European media. To let the world know.\nOur YouTube: https://t.co/n63zDXn9Mn\nSupport us: https://t.co/AfUDiu1T1y",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@NEXTA_Global",
+                "end": 95,
+                "expanded_url": "https://youtube.com/@NEXTA_Global",
+                "start": 72,
+                "url": "https://t.co/n63zDXn9Mn"
+              },
+              {
+                "display_url": "nexta.tv/support",
+                "end": 131,
+                "expanded_url": "https://nexta.tv/support",
+                "start": 108,
+                "url": "https://t.co/AfUDiu1T1y"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@nexta_global",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@nexta_global",
+                "start": 0,
+                "url": "https://t.co/VeiDbtgdmw"
+              }
+            ]
+          }
+        },
+        "id": "1891490382",
+        "is_identity_verified": true,
+        "location": "Warsaw, Poland",
+        "most_recent_tweet_id": "2095179036255248573",
+        "name": "NEXTA",
+        "pinned_tweet_id": "2095086056131399863",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1891490382/1705316345",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1514923008707768321/hL4PN7Hf_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1323839,
+          "following_count": 233,
+          "like_count": 10211,
+          "listed_count": 11030,
+          "media_count": 64714,
+          "tweet_count": 72673
+        },
+        "url": "https://t.co/VeiDbtgdmw",
+        "username": "nexta_tv",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

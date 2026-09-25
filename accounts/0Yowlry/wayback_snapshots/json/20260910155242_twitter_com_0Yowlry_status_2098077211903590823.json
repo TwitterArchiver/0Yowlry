@@ -1,0 +1,416 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2097340724605780201",
+    "created_at": "2026-09-10T15:52:42.000Z",
+    "display_text_range": [
+      15,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-10T16:52:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098077211903590823"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1790448736629301248",
+          "start": 0,
+          "username": "xijinping_bot"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098077211903590823",
+    "in_reply_to_user_id": "1790448736629301248",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097340724605780201",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xijinping_bot 我说怎么显示25条评论一条都看不见，原来是全都被你给精选了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2314,
+        "media_key": "3_2097340700228517888",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRtAQTIXAAAU7fB.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2097340724605780201",
+        "created_at": "2026-09-10T15:52:42.000Z",
+        "display_text_range": [
+          15,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T16:52:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098077211903590823"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1790448736629301248",
+              "start": 0,
+              "username": "xijinping_bot"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098077211903590823",
+        "in_reply_to_user_id": "1790448736629301248",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097340724605780201",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xijinping_bot 我说怎么显示25条评论一条都看不见，原来是全都被你给精选了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097340700228517888"
+          ]
+        },
+        "author_id": "1790448736629301248",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile gaming",
+              "id": "847527946864607232",
+              "name": "Mobile gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "961618132874883072",
+              "name": "PlayerUnknown's Battlegrounds"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "This entity includes all conversation about the franchise, as well as any individual installments in the series, if applicable.\t\t\t",
+              "id": "961618132874883072",
+              "name": "PlayerUnknown's Battlegrounds"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          }
+        ],
+        "conversation_id": "2097340724605780201",
+        "created_at": "2026-09-08T15:06:10.000Z",
+        "display_text_range": [
+          0,
+          89
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-08T16:06:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097340724605780201"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 89,
+              "start": 84,
+              "tag": "精神探索"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/7J4DpHHzrX",
+              "end": 113,
+              "expanded_url": "https://x.com/xijinping_bot/status/2097340724605780201/photo/1",
+              "media_key": "3_2097340700228517888",
+              "start": 90,
+              "url": "https://t.co/7J4DpHHzrX"
+            },
+            {
+              "display_url": "x.com/ahm_victor/sta…",
+              "end": 137,
+              "expanded_url": "https://twitter.com/ahm_victor/status/2097053028431884466",
+              "start": 114,
+              "url": "https://t.co/sMTs78xUVm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097340724605780201",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097340700228517888"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1117,
+          "like_count": 22,
+          "quote_count": 0,
+          "reply_count": 26,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097053028431884466",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "和中国人相处久了，打开评论区发现外国人竟然这么善良。仔细一想这才是人类该有的品格啊！真是让人细思极恐，在中国生活久了人性就会被异化，因为中国就是一个巨大的校园、工厂！\n#精神探索 https://t.co/7J4DpHHzrX https://t.co/sMTs78xUVm"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2098077211903590823",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2603,
+          "following_count": 3983,
+          "like_count": 76795,
+          "listed_count": 12,
+          "media_count": 633,
+          "tweet_count": 22850
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-05-14T18:27:07.000Z",
+        "description": "女性友好/风味马克思主义/一切不当言论由@zhngjing322708 指使、@fidjmk 编辑、@kujou_king 发布，与本人无关/小宝宝@Dadey1444 @jukjjukj74898/侧面教员@younevercaxxza/好同志@AlexJINDER/#我的史观 #正本清源 #奇异搞笑 #精神探索",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 140,
+                "start": 135,
+                "tag": "我的史观"
+              },
+              {
+                "end": 146,
+                "start": 141,
+                "tag": "正本清源"
+              },
+              {
+                "end": 152,
+                "start": 147,
+                "tag": "奇异搞笑"
+              },
+              {
+                "end": 158,
+                "start": 153,
+                "tag": "精神探索"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 35,
+                "start": 20,
+                "username": "zhngjing322708"
+              },
+              {
+                "end": 46,
+                "start": 39,
+                "username": "fidjmk"
+              },
+              {
+                "end": 61,
+                "start": 50,
+                "username": "kujou_king"
+              },
+              {
+                "end": 84,
+                "start": 74,
+                "username": "Dadey1444"
+              },
+              {
+                "end": 99,
+                "start": 85,
+                "username": "jukjjukj74898"
+              },
+              {
+                "end": 119,
+                "start": 104,
+                "username": "younevercaxxza"
+              },
+              {
+                "end": 134,
+                "start": 123,
+                "username": "AlexJINDER"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "deerjisiquanjia.com",
+                "end": 23,
+                "expanded_url": "http://deerjisiquanjia.com",
+                "start": 0,
+                "url": "https://t.co/ZQF7vW5rWC"
+              }
+            ]
+          }
+        },
+        "id": "1790448736629301248",
+        "is_identity_verified": false,
+        "location": "利伯塔利亚—呼罗珊省",
+        "most_recent_tweet_id": "2098074648772817177",
+        "name": "羽泽东🇮🇱🇷🇺🚩—史达林晚年问题研究学家",
+        "pinned_tweet_id": "2096939386286072180",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1790448736629301248/1785710119",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2094865306737074176/erc4NMIB_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2315,
+          "following_count": 1718,
+          "like_count": 32090,
+          "listed_count": 15,
+          "media_count": 1309,
+          "tweet_count": 25690
+        },
+        "url": "https://t.co/ZQF7vW5rWC",
+        "username": "xijinping_bot",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

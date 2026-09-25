@@ -1,0 +1,469 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2097742957634003426",
+    "created_at": "2026-09-09T17:44:29.000Z",
+    "display_text_range": [
+      0,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-09T18:44:29.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2097742957634003426"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "4398626122",
+          "start": 6,
+          "username": "OpenAI"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/tokio_8964/sta…",
+          "end": 56,
+          "expanded_url": "https://twitter.com/tokio_8964/status/2097620295544885460",
+          "start": 33,
+          "url": "https://t.co/59uQJG3vF2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2097742957634003426",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097620295544885460",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "傻逼GPT @OpenAI 每次回答都一定要带上一个“对，”吗？ https://t.co/59uQJG3vF2"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2097620282433589248",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRw-iIAb0AALGZy.jpg",
+        "width": 943
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2097620282425106432",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HRw-iH-aYAASpng.jpg",
+        "width": 943
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2097742957634003426",
+        "created_at": "2026-09-09T17:44:29.000Z",
+        "display_text_range": [
+          0,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T18:44:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097742957634003426"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "4398626122",
+              "start": 6,
+              "username": "OpenAI"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/tokio_8964/sta…",
+              "end": 56,
+              "expanded_url": "https://twitter.com/tokio_8964/status/2097620295544885460",
+              "start": 33,
+              "url": "https://t.co/59uQJG3vF2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097742957634003426",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097620295544885460",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "傻逼GPT @OpenAI 每次回答都一定要带上一个“对，”吗？ https://t.co/59uQJG3vF2"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2097620282433589248",
+            "3_2097620282425106432"
+          ]
+        },
+        "author_id": "1646839168310583296",
+        "conversation_id": "2097620295544885460",
+        "created_at": "2026-09-09T09:37:05.000Z",
+        "display_text_range": [
+          0,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-09T10:37:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097620295544885460"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/XRgSammbRW",
+              "end": 41,
+              "expanded_url": "https://x.com/tokio_8964/status/2097620295544885460/photo/1",
+              "media_key": "3_2097620282433589248",
+              "start": 18,
+              "url": "https://t.co/XRgSammbRW"
+            },
+            {
+              "display_url": "pic.x.com/XRgSammbRW",
+              "end": 41,
+              "expanded_url": "https://x.com/tokio_8964/status/2097620295544885460/photo/1",
+              "media_key": "3_2097620282425106432",
+              "start": 18,
+              "url": "https://t.co/XRgSammbRW"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097620295544885460",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2097620282433589248"
+          },
+          {
+            "media_key": "3_2097620282425106432"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 38,
+          "impression_count": 60282,
+          "like_count": 237,
+          "quote_count": 1,
+          "reply_count": 70,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "基站一定要有信号 ✍🏻✍🏻😭😭👏👏 https://t.co/XRgSammbRW"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2097742957634003426",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2603,
+          "following_count": 3977,
+          "like_count": 76169,
+          "listed_count": 12,
+          "media_count": 621,
+          "tweet_count": 22724
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-04-14T11:33:58.000Z",
+        "description": "HRT2024.03.12｜小证2026.07.30｜双相｜INFP｜AvPD｜虚无主义｜反出生主义｜包蜜｜泛蓝🇹🇼 ❂｜Stand with 🇹🇼🇺🇦｜捍自由 來齊集這裡 來全力抗對｜Cantonese｜同行兒女 為正義 時代革命｜有社交焦虑和社交抑制不会主动但又想和大家做朋友🥹🥹🥹｜请和我互fo喵",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mtf.wiki",
+                "end": 23,
+                "expanded_url": "http://mtf.wiki",
+                "start": 0,
+                "url": "https://t.co/hZqiEBXlHK"
+              }
+            ]
+          }
+        },
+        "id": "1646839168310583296",
+        "is_identity_verified": false,
+        "location": "廣東東莞gwong2dung1dung1gun2",
+        "most_recent_tweet_id": "2097667800374689886",
+        "name": "トキオ🍥",
+        "pinned_tweet_id": "2090422995533881703",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1646839168310583296/1704394058",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1840973610821042176/RIqNhQQH_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 785,
+          "following_count": 1757,
+          "like_count": 2601,
+          "listed_count": 0,
+          "media_count": 141,
+          "tweet_count": 1020
+        },
+        "url": "https://t.co/hZqiEBXlHK",
+        "username": "tokio_8964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-12-06T22:51:08.000Z",
+        "description": "OpenAI’s mission is to ensure that artificial general intelligence benefits all of humanity. We’re hiring: https://t.co/dJGr6LgzPA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "openai.com/jobs",
+                "end": 130,
+                "expanded_url": "http://openai.com/jobs",
+                "start": 107,
+                "url": "https://t.co/dJGr6LgzPA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "openai.com",
+                "end": 23,
+                "expanded_url": "https://openai.com",
+                "start": 0,
+                "url": "https://t.co/3bPlZZkvdL"
+              }
+            ]
+          }
+        },
+        "id": "4398626122",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2097741659509584091",
+        "name": "OpenAI",
+        "pinned_tweet_id": "2095595741528125780",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4398626122/1777662919",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1885410181409820672/ztsaR0JW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5297216,
+          "following_count": 4,
+          "like_count": 2474,
+          "listed_count": 31947,
+          "media_count": 710,
+          "tweet_count": 2117
+        },
+        "url": "https://t.co/3bPlZZkvdL",
+        "username": "OpenAI",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

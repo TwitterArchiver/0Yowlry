@@ -1,0 +1,568 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+          "id": "1557697378571808768",
+          "name": "Textile, Apparel & Luxury Good Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "description": "WEGO",
+          "id": "1035223802358054912",
+          "name": "WEGO"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Fashion Brand",
+          "id": "846427983237672960",
+          "name": "Fashion Brand"
+        }
+      }
+    ],
+    "conversation_id": "2098430848282566992",
+    "created_at": "2026-09-13T14:53:41.000Z",
+    "display_text_range": [
+      38,
+      64
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T15:53:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099149523436331119"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2058507108254167040",
+          "start": 0,
+          "username": "Tonighthhh"
+        },
+        {
+          "end": 25,
+          "id": "884935136",
+          "start": 12,
+          "username": "lisalisa_307"
+        },
+        {
+          "end": 37,
+          "id": "158268358",
+          "start": 26,
+          "username": "WEGO_press"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Tonighthhh/sta…",
+          "end": 61,
+          "expanded_url": "https://x.com/Tonighthhh/status/2090852040780267767?s=20",
+          "start": 38,
+          "url": "https://t.co/NY9EpphMkz"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099149523436331119",
+    "in_reply_to_user_id": "2058507108254167040",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2090852040780267767",
+        "type": "quoted"
+      },
+      {
+        "id": "2099029320048197713",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Tonighthhh @lisalisa_307 @WEGO_press https://t.co/NY9EpphMkz\n也够"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WEGO",
+              "id": "1035223802358054912",
+              "name": "WEGO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Brand",
+              "id": "846427983237672960",
+              "name": "Fashion Brand"
+            }
+          }
+        ],
+        "conversation_id": "2098430848282566992",
+        "created_at": "2026-09-13T14:53:41.000Z",
+        "display_text_range": [
+          38,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T15:53:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099149523436331119"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2058507108254167040",
+              "start": 0,
+              "username": "Tonighthhh"
+            },
+            {
+              "end": 25,
+              "id": "884935136",
+              "start": 12,
+              "username": "lisalisa_307"
+            },
+            {
+              "end": 37,
+              "id": "158268358",
+              "start": 26,
+              "username": "WEGO_press"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Tonighthhh/sta…",
+              "end": 61,
+              "expanded_url": "https://x.com/Tonighthhh/status/2090852040780267767?s=20",
+              "start": 38,
+              "url": "https://t.co/NY9EpphMkz"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099149523436331119",
+        "in_reply_to_user_id": "2058507108254167040",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090852040780267767",
+            "type": "quoted"
+          },
+          {
+            "id": "2099029320048197713",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Tonighthhh @lisalisa_307 @WEGO_press https://t.co/NY9EpphMkz\n也够"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058507108254167040",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to apparel and accessories ",
+              "id": "1557697378571808768",
+              "name": "Textile, Apparel & Luxury Good Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "description": "WEGO",
+              "id": "1035223802358054912",
+              "name": "WEGO"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Fashion Brand",
+              "id": "846427983237672960",
+              "name": "Fashion Brand"
+            }
+          }
+        ],
+        "conversation_id": "2098430848282566992",
+        "created_at": "2026-09-13T06:56:02.000Z",
+        "display_text_range": [
+          35,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T07:56:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099029320048197713"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1839263401845075974",
+              "start": 0,
+              "username": "0Yowlry"
+            },
+            {
+              "end": 22,
+              "id": "884935136",
+              "start": 9,
+              "username": "lisalisa_307"
+            },
+            {
+              "end": 34,
+              "id": "158268358",
+              "start": 23,
+              "username": "WEGO_press"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099029320048197713",
+        "in_reply_to_user_id": "1839263401845075974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 146,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098716781758271616",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0Yowlry @lisalisa_307 @WEGO_press 日文名字闹闹又麻麻"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2058507108254167040",
+        "conversation_id": "2090744135082779055",
+        "created_at": "2026-08-21T17:22:27.000Z",
+        "display_text_range": [
+          12,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-08-21T18:22:27.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2090852040780267767"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2050819561847390208",
+              "start": 0,
+              "username": "zeyang7138"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2090852040780267767",
+        "in_reply_to_user_id": "2050819561847390208",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 348,
+          "like_count": 0,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2090744135082779055",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@zeyang7138 别耽搁我的看片时间啊喂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2099149523436331119",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2620,
+          "following_count": 4037,
+          "like_count": 78838,
+          "listed_count": 12,
+          "media_count": 650,
+          "tweet_count": 23245
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-24T11:16:21.000Z",
+        "description": "",
+        "id": "2058507108254167040",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2099033202614767674",
+        "name": "gang wang",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2071158753941176320/hE5sonOE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5,
+          "following_count": 67,
+          "like_count": 85,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 6
+        },
+        "url": "",
+        "username": "Tonighthhh",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-05-03T06:07:56.000Z",
+        "description": "",
+        "id": "2050819561847390208",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095418571023323551",
+        "name": "xixi",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2050819561847390208/1787307398",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2090744876782452736/SvNofzyp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 250,
+          "following_count": 6,
+          "like_count": 207,
+          "listed_count": 1,
+          "media_count": 2,
+          "tweet_count": 2
+        },
+        "url": "",
+        "username": "zeyang7138",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-10-16T17:52:51.000Z",
+        "description": "成人済腐20↑/雜多/無言フォローします/台湾人です/習近平的器官就滾回牆內少在外面吠/看盜版的7414",
+        "id": "884935136",
+        "is_identity_verified": false,
+        "location": "台灣",
+        "most_recent_tweet_id": "2099148768603967991",
+        "name": "🇹🇼椿🦋｡･ﾟ:｡+◆+｡･ﾟ:｡",
+        "pinned_tweet_id": "1280156751187243008",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/884935136/1743863630",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1475518713717743628/QUUP_VrE_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29,
+          "following_count": 1530,
+          "like_count": 91935,
+          "listed_count": 0,
+          "media_count": 1373,
+          "tweet_count": 9351
+        },
+        "url": "",
+        "username": "lisalisa_307",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-06-22T06:28:20.000Z",
+        "description": "全国約180店舗を展開するWEGO公式アカウント。ファッション、カルチャー、 ライフスタイルの最新情報を発信。お問い合わせ: https://t.co/W0LUrNwiyH アプリ: https://t.co/F02Tv09IvY",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "wego.jp/pages/faq",
+                "end": 86,
+                "expanded_url": "https://wego.jp/pages/faq",
+                "start": 63,
+                "url": "https://t.co/W0LUrNwiyH"
+              },
+              {
+                "display_url": "apps.apple.com/jp/app/wego/id…",
+                "end": 115,
+                "expanded_url": "https://apps.apple.com/jp/app/wego/id431461174",
+                "start": 92,
+                "url": "https://t.co/F02Tv09IvY"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wego.jp/?utm_source=X_…",
+                "end": 23,
+                "expanded_url": "https://wego.jp/?utm_source=X_press&utm_medium=profile&utm_campaign=240122&utm_content=item&utm_term",
+                "start": 0,
+                "url": "https://t.co/gMx5tFqYKS"
+              }
+            ]
+          }
+        },
+        "id": "158268358",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2098430848282566992",
+        "name": "WEGO ウィゴー",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/158268358/1706691170",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1212082864310734848/5_sM09Hj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 364884,
+          "following_count": 520,
+          "like_count": 3678,
+          "listed_count": 1415,
+          "media_count": 8138,
+          "tweet_count": 20472
+        },
+        "url": "https://t.co/gMx5tFqYKS",
+        "username": "WEGO_press",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

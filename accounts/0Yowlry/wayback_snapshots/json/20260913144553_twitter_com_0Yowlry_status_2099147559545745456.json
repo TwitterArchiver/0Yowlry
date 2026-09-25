@@ -1,0 +1,241 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2097648155055821153",
+    "created_at": "2026-09-13T14:45:53.000Z",
+    "display_text_range": [
+      28,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-13T15:45:53.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2099147559545745456"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1898597572950032384",
+          "start": 0,
+          "username": "jun_itagaki"
+        },
+        {
+          "end": 27,
+          "id": "1331221058301542400",
+          "start": 13,
+          "username": "hachineko1208"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2099147559545745456",
+    "in_reply_to_user_id": "1898597572950032384",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097848624957083836",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jun_itagaki @hachineko1208 我是谁？\n[图片_Winnie]"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2097848624957083836].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2097848624957083836",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2097848624957083836"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2097648155055821153",
+        "created_at": "2026-09-13T14:45:53.000Z",
+        "display_text_range": [
+          28,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-13T15:45:53.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2099147559545745456"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1898597572950032384",
+              "start": 0,
+              "username": "jun_itagaki"
+            },
+            {
+              "end": 27,
+              "id": "1331221058301542400",
+              "start": 13,
+              "username": "hachineko1208"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2099147559545745456",
+        "in_reply_to_user_id": "1898597572950032384",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097848624957083836",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jun_itagaki @hachineko1208 我是谁？\n[图片_Winnie]"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2099147559545745456",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2620,
+          "following_count": 4037,
+          "like_count": 78817,
+          "listed_count": 12,
+          "media_count": 650,
+          "tweet_count": 23242
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-03-09T04:52:48.000Z",
+        "description": "自分を世界さえも変えてしまえそうな瞬間はいつもすぐそばに",
+        "id": "1898597572950032384",
+        "is_identity_verified": false,
+        "location": "たかはら自然塾",
+        "most_recent_tweet_id": "2090423046402367730",
+        "name": "Itagaki_Jun",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1898597572950032384/1741527737",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1898731451878907904/M_3g0qpY_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 115,
+          "following_count": 999,
+          "like_count": 30428,
+          "listed_count": 1,
+          "media_count": 11,
+          "tweet_count": 636
+        },
+        "url": "",
+        "username": "jun_itagaki",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-11-24T13:00:50.000Z",
+        "description": "福摩薩最兇殘的耄耋，是你今晚的惡夢\n#讓我們一同登上新高山",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 29,
+                "start": 18,
+                "tag": "讓我們一同登上新高山"
+              }
+            ]
+          }
+        },
+        "id": "1331221058301542400",
+        "is_identity_verified": false,
+        "location": "Res Publica Formosana",
+        "most_recent_tweet_id": "2099142558920417444",
+        "name": "鬼滅ｼﾅ刃⚔️復讐ノ八猫",
+        "pinned_tweet_id": "2016027449520488951",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1331221058301542400/1775106560",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039570852417810432/0937B6p2_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1735,
+          "following_count": 909,
+          "like_count": 410365,
+          "listed_count": 8,
+          "media_count": 2640,
+          "tweet_count": 26405
+        },
+        "url": "",
+        "username": "hachineko1208",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

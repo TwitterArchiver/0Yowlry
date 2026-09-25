@@ -1,0 +1,373 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2098704820534415623",
+    "created_at": "2026-09-12T19:53:48.000Z",
+    "display_text_range": [
+      12,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-12T20:53:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2098862664005169275"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "543368472",
+          "start": 0,
+          "username": "DeabanNero"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2098862664005169275",
+    "in_reply_to_user_id": "543368472",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2098704820534415623",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DeabanNero 😋"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2047,
+        "media_key": "3_2098704563486470144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSAYrlsaMAA7o2E.jpg",
+        "width": 1447
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2098704820534415623",
+        "created_at": "2026-09-12T19:53:48.000Z",
+        "display_text_range": [
+          12,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T20:53:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2098862664005169275"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "543368472",
+              "start": 0,
+              "username": "DeabanNero"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098862664005169275",
+        "in_reply_to_user_id": "543368472",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2098704820534415623",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DeabanNero 😋"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2098704563486470144"
+          ]
+        },
+        "author_id": "543368472",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "Interests, opinions, and behaviors of individuals, groups, or cultures; like Speciality Cooking or Theme Parks",
+              "id": "67",
+              "name": "Interests and Hobbies"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Drawing and sketching",
+              "id": "847869251595542528",
+              "name": "Drawing & illustration"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Visual Arts",
+              "id": "1046577790353428480",
+              "name": "Visual arts"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1265660441822281728",
+              "name": "Art"
+            }
+          }
+        ],
+        "conversation_id": "2098704820534415623",
+        "created_at": "2026-09-12T09:26:35.000Z",
+        "display_text_range": [
+          0,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-12T10:26:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2098704820534415623"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 10,
+              "start": 5,
+              "tag": "初音ミク"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/cEYsLFUCYK",
+              "end": 34,
+              "expanded_url": "https://x.com/DeabanNero/status/2098704820534415623/photo/1",
+              "media_key": "3_2098704563486470144",
+              "start": 11,
+              "url": "https://t.co/cEYsLFUCYK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2098704820534415623",
+        "lang": "de",
+        "media_metadata": [
+          {
+            "media_key": "3_2098704563486470144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 2244,
+          "like_count": 197,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 15
+        },
+        "reply_settings": "everyone",
+        "text": "rkgk\n#初音ミク https://t.co/cEYsLFUCYK"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies\n\n請評論讓我回fo",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2098862664005169275",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2610,
+          "following_count": 4030,
+          "like_count": 78420,
+          "listed_count": 12,
+          "media_count": 645,
+          "tweet_count": 23174
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-04-02T10:03:11.000Z",
+        "description": "illustrator👾 EN/JP/ESP/SWE ■にじさんじマンガ動画クリエイター/キャラデザ/書籍装画/MV/グッズデザインetc  ■Skeb: https://t.co/oLSZHlhVnZ ※無断使用&転載禁止(FAは本人様のみ使用可)/Don’t use&repost my artwork",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "skeb.jp/@DeabanNero",
+                "end": 101,
+                "expanded_url": "http://skeb.jp/@DeabanNero",
+                "start": 78,
+                "url": "https://t.co/oLSZHlhVnZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCTwJQ…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCTwJQY7hGAciCbatzRh4hOg",
+                "start": 0,
+                "url": "https://t.co/6iXfYHNWJ4"
+              }
+            ]
+          }
+        },
+        "id": "543368472",
+        "is_identity_verified": false,
+        "location": "✉️ deabannerolyon@gmail.com",
+        "most_recent_tweet_id": "2098705366188204540",
+        "name": "Lyon@お仕事募集中",
+        "pinned_tweet_id": "1446401772449267716",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/543368472/1580469441",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1212236597963313154/NBLtZXVK_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 40977,
+          "following_count": 170,
+          "like_count": 1830,
+          "listed_count": 282,
+          "media_count": 1919,
+          "tweet_count": 26650
+        },
+        "url": "https://t.co/6iXfYHNWJ4",
+        "username": "DeabanNero",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
