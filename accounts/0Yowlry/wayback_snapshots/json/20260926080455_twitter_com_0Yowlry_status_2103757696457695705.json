@@ -1,0 +1,437 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1565480777495638016",
+          "name": "Yorushika"
+        }
+      },
+      {
+        "domain": {
+          "description": "A musician in the world, like Adele or Bob Dylan",
+          "id": "54",
+          "name": "Musician"
+        },
+        "entity": {
+          "id": "1565480777495638016",
+          "name": "Yorushika"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "J-POP",
+          "id": "810938095772123136",
+          "name": "J-pop"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1565480777495638016",
+          "name": "Yorushika"
+        }
+      }
+    ],
+    "conversation_id": "2103426693125857379",
+    "created_at": "2026-09-26T08:04:55.000Z",
+    "display_text_range": [
+      13,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T09:04:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103757696457695705"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "738199700914872320",
+          "start": 0,
+          "username": "nbuna_staff"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103757696457695705",
+    "in_reply_to_user_id": "738199700914872320",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103426693125857379",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@nbuna_staff 👀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2812,
+        "media_key": "3_2103426466096828416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTDfOfrbUAA1lnG.jpg",
+        "width": 2250
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          }
+        ],
+        "conversation_id": "2103426693125857379",
+        "created_at": "2026-09-26T08:04:55.000Z",
+        "display_text_range": [
+          13,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T09:04:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103757696457695705"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "738199700914872320",
+              "start": 0,
+              "username": "nbuna_staff"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103757696457695705",
+        "in_reply_to_user_id": "738199700914872320",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103426693125857379",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@nbuna_staff 👀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103426466096828416"
+          ]
+        },
+        "author_id": "738199700914872320",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A musician in the world, like Adele or Bob Dylan",
+              "id": "54",
+              "name": "Musician"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "J-POP",
+              "id": "810938095772123136",
+              "name": "J-pop"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1565480777495638016",
+              "name": "Yorushika"
+            }
+          }
+        ],
+        "conversation_id": "2103426693125857379",
+        "created_at": "2026-09-25T10:09:38.000Z",
+        "display_text_range": [
+          0,
+          160
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T11:09:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103426693125857379"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/wWkGp2xZMh",
+              "end": 184,
+              "expanded_url": "https://x.com/nbuna_staff/status/2103426693125857379/photo/1",
+              "media_key": "3_2103426466096828416",
+              "start": 161,
+              "url": "https://t.co/wWkGp2xZMh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103426693125857379",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103426466096828416"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 425,
+                "start": 416,
+                "tag": "ヨルシカ_二人称"
+              },
+              {
+                "end": 450,
+                "start": 427,
+                "tag": "yorushika_secondperson"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "hkushop.com/Yorushikahk",
+                "end": 374,
+                "expanded_url": "http://hkushop.com/Yorushikahk",
+                "start": 351,
+                "url": "https://t.co/4t9uFsHA3a"
+              }
+            ]
+          },
+          "text": "香港將舉辦以「二人稱」為主題的活動。\n會場將播放 MV、展示繁體翻譯的書簡型小說『二人稱』部分內容，並介紹相關書籍等多項豐富內容。 此外，除了在日本舉辦的「二人稱展」部分原創周邊外，也預計發售香港限定商品。 請務必把握機會前往參觀。\n\nSNDO READS meets Yorushika ‘Second Person’\n日期｜2026年10月9日（五）～ 18日（日）\n會場｜SNDO READS\n地址｜九龍啟德沐翠街12號 THE TWIN TOWER II 7樓\n時間｜11:00～21:00\n主辦｜Universal Music\n\n● 預約開放時間\n2026年9月30日（三）12:00（香港時間）\n※網上預約適用日期： 2026年10月9日（五）～ 10月11日（日）共3天\n\n● 線上預約\nhttps://t.co/4t9uFsHA3a\n\n● 活動詳情與發售資訊\n請參閱 @umhkinternational 的公布。\n#ヨルシカ_二人称 \n#yorushika_secondperson"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 94,
+          "impression_count": 111199,
+          "like_count": 2193,
+          "quote_count": 17,
+          "reply_count": 7,
+          "retweet_count": 195
+        },
+        "reply_settings": "everyone",
+        "text": "香港將舉辦以「二人稱」為主題的活動。\n會場將播放 MV、展示繁體翻譯的書簡型小說『二人稱』部分內容，並介紹相關書籍等多項豐富內容。 此外，除了在日本舉辦的「二人稱展」部分原創周邊外，也預計發售香港限定商品。 請務必把握機會前往參觀。\n\nSNDO READS meets Yorushika ‘Second Person’ https://t.co/wWkGp2xZMh"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2103757696457695705",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2670,
+          "following_count": 4163,
+          "like_count": 85630,
+          "listed_count": 13,
+          "media_count": 688,
+          "tweet_count": 24993
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-06-02T02:44:58.000Z",
+        "description": "ヨルシカのオフィシャル アカウントです。 （スタッフがつぶやいてます） メンバー：n-buna（ナブナ） [Gt&Composer] / suis（スイ）[Vocal]",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "yorushika.com",
+                "end": 23,
+                "expanded_url": "http://yorushika.com/",
+                "start": 0,
+                "url": "https://t.co/vmlIKwEpU8"
+              }
+            ]
+          }
+        },
+        "id": "738199700914872320",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103431821782634721",
+        "name": "ヨルシカ（n-buna、suis） / Official",
+        "pinned_tweet_id": "2066446367485296824",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/738199700914872320/1764217057",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1450477923463569414/c34Nn7Xo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 791926,
+          "following_count": 6,
+          "like_count": 1146,
+          "listed_count": 3189,
+          "media_count": 1062,
+          "tweet_count": 5604
+        },
+        "url": "https://t.co/vmlIKwEpU8",
+        "username": "nbuna_staff",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

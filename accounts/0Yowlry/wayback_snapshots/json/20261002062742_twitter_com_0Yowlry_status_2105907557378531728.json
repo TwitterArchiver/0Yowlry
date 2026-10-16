@@ -1,0 +1,256 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2105210033256693908",
+    "created_at": "2026-10-02T06:27:42.000Z",
+    "display_text_range": [
+      33,
+      71
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-02T07:27:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105907557378531728"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1699273459325390848",
+          "start": 0,
+          "username": "DurantRaym93677"
+        },
+        {
+          "end": 32,
+          "id": "1978965126960287744",
+          "start": 17,
+          "username": "notrealnatsume"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105907557378531728",
+    "in_reply_to_user_id": "1699273459325390848",
+    "lang": "cs",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2105545744967143895",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@DurantRaym93677 @notrealnatsume (～﹃～)~zZ (￣o￣) . z Z\n\\(￣︶￣*\\)) ╰(￣ω￣ｏ)"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2105545744967143895].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2105545744967143895",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2105545744967143895"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2105210033256693908",
+        "created_at": "2026-10-02T06:27:42.000Z",
+        "display_text_range": [
+          33,
+          71
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T07:27:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105907557378531728"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1699273459325390848",
+              "start": 0,
+              "username": "DurantRaym93677"
+            },
+            {
+              "end": 32,
+              "id": "1978965126960287744",
+              "start": 17,
+              "username": "notrealnatsume"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105907557378531728",
+        "in_reply_to_user_id": "1699273459325390848",
+        "lang": "cs",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2105545744967143895",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@DurantRaym93677 @notrealnatsume (～﹃～)~zZ (￣o￣) . z Z\n\\(￣︶￣*\\)) ╰(￣ω￣ｏ)"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2105907557378531728",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2689,
+          "following_count": 4197,
+          "like_count": 87707,
+          "listed_count": 14,
+          "media_count": 704,
+          "tweet_count": 25649
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-09-06T04:09:04.000Z",
+        "description": "🍊 あぁ 闇はただ純粋で | \n🚼🔑裏: @AmmieColl84391 / 🌠サブ: @AuroraYume (フォロー歓迎) | 💼 Speaker of the Parliament of @enchenia | 💕 @Chiyorin0908",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 36,
+                "start": 21,
+                "username": "AmmieColl84391"
+              },
+              {
+                "end": 55,
+                "start": 44,
+                "username": "AuroraYume"
+              },
+              {
+                "end": 107,
+                "start": 98,
+                "username": "enchenia"
+              },
+              {
+                "end": 125,
+                "start": 112,
+                "username": "Chiyorin0908"
+              }
+            ]
+          }
+        },
+        "id": "1699273459325390848",
+        "is_identity_verified": false,
+        "location": "Japan",
+        "most_recent_tweet_id": "2101594725623197698",
+        "name": "Luke 鈴木 さくらみ⛩️",
+        "pinned_tweet_id": "1991375034833883218",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1699273459325390848/1738540793",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036740912668389376/LWPePSYk_normal.png",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3811,
+          "following_count": 4415,
+          "like_count": 54663,
+          "listed_count": 19,
+          "media_count": 664,
+          "tweet_count": 13367
+        },
+        "url": "",
+        "username": "DurantRaym93677",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-16T23:23:56.000Z",
+        "description": "",
+        "id": "1978965126960287744",
+        "is_identity_verified": false,
+        "location": "New Orleans, the South",
+        "most_recent_tweet_id": "2105795245141295122",
+        "name": "subnet",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1978965126960287744/1775390921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084170008100548608/i-WrRa6H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 114,
+          "like_count": 16906,
+          "listed_count": 0,
+          "media_count": 89,
+          "tweet_count": 2685
+        },
+        "url": "",
+        "username": "notrealnatsume",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

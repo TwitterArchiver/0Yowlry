@@ -1,0 +1,775 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+          "id": "1557696848252391426",
+          "name": "Financial Services Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "description": "Elon Musk",
+          "id": "808713037230157824",
+          "name": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level interests and hobbies groupings, like Food or Travel",
+          "id": "65",
+          "name": "Interests and Hobbies Vertical"
+        },
+        "entity": {
+          "id": "781974596148793345",
+          "name": "Business & finance"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Leadership",
+          "id": "857878777191211008",
+          "name": "Leadership"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Elon Musk",
+          "id": "808713037230157824",
+          "name": "Elon Musk"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Tech Professionals",
+          "id": "1091420346660470784",
+          "name": "Tech personalities"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1166406108623163392",
+          "name": "Business personalities"
+        }
+      }
+    ],
+    "conversation_id": "2103773567641178128",
+    "created_at": "2026-09-27T01:53:55.000Z",
+    "display_text_range": [
+      16,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T02:53:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104026719506354508"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1894461745277931524",
+          "start": 0,
+          "username": "Rain_Antar1121"
+        },
+        {
+          "end": 18,
+          "id": "783214",
+          "start": 16,
+          "username": "X"
+        },
+        {
+          "end": 27,
+          "id": "17874544",
+          "start": 19,
+          "username": "Support"
+        },
+        {
+          "end": 37,
+          "id": "44196397",
+          "start": 28,
+          "username": "elonmusk"
+        },
+        {
+          "end": 49,
+          "id": "636513296",
+          "start": 38,
+          "username": "nikitabier"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104026719506354508",
+    "in_reply_to_user_id": "1894461745277931524",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103773567641178128",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rain_Antar1121 @X @Support @elonmusk @nikitabier 解决一下"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2622,
+        "media_key": "3_2103773529456193536",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTIa4PcbMAAUzyh.jpg",
+        "width": 1206
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2103773529422667776",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTIa4PUboAA7nzG.jpg",
+        "width": 1966
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2103773529506496512",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTIa4PoawAAzuBZ.jpg",
+        "width": 1966
+      },
+      {
+        "height": 4096,
+        "media_key": "3_2103773529472925696",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTIa4PgagAA7168.jpg",
+        "width": 1966
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2103773567641178128",
+        "created_at": "2026-09-27T01:53:55.000Z",
+        "display_text_range": [
+          16,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T02:53:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104026719506354508"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1894461745277931524",
+              "start": 0,
+              "username": "Rain_Antar1121"
+            },
+            {
+              "end": 18,
+              "id": "783214",
+              "start": 16,
+              "username": "X"
+            },
+            {
+              "end": 27,
+              "id": "17874544",
+              "start": 19,
+              "username": "Support"
+            },
+            {
+              "end": 37,
+              "id": "44196397",
+              "start": 28,
+              "username": "elonmusk"
+            },
+            {
+              "end": 49,
+              "id": "636513296",
+              "start": 38,
+              "username": "nikitabier"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104026719506354508",
+        "in_reply_to_user_id": "1894461745277931524",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103773567641178128",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rain_Antar1121 @X @Support @elonmusk @nikitabier 解决一下"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2103773529456193536",
+            "3_2103773529422667776",
+            "3_2103773529506496512",
+            "3_2103773529472925696"
+          ]
+        },
+        "author_id": "1894461745277931524",
+        "conversation_id": "2103773567641178128",
+        "created_at": "2026-09-26T09:07:59.000Z",
+        "display_text_range": [
+          0,
+          115
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T10:07:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103773567641178128"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lPHUTEx6oR",
+              "end": 139,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2103773567641178128/photo/1",
+              "media_key": "3_2103773529456193536",
+              "start": 116,
+              "url": "https://t.co/lPHUTEx6oR"
+            },
+            {
+              "display_url": "pic.x.com/lPHUTEx6oR",
+              "end": 139,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2103773567641178128/photo/1",
+              "media_key": "3_2103773529422667776",
+              "start": 116,
+              "url": "https://t.co/lPHUTEx6oR"
+            },
+            {
+              "display_url": "pic.x.com/lPHUTEx6oR",
+              "end": 139,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2103773567641178128/photo/1",
+              "media_key": "3_2103773529506496512",
+              "start": 116,
+              "url": "https://t.co/lPHUTEx6oR"
+            },
+            {
+              "display_url": "pic.x.com/lPHUTEx6oR",
+              "end": 139,
+              "expanded_url": "https://x.com/Rain_Antar1121/status/2103773567641178128/photo/1",
+              "media_key": "3_2103773529472925696",
+              "start": 116,
+              "url": "https://t.co/lPHUTEx6oR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103773567641178128",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2103773529456193536"
+          },
+          {
+            "media_key": "3_2103773529422667776"
+          },
+          {
+            "media_key": "3_2103773529506496512"
+          },
+          {
+            "media_key": "3_2103773529472925696"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "呜…问问，大家发推遇到过这个问题吗🥹\n\n帖子包含某些图片就会无法发送，如图一所示…与网络问题无关，去除特定图片就能正常发送喵😵‍💫应该是某些参数超标，但似乎不是文件大小…6MB以上的图片就有概率发送失败，有些体积很大的却能发出去😇\n\n注意到被卡的似乎都是细节丰富的风景照…例如下面几张大面积密集树叶、碎石堆和石板表面，原图都无法发送…\n\n有没有大佬知道，具体是哪个参数被怎样限制了呢，这个问题困扰咱很久了૮₍ɵ̷﹏ɵ̷̥̥᷅₎ა"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 2186,
+          "like_count": 70,
+          "quote_count": 0,
+          "reply_count": 29,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "呜…问问，大家发推遇到过这个问题吗🥹\n\n帖子包含某些图片就会无法发送，如图一所示…与网络问题无关，去除特定图片就能正常发送喵😵‍💫应该是某些参数超标，但似乎不是文件大小…6MB以上的图片就有概率发送失败，有些体积很大的却能发出去😇 https://t.co/lPHUTEx6oR"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2104026719506354508",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2674,
+          "following_count": 4172,
+          "like_count": 85993,
+          "listed_count": 13,
+          "media_count": 689,
+          "tweet_count": 25133
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T18:57:47.000Z",
+        "description": "MtF🏳️‍⚧️🎀 | 07年女孩纸🍬 | 杭州/南京 | 同类互fo喵🍥 | 可以叫咱瑞/ra | 温顺软软小动物 | 社恐小透明 | 阵发中二病 | 可爱就想抱紧紧 | 天文🔭/航天🛰️/航空✈️/科幻🌌/业余无线电📡BA4VUF/一切好玩的事情 | 认真观察有趣的世界 | 贴贴愿意看到这里的你🥰",
+        "id": "1894461745277931524",
+        "is_identity_verified": false,
+        "location": "Triton, Neptune",
+        "most_recent_tweet_id": "2104014753396060305",
+        "name": "Rain Antares🏳️‍⚧️🍥",
+        "pinned_tweet_id": "2052346517000986852",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894461745277931524/1780660701",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2056704069759356928/L2l-00kV_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5389,
+          "following_count": 7340,
+          "like_count": 22813,
+          "listed_count": 12,
+          "media_count": 501,
+          "tweet_count": 6911
+        },
+        "url": "",
+        "username": "Rain_Antar1121",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2007-02-20T14:35:54.000Z",
+        "description": "what's happening?!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com",
+                "end": 23,
+                "expanded_url": "https://x.com",
+                "start": 0,
+                "url": "https://t.co/Xp0xJlcROt"
+              }
+            ]
+          }
+        },
+        "id": "783214",
+        "is_identity_verified": false,
+        "location": "everywhere",
+        "most_recent_tweet_id": "2103299958007095807",
+        "name": "X",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/783214/1690175171",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1955359038532653056/OSHY3ewP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 60734219,
+          "following_count": 1,
+          "like_count": 5970,
+          "listed_count": 85143,
+          "media_count": 2492,
+          "tweet_count": 15720
+        },
+        "url": "https://t.co/Xp0xJlcROt",
+        "username": "X",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1955359038532653056/OSHY3ewP_bigger.jpg",
+          "description": "X",
+          "url": "https://twitter.com/X",
+          "user_id": [
+            "783214"
+          ]
+        },
+        "created_at": "2008-12-04T18:51:57.000Z",
+        "description": "Official @X support account. Find answers to common questions and get help on our Help Center: https://t.co/EO1OOUj5T5",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 11,
+                "start": 9,
+                "username": "X"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "help.x.com",
+                "end": 118,
+                "expanded_url": "http://help.x.com",
+                "start": 95,
+                "url": "https://t.co/EO1OOUj5T5"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "help.x.com",
+                "end": 23,
+                "expanded_url": "https://help.x.com",
+                "start": 0,
+                "url": "https://t.co/wzqJpIOEcM"
+              }
+            ]
+          }
+        },
+        "id": "17874544",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "1912572496655892718",
+        "name": "Support",
+        "pinned_tweet_id": "1912572496655892718",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/17874544/1690214608",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1683508200069296129/KM80Wkfx_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 6338317,
+          "following_count": 3,
+          "like_count": 479,
+          "listed_count": 14488,
+          "media_count": 273,
+          "tweet_count": 84605
+        },
+        "url": "https://t.co/wzqJpIOEcM",
+        "username": "Support",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1955359038532653056/OSHY3ewP_bigger.jpg",
+          "description": "X",
+          "url": "https://twitter.com/X",
+          "user_id": [
+            "783214"
+          ]
+        },
+        "created_at": "2009-06-02T20:12:29.000Z",
+        "description": "https://t.co/ZdBx5WABYx",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "Terafab.AI",
+                "end": 23,
+                "expanded_url": "http://Terafab.AI",
+                "start": 0,
+                "url": "https://t.co/ZdBx5WABYx"
+              }
+            ]
+          }
+        },
+        "id": "44196397",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104024084531089562",
+        "name": "Elon Musk",
+        "pinned_tweet_id": "2103537377239015827",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/44196397/1774145451",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2103567689515954176/aR-Kjpp4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 241695245,
+          "following_count": 1411,
+          "like_count": 249526,
+          "listed_count": 170635,
+          "media_count": 4724,
+          "tweet_count": 109088
+        },
+        "url": "",
+        "username": "elonmusk",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2012-07-15T22:44:07.000Z",
+        "description": "unemployed. former head of product @x, ex-founder @thetbhapp (acq by @meta), ex-founder @gasappteam (acq by @discord)",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 35,
+                "username": "x"
+              },
+              {
+                "end": 60,
+                "start": 50,
+                "username": "thetbhapp"
+              },
+              {
+                "end": 74,
+                "start": 69,
+                "username": "meta"
+              },
+              {
+                "end": 99,
+                "start": 88,
+                "username": "gasappteam"
+              },
+              {
+                "end": 116,
+                "start": 108,
+                "username": "discord"
+              }
+            ]
+          }
+        },
+        "id": "636513296",
+        "is_identity_verified": false,
+        "location": "LA",
+        "most_recent_tweet_id": "2103936747298316320",
+        "name": "Nikita Bier",
+        "pinned_tweet_id": "2094853541756338533",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/636513296/1777070372",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1755448801957945344/Fh2HNw5Y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1339350,
+          "following_count": 2064,
+          "like_count": 40520,
+          "listed_count": 6130,
+          "media_count": 1673,
+          "tweet_count": 12003
+        },
+        "url": "",
+        "username": "nikitabier",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

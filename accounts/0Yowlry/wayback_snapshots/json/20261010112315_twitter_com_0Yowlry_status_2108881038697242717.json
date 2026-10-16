@@ -1,0 +1,394 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2108775607425532183",
+    "created_at": "2026-10-10T11:23:15.000Z",
+    "display_text_range": [
+      12,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T12:23:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108881038697242717"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1626832135",
+          "start": 0,
+          "username": "Karuboniru"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108881038697242717",
+    "in_reply_to_user_id": "1626832135",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108775607425532183",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Karuboniru 支持华为图蛆"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2108775607425532183",
+        "created_at": "2026-10-10T11:23:15.000Z",
+        "display_text_range": [
+          12,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T12:23:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108881038697242717"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1626832135",
+              "start": 0,
+              "username": "Karuboniru"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108881038697242717",
+        "in_reply_to_user_id": "1626832135",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108775607425532183",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Karuboniru 支持华为图蛆"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1626832135",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2108775607425532183",
+        "created_at": "2026-10-10T04:24:18.000Z",
+        "display_text_range": [
+          0,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T05:24:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108775607425532183"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/worldpeople201…",
+              "end": 82,
+              "expanded_url": "https://twitter.com/worldpeople2019/status/2108491568542081057",
+              "start": 59,
+              "url": "https://t.co/PpRMEroPMT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108775607425532183",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2549,
+          "like_count": 97,
+          "quote_count": 0,
+          "reply_count": 7,
+          "retweet_count": 5
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108491568542081057",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "纯胡说八道，安全漏洞需要协调披露是因为要防用户被攻击者攻击\n\n你刹车踏板出故障还要防有人在你开车的时候踩你刹车踏板？ https://t.co/PpRMEroPMT"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2108881038697242717",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2726,
+          "following_count": 4241,
+          "like_count": 91188,
+          "listed_count": 15,
+          "media_count": 731,
+          "tweet_count": 26663
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-07-28T02:18:46.000Z",
+        "description": "不是学生了|G+难民|纯正00后|诚信牡丹处男肥宅|Ph.D. in Physics|zh, en: rw-; jp:r--|Packager @Fedora|\n虽然学的菜，但我真的是学物理的| @Karuboniru@mastodon.ktachibana.party",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 72,
+                "username": "Fedora"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "niconi.org",
+                "end": 23,
+                "expanded_url": "https://niconi.org",
+                "start": 0,
+                "url": "https://t.co/GR9Q8eHs2i"
+              }
+            ]
+          }
+        },
+        "id": "1626832135",
+        "is_identity_verified": false,
+        "location": "N/A",
+        "most_recent_tweet_id": "2108775607425532183",
+        "name": "Karuboniru et al.",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1626832135/1733400715",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1117839232872005639/FucXmluM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1604,
+          "following_count": 1035,
+          "like_count": 18194,
+          "listed_count": 16,
+          "media_count": 950,
+          "tweet_count": 7850
+        },
+        "url": "https://t.co/GR9Q8eHs2i",
+        "username": "Karuboniru",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

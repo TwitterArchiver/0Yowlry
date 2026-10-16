@@ -1,0 +1,427 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "1402739868820590593",
+          "name": "Convenience stores"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596157251584",
+          "name": "Grocery/Convenience - Retail"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041033362",
+          "name": "7-Eleven"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10041033362",
+          "name": "7-Eleven"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10041033362",
+          "name": "7-Eleven"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "781974596706635776",
+          "name": "Retail industry"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1407811550987972617",
+          "name": "Industries"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1402739868820590593",
+          "name": "Convenience stores"
+        }
+      }
+    ],
+    "conversation_id": "2107725010836365665",
+    "created_at": "2026-10-07T06:49:36.000Z",
+    "display_text_range": [
+      0,
+      41
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T07:49:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107725010836365665"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "msn.com/zh-hk/money/%E…",
+          "end": 41,
+          "expanded_url": "https://www.msn.com/zh-hk/money/%E4%B8%80%E8%88%AC/%E5%B8%82%E5%A0%B4%E7%AB%B6%E7%88%AD%E6%BF%80%E7%83%88-7-eleven%E9%80%80%E5%87%BA%E5%8D%B0%E5%BA%A6/ar-AA2dF7p8",
+          "start": 18,
+          "unwound_url": "https://www.msn.com/zh-hk/money/%E4%B8%80%E8%88%AC/%E5%B8%82%E5%A0%B4%E7%AB%B6%E7%88%AD%E6%BF%80%E7%83%88-7-eleven%E9%80%80%E5%87%BA%E5%8D%B0%E5%BA%A6/ar-AA2dF7p8",
+          "url": "https://t.co/EaaQzYsKui"
+        },
+        {
+          "display_url": "x.com/0Yowlry/status…",
+          "end": 65,
+          "expanded_url": "https://twitter.com/0Yowlry/status/2106840187431178288",
+          "start": 42,
+          "url": "https://t.co/5IhSENwJF1"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107725010836365665",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106840187431178288",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "7-Eleven 即将退出印度市场\nhttps://t.co/EaaQzYsKui https://t.co/5IhSENwJF1"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "1402739868820590593",
+              "name": "Convenience stores"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596157251584",
+              "name": "Grocery/Convenience - Retail"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041033362",
+              "name": "7-Eleven"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10041033362",
+              "name": "7-Eleven"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10041033362",
+              "name": "7-Eleven"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "781974596706635776",
+              "name": "Retail industry"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1407811550987972617",
+              "name": "Industries"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1402739868820590593",
+              "name": "Convenience stores"
+            }
+          }
+        ],
+        "conversation_id": "2107725010836365665",
+        "created_at": "2026-10-07T06:49:36.000Z",
+        "display_text_range": [
+          0,
+          41
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T07:49:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107725010836365665"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "msn.com/zh-hk/money/%E…",
+              "end": 41,
+              "expanded_url": "https://www.msn.com/zh-hk/money/%E4%B8%80%E8%88%AC/%E5%B8%82%E5%A0%B4%E7%AB%B6%E7%88%AD%E6%BF%80%E7%83%88-7-eleven%E9%80%80%E5%87%BA%E5%8D%B0%E5%BA%A6/ar-AA2dF7p8",
+              "start": 18,
+              "unwound_url": "https://www.msn.com/zh-hk/money/%E4%B8%80%E8%88%AC/%E5%B8%82%E5%A0%B4%E7%AB%B6%E7%88%AD%E6%BF%80%E7%83%88-7-eleven%E9%80%80%E5%87%BA%E5%8D%B0%E5%BA%A6/ar-AA2dF7p8",
+              "url": "https://t.co/EaaQzYsKui"
+            },
+            {
+              "display_url": "x.com/0Yowlry/status…",
+              "end": 65,
+              "expanded_url": "https://twitter.com/0Yowlry/status/2106840187431178288",
+              "start": 42,
+              "url": "https://t.co/5IhSENwJF1"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107725010836365665",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106840187431178288",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "7-Eleven 即将退出印度市场\nhttps://t.co/EaaQzYsKui https://t.co/5IhSENwJF1"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2106840187431178288",
+        "created_at": "2026-10-04T20:13:38.000Z",
+        "display_text_range": [
+          0,
+          160
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T21:13:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106840187431178288"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/huchenfeng_/st…",
+              "end": 184,
+              "expanded_url": "https://twitter.com/huchenfeng_/status/1958857727352217904",
+              "start": 161,
+              "url": "https://t.co/Zl5eho5g7j"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106840187431178288",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 6,
+          "impression_count": 4572,
+          "like_count": 48,
+          "quote_count": 2,
+          "reply_count": 45,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "1958857727352217904",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我选择城市的标准\n1.有国际机场(有前往美国,加拿大,英国,日本,南韩,澳洲,香港,新加坡,欧盟,瑞士,中国至少其中之六的航班且日本必须有);2.有高度发达的地铁系统或BRT;3.有火车铁路轨道;4.有繁荣的大型商圈、大型购物中心(且必须有二次元主题商场、快闪等);5.有高密度分布的便利店(罗森,全家,7-11类型的) https://t.co/Zl5eho5g7j"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2107725010836365665",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2712,
+          "following_count": 4218,
+          "like_count": 90305,
+          "listed_count": 15,
+          "media_count": 718,
+          "tweet_count": 26356
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

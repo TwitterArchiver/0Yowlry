@@ -1,0 +1,543 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107380722763767808"
+      ],
+      "media_source_tweet_id": [
+        "2107380726811197508"
+      ]
+    },
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1631434932688920576",
+          "name": "OpenAI"
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1620189216029163524",
+          "name": "ChatGPT"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "description": "Artificial Intelligence",
+          "id": "898262889378619392",
+          "name": "Artificial intelligence"
+        }
+      }
+    ],
+    "conversation_id": "2107870039026413791",
+    "created_at": "2026-10-07T16:25:54.000Z",
+    "display_text_range": [
+      0,
+      106
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T17:25:54.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107870039026413791"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "101768126",
+          "start": 3,
+          "username": "tzstrawberry"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/n4LCoEuuCB",
+          "end": 106,
+          "expanded_url": "https://x.com/tzstrawberry/status/2107380726811197508/photo/1",
+          "media_key": "3_2107380722763767808",
+          "start": 83,
+          "url": "https://t.co/n4LCoEuuCB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107870039026413791",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "3_2107380722763767808"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 80
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107380726811197508",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @tzstrawberry: 这股风也是刮到了德国。\n转自小红书。\n\n「已经在ChatGPT获得诊断的病患，请勿向我们寻求第二意见，请改向Gemini咨询。」 https://t.co/n4LCoEuuCB"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1184,
+        "media_key": "3_2107380722763767808",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT7rmhrXIAAYZB7.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107380722763767808"
+          ],
+          "media_source_tweet_id": [
+            "2107380726811197508"
+          ]
+        },
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2107870039026413791",
+        "created_at": "2026-10-07T16:25:54.000Z",
+        "display_text_range": [
+          0,
+          106
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T17:25:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107870039026413791"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "101768126",
+              "start": 3,
+              "username": "tzstrawberry"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/n4LCoEuuCB",
+              "end": 106,
+              "expanded_url": "https://x.com/tzstrawberry/status/2107380726811197508/photo/1",
+              "media_key": "3_2107380722763767808",
+              "start": 83,
+              "url": "https://t.co/n4LCoEuuCB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107870039026413791",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107380722763767808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 80
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107380726811197508",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @tzstrawberry: 这股风也是刮到了德国。\n转自小红书。\n\n「已经在ChatGPT获得诊断的病患，请勿向我们寻求第二意见，请改向Gemini咨询。」 https://t.co/n4LCoEuuCB"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107380722763767808"
+          ]
+        },
+        "author_id": "101768126",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1631434932688920576",
+              "name": "OpenAI"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1620189216029163524",
+              "name": "ChatGPT"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "description": "Artificial Intelligence",
+              "id": "898262889378619392",
+              "name": "Artificial intelligence"
+            }
+          }
+        ],
+        "conversation_id": "2107380726811197508",
+        "created_at": "2026-10-06T08:01:33.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T09:01:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107380726811197508"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/n4LCoEuuCB",
+              "end": 88,
+              "expanded_url": "https://x.com/tzstrawberry/status/2107380726811197508/photo/1",
+              "media_key": "3_2107380722763767808",
+              "start": 65,
+              "url": "https://t.co/n4LCoEuuCB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107380726811197508",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2107380722763767808"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 173,
+          "impression_count": 199371,
+          "like_count": 1541,
+          "quote_count": 15,
+          "reply_count": 146,
+          "retweet_count": 80
+        },
+        "reply_settings": "everyone",
+        "text": "这股风也是刮到了德国。\n转自小红书。\n\n「已经在ChatGPT获得诊断的病患，请勿向我们寻求第二意见，请改向Gemini咨询。」 https://t.co/n4LCoEuuCB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2107870039026413791",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2711,
+          "following_count": 4225,
+          "like_count": 90403,
+          "listed_count": 15,
+          "media_count": 719,
+          "tweet_count": 26390
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2010-01-04T14:12:18.000Z",
+        "description": "(๑•̀ω•́๑) 平常心，细心，耐心。喜欢在自己的小世界里，不爱看推。",
+        "id": "101768126",
+        "is_identity_verified": false,
+        "location": "Germany",
+        "most_recent_tweet_id": "2107803841945301475",
+        "name": "淡推的團長🍓",
+        "pinned_tweet_id": "1988939899362480313",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/101768126/1467168576",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/868645123483082754/DgHXaKFp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14183,
+          "following_count": 395,
+          "like_count": 1035,
+          "listed_count": 82,
+          "media_count": 3635,
+          "tweet_count": 70976
+        },
+        "url": "",
+        "username": "tzstrawberry",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

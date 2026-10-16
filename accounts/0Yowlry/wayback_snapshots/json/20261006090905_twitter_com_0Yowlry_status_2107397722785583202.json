@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2106687497367695815",
+    "created_at": "2026-10-06T09:09:05.000Z",
+    "display_text_range": [
+      9,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T10:09:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107397722785583202"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1934766733237342209",
+          "start": 0,
+          "username": "Adrawta"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107397722785583202",
+    "in_reply_to_user_id": "1934766733237342209",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106687497367695815",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Adrawta 看到过至少4个星乃一歌Q版头像的了（"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2106687497367695815].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2106687497367695815",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2106687497367695815"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2106687497367695815",
+        "created_at": "2026-10-06T09:09:05.000Z",
+        "display_text_range": [
+          9,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T10:09:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107397722785583202"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1934766733237342209",
+              "start": 0,
+              "username": "Adrawta"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107397722785583202",
+        "in_reply_to_user_id": "1934766733237342209",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106687497367695815",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Adrawta 看到过至少4个星乃一歌Q版头像的了（"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2107397722785583202",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2708,
+          "following_count": 4214,
+          "like_count": 90190,
+          "listed_count": 15,
+          "media_count": 713,
+          "tweet_count": 26308
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-06-17T00:15:29.000Z",
+        "description": "sense\nWe Iove @FTX_app",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 22,
+                "start": 14,
+                "username": "FTX_app"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "wh.gov",
+                "end": 23,
+                "expanded_url": "https://wh.gov",
+                "start": 0,
+                "url": "https://t.co/DjeEeFBQBk"
+              }
+            ]
+          }
+        },
+        "id": "1934766733237342209",
+        "is_identity_verified": false,
+        "location": "inside QEMU",
+        "most_recent_tweet_id": "2107283596231020871",
+        "name": "778962eefc72cd180f9f31245cb1ff1d72738dd2🌠",
+        "pinned_tweet_id": "2098760850500886563",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1934766733237342209/1790516225",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2106550466549325824/FpK4lsLq_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 159,
+          "following_count": 178,
+          "like_count": 13798,
+          "listed_count": 3,
+          "media_count": 547,
+          "tweet_count": 3361
+        },
+        "url": "https://t.co/DjeEeFBQBk",
+        "username": "Adrawta",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

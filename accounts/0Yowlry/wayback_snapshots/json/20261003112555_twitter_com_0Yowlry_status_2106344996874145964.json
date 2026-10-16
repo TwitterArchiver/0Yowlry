@@ -1,0 +1,547 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2106112231616442427",
+    "created_at": "2026-10-03T11:25:55.000Z",
+    "display_text_range": [
+      14,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T12:25:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106344996874145964"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1882998524704669696",
+          "start": 0,
+          "username": "ev0123456789"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106344996874145964",
+    "in_reply_to_user_id": "1882998524704669696",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106112231616442427",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@ev0123456789 支持学生"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 12097,
+        "height": 1114,
+        "media_key": "13_2106107872908304384",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106107872908304384/img/Q2rAYRwpM3hukKN2.jpg",
+        "public_metrics": {
+          "view_count": 23665
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106107872908304384/vid/avc1/320x618/xD8oXQbXKMD83rzN.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106107872908304384/vid/avc1/480x928/f1p6dHq3RCpRD_SW.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106107872908304384/vid/avc1/576x1114/5PxKRCgjfQaJ5_WQ.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106107872908304384/pl/Sa748CVy-Lfw8j0-.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      },
+      {
+        "duration_ms": 28955,
+        "height": 1920,
+        "media_key": "13_2106107900632739840",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106107900632739840/img/l-mXszR5KmyWkieA.jpg",
+        "public_metrics": {
+          "view_count": 5069
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106107900632739840/vid/avc1/320x568/N26apgfkwTOkogYB.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106107900632739840/vid/avc1/1080x1920/ge-Kten6c2UCQyST.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106107900632739840/vid/avc1/480x852/FL_r_qhziIp4d7Sl.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106107900632739840/pl/vrBM5JDCp0SCbJUL.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106107900632739840/vid/avc1/720x1280/h5kDyzSKCrBikzQB.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "duration_ms": 15162,
+        "height": 1024,
+        "media_key": "13_2106107940931510272",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106107940931510272/img/4GdrLFa-HyJpxBNL.jpg",
+        "public_metrics": {
+          "view_count": 1226
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106107940931510272/vid/avc1/320x568/QN0-qMbaXuVseBgD.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106107940931510272/vid/avc1/480x852/TvvrcI6fmg8QqrNF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106107940931510272/vid/avc1/576x1024/AwevY_BdIjTKFMO6.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106107940931510272/pl/A8-QLEWGnt4C8r0V.m3u8?v=cfc"
+          }
+        ],
+        "width": 576
+      },
+      {
+        "duration_ms": 35921,
+        "height": 1920,
+        "media_key": "13_2106108136885211136",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2106108136885211136/img/1MZm67xE3VPQAi4W.jpg",
+        "public_metrics": {
+          "view_count": 1799
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106108136885211136/vid/avc1/480x852/P5BDNBpgbvarebMH.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106108136885211136/vid/avc1/1080x1920/Gs5XPzWz8ESYNxds.mp4"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106108136885211136/vid/avc1/320x568/N_7DeOF93sCj9MnL.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2106108136885211136/pl/6EGaL4JrjUru6X8g.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2106108136885211136/vid/avc1/720x1280/CMzqgK59mzM6rIMY.mp4"
+          }
+        ],
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2106112231616442427",
+        "created_at": "2026-10-03T11:25:55.000Z",
+        "display_text_range": [
+          14,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T12:25:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106344996874145964"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1882998524704669696",
+              "start": 0,
+              "username": "ev0123456789"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106344996874145964",
+        "in_reply_to_user_id": "1882998524704669696",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106112231616442427",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ev0123456789 支持学生"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2106107872908304384",
+            "13_2106107900632739840",
+            "13_2106107940931510272",
+            "13_2106108136885211136"
+          ]
+        },
+        "author_id": "1882998524704669696",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226231832633344",
+              "name": "France"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226231832633344",
+              "name": "France"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "National Soccer Teams",
+              "id": "1100397500890996736",
+              "name": "Men's national soccer teams"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Exercise and fitness",
+              "id": "847872878041219072",
+              "name": "Fitness"
+            }
+          },
+          {
+            "domain": {
+              "description": "for types of exercises& fitness and moves, e.g., yoga, crunches, squats ",
+              "id": "162",
+              "name": "Exercise & fitness"
+            },
+            "entity": {
+              "description": "Exercises",
+              "id": "872554146750017536",
+              "name": "Exercises"
+            }
+          }
+        ],
+        "conversation_id": "2106112231616442427",
+        "created_at": "2026-10-02T20:01:00.000Z",
+        "display_text_range": [
+          0,
+          109
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-02T21:01:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106112231616442427"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/hG8mf2aQeI",
+              "end": 133,
+              "expanded_url": "https://x.com/ev0123456789/status/2106112231616442427/video/1",
+              "media_key": "13_2106107872908304384",
+              "start": 110,
+              "url": "https://t.co/hG8mf2aQeI"
+            },
+            {
+              "display_url": "pic.x.com/hG8mf2aQeI",
+              "end": 133,
+              "expanded_url": "https://x.com/ev0123456789/status/2106112231616442427/video/1",
+              "media_key": "13_2106107900632739840",
+              "start": 110,
+              "url": "https://t.co/hG8mf2aQeI"
+            },
+            {
+              "display_url": "pic.x.com/hG8mf2aQeI",
+              "end": 133,
+              "expanded_url": "https://x.com/ev0123456789/status/2106112231616442427/video/1",
+              "media_key": "13_2106107940931510272",
+              "start": 110,
+              "url": "https://t.co/hG8mf2aQeI"
+            },
+            {
+              "display_url": "pic.x.com/hG8mf2aQeI",
+              "end": 133,
+              "expanded_url": "https://x.com/ev0123456789/status/2106112231616442427/video/1",
+              "media_key": "13_2106108136885211136",
+              "start": 110,
+              "url": "https://t.co/hG8mf2aQeI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106112231616442427",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2106107872908304384"
+          },
+          {
+            "media_key": "13_2106107900632739840"
+          },
+          {
+            "media_key": "13_2106107940931510272"
+          },
+          {
+            "media_key": "13_2106108136885211136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "🇫🇷【コラム】「多文化主義のフランスは地上の地獄」——マクロン政権の10年は、過激思想と移民2世3世によるフランス社会の崩壊でしかなかった。\n\n今フランスで起きている惨状は、ただの「学生による抗議運動」ではありません。\n学校への放火や商店への略奪、教師への暴行、警察官や消防士への容赦ない襲撃。\nこれは権利の主張ではなく、国家と法秩序に対するテロそのものです。\n\n現場で飛び交うのは、フランス語ではなくアラビア語。\n掲げられているのも、フランス国旗以外の旗ばかりです。\n暴動の主力は、社会に馴染まず反西欧感情を募らせた北アフリカ系などの移民2世・3世であり、その事実は隠しようがありません。\n\n「多様性」という聞こえの良い言葉の下で進められた多文化主義は、フランスに深刻な分断をもたらしました。\nそして「フランスを地上の地獄」へと変えてしまいました。\n\nこの状況を作った最大の責任は、約10年権力を握り続けてきたマクロン大統領にあります。\n治安悪化と過激化を「コントロールできる」と思い込み、放置し続けた罪は極めて重い。\n国民から「退陣どころか、国を壊した責任で牢に入るべきだ」と激怒されるのも当然です。\n\n加えて、イスラム過激思想の侵食と、それを政治的に煽る極左（「不服従のフランス」など）の存在が、若者の破壊行動を加速させています。\n\n現場の数字を見れば、異常さは一目で分かります。\n・木曜だけで1,000校以上の高校が影響を受け、222校が完全封鎖。\n生徒2,000人が拘束され、警察官305人が負傷 \n・金曜は約400校が閉鎖。\n正午までに564校で混乱が続き、新たに約600件の拘束 \n・これまでに校長40人、生徒170人が負傷。\n100校以上の高校が深刻な被害 \n・街では年配のフランス人男性の車が壊され、バスや消防車が炎上\n\nこれはフランスだけの話ではありません。\nウィーンの学校では、ムスリムの割合が小学校35％、中学校46％（公立校のみ49.4％）、義務教育全体で38.5％に達しています。\n\n「イスラモフォビア」という言葉で問題をすり替え、暴徒を正当化する政治家とメディアの嘘は、今すぐやめるべきです。\n\n自国の伝統と法と秩序を守る厳しい対策を取らない限り、フランスにもヨーロッパにも未来はありません。\n😠😠💢"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 183,
+          "impression_count": 50912,
+          "like_count": 1674,
+          "quote_count": 83,
+          "reply_count": 36,
+          "retweet_count": 869
+        },
+        "reply_settings": "everyone",
+        "text": "🇫🇷【コラム】「多文化主義のフランスは地上の地獄」——マクロン政権の10年は、過激思想と移民2世3世によるフランス社会の崩壊でしかなかった。\n\n今フランスで起きている惨状は、ただの「学生による抗議運動」ではありません。 https://t.co/hG8mf2aQeI"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2106344996874145964",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2695,
+          "following_count": 4201,
+          "like_count": 88390,
+          "listed_count": 14,
+          "media_count": 709,
+          "tweet_count": 25850
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-25T03:47:22.000Z",
+        "description": "メディアが報じないニュースを「ゆるく・分かりやすく」お届け🌏\n\n海外メディアの翻訳を通して、世界の真の姿を共有します。既存のニュースに違和感がある方、ぜひフォローを！引用リポストで一緒に盛り上げてください。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "tinyurl.com/4j9s5b96",
+                "end": 23,
+                "expanded_url": "https://tinyurl.com/4j9s5b96",
+                "start": 0,
+                "url": "https://t.co/UStGgp7KEC"
+              }
+            ]
+          }
+        },
+        "id": "1882998524704669696",
+        "is_identity_verified": false,
+        "location": "JAPAN",
+        "most_recent_tweet_id": "2106329800566767794",
+        "name": "Elise Vanessa",
+        "pinned_tweet_id": "1974379970761011323",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1882998524704669696/1766807043",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2005174916828831744/M-uj1dYo_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 39487,
+          "following_count": 331,
+          "like_count": 117659,
+          "listed_count": 264,
+          "media_count": 9297,
+          "tweet_count": 33147
+        },
+        "url": "https://t.co/UStGgp7KEC",
+        "username": "ev0123456789",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,592 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1292858558652923915",
+          "name": "Chunithm"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1292858558652923915",
+          "name": "Chunithm"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1359647921210159105",
+          "name": "Rhythm games"
+        }
+      }
+    ],
+    "conversation_id": "2102231425084740041",
+    "created_at": "2026-09-23T17:26:23.000Z",
+    "display_text_range": [
+      10,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T18:26:23.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102811832767619437"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2903786371",
+          "start": 0,
+          "username": "chunithm"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102811832767619437",
+    "in_reply_to_user_id": "2903786371",
+    "lang": "lv",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102231425084740041",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@chunithm wow~ ⊙o⊙"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2100818206428647424",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSebBzPaUAAmN8Q.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          }
+        ],
+        "conversation_id": "2102231425084740041",
+        "created_at": "2026-09-23T17:26:23.000Z",
+        "display_text_range": [
+          10,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T18:26:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102811832767619437"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2903786371",
+              "start": 0,
+              "username": "chunithm"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102811832767619437",
+        "in_reply_to_user_id": "2903786371",
+        "lang": "lv",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102231425084740041",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@chunithm wow~ ⊙o⊙"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100818206428647424"
+          ]
+        },
+        "author_id": "2903786371",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to  marketing and advertiser agencies, publishers of magazines, newspapers, blogs, books",
+              "id": "1557697121477832705",
+              "name": "Publisher & News Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "1280550787207147521",
+              "name": "Arts & culture"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1292858558652923915",
+              "name": "Chunithm"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1311309260597329921",
+              "name": "Visual novels"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1359647921210159105",
+              "name": "Rhythm games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1404909205924966400",
+              "name": "Doki Doki Literature Club"
+            }
+          },
+          {
+            "domain": {
+              "description": "A product taxonomy for labeling categories of products. ",
+              "id": "173",
+              "name": "Product Taxonomy"
+            },
+            "entity": {
+              "description": "Books and literature",
+              "id": "847519659179954178",
+              "name": "Books"
+            }
+          }
+        ],
+        "conversation_id": "2102231425084740041",
+        "created_at": "2026-09-22T03:00:03.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T04:00:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102231425084740041"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/lWRpT7b8el",
+              "end": 157,
+              "expanded_url": "https://x.com/chunithm/status/2102231425084740041/photo/1",
+              "media_key": "3_2100818206428647424",
+              "start": 134,
+              "url": "https://t.co/lWRpT7b8el"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102231425084740041",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2100818206428647424"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "urls": [
+              {
+                "display_url": "info-chunithm.sega.jp/12707/",
+                "end": 205,
+                "expanded_url": "https://info-chunithm.sega.jp/12707/",
+                "start": 182,
+                "url": "https://t.co/EpzqYZL6nq"
+              }
+            ]
+          },
+          "text": "【9/25(金) 『ドキドキ文芸部!』コラボイベント開始！】\n本日9/22(火)はモニカの誕生日！\n誕生日を記念して、『ドキドキ文芸部!』コラボイベントを開催します！\n9/25(金)より、「Your Reality (Kenji Mizuno Remix)」が登場！\nイベントでは「ドキドキ文芸部!」のキャラクターやネームプレート、ステージ背景がゲットできます！\nhttps://t.co/EpzqYZL6nq"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 762,
+          "impression_count": 731752,
+          "like_count": 10543,
+          "quote_count": 1606,
+          "reply_count": 41,
+          "retweet_count": 3691
+        },
+        "reply_settings": "everyone",
+        "text": "【9/25(金) 『ドキドキ文芸部!』コラボイベント開始！】\n本日9/22(火)はモニカの誕生日！\n誕生日を記念して、『ドキドキ文芸部!』コラボイベントを開催します！\n9/25(金)より、「Your Reality (Kenji Mizuno Remix)」が登場！ https://t.co/lWRpT7b8el"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2102811832767619437",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2657,
+          "following_count": 4131,
+          "like_count": 84462,
+          "listed_count": 12,
+          "media_count": 682,
+          "tweet_count": 24602
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-11-18T15:12:08.000Z",
+        "description": "SEGA音楽ゲーム「CHUNITHM（チュウニズム）」の公式アカウントです。▼ゲキチュウマイ→@performai ▼イロドリミドリ→ @irodorimidori5 ▼maimai公式→ @maimai_official ▼オンゲキ公式→ @ongeki_official ▼公式全国大会→ @kop_sega",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 57,
+                "start": 47,
+                "username": "performai"
+              },
+              {
+                "end": 83,
+                "start": 68,
+                "username": "irodorimidori5"
+              },
+              {
+                "end": 111,
+                "start": 95,
+                "username": "maimai_official"
+              },
+              {
+                "end": 137,
+                "start": 121,
+                "username": "ongeki_official"
+              },
+              {
+                "end": 156,
+                "start": 147,
+                "username": "kop_sega"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "chunithm.sega.jp",
+                "end": 23,
+                "expanded_url": "http://chunithm.sega.jp/",
+                "start": 0,
+                "url": "https://t.co/ieZUf6RyaN"
+              }
+            ]
+          }
+        },
+        "id": "2903786371",
+        "is_identity_verified": false,
+        "location": "セガ",
+        "most_recent_tweet_id": "2102231425084740041",
+        "name": "チュウニズム公式",
+        "pinned_tweet_id": "2099332319970734378",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2903786371/1782955106",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070408091385139200/pnWAhkGh_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 228860,
+          "following_count": 162,
+          "like_count": 359,
+          "listed_count": 1861,
+          "media_count": 2127,
+          "tweet_count": 3981
+        },
+        "url": "https://t.co/ieZUf6RyaN",
+        "username": "chunithm",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

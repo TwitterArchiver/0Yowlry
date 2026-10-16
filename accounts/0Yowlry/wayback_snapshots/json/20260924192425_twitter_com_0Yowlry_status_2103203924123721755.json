@@ -1,0 +1,499 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1370105546607534081",
+          "name": "Project Sekai"
+        }
+      }
+    ],
+    "conversation_id": "2103078664359575725",
+    "created_at": "2026-09-24T19:24:25.000Z",
+    "display_text_range": [
+      25,
+      28
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T20:24:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103203924123721755"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1158668053183266816",
+          "start": 0,
+          "username": "pj_sekai"
+        },
+        {
+          "end": 24,
+          "id": "2489661048",
+          "start": 10,
+          "username": "TatsuyaKitani"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103203924123721755",
+    "in_reply_to_user_id": "1158668053183266816",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103078664359575725",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@pj_sekai @TatsuyaKitani 🥳🥳🥳"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 33299,
+        "height": 1080,
+        "media_key": "13_2103075730703998976",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2103075730703998976/img/wMEpmJ_p90gU7jo1.jpg",
+        "public_metrics": {
+          "view_count": 290940
+        },
+        "type": "video",
+        "variants": [
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2103075730703998976/pl/XEHMwa7KPom4RQGo.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103075730703998976/vid/avc1/640x360/xWKlvQkFF62qSGFi.mp4"
+          },
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103075730703998976/vid/avc1/1920x1080/tQu1CmjXUAIjEO3u.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103075730703998976/vid/avc1/1280x720/aqZxEFB3y-Ug7CvB.mp4"
+          },
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2103075730703998976/vid/avc1/480x270/A4GqciedPgJ0vQfD.mp4"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2103078664359575725",
+        "created_at": "2026-09-24T19:24:25.000Z",
+        "display_text_range": [
+          25,
+          28
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T20:24:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103203924123721755"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1158668053183266816",
+              "start": 0,
+              "username": "pj_sekai"
+            },
+            {
+              "end": 24,
+              "id": "2489661048",
+              "start": 10,
+              "username": "TatsuyaKitani"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103203924123721755",
+        "in_reply_to_user_id": "1158668053183266816",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103078664359575725",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@pj_sekai @TatsuyaKitani 🥳🥳🥳"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2103075730703998976"
+          ]
+        },
+        "author_id": "1158668053183266816",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1370105546607534081",
+              "name": "Project Sekai"
+            }
+          }
+        ],
+        "conversation_id": "2103078664359575725",
+        "created_at": "2026-09-24T11:06:41.000Z",
+        "display_text_range": [
+          0,
+          133
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T12:06:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2103078664359575725"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 133,
+              "start": 120,
+              "tag": "プロセカ6周年直前生放送"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 21,
+              "id": "2489661048",
+              "start": 7,
+              "username": "TatsuyaKitani"
+            }
+          ],
+          "urls": [
+            {
+              "description": "2026年9月24日（木）19時30分より「プロセカ放送局 6周年スペシャル」を実施いたします。「プロセカ放送局 6周年スペシャル」...",
+              "display_url": "youtube.com/live/NsYm3LezG…",
+              "end": 119,
+              "expanded_url": "https://youtube.com/live/NsYm3LezGSs",
+              "images": [
+                {
+                  "height": 720,
+                  "url": "https://pbs.twimg.com/news_img/2102957803702992896/AjdYWP6D?format=jpg&name=orig",
+                  "width": 1280
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2102957803702992896/AjdYWP6D?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 96,
+              "status": 200,
+              "title": "プロジェクトセカイ プロセカ放送局 6周年スペシャル",
+              "unwound_url": "https://www.youtube.com/live/NsYm3LezGSs",
+              "url": "https://t.co/HyG5AmH9Zo"
+            },
+            {
+              "display_url": "pic.x.com/eoShIdpuVS",
+              "end": 157,
+              "expanded_url": "https://x.com/pj_sekai/status/2103078664359575725/video/1",
+              "media_key": "13_2103075730703998976",
+              "start": 134,
+              "url": "https://t.co/eoShIdpuVS"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103078664359575725",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2103075730703998976"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2127,
+          "impression_count": 954618,
+          "like_count": 34108,
+          "quote_count": 3455,
+          "reply_count": 57,
+          "retweet_count": 11827
+        },
+        "reply_settings": "everyone",
+        "text": "キタニタツヤ（@TatsuyaKitani）さん\n書き下ろしアニバーサリーソング\n「エメラルド」収録決定📣✨\n\nプロジェクトセカイ6周年を記念した書き下ろし楽曲になります🎉\n\n📺番組生配信中：https://t.co/HyG5AmH9Zo\n#プロセカ6周年直前生放送 https://t.co/eoShIdpuVS"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2103203924123721755",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2663,
+          "following_count": 4148,
+          "like_count": 85383,
+          "listed_count": 13,
+          "media_count": 687,
+          "tweet_count": 24815
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2019-08-06T09:16:05.000Z",
+        "description": "SEGA×Colorful Paletteが贈る、スマートフォンリズムゲーム #プロセカ 公式アカウント\nクリスタルをお得に買える公式ストアはこちら：https://t.co/zacMyTdlWW",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 44,
+                "start": 39,
+                "tag": "プロセカ"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "pjsekai.sega.jp/webstore",
+                "end": 98,
+                "expanded_url": "https://pjsekai.sega.jp/webstore",
+                "start": 75,
+                "url": "https://t.co/zacMyTdlWW"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "app.adjust.com/iaq3ido",
+                "end": 23,
+                "expanded_url": "https://app.adjust.com/iaq3ido",
+                "start": 0,
+                "url": "https://t.co/joevC53VDM"
+              }
+            ]
+          }
+        },
+        "id": "1158668053183266816",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2103137388793118927",
+        "name": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク【プロセカ】",
+        "pinned_tweet_id": "1839874318832152732",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1158668053183266816/1759370271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1854064399478398976/W-uuO8DW_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2307600,
+          "following_count": 652,
+          "like_count": 27,
+          "listed_count": 8828,
+          "media_count": 15028,
+          "tweet_count": 20265
+        },
+        "url": "https://t.co/joevC53VDM",
+        "username": "pj_sekai",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2014-05-11T10:55:55.000Z",
+        "description": "Tatchang👁 YouTube https://t.co/3AM7fDJ2Ki / instagram https://t.co/W9VGG2PML2 / TikTok https://t.co/89T7xDXASw / staff→ @TatsuyaKitani2",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 135,
+                "start": 120,
+                "username": "TatsuyaKitani2"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "bit.ly/3hUacIZ",
+                "end": 41,
+                "expanded_url": "https://bit.ly/3hUacIZ",
+                "start": 18,
+                "url": "https://t.co/3AM7fDJ2Ki"
+              },
+              {
+                "display_url": "bit.ly/2TpQer5",
+                "end": 77,
+                "expanded_url": "http://bit.ly/2TpQer5",
+                "start": 54,
+                "url": "https://t.co/W9VGG2PML2"
+              },
+              {
+                "display_url": "bit.ly/2LOm6HA",
+                "end": 110,
+                "expanded_url": "http://bit.ly/2LOm6HA",
+                "start": 87,
+                "url": "https://t.co/89T7xDXASw"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "tatsuyakitani.com",
+                "end": 23,
+                "expanded_url": "https://tatsuyakitani.com/",
+                "start": 0,
+                "url": "https://t.co/128rQjikIH"
+              }
+            ]
+          }
+        },
+        "id": "2489661048",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2095850750798905627",
+        "name": "キタニタツヤ Tatsuya Kitani",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2489661048/1614154327",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000152123204595712/LhaIH5Rm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 412244,
+          "following_count": 639,
+          "like_count": 13091,
+          "listed_count": 1340,
+          "media_count": 1102,
+          "tweet_count": 4885
+        },
+        "url": "https://t.co/128rQjikIH",
+        "username": "TatsuyaKitani",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

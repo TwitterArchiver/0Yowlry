@@ -1,0 +1,234 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2103734376236482845",
+    "created_at": "2026-09-26T07:49:18.000Z",
+    "display_text_range": [
+      16,
+      19
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-26T08:49:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103753767791505726"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2089770138774237184",
+          "start": 0,
+          "username": "lisun198964mk2"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103753767791505726",
+    "in_reply_to_user_id": "2089770138774237184",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103734376236482845",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@lisun198964mk2 😙😙😙"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2103734376236482845].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2103734376236482845",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2103734376236482845"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2103734376236482845",
+        "created_at": "2026-09-26T07:49:18.000Z",
+        "display_text_range": [
+          16,
+          19
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-26T08:49:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103753767791505726"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2089770138774237184",
+              "start": 0,
+              "username": "lisun198964mk2"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103753767791505726",
+        "in_reply_to_user_id": "2089770138774237184",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103734376236482845",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@lisun198964mk2 😙😙😙"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2103753767791505726",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2669,
+          "following_count": 4163,
+          "like_count": 85620,
+          "listed_count": 13,
+          "media_count": 688,
+          "tweet_count": 24992
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-18T17:44:02.000Z",
+        "description": "@lisun8964轉生號炸號28代目前@kaizi8964炸號@kaizi19890604炸號支持习近平中国特色社会主义和毛泽东思想主义共产主义社会主义反对lgbt➕和🇺🇸🇺🇦🇮🇱🏳️‍🌈大肘子们成分查清楚没有🤓👆反串反串反串寵物滯納豬@LiTiao10560 @qwerty567841",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 10,
+                "start": 0,
+                "username": "lisun8964"
+              },
+              {
+                "end": 30,
+                "start": 20,
+                "username": "kaizi8964"
+              },
+              {
+                "end": 46,
+                "start": 32,
+                "username": "kaizi19890604"
+              },
+              {
+                "end": 131,
+                "start": 119,
+                "username": "LiTiao10560"
+              },
+              {
+                "end": 145,
+                "start": 132,
+                "username": "qwerty567841"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lisun8964",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lisun8964",
+                "start": 0,
+                "url": "https://t.co/AqjOqsIkEh"
+              }
+            ]
+          }
+        },
+        "id": "2089770138774237184",
+        "is_identity_verified": false,
+        "location": "Thành phố Hồ Chí Minh, Việt Na",
+        "most_recent_tweet_id": "2093496130143420605",
+        "name": "黎筍– 歸來復活版🇻🇳",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2089770138774237184/1787086283",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096432421772419073/LFyFoTSC_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 480,
+          "like_count": 273,
+          "listed_count": 1,
+          "media_count": 0,
+          "tweet_count": 26
+        },
+        "url": "https://t.co/AqjOqsIkEh",
+        "username": "lisun198964mk2",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,370 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029202046",
+          "name": "Huawei"
+        }
+      }
+    ],
+    "conversation_id": "2108389486786711677",
+    "created_at": "2026-10-10T10:49:12.000Z",
+    "display_text_range": [
+      10,
+      30
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T11:49:12.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108872469365019034"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1400390484967690241",
+          "start": 0,
+          "username": "LuBtc888"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108872469365019034",
+    "in_reply_to_user_id": "1400390484967690241",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108389486786711677",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LuBtc888 我觉得不需要劝，让华为把蛆全都图了会更好"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2108389486786711677",
+        "created_at": "2026-10-10T10:49:12.000Z",
+        "display_text_range": [
+          10,
+          30
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T11:49:12.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108872469365019034"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1400390484967690241",
+              "start": 0,
+              "username": "LuBtc888"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108872469365019034",
+        "in_reply_to_user_id": "1400390484967690241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108389486786711677",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LuBtc888 我觉得不需要劝，让华为把蛆全都图了会更好"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1400390484967690241",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2108389486786711677",
+        "created_at": "2026-10-09T02:50:00.000Z",
+        "display_text_range": [
+          0,
+          158
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-09T03:50:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108389486786711677"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2108389486786711677",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {},
+          "text": "如何一句话叫醒想买华为的人？\n\n奔驰140年，宝马110年，奥迪117年，大众89年，\n\n丰田89年，本田78年，林肯109年，别克123年，\n\n凯迪拉克124年，福特123年，沃尔沃99年，马自达106年。\n\n这些加起来快2000年造车经验，你不选他们，\n\n非要去买一个5年前还在做手机，3年前还在造电池的跨界货，\n\n我问你，一个造了100多年车的牌子和一个造了5年车的牌子，\n\n谁的底盘发动机安全性能够经得起检验？\n\n你用脚趾头想都知道，别人骂你句脑残很过分吗？"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 185,
+          "impression_count": 182287,
+          "like_count": 1359,
+          "quote_count": 15,
+          "reply_count": 318,
+          "retweet_count": 144
+        },
+        "reply_settings": "everyone",
+        "text": "如何一句话叫醒想买华为的人？\n\n奔驰140年，宝马110年，奥迪117年，大众89年，\n\n丰田89年，本田78年，林肯109年，别克123年，\n\n凯迪拉克124年，福特123年，沃尔沃99年，马自达106年。\n\n这些加起来快2000年造车经验，你不选他们，\n\n非要去买一个5年前还在做手机，3年前还在造电池的跨界货，"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2108872469365019034",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2725,
+          "following_count": 4239,
+          "like_count": 91125,
+          "listed_count": 15,
+          "media_count": 731,
+          "tweet_count": 26643
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-06-03T09:54:53.000Z",
+        "description": "加密投研｜美股投资｜交易体系｜财经认知 ｜AI科技",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/LuBtc8",
+                "end": 23,
+                "expanded_url": "http://t.me/LuBtc8",
+                "start": 0,
+                "url": "https://t.co/WgqN6FG2cG"
+              }
+            ]
+          }
+        },
+        "id": "1400390484967690241",
+        "is_identity_verified": false,
+        "location": "宣发合作👉",
+        "most_recent_tweet_id": "2108861597405872262",
+        "name": "0x鸣人",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1400390484967690241/1744195271",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1913942129623359488/fN9ecUe6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 107445,
+          "following_count": 2362,
+          "like_count": 2043,
+          "listed_count": 615,
+          "media_count": 3312,
+          "tweet_count": 9892
+        },
+        "url": "https://t.co/WgqN6FG2cG",
+        "username": "LuBtc888",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

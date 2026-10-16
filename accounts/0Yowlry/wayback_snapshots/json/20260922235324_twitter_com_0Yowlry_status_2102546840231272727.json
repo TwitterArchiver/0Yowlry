@@ -1,0 +1,379 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2102199847353004065",
+    "created_at": "2026-09-22T23:53:24.000Z",
+    "display_text_range": [
+      16,
+      18
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T00:53:24.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102546840231272727"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "2078478474021621761",
+          "start": 0,
+          "username": "himmelblau7vvf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102546840231272727",
+    "in_reply_to_user_id": "2078478474021621761",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102199847353004065",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@himmelblau7vvf 哇！"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1736,
+        "media_key": "3_2102199843959484416",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSyDnsIWMAAFDV2.jpg",
+        "width": 1179
+      },
+      {
+        "height": 1087,
+        "media_key": "3_2102199843900784640",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSyDnr6WgAARkGT.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2102199847353004065",
+        "created_at": "2026-09-22T23:53:24.000Z",
+        "display_text_range": [
+          16,
+          18
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T00:53:24.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102546840231272727"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "2078478474021621761",
+              "start": 0,
+              "username": "himmelblau7vvf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102546840231272727",
+        "in_reply_to_user_id": "2078478474021621761",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102199847353004065",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@himmelblau7vvf 哇！"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102199843959484416",
+            "3_2102199843900784640"
+          ]
+        },
+        "author_id": "2078478474021621761",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10041437724",
+              "name": "Apple - Apple Pay"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1237094778463858688",
+              "name": "Fintech"
+            }
+          }
+        ],
+        "conversation_id": "2102199847353004065",
+        "created_at": "2026-09-22T00:54:35.000Z",
+        "display_text_range": [
+          0,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T01:54:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102199847353004065"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 35,
+              "start": 30,
+              "tag": "mygo"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/23ojs4dsJ4",
+              "end": 59,
+              "expanded_url": "https://x.com/himmelblau7vvf/status/2102199847353004065/photo/1",
+              "media_key": "3_2102199843959484416",
+              "start": 36,
+              "url": "https://t.co/23ojs4dsJ4"
+            },
+            {
+              "display_url": "pic.x.com/23ojs4dsJ4",
+              "end": 59,
+              "expanded_url": "https://x.com/himmelblau7vvf/status/2102199847353004065/photo/1",
+              "media_key": "3_2102199843900784640",
+              "start": 36,
+              "url": "https://t.co/23ojs4dsJ4"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102199847353004065",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2102199843959484416"
+          },
+          {
+            "media_key": "3_2102199843900784640"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1619,
+          "impression_count": 360230,
+          "like_count": 4933,
+          "quote_count": 0,
+          "reply_count": 57,
+          "retweet_count": 102
+        },
+        "reply_settings": "everyone",
+        "text": "已严肃修改apple pay卡面\n感谢开源 感谢IOS27\n#mygo https://t.co/23ojs4dsJ4"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2102546840231272727",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2657,
+          "following_count": 4119,
+          "like_count": 84050,
+          "listed_count": 12,
+          "media_count": 680,
+          "tweet_count": 24507
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-18T13:55:16.000Z",
+        "description": "友跨｜femboy｜pan🌈\nsolotrip｜平时在美国｜167-49",
+        "id": "2078478474021621761",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102545098735063338",
+        "name": "EMERALD🍀",
+        "pinned_tweet_id": "2102544882845745197",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2078478474021621761/1784430566",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101689755838619648/-5TFUoy3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 507,
+          "following_count": 168,
+          "like_count": 360,
+          "listed_count": 0,
+          "media_count": 21,
+          "tweet_count": 275
+        },
+        "url": "",
+        "username": "himmelblau7vvf",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

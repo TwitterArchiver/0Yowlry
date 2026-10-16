@@ -1,0 +1,382 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2076675605161201949",
+    "created_at": "2026-09-23T00:45:28.000Z",
+    "display_text_range": [
+      28,
+      36
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-23T01:45:28.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102559941026623536"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1910893768498438146",
+          "start": 0,
+          "username": "mengxin66666"
+        },
+        {
+          "end": 27,
+          "id": "1781893716183060480",
+          "start": 14,
+          "username": "akihiro_0313"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102559941026623536",
+    "in_reply_to_user_id": "1910893768498438146",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2076680182543392798",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@mengxin66666 @akihiro_0313 坠母给我十万美刀"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2076675605161201949",
+        "created_at": "2026-09-23T00:45:28.000Z",
+        "display_text_range": [
+          28,
+          36
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T01:45:28.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102559941026623536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1910893768498438146",
+              "start": 0,
+              "username": "mengxin66666"
+            },
+            {
+              "end": 27,
+              "id": "1781893716183060480",
+              "start": 14,
+              "username": "akihiro_0313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102559941026623536",
+        "in_reply_to_user_id": "1910893768498438146",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076680182543392798",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@mengxin66666 @akihiro_0313 坠母给我十万美刀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1910893768498438146",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Leadership",
+              "id": "857878777191211008",
+              "name": "Leadership"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Elon Musk",
+              "id": "808713037230157824",
+              "name": "Elon Musk"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Tech Professionals",
+              "id": "1091420346660470784",
+              "name": "Tech personalities"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1166406108623163392",
+              "name": "Business personalities"
+            }
+          }
+        ],
+        "conversation_id": "2076675605161201949",
+        "created_at": "2026-07-13T14:48:33.000Z",
+        "display_text_range": [
+          14,
+          53
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-13T15:48:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2076680182543392798"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1781893716183060480",
+              "start": 0,
+              "username": "akihiro_0313"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2076680182543392798",
+        "in_reply_to_user_id": "1781893716183060480",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 79,
+          "like_count": 3,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2076675605161201949",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@akihiro_0313 I'm Elon Musk.\nPlease 给我钱😋\n不然我就开特斯拉创飞你😅"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2102559941026623536",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2657,
+          "following_count": 4123,
+          "like_count": 84153,
+          "listed_count": 12,
+          "media_count": 680,
+          "tweet_count": 24529
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-04-12T03:12:45.000Z",
+        "description": "男\n科技时政💻\n娱乐抽象休闲聊天📱\n写代码但很懒🖥️\n自由职业者🗺️\n提倡和平(互联网也一样)🌐\n有空会回复或互动任何人，如果有一段时\n间比较忙碌，会抽空回复的📱\n声明我没用自动化脚本和机器人回复😅",
+        "id": "1910893768498438146",
+        "is_identity_verified": false,
+        "location": "Hong Kong",
+        "most_recent_tweet_id": "2101216027098943880",
+        "name": "萌新_mengxin",
+        "pinned_tweet_id": "2101200466940170532",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1910893768498438146/1782798053",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072015920420249600/1oZ6rrmM_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 853,
+          "following_count": 409,
+          "like_count": 23945,
+          "listed_count": 0,
+          "media_count": 238,
+          "tweet_count": 3514
+        },
+        "url": "",
+        "username": "mengxin66666",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-04-21T03:52:38.000Z",
+        "description": "☄️ あきひろ｜個人勢VTuber\n🇨🇳｜15\n🎮 ゲーム・雑談\n🌌 アニメ・二次元が大好き！\n💻 プログラミング\n✏️ 日本語勉強中\n気軽に仲良くしてください😼✨\n🐾 大切な親友がいます➰",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@akihiro.0313",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@akihiro.0313",
+                "start": 0,
+                "url": "https://t.co/TJSD4LP3Ow"
+              }
+            ]
+          }
+        },
+        "id": "1781893716183060480",
+        "is_identity_verified": true,
+        "location": "A happy world...",
+        "most_recent_tweet_id": "2101502190116573634",
+        "name": "⟩あきひろ✨",
+        "pinned_tweet_id": "2071854934258311450",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1781893716183060480/1786076592",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085586274866606080/IOegF-Ij_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2009,
+          "following_count": 3021,
+          "like_count": 16677,
+          "listed_count": 2,
+          "media_count": 1800,
+          "tweet_count": 12408
+        },
+        "url": "https://t.co/TJSD4LP3Ow",
+        "username": "akihiro_0313",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

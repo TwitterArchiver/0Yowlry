@@ -1,0 +1,414 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2104140346989167097",
+    "created_at": "2026-09-28T16:31:20.000Z",
+    "display_text_range": [
+      9,
+      10
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T17:31:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104609914614333862"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1369564443961520131",
+          "start": 0,
+          "username": "kuroyei"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104609914614333862",
+    "in_reply_to_user_id": "1369564443961520131",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104140346989167097",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kuroyei 👀"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2104139283963711488",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNnh9KaEAAdk1o.jpg",
+        "width": 1542
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2104139283951206400",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNnh9HbQAA5N05.jpg",
+        "width": 1542
+      },
+      {
+        "height": 2048,
+        "media_key": "3_2104139283955433472",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTNnh9IbwAAN3uV.jpg",
+        "width": 1542
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2104140346989167097",
+        "created_at": "2026-09-28T16:31:20.000Z",
+        "display_text_range": [
+          9,
+          10
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T17:31:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104609914614333862"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1369564443961520131",
+              "start": 0,
+              "username": "kuroyei"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104609914614333862",
+        "in_reply_to_user_id": "1369564443961520131",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104140346989167097",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kuroyei 👀"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2104139283963711488",
+            "3_2104139283951206400",
+            "3_2104139283955433472"
+          ]
+        },
+        "author_id": "1369564443961520131",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596731871232",
+              "name": "Banking - Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10044592030",
+              "name": "HSBC"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level interests and hobbies groupings, like Food or Travel",
+              "id": "65",
+              "name": "Interests and Hobbies Vertical"
+            },
+            "entity": {
+              "id": "781974596148793345",
+              "name": "Business & finance"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Government",
+              "id": "857878257630195712",
+              "name": "Government"
+            }
+          }
+        ],
+        "conversation_id": "2104140346989167097",
+        "created_at": "2026-09-27T09:25:26.000Z",
+        "display_text_range": [
+          0,
+          95
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T10:25:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104140346989167097"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/8k5vJ1fIzu",
+              "end": 119,
+              "expanded_url": "https://x.com/kuroyei/status/2104140346989167097/photo/1",
+              "media_key": "3_2104139283963711488",
+              "start": 96,
+              "url": "https://t.co/8k5vJ1fIzu"
+            },
+            {
+              "display_url": "pic.x.com/8k5vJ1fIzu",
+              "end": 119,
+              "expanded_url": "https://x.com/kuroyei/status/2104140346989167097/photo/1",
+              "media_key": "3_2104139283951206400",
+              "start": 96,
+              "url": "https://t.co/8k5vJ1fIzu"
+            },
+            {
+              "display_url": "pic.x.com/8k5vJ1fIzu",
+              "end": 119,
+              "expanded_url": "https://x.com/kuroyei/status/2104140346989167097/photo/1",
+              "media_key": "3_2104139283955433472",
+              "start": 96,
+              "url": "https://t.co/8k5vJ1fIzu"
+            },
+            {
+              "display_url": "x.com/OpenHarmony810…",
+              "end": 143,
+              "expanded_url": "https://twitter.com/OpenHarmony810/status/2038506743135936795",
+              "start": 120,
+              "url": "https://t.co/WKp0xMbdN5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104140346989167097",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2104139283963711488"
+          },
+          {
+            "media_key": "3_2104139283951206400"
+          },
+          {
+            "media_key": "3_2104139283955433472"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 653,
+          "impression_count": 147157,
+          "like_count": 817,
+          "quote_count": 4,
+          "reply_count": 13,
+          "retweet_count": 50
+        },
+        "referenced_tweets": [
+          {
+            "id": "2038506743135936795",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "この方からお教えいただいたのですが、\n中国に住んでいなくても HSBC のデビットカードをちゃんと申請できるようになっていました！\n（これまでは一旦居住地を香港に変更しなければならなかった） https://t.co/8k5vJ1fIzu https://t.co/WKp0xMbdN5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2104609914614333862",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2676,
+          "following_count": 4176,
+          "like_count": 86429,
+          "listed_count": 14,
+          "media_count": 692,
+          "tweet_count": 25261
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-03-10T08:23:17.000Z",
+        "description": "💻📱 HONOR / ✨ 中国旅行, ガジェット, サービス🇨🇳 / 👨‍💻 高専卒社会人1年生 / 🎨 by @motisan_info / ✈️ 旅の様子は https://t.co/WRZRT9mds0 のハイライトをご覧ください！",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 69,
+                "start": 56,
+                "username": "motisan_info"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "instagram.com/kuroyei_san",
+                "end": 104,
+                "expanded_url": "http://instagram.com/kuroyei_san",
+                "start": 81,
+                "url": "https://t.co/WRZRT9mds0"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "kuroyei.com",
+                "end": 23,
+                "expanded_url": "https://kuroyei.com",
+                "start": 0,
+                "url": "https://t.co/jXSrtRUbNf"
+              }
+            ]
+          }
+        },
+        "id": "1369564443961520131",
+        "is_identity_verified": false,
+        "location": "📷 in 中国深圳市南山区 on Aug 13, 2025",
+        "most_recent_tweet_id": "2104542410894459037",
+        "name": "くろえいさん🥝",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1369564443961520131/1758437667",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1679851852110909440/yQS7Tv_B_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 29211,
+          "following_count": 949,
+          "like_count": 139938,
+          "listed_count": 66,
+          "media_count": 9708,
+          "tweet_count": 39984
+        },
+        "url": "https://t.co/jXSrtRUbNf",
+        "username": "kuroyei",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

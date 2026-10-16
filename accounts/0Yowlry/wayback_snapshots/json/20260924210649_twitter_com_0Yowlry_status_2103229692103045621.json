@@ -1,0 +1,215 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2016468434083803359",
+    "created_at": "2026-09-24T21:06:49.000Z",
+    "display_text_range": [
+      13,
+      15
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T22:06:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103229692103045621"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1395031782014205953",
+          "start": 0,
+          "username": "komacyan_zZ"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103229692103045621",
+    "in_reply_to_user_id": "1395031782014205953",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2016468434083803359",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@komacyan_zZ 羡慕"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2016468434083803359].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2016468434083803359",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2016468434083803359"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2016468434083803359",
+        "created_at": "2026-09-24T21:06:49.000Z",
+        "display_text_range": [
+          13,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T22:06:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103229692103045621"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1395031782014205953",
+              "start": 0,
+              "username": "komacyan_zZ"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103229692103045621",
+        "in_reply_to_user_id": "1395031782014205953",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2016468434083803359",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@komacyan_zZ 羡慕"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2103229692103045621",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2663,
+          "following_count": 4148,
+          "like_count": 85473,
+          "listed_count": 13,
+          "media_count": 687,
+          "tweet_count": 24837
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-05-19T15:01:25.000Z",
+        "description": "躁うつ病 / JLPT-N2 / 日常垢 / フォロバをご希望の方はDMお願いします /🥄懦弱是无形的怪物 ❤️@whiteyzg3",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 66,
+                "start": 56,
+                "username": "whiteyzg3"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "komacyan.moe",
+                "end": 23,
+                "expanded_url": "https://komacyan.moe",
+                "start": 0,
+                "url": "https://t.co/xocU8WkTN7"
+              }
+            ]
+          }
+        },
+        "id": "1395031782014205953",
+        "is_identity_verified": false,
+        "location": "キミのとなり",
+        "most_recent_tweet_id": "2103027913771950281",
+        "name": "小鞠",
+        "pinned_tweet_id": "2078985977952186721",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1395031782014205953/1753111296",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2102578847510417408/HKCHh4rz_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 3266,
+          "following_count": 744,
+          "like_count": 15784,
+          "listed_count": 10,
+          "media_count": 1786,
+          "tweet_count": 8028
+        },
+        "url": "https://t.co/xocU8WkTN7",
+        "username": "komacyan_zZ",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

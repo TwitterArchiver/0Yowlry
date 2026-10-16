@@ -1,0 +1,356 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2104367988442866152",
+    "created_at": "2026-10-01T19:03:09.000Z",
+    "display_text_range": [
+      29,
+      32
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-01T20:03:09.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105735287599226967"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1942422285044047873",
+          "start": 0,
+          "username": "Hakonootoko"
+        },
+        {
+          "end": 28,
+          "id": "1260553941714186241",
+          "start": 13,
+          "username": "whyyoutouzhele"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105735287599226967",
+    "in_reply_to_user_id": "1942422285044047873",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104416437419045005",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hakonootoko @whyyoutouzhele 🫡🫡🫡"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2104367988442866152",
+        "created_at": "2026-10-01T19:03:09.000Z",
+        "display_text_range": [
+          29,
+          32
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-01T20:03:09.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105735287599226967"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1942422285044047873",
+              "start": 0,
+              "username": "Hakonootoko"
+            },
+            {
+              "end": 28,
+              "id": "1260553941714186241",
+              "start": 13,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105735287599226967",
+        "in_reply_to_user_id": "1942422285044047873",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104416437419045005",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hakonootoko @whyyoutouzhele 🫡🫡🫡"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1942422285044047873",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029202046",
+              "name": "Huawei"
+            }
+          }
+        ],
+        "conversation_id": "2104367988442866152",
+        "created_at": "2026-09-28T03:42:31.000Z",
+        "display_text_range": [
+          16,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T04:42:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104416437419045005"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1260553941714186241",
+              "start": 0,
+              "username": "whyyoutouzhele"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104416437419045005",
+        "in_reply_to_user_id": "1260553941714186241",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 449,
+          "like_count": 19,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104367988442866152",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@whyyoutouzhele 别尬黑，这是群众在演示罪恶美帝如何卡华为脖子，也是爱国教育的一环"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2105735287599226967",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2688,
+          "following_count": 4192,
+          "like_count": 87485,
+          "listed_count": 14,
+          "media_count": 704,
+          "tweet_count": 25580
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-07-08T03:15:47.000Z",
+        "description": "⚠混 乱 中 立 ⚠ \n☢无视一切道德法规传统习俗人文信仰政治立场的免责发言人。 \n☠️地狱梗・🤬高能脏话过敏者请慎重关注。\n工作日没空刷推，业余时间会分享读书笔记。 \n偶尔写小作文、讲墙内轶事、聊原生家庭，大多时间玩抽象。 \n别问，问就是金与正本人。 \n现流亡日本，组建临时政府中，与独裁国贼金正恩不共戴天。",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "x.com/Sunan00nna",
+                "end": 23,
+                "expanded_url": "https://x.com/Sunan00nna",
+                "start": 0,
+                "url": "https://t.co/mhV5wAjg3x"
+              }
+            ]
+          }
+        },
+        "id": "1942422285044047873",
+        "is_identity_verified": false,
+        "location": "女权市出生・防失联小号👉",
+        "most_recent_tweet_id": "2105713951787123076",
+        "name": "流亡公主•金與正•김여정（尊習討金）",
+        "pinned_tweet_id": "1999714467232514332",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1942422285044047873/1751983537",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1967985109816225792/KNlXC_-2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4638,
+          "following_count": 1090,
+          "like_count": 55997,
+          "listed_count": 58,
+          "media_count": 539,
+          "tweet_count": 37580
+        },
+        "url": "https://t.co/mhV5wAjg3x",
+        "username": "Hakonootoko",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-05-13T12:54:20.000Z",
+        "description": "投稿私信\n或：https://t.co/318DKi0R0h\n邮箱投稿： lilaoshitougao@gmail.com \n你看那通天的巨塔，每时每刻都有人往下跳。我小时候不懂，以为那是雪花",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "telegram.me/chinese_dissid…",
+                "end": 30,
+                "expanded_url": "http://telegram.me/chinese_dissidents_manager_bot",
+                "start": 7,
+                "url": "https://t.co/318DKi0R0h"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "telegram.me/lilaoshibushin…",
+                "end": 23,
+                "expanded_url": "https://telegram.me/lilaoshibushinilaoshi",
+                "start": 0,
+                "url": "https://t.co/ipj3YpuAQW"
+              }
+            ]
+          }
+        },
+        "id": "1260553941714186241",
+        "is_identity_verified": false,
+        "location": "偷乐星球",
+        "most_recent_tweet_id": "2105734492891541541",
+        "name": "李老师不是你老师",
+        "pinned_tweet_id": "2092920054601990188",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1260553941714186241/1650306568",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2004720683905904640/8ZEZs67v_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2267970,
+          "following_count": 1085,
+          "like_count": 10549,
+          "listed_count": 8912,
+          "media_count": 54540,
+          "tweet_count": 61896
+        },
+        "url": "https://t.co/ipj3YpuAQW",
+        "username": "whyyoutouzhele",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

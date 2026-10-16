@@ -1,0 +1,383 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2107732807556689920"
+      ]
+    },
+    "author_id": "1839263401845075974",
+    "conversation_id": "2107075387545035133",
+    "created_at": "2026-10-07T07:20:38.000Z",
+    "display_text_range": [
+      15,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T08:20:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107732818168283421"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1670089896206163970",
+          "start": 0,
+          "username": "Birgunolucekk"
+        },
+        {
+          "end": 20,
+          "id": "1720665183188922368",
+          "start": 15,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/KSGKMFUnt6",
+          "end": 49,
+          "expanded_url": "https://x.com/0Yowlry/status/2107732818168283421/photo/1",
+          "media_key": "3_2107732807556689920",
+          "start": 26,
+          "url": "https://t.co/KSGKMFUnt6"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107732818168283421",
+    "in_reply_to_user_id": "1670089896206163970",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "3_2107732807556689920"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107075387545035133",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Birgunolucekk @grok 最近咋了 https://t.co/KSGKMFUnt6"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 230,
+        "media_key": "3_2107732807556689920",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HUAr0jvacAA4T87.png",
+        "width": 500
+      },
+      {
+        "duration_ms": 17763,
+        "height": 720,
+        "media_key": "13_2107075360349184000",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2107075360349184000/img/aWVCEJ224Ovvm138.jpg",
+        "public_metrics": {
+          "view_count": 1294879
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107075360349184000/vid/avc1/320x320/0RGiMll2GcR_497R.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107075360349184000/vid/avc1/540x540/Ou_uFKtN5v6NTFjb.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107075360349184000/vid/avc1/720x720/FfU9Qe8UG9-SrwGs.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2107075360349184000/pl/DL4DH3o2sC4bnlPq.m3u8?v=cfc"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2107732807556689920"
+          ]
+        },
+        "author_id": "1839263401845075974",
+        "conversation_id": "2107075387545035133",
+        "created_at": "2026-10-07T07:20:38.000Z",
+        "display_text_range": [
+          15,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T08:20:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107732818168283421"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1670089896206163970",
+              "start": 0,
+              "username": "Birgunolucekk"
+            },
+            {
+              "end": 20,
+              "id": "1720665183188922368",
+              "start": 15,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/KSGKMFUnt6",
+              "end": 49,
+              "expanded_url": "https://x.com/0Yowlry/status/2107732818168283421/photo/1",
+              "media_key": "3_2107732807556689920",
+              "start": 26,
+              "url": "https://t.co/KSGKMFUnt6"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107732818168283421",
+        "in_reply_to_user_id": "1670089896206163970",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2107732807556689920"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107075387545035133",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Birgunolucekk @grok 最近咋了 https://t.co/KSGKMFUnt6"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2107075360349184000"
+          ]
+        },
+        "author_id": "1670089896206163970",
+        "conversation_id": "2107075387545035133",
+        "created_at": "2026-10-05T11:48:14.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T12:48:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107075387545035133"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/oSggJimWi0",
+              "end": 103,
+              "expanded_url": "https://x.com/Birgunolucekk/status/2107075387545035133/video/1",
+              "media_key": "13_2107075360349184000",
+              "start": 80,
+              "url": "https://t.co/oSggJimWi0"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107075387545035133",
+        "lang": "pt",
+        "media_metadata": [
+          {
+            "media_key": "13_2107075360349184000"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 693,
+          "impression_count": 1891304,
+          "like_count": 11589,
+          "quote_count": 160,
+          "reply_count": 223,
+          "retweet_count": 1312
+        },
+        "reply_settings": "everyone",
+        "text": "XI JI PING\nFINANCIE A REVOLUÇÃO BRASILEIRA CAMARADA XIN JIPING\nINTERVENHA AGORA https://t.co/oSggJimWi0"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2107732818168283421",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2712,
+          "following_count": 4218,
+          "like_count": 90317,
+          "listed_count": 15,
+          "media_count": 719,
+          "tweet_count": 26360
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-06-17T15:24:25.000Z",
+        "description": "eski hocaefendi\ninactive\n\nim on priv acc",
+        "id": "1670089896206163970",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107585074619179161",
+        "name": "Darenn🇨🇳🦇",
+        "pinned_tweet_id": "2033108422921490924",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1670089896206163970/1784749924",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2070143905039872000/FQ5N9_D4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 497,
+          "following_count": 444,
+          "like_count": 10996,
+          "listed_count": 1,
+          "media_count": 1211,
+          "tweet_count": 5157
+        },
+        "url": "",
+        "username": "Birgunolucekk",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107732833569570958",
+        "name": "Grok",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9145969,
+          "following_count": 4,
+          "like_count": 143,
+          "listed_count": 7745,
+          "media_count": 3988928,
+          "tweet_count": 139383607
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

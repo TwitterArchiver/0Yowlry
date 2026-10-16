@@ -1,0 +1,760 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10027232467",
+          "name": "Microsoft"
+        }
+      },
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597226799105",
+          "name": "B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597172203520",
+          "name": "Services - B2B"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040692468",
+          "name": "GitHub"
+        }
+      }
+    ],
+    "conversation_id": "2104147970300219759",
+    "created_at": "2026-09-29T23:15:48.000Z",
+    "display_text_range": [
+      48,
+      58
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T00:15:48.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105074091002835061"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "1894375325934784517",
+          "start": 0,
+          "username": "HongSwor"
+        },
+        {
+          "end": 19,
+          "id": "1484296250",
+          "start": 10,
+          "username": "0xBCD18E"
+        },
+        {
+          "end": 27,
+          "id": "13334762",
+          "start": 20,
+          "username": "github"
+        },
+        {
+          "end": 36,
+          "id": "605805760",
+          "start": 28,
+          "username": "Outlook"
+        },
+        {
+          "end": 47,
+          "id": "74286565",
+          "start": 37,
+          "username": "Microsoft"
+        },
+        {
+          "end": 53,
+          "id": "1720665183188922368",
+          "start": 48,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105074091002835061",
+    "in_reply_to_user_id": "1894375325934784517",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104377177672163831",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@HongSwor @0xBCD18E @github @Outlook @Microsoft @grok 真的假的"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2104147970300219759",
+        "created_at": "2026-09-29T23:15:48.000Z",
+        "display_text_range": [
+          48,
+          58
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T00:15:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105074091002835061"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "1894375325934784517",
+              "start": 0,
+              "username": "HongSwor"
+            },
+            {
+              "end": 19,
+              "id": "1484296250",
+              "start": 10,
+              "username": "0xBCD18E"
+            },
+            {
+              "end": 27,
+              "id": "13334762",
+              "start": 20,
+              "username": "github"
+            },
+            {
+              "end": 36,
+              "id": "605805760",
+              "start": 28,
+              "username": "Outlook"
+            },
+            {
+              "end": 47,
+              "id": "74286565",
+              "start": 37,
+              "username": "Microsoft"
+            },
+            {
+              "end": 53,
+              "id": "1720665183188922368",
+              "start": 48,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105074091002835061",
+        "in_reply_to_user_id": "1894375325934784517",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104377177672163831",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@HongSwor @0xBCD18E @github @Outlook @Microsoft @grok 真的假的"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1894375325934784517",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597226799105",
+              "name": "B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597172203520",
+              "name": "Services - B2B"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040692468",
+              "name": "GitHub"
+            }
+          }
+        ],
+        "conversation_id": "2104147970300219759",
+        "created_at": "2026-09-28T01:06:31.000Z",
+        "display_text_range": [
+          47,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T02:06:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104377177672163831"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1839263401845075974",
+              "start": 0,
+              "username": "0Yowlry"
+            },
+            {
+              "end": 18,
+              "id": "1484296250",
+              "start": 9,
+              "username": "0xBCD18E"
+            },
+            {
+              "end": 26,
+              "id": "13334762",
+              "start": 19,
+              "username": "github"
+            },
+            {
+              "end": 35,
+              "id": "605805760",
+              "start": 27,
+              "username": "Outlook"
+            },
+            {
+              "end": 46,
+              "id": "74286565",
+              "start": 36,
+              "username": "Microsoft"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104377177672163831",
+        "in_reply_to_user_id": "1839263401845075974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104240570755592496",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0Yowlry @0xBCD18E @github @Outlook @Microsoft 谷歌其实也不需要验证手机号，只要ip干净"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2105074091002835061",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2673,
+          "following_count": 4177,
+          "like_count": 86712,
+          "listed_count": 14,
+          "media_count": 695,
+          "tweet_count": 25334
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-02-25T13:14:24.000Z",
+        "description": "你好｜个人特征：MTX/BPD/ADHD/双相 | 主要关注：公共交通/垂直交通/建筑文化/城乡规划/美学/卡迷/果粉 | 颜色偏好：绿",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "haizi.huhaitai.com/03/121",
+                "end": 23,
+                "expanded_url": "https://haizi.huhaitai.com/03/121",
+                "start": 0,
+                "url": "https://t.co/Y9Zk1gDAaF"
+              }
+            ]
+          }
+        },
+        "id": "1894375325934784517",
+        "is_identity_verified": false,
+        "location": "公元前",
+        "most_recent_tweet_id": "2104962689428775077",
+        "name": "葉栩然",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1894375325934784517/1789652485",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099011438476181504/mKkQneHT_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583,
+          "following_count": 492,
+          "like_count": 44489,
+          "listed_count": 1,
+          "media_count": 144,
+          "tweet_count": 11021
+        },
+        "url": "https://t.co/Y9Zk1gDAaF",
+        "username": "HongSwor",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-06-05T06:59:26.000Z",
+        "description": "•日常分享观察发现，偶尔记录事实核查\n•蛋头视奸新号加列表激进民族主义钢印入脑者勿fo会b",
+        "id": "1484296250",
+        "is_identity_verified": false,
+        "location": "距您2.6公里   IP归属地：球外势力",
+        "most_recent_tweet_id": "2105073605818437879",
+        "name": "花​贝（名字搞长一点可以搞长一点）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1484296250/1640325005",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2041095743625457664/V_o7iIxI_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1645,
+          "following_count": 2087,
+          "like_count": 210955,
+          "listed_count": 4,
+          "media_count": 3272,
+          "tweet_count": 36115
+        },
+        "url": "",
+        "username": "0xBCD18E",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2008-02-11T04:41:50.000Z",
+        "description": "The AI-powered developer platform to build, scale, and deliver secure software.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com",
+                "end": 23,
+                "expanded_url": "http://github.com",
+                "start": 0,
+                "url": "https://t.co/bbJgfyzKzp"
+              }
+            ]
+          }
+        },
+        "id": "13334762",
+        "is_identity_verified": false,
+        "location": "San Francisco, CA",
+        "most_recent_tweet_id": "2105042195321704818",
+        "name": "GitHub",
+        "pinned_tweet_id": "2101394440526979105",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/13334762/1780668208",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051404708766507008/ATxxTJXO_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2715384,
+          "following_count": 334,
+          "like_count": 8994,
+          "listed_count": 18738,
+          "media_count": 3138,
+          "tweet_count": 10940
+        },
+        "url": "https://t.co/bbJgfyzKzp",
+        "username": "github",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2102444721419485184/NCrN1V_3_bigger.jpg",
+          "description": "Microsoft Copilot",
+          "url": "https://twitter.com/MSFTCopilot",
+          "user_id": [
+            "898250146797846528"
+          ]
+        },
+        "created_at": "2012-06-11T22:34:55.000Z",
+        "description": "News and tips from the Microsoft #Outlook team.\nSupport: https://t.co/avkFjz1rex or @MicrosoftHelps",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 41,
+                "start": 33,
+                "tag": "Outlook"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 99,
+                "start": 84,
+                "username": "MicrosoftHelps"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "Support.microsoft.com/Outlook",
+                "end": 80,
+                "expanded_url": "http://Support.microsoft.com/Outlook",
+                "start": 57,
+                "url": "https://t.co/avkFjz1rex"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "Outlook.com",
+                "end": 23,
+                "expanded_url": "http://Outlook.com",
+                "start": 0,
+                "url": "https://t.co/BYhpPGXxca"
+              }
+            ]
+          }
+        },
+        "id": "605805760",
+        "is_identity_verified": false,
+        "location": "Redmond, WA",
+        "most_recent_tweet_id": "2104470751122198924",
+        "name": "Microsoft Outlook",
+        "pinned_tweet_id": "2048849699994492930",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/605805760/1759343080",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973454025598423040/fIFOu08p_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1119575,
+          "following_count": 14,
+          "like_count": 1591,
+          "listed_count": 4177,
+          "media_count": 1521,
+          "tweet_count": 127447
+        },
+        "url": "https://t.co/BYhpPGXxca",
+        "username": "Outlook",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-09-14T22:35:42.000Z",
+        "description": "We're on a mission to empower every person and every organization on the planet to achieve more. Support: @MicrosoftHelps",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 121,
+                "start": 106,
+                "username": "MicrosoftHelps"
+              }
+            ]
+          }
+        },
+        "id": "74286565",
+        "is_identity_verified": false,
+        "location": "Redmond, WA",
+        "most_recent_tweet_id": "2104971971461046312",
+        "name": "Microsoft",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/74286565/1780943553",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1917930887674531840/MRgAH1cv_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 13074171,
+          "following_count": 1096,
+          "like_count": 13751,
+          "listed_count": 27170,
+          "media_count": 3346,
+          "tweet_count": 31093
+        },
+        "url": "",
+        "username": "Microsoft",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2105074104286015939",
+        "name": "Grok",
+        "pinned_tweet_id": "2099876430561632548",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9114389,
+          "following_count": 4,
+          "like_count": 142,
+          "listed_count": 7703,
+          "media_count": 3968809,
+          "tweet_count": 137870878
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

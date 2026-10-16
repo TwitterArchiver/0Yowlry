@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596165640192",
+          "name": "Telco"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10040459264",
+          "name": "giffgaff"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Mobile",
+          "id": "848985956778561538",
+          "name": "Mobile"
+        }
+      }
+    ],
+    "conversation_id": "2102391272153686413",
+    "created_at": "2026-09-22T18:03:30.000Z",
+    "display_text_range": [
+      12,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-22T19:03:30.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102458784069415303"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1616035120464691201",
+          "start": 0,
+          "username": "TodZheng25"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102458784069415303",
+    "in_reply_to_user_id": "1616035120464691201",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102401982594175308",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@TodZheng25 giffgaff居然没有全部被停用吗（"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596165640192",
+              "name": "Telco"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040459264",
+              "name": "giffgaff"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Mobile",
+              "id": "848985956778561538",
+              "name": "Mobile"
+            }
+          }
+        ],
+        "conversation_id": "2102391272153686413",
+        "created_at": "2026-09-22T18:03:30.000Z",
+        "display_text_range": [
+          12,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T19:03:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102458784069415303"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1616035120464691201",
+              "start": 0,
+              "username": "TodZheng25"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102458784069415303",
+        "in_reply_to_user_id": "1616035120464691201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102401982594175308",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@TodZheng25 giffgaff居然没有全部被停用吗（"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1616035120464691201",
+        "conversation_id": "2102391272153686413",
+        "created_at": "2026-09-22T14:17:48.000Z",
+        "display_text_range": [
+          0,
+          59
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-22T15:17:48.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102401982594175308"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2102401982594175308",
+        "in_reply_to_user_id": "1616035120464691201",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 323,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 3,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102391272153686413",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "宝子们你们也可以在tg上搜我的手机号\n不知道为什么好像看不到大家的申请\n\n+44 77 4524 9358\n谢谢大家！"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2102458784069415303",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2655,
+          "following_count": 4110,
+          "like_count": 83737,
+          "listed_count": 12,
+          "media_count": 678,
+          "tweet_count": 24421
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-01-19T11:29:43.000Z",
+        "description": "大一，喜欢看书，喜欢小动物，喜欢折腾\n最近沉迷vibe coding，尝试做一些有意思的东西（我只是个菜鸡，求大佬带带\n交个朋友吧\n🙃🙃",
+        "id": "1616035120464691201",
+        "is_identity_verified": false,
+        "location": "2.05 km",
+        "most_recent_tweet_id": "2102418021130424458",
+        "name": "vibe睦头人",
+        "pinned_tweet_id": "2096699702481977756",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1616035120464691201/1788323013",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2088093035582390272/d1WXK8ju_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 972,
+          "following_count": 1117,
+          "like_count": 3599,
+          "listed_count": 2,
+          "media_count": 133,
+          "tweet_count": 1739
+        },
+        "url": "",
+        "username": "TodZheng25",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

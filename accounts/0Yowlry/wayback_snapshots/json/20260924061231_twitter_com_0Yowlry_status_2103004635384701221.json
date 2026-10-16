@@ -1,0 +1,362 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2100814523829526860",
+    "created_at": "2026-09-24T06:12:31.000Z",
+    "display_text_range": [
+      45,
+      46
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T07:12:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103004635384701221"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1303335410609790976",
+          "start": 0,
+          "username": "Rococo90933671"
+        },
+        {
+          "end": 32,
+          "id": "2035882965671215104",
+          "start": 16,
+          "username": "amber_medusozoa"
+        },
+        {
+          "end": 44,
+          "id": "1596473224711151618",
+          "start": 33,
+          "username": "a823149315"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103004635384701221",
+    "in_reply_to_user_id": "1303335410609790976",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2101102351431913537",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rococo90933671 @amber_medusozoa @a823149315 👀"
+  },
+  "errors": [
+    {
+      "detail": "User is unavailable: [a823149315].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "a823149315",
+      "resource_type": "user",
+      "title": "Resource Unavailable Error",
+      "type": "https://api.x.com/2/problems/resource-unavailable"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2100814523829526860",
+        "created_at": "2026-09-24T06:12:31.000Z",
+        "display_text_range": [
+          45,
+          46
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T07:12:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103004635384701221"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1303335410609790976",
+              "start": 0,
+              "username": "Rococo90933671"
+            },
+            {
+              "end": 32,
+              "id": "2035882965671215104",
+              "start": 16,
+              "username": "amber_medusozoa"
+            },
+            {
+              "end": 44,
+              "id": "1596473224711151618",
+              "start": 33,
+              "username": "a823149315"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103004635384701221",
+        "in_reply_to_user_id": "1303335410609790976",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2101102351431913537",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rococo90933671 @amber_medusozoa @a823149315 👀"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1303335410609790976",
+        "conversation_id": "2100814523829526860",
+        "created_at": "2026-09-19T00:13:31.000Z",
+        "display_text_range": [
+          29,
+          67
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-19T01:13:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2101102351431913537"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "2035882965671215104",
+              "start": 0,
+              "username": "amber_medusozoa"
+            },
+            {
+              "end": 28,
+              "id": "1596473224711151618",
+              "start": 17,
+              "username": "a823149315"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101102351431913537",
+        "in_reply_to_user_id": "2035882965671215104",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 468,
+          "like_count": 4,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100814523829526860",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@amber_medusozoa @a823149315 我的这个（笔名xxx）的格式就是学着她2024年时候的名字的，就一直没改……"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2103004635384701221",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2662,
+          "following_count": 4144,
+          "like_count": 85218,
+          "listed_count": 12,
+          "media_count": 682,
+          "tweet_count": 24783
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-09-08T14:12:46.000Z",
+        "description": "24岁，但不是学生，因为本科已退学。十七年war3玩家、语言爱好者，梦想是成为polyglot。椎名林檎を愛する。互fo可以私信来要，别藏着掖着，想和大家交朋友哦。不会屏蔽任何人，因为没有这种习惯。Langues: 🇬🇧🇯🇵🇫🇷。大狐帝国为十多年前的初中时代作为历史爱好者的自创设定",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/rococo90933671",
+                "end": 23,
+                "expanded_url": "https://ngl.link/rococo90933671",
+                "start": 0,
+                "url": "https://t.co/FNHXVrsXJh"
+              }
+            ]
+          }
+        },
+        "id": "1303335410609790976",
+        "is_identity_verified": false,
+        "location": "IP属地：大狐京师文华殿",
+        "most_recent_tweet_id": "2102973060437393773",
+        "name": "大狐帝国史官邹智萱（笔名段歌文）",
+        "pinned_tweet_id": "2084662210375344389",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1303335410609790976/1756193334",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1960243028746280960/c3BZrJmy_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 14765,
+          "following_count": 3286,
+          "like_count": 51848,
+          "listed_count": 47,
+          "media_count": 5564,
+          "tweet_count": 27543
+        },
+        "url": "https://t.co/FNHXVrsXJh",
+        "username": "Rococo90933671",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-23T00:55:05.000Z",
+        "description": "❦ @noaayoyaoaya ✦ @amber_toffee\n✮ @transinacademia ❀ https://t.co/2xzS4y8edG\n✑ https://t.co/vNxQSjRxUG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 2,
+                "username": "noaayoyaoaya"
+              },
+              {
+                "end": 31,
+                "start": 18,
+                "username": "amber_toffee"
+              },
+              {
+                "end": 50,
+                "start": 34,
+                "username": "transinacademia"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/jellyfishamber",
+                "end": 76,
+                "expanded_url": "http://ngl.link/jellyfishamber",
+                "start": 53,
+                "url": "https://t.co/2xzS4y8edG"
+              },
+              {
+                "display_url": "amberjellyfish.substack.com",
+                "end": 102,
+                "expanded_url": "http://amberjellyfish.substack.com",
+                "start": 79,
+                "url": "https://t.co/vNxQSjRxUG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/lvpg0lo74G"
+              }
+            ]
+          }
+        },
+        "id": "2035882965671215104",
+        "is_identity_verified": false,
+        "location": "🏳️‍⚧️☭ / 🇨🇦 ᴛʀᴛ",
+        "most_recent_tweet_id": "2102995224058613887",
+        "name": "amber水母🍥",
+        "pinned_tweet_id": "2097782883188424922",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035882965671215104/1779509843",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2096301120717000706/WTDahM4M_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11431,
+          "following_count": 1379,
+          "like_count": 10944,
+          "listed_count": 18,
+          "media_count": 518,
+          "tweet_count": 6738
+        },
+        "url": "https://t.co/lvpg0lo74G",
+        "username": "amber_medusozoa",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

@@ -1,0 +1,305 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2109207418345488753",
+    "created_at": "2026-10-11T12:35:21.000Z",
+    "display_text_range": [
+      13,
+      51
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T13:35:21.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109261569544827116"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1247123754158702593",
+          "start": 0,
+          "username": "Rokumi_desu"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109261569544827116",
+    "in_reply_to_user_id": "1247123754158702593",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2109256871957979297",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Rokumi_desu 就不能连一下google搜索引擎吗？按理说在这方面Gemini应该有优势才对"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2109207418345488753",
+        "created_at": "2026-10-11T12:35:21.000Z",
+        "display_text_range": [
+          13,
+          51
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T13:35:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109261569544827116"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1247123754158702593",
+              "start": 0,
+              "username": "Rokumi_desu"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109261569544827116",
+        "in_reply_to_user_id": "1247123754158702593",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109256871957979297",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Rokumi_desu 就不能连一下google搜索引擎吗？按理说在这方面Gemini应该有优势才对"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1247123754158702593",
+        "conversation_id": "2109207418345488753",
+        "created_at": "2026-10-11T12:16:41.000Z",
+        "display_text_range": [
+          9,
+          23
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T13:16:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109256871957979297"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1839263401845075974",
+              "start": 0,
+              "username": "0Yowlry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109256871957979297",
+        "in_reply_to_user_id": "1839263401845075974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2109207418345488753",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0Yowlry gemini联网检索烂的一比"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2109261569544827116",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2728,
+          "following_count": 4247,
+          "like_count": 91416,
+          "listed_count": 15,
+          "media_count": 740,
+          "tweet_count": 26752
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-04-06T11:27:44.000Z",
+        "description": "时间的分分秒秒都可能是弥赛亚侧身步入的窄门",
+        "id": "1247123754158702593",
+        "is_identity_verified": false,
+        "location": "淡推",
+        "most_recent_tweet_id": "2109259524511248436",
+        "name": "海うみ",
+        "pinned_tweet_id": "2041953898076753941",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1247123754158702593/1789842159",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2107639974111670272/7cLY-fL8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2772,
+          "following_count": 834,
+          "like_count": 92670,
+          "listed_count": 9,
+          "media_count": 497,
+          "tweet_count": 9541
+        },
+        "url": "",
+        "username": "Rokumi_desu",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

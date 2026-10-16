@@ -1,0 +1,635 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "16_2106999352824627200"
+      ],
+      "media_source_tweet_id": [
+        "2106999453345300483"
+      ]
+    },
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Anime/Game ",
+          "id": "1138508942156345344",
+          "name": "Anime & game music"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "2089731543006613504",
+          "name": "test (us,en)"
+        }
+      },
+      {
+        "domain": {
+          "description": "Real world events. ",
+          "id": "29",
+          "name": "Events [Entity Service]"
+        },
+        "entity": {
+          "id": "2089732538029793280",
+          "name": "test (other,en)"
+        }
+      }
+    ],
+    "conversation_id": "2107379437386015022",
+    "created_at": "2026-10-06T07:56:25.000Z",
+    "display_text_range": [
+      0,
+      79
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T08:56:25.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107379437386015022"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 39,
+          "start": 34,
+          "tag": "miku"
+        },
+        {
+          "end": 45,
+          "start": 40,
+          "tag": "初音ミク"
+        },
+        {
+          "end": 55,
+          "start": 46,
+          "tag": "vocaloid"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1005615064521601024",
+          "start": 3,
+          "username": "bobaquail"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/C2v8bV0uMf",
+          "end": 79,
+          "expanded_url": "https://x.com/bobaquail/status/2106999453345300483/photo/1",
+          "media_key": "16_2106999352824627200",
+          "start": 56,
+          "url": "https://t.co/C2v8bV0uMf"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107379437386015022",
+    "lang": "en",
+    "media_metadata": [
+      {
+        "media_key": "16_2106999352824627200"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 4345
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106999453345300483",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bobaquail: triangle wave test\n#miku #初音ミク #vocaloid https://t.co/C2v8bV0uMf"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1200,
+        "media_key": "16_2106999352824627200",
+        "preview_image_url": "https://pbs.twimg.com/tweet_video_thumb/HT2Qv38XAAAedac.jpg",
+        "public_metrics": {},
+        "type": "animated_gif",
+        "variants": [
+          {
+            "bit_rate": 0,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/tweet_video/HT2Qv38XAAAedac.mp4"
+          }
+        ],
+        "width": 1200
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2106999352824627200"
+          ],
+          "media_source_tweet_id": [
+            "2106999453345300483"
+          ]
+        },
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2089731543006613504",
+              "name": "test (us,en)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2089732538029793280",
+              "name": "test (other,en)"
+            }
+          }
+        ],
+        "conversation_id": "2107379437386015022",
+        "created_at": "2026-10-06T07:56:25.000Z",
+        "display_text_range": [
+          0,
+          79
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T08:56:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107379437386015022"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 39,
+              "start": 34,
+              "tag": "miku"
+            },
+            {
+              "end": 45,
+              "start": 40,
+              "tag": "初音ミク"
+            },
+            {
+              "end": 55,
+              "start": 46,
+              "tag": "vocaloid"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1005615064521601024",
+              "start": 3,
+              "username": "bobaquail"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C2v8bV0uMf",
+              "end": 79,
+              "expanded_url": "https://x.com/bobaquail/status/2106999453345300483/photo/1",
+              "media_key": "16_2106999352824627200",
+              "start": 56,
+              "url": "https://t.co/C2v8bV0uMf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107379437386015022",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2106999352824627200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 4345
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106999453345300483",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bobaquail: triangle wave test\n#miku #初音ミク #vocaloid https://t.co/C2v8bV0uMf"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "16_2106999352824627200"
+          ]
+        },
+        "author_id": "1005615064521601024",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Anime/Game ",
+              "id": "1138508942156345344",
+              "name": "Anime & game music"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2089731543006613504",
+              "name": "test (us,en)"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "id": "2089732538029793280",
+              "name": "test (other,en)"
+            }
+          }
+        ],
+        "conversation_id": "2106999453345300483",
+        "created_at": "2026-10-05T06:46:30.000Z",
+        "display_text_range": [
+          0,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T07:46:30.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106999453345300483"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "miku"
+            },
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "初音ミク"
+            },
+            {
+              "end": 40,
+              "start": 31,
+              "tag": "vocaloid"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/C2v8bV0uMf",
+              "end": 64,
+              "expanded_url": "https://x.com/bobaquail/status/2106999453345300483/photo/1",
+              "media_key": "16_2106999352824627200",
+              "start": 41,
+              "url": "https://t.co/C2v8bV0uMf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106999453345300483",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "16_2106999352824627200"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 3307,
+          "impression_count": 423863,
+          "like_count": 40185,
+          "quote_count": 38,
+          "reply_count": 31,
+          "retweet_count": 4345
+        },
+        "reply_settings": "everyone",
+        "text": "triangle wave test\n#miku #初音ミク #vocaloid https://t.co/C2v8bV0uMf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2107379437386015022",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2709,
+          "following_count": 4215,
+          "like_count": 89879,
+          "listed_count": 15,
+          "media_count": 713,
+          "tweet_count": 26209
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2018-06-10T00:58:09.000Z",
+        "description": "vector animator / button quail / boba drinker🧋 ✝️",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "drive.google.com/drive/folders/…",
+                "end": 23,
+                "expanded_url": "https://drive.google.com/drive/folders/1K_StnWmx4vHvtNHqZajzu2d7RGwK8CTY?usp=sharing",
+                "start": 0,
+                "url": "https://t.co/X3ASPfc8Gb"
+              }
+            ]
+          }
+        },
+        "id": "1005615064521601024",
+        "is_identity_verified": false,
+        "location": "boba massachusetts🇯🇵🇵🇭🇺🇸",
+        "most_recent_tweet_id": "2107246074922766361",
+        "name": "bobaquail 🌟🧋",
+        "pinned_tweet_id": "2107129523355701364",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1005615064521601024/1790292250",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1112564295613730816/Nq0YyJLn_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3960,
+          "following_count": 1007,
+          "like_count": 10603,
+          "listed_count": 23,
+          "media_count": 614,
+          "tweet_count": 3371
+        },
+        "url": "https://t.co/X3ASPfc8Gb",
+        "username": "bobaquail",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

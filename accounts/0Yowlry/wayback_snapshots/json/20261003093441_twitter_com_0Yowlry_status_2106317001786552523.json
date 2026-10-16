@@ -1,0 +1,346 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      }
+    ],
+    "conversation_id": "2106317001786552523",
+    "created_at": "2026-10-03T09:34:41.000Z",
+    "display_text_range": [
+      0,
+      148
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T10:34:41.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106317001786552523"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1839263401845075974",
+          "start": 3,
+          "username": "0Yowlry"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106317001786552523",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106281014649848105",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0Yowlry: Google调整Gemini模型使用权限，自2026年10月9日起免费用户仅可使用Flash-Lite，Flash和Pro模型不再对免费用户开放；订阅Plus可使用Flash-Lite &amp; Flash，订阅Pro &amp; Ultra可使用Flash-Lit…"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          }
+        ],
+        "conversation_id": "2106317001786552523",
+        "created_at": "2026-10-03T09:34:41.000Z",
+        "display_text_range": [
+          0,
+          148
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T10:34:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106317001786552523"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1839263401845075974",
+              "start": 3,
+              "username": "0Yowlry"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106317001786552523",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106281014649848105",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0Yowlry: Google调整Gemini模型使用权限，自2026年10月9日起免费用户仅可使用Flash-Lite，Flash和Pro模型不再对免费用户开放；订阅Plus可使用Flash-Lite &amp; Flash，订阅Pro &amp; Ultra可使用Flash-Lit…"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2106281014649848105",
+        "created_at": "2026-10-03T07:11:41.000Z",
+        "display_text_range": [
+          0,
+          229
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T08:11:41.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106281014649848105"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 194,
+              "id": "20536157",
+              "start": 187,
+              "username": "Google"
+            },
+            {
+              "end": 205,
+              "id": "1806359170830172162",
+              "start": 195,
+              "username": "GeminiApp"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Important: For the best experience, make sure you've updated to the latest version of the Gemini mobile app. Learn how to update Google",
+              "display_url": "support.google.com/gemini/answer/…",
+              "end": 229,
+              "expanded_url": "https://support.google.com/gemini/answer/17004136",
+              "start": 206,
+              "status": 200,
+              "title": "Changes to Gemini model access and limits - Gemini Apps Help",
+              "unwound_url": "https://support.google.com/gemini/answer/17004136",
+              "url": "https://t.co/4UByYLQ7kp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106281014649848105",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 2310,
+          "like_count": 24,
+          "quote_count": 3,
+          "reply_count": 12,
+          "retweet_count": 2
+        },
+        "reply_settings": "everyone",
+        "text": "Google调整Gemini模型使用权限，自2026年10月9日起免费用户仅可使用Flash-Lite，Flash和Pro模型不再对免费用户开放；订阅Plus可使用Flash-Lite &amp; Flash，订阅Pro &amp; Ultra可使用Flash-Lite &amp; Flash &amp; Pro\n此外Gemini将计算使用额度每5h刷新并设每周额度上限 @Google @GeminiApp\nhttps://t.co/4UByYLQ7kp"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2106317001786552523",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2694,
+          "following_count": 4201,
+          "like_count": 88379,
+          "listed_count": 14,
+          "media_count": 709,
+          "tweet_count": 25837
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

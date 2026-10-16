@@ -1,0 +1,367 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2104415044738207745"
+      ],
+      "media_source_tweet_id": [
+        "2104415290805379147"
+      ]
+    },
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+          "id": "1557696888568045569",
+          "name": "Food & Beverage Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      }
+    ],
+    "conversation_id": "2104758869042110970",
+    "created_at": "2026-09-29T02:23:13.000Z",
+    "display_text_range": [
+      0,
+      48
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-29T03:23:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104758869042110970"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1853777198018404352",
+          "start": 3,
+          "username": "huthawar17115"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/1x2khYBlXP",
+          "end": 48,
+          "expanded_url": "https://x.com/huthawar17115/status/2104415290805379147/video/1",
+          "media_key": "13_2104415044738207745",
+          "start": 25,
+          "url": "https://t.co/1x2khYBlXP"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104758869042110970",
+    "lang": "zh",
+    "media_metadata": [
+      {
+        "media_key": "13_2104415044738207745"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 98
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104415290805379147",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @huthawar17115: 键政小剧场 https://t.co/1x2khYBlXP"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 459917,
+        "height": 720,
+        "media_key": "13_2104415044738207745",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2104415044738207745/img/RuE9Fw7MxHGuBW43.jpg",
+        "public_metrics": {
+          "view_count": 72513
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104415044738207745/vid/avc1/480x270/f1TE_pGyT0yKbBpe.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104415044738207745/vid/avc1/640x360/Y1husP-ARemnWTEh.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2104415044738207745/vid/avc1/1280x720/rqQ9mg_oGgfBTqXV.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2104415044738207745/pl/VMl9pJZ_5p2aFDVX.m3u8"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2104415044738207745"
+          ],
+          "media_source_tweet_id": [
+            "2104415290805379147"
+          ]
+        },
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent and related to foods & beverages such as snacks, soft drinks, beers.",
+              "id": "1557696888568045569",
+              "name": "Food & Beverage Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2104758869042110970",
+        "created_at": "2026-09-29T02:23:13.000Z",
+        "display_text_range": [
+          0,
+          48
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-29T03:23:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104758869042110970"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1853777198018404352",
+              "start": 3,
+              "username": "huthawar17115"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/1x2khYBlXP",
+              "end": 48,
+              "expanded_url": "https://x.com/huthawar17115/status/2104415290805379147/video/1",
+              "media_key": "13_2104415044738207745",
+              "start": 25,
+              "url": "https://t.co/1x2khYBlXP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104758869042110970",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2104415044738207745"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 98
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104415290805379147",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @huthawar17115: 键政小剧场 https://t.co/1x2khYBlXP"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2104415044738207745"
+          ]
+        },
+        "author_id": "1853777198018404352",
+        "conversation_id": "2104415290805379147",
+        "created_at": "2026-09-28T03:37:58.000Z",
+        "display_text_range": [
+          0,
+          5
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T04:37:58.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2104415290805379147"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/1x2khYBlXP",
+              "end": 29,
+              "expanded_url": "https://x.com/huthawar17115/status/2104415290805379147/video/1",
+              "media_key": "13_2104415044738207745",
+              "start": 6,
+              "url": "https://t.co/1x2khYBlXP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104415290805379147",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2104415044738207745"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 607,
+          "impression_count": 138509,
+          "like_count": 1466,
+          "quote_count": 6,
+          "reply_count": 98,
+          "retweet_count": 98
+        },
+        "reply_settings": "everyone",
+        "text": "键政小剧场 https://t.co/1x2khYBlXP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2104758869042110970",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2675,
+          "following_count": 4176,
+          "like_count": 86508,
+          "listed_count": 14,
+          "media_count": 693,
+          "tweet_count": 25277
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-11-05T12:32:14.000Z",
+        "description": "Roma catholic🇻🇦☨/欢迎互fo/我只是想安心上网而已、请晶哥、粉红、极端人士不要来找我麻烦 我是纯良人/🚪1919180VND",
+        "id": "1853777198018404352",
+        "is_identity_verified": false,
+        "location": "距离你4.2光年",
+        "most_recent_tweet_id": "2104753978173243896",
+        "name": "✠葡萄汽水☨🥤🇻🇦",
+        "pinned_tweet_id": "2009624763724136527",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1853777198018404352/1751728134",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2023342430033219584/qAux-j0y_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1351,
+          "following_count": 1878,
+          "like_count": 53495,
+          "listed_count": 6,
+          "media_count": 1488,
+          "tweet_count": 18735
+        },
+        "url": "",
+        "username": "huthawar17115",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

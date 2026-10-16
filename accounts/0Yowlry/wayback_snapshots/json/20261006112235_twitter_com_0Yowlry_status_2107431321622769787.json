@@ -1,0 +1,525 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2106913525004148993",
+    "created_at": "2026-10-06T11:22:35.000Z",
+    "display_text_range": [
+      12,
+      35
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T12:22:35.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107431321622769787"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1222773302441148416",
+          "start": 0,
+          "username": "visegrad24"
+        },
+        {
+          "end": 17,
+          "id": "1720665183188922368",
+          "start": 12,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107431321622769787",
+    "in_reply_to_user_id": "1222773302441148416",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106913525004148993",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@visegrad24 @grok\n对LGBTQ+群体会产生什么影响吗"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1481,
+        "media_key": "3_2106913514384138240",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT1Cra1WIAA2ZWD.jpg",
+        "width": 1125
+      },
+      {
+        "height": 635,
+        "media_key": "3_2106913514380038144",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT1Cra0XkAA5aP5.jpg",
+        "width": 512
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2106913525004148993",
+        "created_at": "2026-10-06T11:22:35.000Z",
+        "display_text_range": [
+          12,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T12:22:35.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107431321622769787"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1222773302441148416",
+              "start": 0,
+              "username": "visegrad24"
+            },
+            {
+              "end": 17,
+              "id": "1720665183188922368",
+              "start": 12,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107431321622769787",
+        "in_reply_to_user_id": "1222773302441148416",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106913525004148993",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@visegrad24 @grok\n对LGBTQ+群体会产生什么影响吗"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106913514384138240",
+            "3_2106913514380038144"
+          ]
+        },
+        "author_id": "1222773302441148416",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Flavio Bolsonaro",
+              "id": "958818632993132544",
+              "name": "Flavio Bolsonaro"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)",
+              "id": "1411038381841084418",
+              "name": "Brazil General Elections 2022"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Flavio Bolsonaro",
+              "id": "958818632993132544",
+              "name": "Flavio Bolsonaro"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "38",
+              "name": "Political Race"
+            },
+            "entity": {
+              "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)",
+              "id": "1411038381841084418",
+              "name": "Brazil General Elections 2022"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Flavio Bolsonaro",
+              "id": "958818632993132544",
+              "name": "Flavio Bolsonaro"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)",
+              "id": "1411038381841084418",
+              "name": "Brazil General Elections 2022"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1455305940291375106",
+              "name": "Brazil politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1488973753274929152",
+              "name": "Political events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518653237720625152",
+              "name": "Brazil political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518940800985427968",
+              "name": "Brazil political events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2106913525004148993",
+        "created_at": "2026-10-05T01:05:03.000Z",
+        "display_text_range": [
+          0,
+          227
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T02:05:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106913525004148993"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xk1934y0bt",
+              "end": 251,
+              "expanded_url": "https://x.com/visegrad24/status/2106913525004148993/photo/1",
+              "media_key": "3_2106913514384138240",
+              "start": 228,
+              "url": "https://t.co/xk1934y0bt"
+            },
+            {
+              "display_url": "pic.x.com/xk1934y0bt",
+              "end": 251,
+              "expanded_url": "https://x.com/visegrad24/status/2106913525004148993/photo/1",
+              "media_key": "3_2106913514380038144",
+              "start": 228,
+              "url": "https://t.co/xk1934y0bt"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106913525004148993",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2106913514384138240"
+          },
+          {
+            "media_key": "3_2106913514380038144"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 787,
+          "impression_count": 549394,
+          "like_count": 10677,
+          "quote_count": 172,
+          "reply_count": 208,
+          "retweet_count": 1046
+        },
+        "reply_settings": "everyone",
+        "text": "Practically all of South America was ruled by the left in 2022.\n\nAfter Flávio Bolsonaro’s forecasted win, nearly the entire continent will now be ruled by conservatives. \n\nAll that is needed is democratic elections in Venezuela https://t.co/xk1934y0bt"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2107431321622769787",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2709,
+          "following_count": 4215,
+          "like_count": 90200,
+          "listed_count": 15,
+          "media_count": 714,
+          "tweet_count": 26313
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2020-01-30T06:48:04.000Z",
+        "description": "Curating news, politics and current affairs.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/Visegrad24",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/Visegrad24",
+                "start": 0,
+                "url": "https://t.co/9K0SgWs2Z0"
+              }
+            ]
+          }
+        },
+        "id": "1222773302441148416",
+        "is_identity_verified": false,
+        "location": "Visegrad",
+        "most_recent_tweet_id": "2107428078557245856",
+        "name": "Visegrád 24",
+        "pinned_tweet_id": "2106778297484939750",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1222773302441148416/1738927873",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1875625827674591232/OBzjRIZ4_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2099129,
+          "following_count": 2692,
+          "like_count": 148161,
+          "listed_count": 11456,
+          "media_count": 67740,
+          "tweet_count": 107453
+        },
+        "url": "https://t.co/9K0SgWs2Z0",
+        "username": "visegrad24",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107431337460130289",
+        "name": "Grok",
+        "pinned_tweet_id": "2099876430561632548",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9142581,
+          "following_count": 4,
+          "like_count": 142,
+          "listed_count": 7740,
+          "media_count": 3986766,
+          "tweet_count": 139206100
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

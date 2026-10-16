@@ -1,0 +1,477 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2106989669716201534",
+    "created_at": "2026-10-06T11:21:49.000Z",
+    "display_text_range": [
+      16,
+      39
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T12:21:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107431126784766126"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1978965126960287744",
+          "start": 0,
+          "username": "notrealnatsume"
+        },
+        {
+          "end": 21,
+          "id": "1720665183188922368",
+          "start": 16,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107431126784766126",
+    "in_reply_to_user_id": "1978965126960287744",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106989669716201534",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@notrealnatsume @grok 对LGBTQ+群体会产生什么影响吗"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2106989669716201534",
+        "created_at": "2026-10-06T11:21:49.000Z",
+        "display_text_range": [
+          16,
+          39
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T12:21:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107431126784766126"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1978965126960287744",
+              "start": 0,
+              "username": "notrealnatsume"
+            },
+            {
+              "end": 21,
+              "id": "1720665183188922368",
+              "start": 16,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107431126784766126",
+        "in_reply_to_user_id": "1978965126960287744",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106989669716201534",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@notrealnatsume @grok 对LGBTQ+群体会产生什么影响吗"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1978965126960287744",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "description": "Flavio Bolsonaro",
+              "id": "958818632993132544",
+              "name": "Flavio Bolsonaro"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)",
+              "id": "1411038381841084418",
+              "name": "Brazil General Elections 2022"
+            }
+          },
+          {
+            "domain": {
+              "description": "Real world events. ",
+              "id": "29",
+              "name": "Events [Entity Service]"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          },
+          {
+            "domain": {
+              "description": "Politicians in the world, like Joe Biden",
+              "id": "35",
+              "name": "Politician"
+            },
+            "entity": {
+              "description": "Flavio Bolsonaro",
+              "id": "958818632993132544",
+              "name": "Flavio Bolsonaro"
+            }
+          },
+          {
+            "domain": {
+              "description": "",
+              "id": "38",
+              "name": "Political Race"
+            },
+            "entity": {
+              "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)",
+              "id": "1411038381841084418",
+              "name": "Brazil General Elections 2022"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Flavio Bolsonaro",
+              "id": "958818632993132544",
+              "name": "Flavio Bolsonaro"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politician",
+              "id": "1070032753834438656",
+              "name": "Political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1291447199595782144",
+              "name": "United States politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Brazil General Elections 2022 (presidential, gubernatorial, VPS)",
+              "id": "1411038381841084418",
+              "name": "Brazil General Elections 2022"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1455305940291375106",
+              "name": "Brazil politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1488973753274929152",
+              "name": "Political events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518653237720625152",
+              "name": "Brazil political figures"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1518940800985427968",
+              "name": "Brazil political events"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "2024 US Presidential Election",
+              "id": "1665772587467653121",
+              "name": "2024 US Presidential Election"
+            }
+          }
+        ],
+        "conversation_id": "2106989669716201534",
+        "created_at": "2026-10-05T06:07:37.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T07:07:37.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106989669716201534"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/visegrad24/sta…",
+              "end": 35,
+              "expanded_url": "https://twitter.com/visegrad24/status/2106913525004148993",
+              "start": 12,
+              "url": "https://t.co/Y5wWiuw2xe"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106989669716201534",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 50,
+          "like_count": 6,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106913525004148993",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "拉美全部变成保守派执政 https://t.co/Y5wWiuw2xe"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2107431126784766126",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2709,
+          "following_count": 4215,
+          "like_count": 90200,
+          "listed_count": 15,
+          "media_count": 714,
+          "tweet_count": 26312
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-10-16T23:23:56.000Z",
+        "description": "",
+        "id": "1978965126960287744",
+        "is_identity_verified": false,
+        "location": "New Orleans, the South",
+        "most_recent_tweet_id": "2107420648364785735",
+        "name": "subnet",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1978965126960287744/1775390921",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2084170008100548608/i-WrRa6H_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 90,
+          "following_count": 113,
+          "like_count": 17164,
+          "listed_count": 0,
+          "media_count": 94,
+          "tweet_count": 2719
+        },
+        "url": "",
+        "username": "notrealnatsume",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107431140378231191",
+        "name": "Grok",
+        "pinned_tweet_id": "2099876430561632548",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9142576,
+          "following_count": 4,
+          "like_count": 142,
+          "listed_count": 7740,
+          "media_count": 3986765,
+          "tweet_count": 139205974
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

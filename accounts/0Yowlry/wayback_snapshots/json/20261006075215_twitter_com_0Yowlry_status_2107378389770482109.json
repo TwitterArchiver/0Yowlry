@@ -1,0 +1,663 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+          "id": "66",
+          "name": "Interests and Hobbies Category"
+        },
+        "entity": {
+          "description": "Animation",
+          "id": "848920448297385989",
+          "name": "Animation software"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Animation",
+          "id": "848920448297385989",
+          "name": "Animation software"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1192082698568814592",
+          "name": "Animation"
+        }
+      }
+    ],
+    "conversation_id": "2107378389770482109",
+    "created_at": "2026-10-06T07:52:15.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T08:52:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107378389770482109"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "717547912809426944",
+          "start": 3,
+          "username": "RubyBee_5B"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107378389770482109",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 1973
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107067865023307813",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @RubyBee_5B: FREE HATSUNE MIKU LIVE2D MODEL!! 🎉\n「いますぐ輪廻」in Live2D 🤍\nA fan-made Hatsune Miku model, available to download and use for fre…"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 120733,
+        "height": 720,
+        "media_key": "13_2107067617269968896",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2107067617269968896/img/-HsJLfRixUcofzWE.jpg",
+        "public_metrics": {
+          "view_count": 119817
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107067617269968896/vid/avc1/480x270/pUy7eKcqTy1We72f.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107067617269968896/vid/avc1/640x360/KxWDiM08Gosr4Qse.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107067617269968896/vid/avc1/1280x720/T1DC5e5cL4vP0qDH.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2107067617269968896/pl/Fp9eO69JntO00tI_.m3u8?v=bd0"
+          }
+        ],
+        "width": 1280
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "848920448297385989",
+              "name": "Animation software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "848920448297385989",
+              "name": "Animation software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          }
+        ],
+        "conversation_id": "2107378389770482109",
+        "created_at": "2026-10-06T07:52:15.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T08:52:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107378389770482109"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "717547912809426944",
+              "start": 3,
+              "username": "RubyBee_5B"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107378389770482109",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 1973
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107067865023307813",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @RubyBee_5B: FREE HATSUNE MIKU LIVE2D MODEL!! 🎉\n「いますぐ輪廻」in Live2D 🤍\nA fan-made Hatsune Miku model, available to download and use for fre…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2107067617269968896"
+          ]
+        },
+        "author_id": "717547912809426944",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A grouping of interests and hobbies entities, like Novelty Food or Destinations",
+              "id": "66",
+              "name": "Interests and Hobbies Category"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "848920448297385989",
+              "name": "Animation software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Animation",
+              "id": "848920448297385989",
+              "name": "Animation software"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1192082698568814592",
+              "name": "Animation"
+            }
+          }
+        ],
+        "conversation_id": "2107067865023307813",
+        "created_at": "2026-10-05T11:18:21.000Z",
+        "display_text_range": [
+          0,
+          251
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T12:18:21.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107067865023307813"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 251,
+              "start": 244,
+              "tag": "いますぐ輪廻"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 154,
+              "id": "717547912809426944",
+              "start": 143,
+              "username": "RubyBee_5B"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/zRFaPFMq15",
+              "end": 275,
+              "expanded_url": "https://x.com/RubyBee_5B/status/2107067865023307813/video/1",
+              "media_key": "13_2107067617269968896",
+              "start": 252,
+              "url": "https://t.co/zRFaPFMq15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107067865023307813",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2107067617269968896"
+          }
+        ],
+        "note_tweet": {
+          "entities": {
+            "hashtags": [
+              {
+                "end": 251,
+                "start": 244,
+                "tag": "いますぐ輪廻"
+              },
+              {
+                "end": 257,
+                "start": 252,
+                "tag": "初音ミク"
+              },
+              {
+                "end": 270,
+                "start": 258,
+                "tag": "HatsuneMiku"
+              },
+              {
+                "end": 278,
+                "start": 271,
+                "tag": "Live2D"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 154,
+                "id": "717547912809426944",
+                "start": 143,
+                "username": "RubyBee_5B"
+              }
+            ]
+          },
+          "text": "FREE HATSUNE MIKU LIVE2D MODEL!! 🎉\n「いますぐ輪廻」in Live2D 🤍\nA fan-made Hatsune Miku model, available to download and use for free!\n🎨 Art: Ruby_呜哔うび/@RubyBee_5B\n⚙️ Rigging: 慈善小霓\n⚠️ Non-commercial use only. Please read the TOS before using the model.\n#いますぐ輪廻 #初音ミク #HatsuneMiku #Live2D"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 7462,
+          "impression_count": 234680,
+          "like_count": 18799,
+          "quote_count": 35,
+          "reply_count": 25,
+          "retweet_count": 1973
+        },
+        "reply_settings": "everyone",
+        "text": "FREE HATSUNE MIKU LIVE2D MODEL!! 🎉\n「いますぐ輪廻」in Live2D 🤍\nA fan-made Hatsune Miku model, available to download and use for free!\n🎨 Art: Ruby_呜哔うび/@RubyBee_5B\n⚙️ Rigging: 慈善小霓\n⚠️ Non-commercial use only. Please read the TOS before using the model.\n#いますぐ輪廻 https://t.co/zRFaPFMq15"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2107378389770482109",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2708,
+          "following_count": 4215,
+          "like_count": 89851,
+          "listed_count": 15,
+          "media_count": 713,
+          "tweet_count": 26199
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-04-06T03:02:08.000Z",
+        "description": "⭐ VTuber Artist ⭐ Mama of 300+ VTubers\n🌍 EN/CN/JP/KR | Other langs OK\n🎨 https://t.co/ZSNJ9hzx6i\n✉️rubyvwv1818@gmail.com\n🤍 #CommissionsOpen | Waitlisting：2026.12",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 138,
+                "start": 122,
+                "tag": "CommissionsOpen"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "vgen.co/RubyBee_5B",
+                "end": 95,
+                "expanded_url": "http://vgen.co/RubyBee_5B",
+                "start": 72,
+                "url": "https://t.co/ZSNJ9hzx6i"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "rubybee5b.carrd.co",
+                "end": 23,
+                "expanded_url": "https://rubybee5b.carrd.co/",
+                "start": 0,
+                "url": "https://t.co/ixugPGt9Oe"
+              }
+            ]
+          }
+        },
+        "id": "717547912809426944",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107373599724351948",
+        "name": "呜哔RubyBee🤍COMMS open",
+        "pinned_tweet_id": "2092971065773609003",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/717547912809426944/1654074958",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1675693119814385664/QMoO-T8j_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2921,
+          "following_count": 795,
+          "like_count": 5807,
+          "listed_count": 15,
+          "media_count": 125,
+          "tweet_count": 456
+        },
+        "url": "https://t.co/ixugPGt9Oe",
+        "username": "RubyBee_5B",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

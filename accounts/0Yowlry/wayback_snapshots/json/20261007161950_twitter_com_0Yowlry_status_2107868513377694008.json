@@ -1,0 +1,421 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2107285368857043021",
+    "created_at": "2026-10-07T16:19:50.000Z",
+    "display_text_range": [
+      8,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T17:19:50.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107868513377694008"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 7,
+          "id": "4848269835",
+          "start": 0,
+          "username": "_FORAB"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107868513377694008",
+    "in_reply_to_user_id": "4848269835",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107285368857043021",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@_FORAB 我不行了笑死我了（\n网易这算是骚扰了吧"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 16466,
+        "height": 1920,
+        "media_key": "13_2107284010720522240",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2107284010720522240/img/vdoppIDDVOxGyPY4.jpg",
+        "public_metrics": {
+          "view_count": 297309
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 10368000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107284010720522240/vid/avc1/1080x1920/llMLj9orYusfVmFR.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107284010720522240/vid/avc1/480x852/UKdq19Ti-4bPFuYL.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107284010720522240/vid/avc1/720x1280/BiKqOVHGSsKMG29b.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2107284010720522240/pl/UJ-f-gJ-9h8GGv6L.m3u8?v=cfc"
+          },
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107284010720522240/vid/avc1/320x568/NMk4bcMduDY_U6T_.mp4"
+          }
+        ],
+        "width": 1080
+      },
+      {
+        "height": 1080,
+        "media_key": "3_2107285021468106752",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT6Uj-kboAA4kuv.jpg",
+        "width": 861
+      },
+      {
+        "height": 1598,
+        "media_key": "3_2107285034524930048",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT6UkvNa8AAYbbM.jpg",
+        "width": 1179
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2107285368857043021",
+        "created_at": "2026-10-07T16:19:50.000Z",
+        "display_text_range": [
+          8,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T17:19:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107868513377694008"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "4848269835",
+              "start": 0,
+              "username": "_FORAB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107868513377694008",
+        "in_reply_to_user_id": "4848269835",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107285368857043021",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_FORAB 我不行了笑死我了（\n网易这算是骚扰了吧"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2107284010720522240",
+            "3_2107285021468106752",
+            "3_2107285034524930048"
+          ]
+        },
+        "author_id": "4848269835",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          }
+        ],
+        "conversation_id": "2107285368857043021",
+        "created_at": "2026-10-06T01:42:38.000Z",
+        "display_text_range": [
+          0,
+          70
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T02:42:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107285368857043021"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/xVeBkL4peP",
+              "end": 94,
+              "expanded_url": "https://x.com/_FORAB/status/2107285368857043021/video/1",
+              "media_key": "13_2107284010720522240",
+              "start": 71,
+              "url": "https://t.co/xVeBkL4peP"
+            },
+            {
+              "display_url": "pic.x.com/xVeBkL4peP",
+              "end": 94,
+              "expanded_url": "https://x.com/_FORAB/status/2107285368857043021/video/1",
+              "media_key": "3_2107285021468106752",
+              "start": 71,
+              "url": "https://t.co/xVeBkL4peP"
+            },
+            {
+              "display_url": "pic.x.com/xVeBkL4peP",
+              "end": 94,
+              "expanded_url": "https://x.com/_FORAB/status/2107285368857043021/video/1",
+              "media_key": "3_2107285034524930048",
+              "start": 71,
+              "url": "https://t.co/xVeBkL4peP"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107285368857043021",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "13_2107284010720522240"
+          },
+          {
+            "media_key": "3_2107285021468106752"
+          },
+          {
+            "media_key": "3_2107285034524930048"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 513,
+          "impression_count": 473175,
+          "like_count": 3639,
+          "quote_count": 33,
+          "reply_count": 452,
+          "retweet_count": 168
+        },
+        "reply_settings": "everyone",
+        "text": "太抽象了。全球热门游戏 Minecraft，为庆祝进入中国 9 周年，这段期间会随机给一些中国玩家，打电话。\n\n播放游戏里的村民，向你哼歌。 https://t.co/xVeBkL4peP"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2107868513377694008",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2711,
+          "following_count": 4225,
+          "like_count": 90383,
+          "listed_count": 15,
+          "media_count": 719,
+          "tweet_count": 26384
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-01-26T05:08:44.000Z",
+        "description": "热爱研究、热爱家庭、热爱分享，2016 年入行从业。",
+        "id": "4848269835",
+        "is_identity_verified": true,
+        "location": "🇯🇵 Tokyo , Japan",
+        "most_recent_tweet_id": "2107821259631558795",
+        "name": "AB Kuai.Dong",
+        "pinned_tweet_id": "1910255140734644382",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4848269835/1778770582",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1747252669897691136/wS_-7gEt_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 147566,
+          "following_count": 676,
+          "like_count": 10702,
+          "listed_count": 2142,
+          "media_count": 4942,
+          "tweet_count": 16742
+        },
+        "url": "",
+        "username": "_FORAB",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

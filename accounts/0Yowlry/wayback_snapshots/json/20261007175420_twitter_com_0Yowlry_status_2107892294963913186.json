@@ -1,0 +1,510 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+          "id": "1557697333571112960",
+          "name": "Technology Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1683514315146420225",
+          "name": "X - the everything app"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Technology and computing",
+          "id": "848920371311001600",
+          "name": "Technology"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10045225402",
+          "name": "X"
+        }
+      }
+    ],
+    "conversation_id": "2107595663559315635",
+    "created_at": "2026-10-07T17:54:20.000Z",
+    "display_text_range": [
+      32,
+      215
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T18:54:20.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107892294963913186"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2039045048025731072",
+          "start": 0,
+          "username": "Gr8Googely"
+        },
+        {
+          "end": 22,
+          "id": "1849778831894134784",
+          "start": 12,
+          "username": "ICANTOO97"
+        },
+        {
+          "end": 31,
+          "id": "1852499847133143040",
+          "start": 23,
+          "username": "remarks"
+        },
+        {
+          "end": 215,
+          "id": "1720665183188922368",
+          "start": 210,
+          "username": "grok"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107892294963913186",
+    "in_reply_to_user_id": "2039045048025731072",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107634129537995207",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Gr8Googely @ICANTOO97 @remarks does this constitute extreme hate speech, advocate death or violence, incite group hatred, openly promote hatred and dehumanizing discrimination, and violate Twitter(X)'s rules?\n@grok"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1683514315146420225",
+              "name": "X - the everything app"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10045225402",
+              "name": "X"
+            }
+          }
+        ],
+        "conversation_id": "2107595663559315635",
+        "created_at": "2026-10-07T17:54:20.000Z",
+        "display_text_range": [
+          32,
+          215
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T18:54:20.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107892294963913186"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2039045048025731072",
+              "start": 0,
+              "username": "Gr8Googely"
+            },
+            {
+              "end": 22,
+              "id": "1849778831894134784",
+              "start": 12,
+              "username": "ICANTOO97"
+            },
+            {
+              "end": 31,
+              "id": "1852499847133143040",
+              "start": 23,
+              "username": "remarks"
+            },
+            {
+              "end": 215,
+              "id": "1720665183188922368",
+              "start": 210,
+              "username": "grok"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107892294963913186",
+        "in_reply_to_user_id": "2039045048025731072",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107634129537995207",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Gr8Googely @ICANTOO97 @remarks does this constitute extreme hate speech, advocate death or violence, incite group hatred, openly promote hatred and dehumanizing discrimination, and violate Twitter(X)'s rules?\n@grok"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2039045048025731072",
+        "conversation_id": "2107595663559315635",
+        "created_at": "2026-10-07T00:48:29.000Z",
+        "display_text_range": [
+          20,
+          43
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T01:48:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107634129537995207"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1849778831894134784",
+              "start": 0,
+              "username": "ICANTOO97"
+            },
+            {
+              "end": 19,
+              "id": "1852499847133143040",
+              "start": 11,
+              "username": "remarks"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107634129537995207",
+        "in_reply_to_user_id": "1849778831894134784",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 253,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107600190043762972",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@ICANTOO97 @remarks Nah a bullet is cheaper"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2107892294963913186",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2710,
+          "following_count": 4225,
+          "like_count": 90463,
+          "listed_count": 15,
+          "media_count": 721,
+          "tweet_count": 26410
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-31T18:20:36.000Z",
+        "description": "We are your only hope ✝️ Christ is King",
+        "id": "2039045048025731072",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107731344780575135",
+        "name": "(᨟ ͜● ᨟)",
+        "pinned_tweet_id": "2096481035194405150",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2039045048025731072/1788313730",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2099248319713468416/Tu9ppaK2_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4,
+          "following_count": 411,
+          "like_count": 4663,
+          "listed_count": 1,
+          "media_count": 14,
+          "tweet_count": 226
+        },
+        "url": "",
+        "username": "Gr8Googely",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-10-25T11:43:49.000Z",
+        "description": "Dad of 5. Husband. If they can do it, I CAN TOO! AMERICA FIRST 🇺🇸 ✝️",
+        "id": "1849778831894134784",
+        "is_identity_verified": true,
+        "location": "Houston, TX",
+        "most_recent_tweet_id": "2107888291446235469",
+        "name": "I CAN TOO",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1849778831894134784/1774019641",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1991301171315699712/3Hj3u_l7_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 790,
+          "following_count": 134,
+          "like_count": 20112,
+          "listed_count": 43,
+          "media_count": 1163,
+          "tweet_count": 35809
+        },
+        "url": "",
+        "username": "ICANTOO97",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1641221212578754562/DfiC0KW2_bigger.png",
+          "description": "Watcher.Guru",
+          "url": "https://twitter.com/WatcherGuru",
+          "user_id": [
+            "1387497871751196672"
+          ]
+        },
+        "created_at": "2024-11-01T23:56:03.000Z",
+        "description": "Bringing you the latest, fastest, unbiased & unparalleled remarks in real-time | Focusing on US news | Brought to you by @WatcherGuru & @BRICSinfo",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 133,
+                "start": 121,
+                "username": "WatcherGuru"
+              },
+              {
+                "end": 146,
+                "start": 136,
+                "username": "BRICSinfo"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "t.me/remarks",
+                "end": 23,
+                "expanded_url": "https://t.me/remarks",
+                "start": 0,
+                "url": "https://t.co/7t3QbKlIJ0"
+              }
+            ]
+          }
+        },
+        "id": "1852499847133143040",
+        "is_identity_verified": false,
+        "location": "United States",
+        "most_recent_tweet_id": "2107876991798034513",
+        "name": "Remarks",
+        "pinned_tweet_id": "2107595663559315635",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1852499847133143040/1730570742",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1852774053020606464/jDJqq9vL_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 143232,
+          "following_count": 4,
+          "like_count": 3423,
+          "listed_count": 769,
+          "media_count": 2798,
+          "tweet_count": 4568
+        },
+        "url": "https://t.co/7t3QbKlIJ0",
+        "username": "remarks",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2074224934159876096/aelorWHq_bigger.jpg",
+          "description": "SpaceXAI",
+          "url": "https://twitter.com/SpaceXAI",
+          "user_id": [
+            "1661523610111193088"
+          ]
+        },
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107892310239269185",
+        "name": "Grok",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1720665183188922368/1778202520",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 9147901,
+          "following_count": 4,
+          "like_count": 143,
+          "listed_count": 7755,
+          "media_count": 3990162,
+          "tweet_count": 139480692
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

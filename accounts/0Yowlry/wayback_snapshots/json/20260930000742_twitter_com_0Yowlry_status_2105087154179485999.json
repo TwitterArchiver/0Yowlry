@@ -1,0 +1,204 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2097979228570726580",
+    "created_at": "2026-09-30T00:07:42.000Z",
+    "display_text_range": [
+      13,
+      14
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T01:07:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105087154179485999"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "2029957028807118848",
+          "start": 0,
+          "username": "Hoshi_MeraK"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105087154179485999",
+    "in_reply_to_user_id": "2029957028807118848",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097979228570726580",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Hoshi_MeraK 🫂"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2097979228570726580].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2097979228570726580",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2097979228570726580"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2097979228570726580",
+        "created_at": "2026-09-30T00:07:42.000Z",
+        "display_text_range": [
+          13,
+          14
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T01:07:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105087154179485999"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "2029957028807118848",
+              "start": 0,
+              "username": "Hoshi_MeraK"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105087154179485999",
+        "in_reply_to_user_id": "2029957028807118848",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097979228570726580",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Hoshi_MeraK 🫂"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2105087154179485999",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2673,
+          "following_count": 4178,
+          "like_count": 86826,
+          "listed_count": 14,
+          "media_count": 696,
+          "tweet_count": 25366
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-06T16:28:44.000Z",
+        "description": "「去摘你最想要的那颗星星吧ww」\n@MeraK_Rinchi的逃生舱",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 30,
+                "start": 17,
+                "username": "MeraK_Rinchi"
+              }
+            ]
+          }
+        },
+        "id": "2029957028807118848",
+        "is_identity_verified": false,
+        "location": "德国-波茨坦",
+        "most_recent_tweet_id": "2095157942068859288",
+        "name": "星璇✨",
+        "pinned_tweet_id": "2090453976336769480",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2029957028807118848/1786291905",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2086485239610937344/8K7KrHPD_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 48,
+          "following_count": 48,
+          "like_count": 407,
+          "listed_count": 0,
+          "media_count": 13,
+          "tweet_count": 44
+        },
+        "url": "",
+        "username": "Hoshi_MeraK",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

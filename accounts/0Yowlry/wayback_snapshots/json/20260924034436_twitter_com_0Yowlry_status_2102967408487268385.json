@@ -1,0 +1,870 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Television shows from around the world",
+          "id": "3",
+          "name": "TV Shows"
+        },
+        "entity": {
+          "description": "TOKYO MXほかで放送、『バンドリ！』シリーズの最新作",
+          "id": "10047806219",
+          "name": "バンドリ!"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+          "id": "1557696802391859201",
+          "name": "Entertainment & Leisure Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+          "id": "130",
+          "name": "Multimedia Franchise"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "839544274442051584",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "BanG Dream!",
+          "id": "1004022548147798016",
+          "name": "BanG Dream!"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1074757527995277313",
+          "name": "Entertainment franchises"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1293615037932646400",
+          "name": "YouTubers"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10029382357",
+          "name": "YouTube"
+        }
+      }
+    ],
+    "conversation_id": "2102967408487268385",
+    "created_at": "2026-09-24T03:44:36.000Z",
+    "display_text_range": [
+      0,
+      144
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T04:44:36.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102967408487268385"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 19,
+          "id": "3009772568",
+          "start": 3,
+          "username": "bang_dream_info"
+        }
+      ],
+      "urls": [
+        {
+          "description": "毎週木曜22時よりYouTube「バンドリちゃんねる☆」、各配信プラットフォームにて配信！1年間で全52話配信予定♪",
+          "display_url": "anime.bang-dream.com/bandorichan/st…",
+          "end": 95,
+          "expanded_url": "https://anime.bang-dream.com/bandorichan/story/",
+          "images": [
+            {
+              "height": 630,
+              "url": "https://pbs.twimg.com/news_img/2102654637316972544/woEoIABJ?format=jpg&name=orig",
+              "width": 1200
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2102654637316972544/woEoIABJ?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 72,
+          "status": 200,
+          "title": "STORY | ミニアニメ「元祖！バンドリちゃん」公式サイト",
+          "unwound_url": "https://anime.bang-dream.com/bandorichan/story/",
+          "url": "https://t.co/oM5vGE6obR"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102967408487268385",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 2081
+    },
+    "referenced_tweets": [
+      {
+        "id": "2102595056012017897",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @bang_dream_info: ミニアニメ「元祖！バンドリちゃん」\nあらすじ&amp;先行カットを公開📷✨\n\n第51話「明けの明星」\nhttps://t.co/oM5vGE6obR\n\n🌟9/24(木)21:30～\nYouTube「バンドリちゃんねる☆」ほかにて順次配信\n※今週…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1080,
+        "media_key": "3_2102586616284123136",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HS3jYzUbEAAkZOc.jpg",
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "TOKYO MXほかで放送、『バンドリ！』シリーズの最新作",
+              "id": "10047806219",
+              "name": "バンドリ!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2102967408487268385",
+        "created_at": "2026-09-24T03:44:36.000Z",
+        "display_text_range": [
+          0,
+          144
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T04:44:36.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102967408487268385"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 19,
+              "id": "3009772568",
+              "start": 3,
+              "username": "bang_dream_info"
+            }
+          ],
+          "urls": [
+            {
+              "description": "毎週木曜22時よりYouTube「バンドリちゃんねる☆」、各配信プラットフォームにて配信！1年間で全52話配信予定♪",
+              "display_url": "anime.bang-dream.com/bandorichan/st…",
+              "end": 95,
+              "expanded_url": "https://anime.bang-dream.com/bandorichan/story/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2102654637316972544/woEoIABJ?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2102654637316972544/woEoIABJ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 72,
+              "status": 200,
+              "title": "STORY | ミニアニメ「元祖！バンドリちゃん」公式サイト",
+              "unwound_url": "https://anime.bang-dream.com/bandorichan/story/",
+              "url": "https://t.co/oM5vGE6obR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102967408487268385",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 2081
+        },
+        "referenced_tweets": [
+          {
+            "id": "2102595056012017897",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @bang_dream_info: ミニアニメ「元祖！バンドリちゃん」\nあらすじ&amp;先行カットを公開📷✨\n\n第51話「明けの明星」\nhttps://t.co/oM5vGE6obR\n\n🌟9/24(木)21:30～\nYouTube「バンドリちゃんねる☆」ほかにて順次配信\n※今週…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2102586616284123136"
+          ]
+        },
+        "author_id": "3009772568",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Television shows from around the world",
+              "id": "3",
+              "name": "TV Shows"
+            },
+            "entity": {
+              "description": "TOKYO MXほかで放送、『バンドリ！』シリーズの最新作",
+              "id": "10047806219",
+              "name": "バンドリ!"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to movies, music, television, franchises, venues, theme parks, toys, tourism, hotels",
+              "id": "1557696802391859201",
+              "name": "Entertainment & Leisure Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Franchises which span multiple forms of media like 'Harry Potter'",
+              "id": "130",
+              "name": "Multimedia Franchise"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839544274442051584",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "BanG Dream!",
+              "id": "1004022548147798016",
+              "name": "BanG Dream!"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1074757527995277313",
+              "name": "Entertainment franchises"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10029382357",
+              "name": "YouTube"
+            }
+          }
+        ],
+        "conversation_id": "2102595056012017897",
+        "created_at": "2026-09-23T03:05:00.000Z",
+        "display_text_range": [
+          0,
+          148
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-23T04:05:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2102595056012017897"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 148,
+              "start": 138,
+              "tag": "元祖バンドリちゃん"
+            }
+          ],
+          "urls": [
+            {
+              "description": "毎週木曜22時よりYouTube「バンドリちゃんねる☆」、各配信プラットフォームにて配信！1年間で全52話配信予定♪",
+              "display_url": "anime.bang-dream.com/bandorichan/st…",
+              "end": 74,
+              "expanded_url": "https://anime.bang-dream.com/bandorichan/story/",
+              "images": [
+                {
+                  "height": 630,
+                  "url": "https://pbs.twimg.com/news_img/2102654637316972544/woEoIABJ?format=jpg&name=orig",
+                  "width": 1200
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2102654637316972544/woEoIABJ?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 51,
+              "status": 200,
+              "title": "STORY | ミニアニメ「元祖！バンドリちゃん」公式サイト",
+              "unwound_url": "https://anime.bang-dream.com/bandorichan/story/",
+              "url": "https://t.co/oM5vGE6obR"
+            },
+            {
+              "display_url": "pic.x.com/KZssK0s0mU",
+              "end": 172,
+              "expanded_url": "https://x.com/bang_dream_info/status/2102595056012017897/photo/1",
+              "media_key": "3_2102586616284123136",
+              "start": 149,
+              "url": "https://t.co/KZssK0s0mU"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102595056012017897",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "3_2102586616284123136"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 637,
+          "impression_count": 581551,
+          "like_count": 7987,
+          "quote_count": 467,
+          "reply_count": 82,
+          "retweet_count": 2081
+        },
+        "reply_settings": "everyone",
+        "text": "ミニアニメ「元祖！バンドリちゃん」\nあらすじ&amp;先行カットを公開📷✨\n\n第51話「明けの明星」\nhttps://t.co/oM5vGE6obR\n\n🌟9/24(木)21:30～\nYouTube「バンドリちゃんねる☆」ほかにて順次配信\n※今週は配信時間が変更となります。\n\n#元祖バンドリちゃん https://t.co/KZssK0s0mU"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2102967408487268385",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2661,
+          "following_count": 4141,
+          "like_count": 85047,
+          "listed_count": 12,
+          "media_count": 682,
+          "tweet_count": 24712
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2015-02-05T05:23:23.000Z",
+        "description": "キャラクター×リアルライブがリンクする次世代ガールズバンドプロジェクト「バンドリ！」公式Xです。\n\nTVアニメ「バンドリ！ ゆめ∞みた」\n各配信プラットフォームにて好評配信中！\n▶ https://t.co/fYOnnezSEZ",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "anime.bang-dream.com/yumemita",
+                "end": 114,
+                "expanded_url": "https://anime.bang-dream.com/yumemita",
+                "start": 91,
+                "url": "https://t.co/fYOnnezSEZ"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "bang-dream.com",
+                "end": 23,
+                "expanded_url": "https://bang-dream.com/",
+                "start": 0,
+                "url": "https://t.co/x8S68YHJ5p"
+              }
+            ]
+          }
+        },
+        "id": "3009772568",
+        "is_identity_verified": false,
+        "location": "Instagram→bang_dream_official_",
+        "most_recent_tweet_id": "2102961596750594425",
+        "name": "バンドリ！ BanG Dream! 公式",
+        "pinned_tweet_id": "2099109368344318236",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/3009772568/1789050633",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2082827306335371265/XeH4bms6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 825452,
+          "following_count": 150,
+          "like_count": 458,
+          "listed_count": 4750,
+          "media_count": 18007,
+          "tweet_count": 37887
+        },
+        "url": "https://t.co/x8S68YHJ5p",
+        "username": "bang_dream_info",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

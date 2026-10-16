@@ -1,0 +1,425 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1583412791335059457",
+    "created_at": "2026-10-07T12:05:19.000Z",
+    "display_text_range": [
+      16,
+      17
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-07T13:05:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107804460517081370"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1378513949411266564",
+          "start": 0,
+          "username": "karaage_salmon"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107804460517081370",
+    "in_reply_to_user_id": "1378513949411266564",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "1583412791335059457",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@karaage_salmon 🙂"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 34458,
+        "height": 1080,
+        "media_key": "13_1583349944987320320",
+        "preview_image_url": "https://pbs.twimg.com/media/FfkxJ1bUAAAkAm1.jpg",
+        "public_metrics": {
+          "view_count": 4085
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 288000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1583349944987320320/vid/480x270/p2PdMSCkEqauSVyq.mp4?tag=14"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1583349944987320320/vid/640x360/otj21wKhgp6oXqle.mp4?tag=14"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/1583349944987320320/vid/1280x720/ApY9iN2_NqA3RbSX.mp4?tag=14"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/1583349944987320320/pl/ljBw7H-Klu6SATqN.m3u8?tag=14"
+          }
+        ],
+        "width": 1920
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1583412791335059457",
+        "created_at": "2026-10-07T12:05:19.000Z",
+        "display_text_range": [
+          16,
+          17
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-07T13:05:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107804460517081370"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1378513949411266564",
+              "start": 0,
+              "username": "karaage_salmon"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107804460517081370",
+        "in_reply_to_user_id": "1378513949411266564",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1583412791335059457",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@karaage_salmon 🙂"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_1583349944987320320"
+          ]
+        },
+        "author_id": "1378513949411266564",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1557773577243336705",
+              "name": "Houshou Marine"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "Influencers who create content on digital platforms",
+              "id": "120",
+              "name": "Digital Creator"
+            },
+            "entity": {
+              "id": "1557773577243336705",
+              "name": "Houshou Marine"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "839543456678596608",
+              "name": "Digital creators"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1240063989779841024",
+              "name": "hololive"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247288073542463488",
+              "name": "Virtual YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1293615037932646400",
+              "name": "YouTubers"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1557773577243336705",
+              "name": "Houshou Marine"
+            }
+          }
+        ],
+        "conversation_id": "1583412791335059457",
+        "created_at": "2022-10-21T11:00:02.000Z",
+        "display_text_range": [
+          0,
+          102
+        ],
+        "edit_controls": {
+          "editable_until": "2022-10-21T11:30:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1583412791335059457"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 85,
+              "start": 78,
+              "tag": "マリンのお宝"
+            },
+            {
+              "end": 92,
+              "start": 86,
+              "tag": "ホロライブ"
+            },
+            {
+              "end": 102,
+              "start": 93,
+              "tag": "hololive"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "youtu.be/nUI2qpydS44",
+              "end": 72,
+              "expanded_url": "https://youtu.be/nUI2qpydS44",
+              "start": 49,
+              "url": "https://t.co/unk4YpyZa6"
+            },
+            {
+              "display_url": "pic.x.com/cabQf9X4pB",
+              "end": 126,
+              "expanded_url": "https://x.com/karaage_salmon/status/1583412791335059457/video/1",
+              "media_key": "13_1583349944987320320",
+              "start": 103,
+              "url": "https://t.co/cabQf9X4pB"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1583412791335059457",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "description": "",
+            "media_key": "13_1583349944987320320",
+            "title": ""
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 24,
+          "impression_count": 0,
+          "like_count": 403,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 105
+        },
+        "reply_settings": "everyone",
+        "text": "・\n・\n◆母から日頃の恨みをお尻にぶつけられるマリン◆\n\n↓↓↓続きはこちらからどうぞ！↓↓↓\n【https://t.co/unk4YpyZa6】\n・\n・\n#マリンのお宝\n#ホロライブ\n#hololive https://t.co/cabQf9X4pB"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2107804460517081370",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2710,
+          "following_count": 4222,
+          "like_count": 90357,
+          "listed_count": 15,
+          "media_count": 719,
+          "tweet_count": 26374
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-04-04T01:05:29.000Z",
+        "description": "Vtuberさんの切り抜き漫画をYoutubeに投稿してます！\nまったり更新☾·̩͙よろしくお願いします⸜(Ꙭ)⸝\nお仕事のご依頼ありましたらコチラからお願いします\n▶︎karaage.salmon.ch@gmail.com(※現在停止中)",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/channel/UCSPJI…",
+                "end": 23,
+                "expanded_url": "https://www.youtube.com/channel/UCSPJIME-vqy5UvMBTPuDELA",
+                "start": 0,
+                "url": "https://t.co/CD4meiN8zZ"
+              }
+            ]
+          }
+        },
+        "id": "1378513949411266564",
+        "is_identity_verified": false,
+        "location": "無断転載・自作発言など禁止です",
+        "most_recent_tweet_id": "2107776950387515417",
+        "name": "からあげサーモン",
+        "pinned_tweet_id": "2092550419084111980",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1378513949411266564/1685583521",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1664083240930639872/W9CZqi1I_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 22514,
+          "following_count": 535,
+          "like_count": 12139,
+          "listed_count": 106,
+          "media_count": 385,
+          "tweet_count": 988
+        },
+        "url": "https://t.co/CD4meiN8zZ",
+        "username": "karaage_salmon",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

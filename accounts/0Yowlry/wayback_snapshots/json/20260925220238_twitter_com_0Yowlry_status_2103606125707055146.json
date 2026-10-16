@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2103434274439675963",
+    "created_at": "2026-09-25T22:02:38.000Z",
+    "display_text_range": [
+      30,
+      31
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-25T23:02:38.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2103606125707055146"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1885245800684675072",
+          "start": 0,
+          "username": "wobushi_yuki"
+        },
+        {
+          "end": 29,
+          "id": "1691242509815754754",
+          "start": 14,
+          "username": "LastTrouvaille"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2103606125707055146",
+    "in_reply_to_user_id": "1885245800684675072",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103466772183789642",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@wobushi_yuki @LastTrouvaille 🤤"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2103466772183789642].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2103466772183789642",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2103466772183789642"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2103434274439675963",
+        "created_at": "2026-09-25T22:02:38.000Z",
+        "display_text_range": [
+          30,
+          31
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-25T23:02:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2103606125707055146"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1885245800684675072",
+              "start": 0,
+              "username": "wobushi_yuki"
+            },
+            {
+              "end": 29,
+              "id": "1691242509815754754",
+              "start": 14,
+              "username": "LastTrouvaille"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2103606125707055146",
+        "in_reply_to_user_id": "1885245800684675072",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103466772183789642",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@wobushi_yuki @LastTrouvaille 🤤"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2103606125707055146",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2666,
+          "following_count": 4159,
+          "like_count": 85483,
+          "listed_count": 13,
+          "media_count": 688,
+          "tweet_count": 24955
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2025-01-31T08:36:48.000Z",
+        "description": "给自己上个锁，也没有搞流量的心态了，写点小日常",
+        "id": "1885245800684675072",
+        "is_identity_verified": false,
+        "location": "距你400m",
+        "most_recent_tweet_id": "2101689479312687231",
+        "name": "白菜二号",
+        "pinned_tweet_id": "2083081109894844762",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1885245800684675072/1744479133",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2085717860555665408/DtgMF7vA_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 102,
+          "following_count": 79,
+          "like_count": 2740,
+          "listed_count": 0,
+          "media_count": 7,
+          "tweet_count": 1039
+        },
+        "url": "",
+        "username": "wobushi_yuki",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-08-15T00:17:03.000Z",
+        "description": "「故其华表，则镐镐铄铄，赫奕章灼，若日月之丽天也」\n这里是Cream Cheese，叫CC就好‖INFP-T🦋‖天秤‖轻抑‖性格奇怪（？）但是富有爱心（点头）聊久了会容易黏着（x）‖中粤英日👌🏻‖日常垢‖友好的私信会回哦\n----------\n谢谢您看到这里🙂‍↕\n光芒乘着风，如果可以到达，就将飞向你的明天~*.+゜",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/lasttrouvaille…",
+                "end": 23,
+                "expanded_url": "https://ngl.link/lasttrouvaille525",
+                "start": 0,
+                "url": "https://t.co/1wvTNp1EJZ"
+              }
+            ]
+          }
+        },
+        "id": "1691242509815754754",
+        "is_identity_verified": false,
+        "location": "禁阁·星光沙漠·玫瑰园·纪念馆",
+        "most_recent_tweet_id": "2103493309532672448",
+        "name": "𝓒𝓻𝓮𝓪𝓶 𝓒𝓱𝓮𝓮𝓼𝓮",
+        "pinned_tweet_id": "1873030514250268931",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1691242509815754754/1785927228",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1907370739667525632/QTk-kksd_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 5067,
+          "following_count": 2930,
+          "like_count": 56196,
+          "listed_count": 13,
+          "media_count": 1095,
+          "tweet_count": 9897
+        },
+        "url": "https://t.co/1wvTNp1EJZ",
+        "username": "LastTrouvaille",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

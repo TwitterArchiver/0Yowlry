@@ -1,0 +1,595 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "3_2106928067973099520",
+        "3_2106928073857806336",
+        "3_2106928078676987904"
+      ],
+      "media_source_tweet_id": [
+        "2106928087132688690",
+        "2106928087132688690",
+        "2106928087132688690"
+      ]
+    },
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2107385451703410768",
+    "created_at": "2026-10-06T08:20:19.000Z",
+    "display_text_range": [
+      0,
+      104
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T09:20:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107385451703410768"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 65,
+          "start": 53,
+          "tag": "HatsuneMiku"
+        },
+        {
+          "end": 74,
+          "start": 66,
+          "tag": "MikuArt"
+        },
+        {
+          "end": 80,
+          "start": 75,
+          "tag": "初音ミク"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1869730109969584128",
+          "start": 3,
+          "username": "0INK_BLACK"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/AdIf0bJY2M",
+          "end": 104,
+          "expanded_url": "https://x.com/0INK_BLACK/status/2106928087132688690/photo/1",
+          "media_key": "3_2106928067973099520",
+          "start": 81,
+          "url": "https://t.co/AdIf0bJY2M"
+        },
+        {
+          "display_url": "pic.x.com/AdIf0bJY2M",
+          "end": 104,
+          "expanded_url": "https://x.com/0INK_BLACK/status/2106928087132688690/photo/1",
+          "media_key": "3_2106928073857806336",
+          "start": 81,
+          "url": "https://t.co/AdIf0bJY2M"
+        },
+        {
+          "display_url": "pic.x.com/AdIf0bJY2M",
+          "end": 104,
+          "expanded_url": "https://x.com/0INK_BLACK/status/2106928087132688690/photo/1",
+          "media_key": "3_2106928078676987904",
+          "start": 81,
+          "url": "https://t.co/AdIf0bJY2M"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107385451703410768",
+    "lang": "et",
+    "media_metadata": [
+      {
+        "media_key": "3_2106928067973099520"
+      },
+      {
+        "media_key": "3_2106928073857806336"
+      },
+      {
+        "media_key": "3_2106928078676987904"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 97
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106928087132688690",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @0INK_BLACK: Hatsune Miku         ♡           ink\n#HatsuneMiku #MikuArt #初音ミク https://t.co/AdIf0bJY2M"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 900,
+        "media_key": "3_2106928067973099520",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT1P6jLWMAAF22L.jpg",
+        "width": 400
+      },
+      {
+        "height": 900,
+        "media_key": "3_2106928073857806336",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT1P65GXsAAwpwy.jpg",
+        "width": 400
+      },
+      {
+        "height": 900,
+        "media_key": "3_2106928078676987904",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HT1P7LDWkAA5IFM.jpg",
+        "width": 400
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106928067973099520",
+            "3_2106928073857806336",
+            "3_2106928078676987904"
+          ],
+          "media_source_tweet_id": [
+            "2106928087132688690",
+            "2106928087132688690",
+            "2106928087132688690"
+          ]
+        },
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2107385451703410768",
+        "created_at": "2026-10-06T08:20:19.000Z",
+        "display_text_range": [
+          0,
+          104
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T09:20:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107385451703410768"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 65,
+              "start": 53,
+              "tag": "HatsuneMiku"
+            },
+            {
+              "end": 74,
+              "start": 66,
+              "tag": "MikuArt"
+            },
+            {
+              "end": 80,
+              "start": 75,
+              "tag": "初音ミク"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1869730109969584128",
+              "start": 3,
+              "username": "0INK_BLACK"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AdIf0bJY2M",
+              "end": 104,
+              "expanded_url": "https://x.com/0INK_BLACK/status/2106928087132688690/photo/1",
+              "media_key": "3_2106928067973099520",
+              "start": 81,
+              "url": "https://t.co/AdIf0bJY2M"
+            },
+            {
+              "display_url": "pic.x.com/AdIf0bJY2M",
+              "end": 104,
+              "expanded_url": "https://x.com/0INK_BLACK/status/2106928087132688690/photo/1",
+              "media_key": "3_2106928073857806336",
+              "start": 81,
+              "url": "https://t.co/AdIf0bJY2M"
+            },
+            {
+              "display_url": "pic.x.com/AdIf0bJY2M",
+              "end": 104,
+              "expanded_url": "https://x.com/0INK_BLACK/status/2106928087132688690/photo/1",
+              "media_key": "3_2106928078676987904",
+              "start": 81,
+              "url": "https://t.co/AdIf0bJY2M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107385451703410768",
+        "lang": "et",
+        "media_metadata": [
+          {
+            "media_key": "3_2106928067973099520"
+          },
+          {
+            "media_key": "3_2106928073857806336"
+          },
+          {
+            "media_key": "3_2106928078676987904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 97
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106928087132688690",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @0INK_BLACK: Hatsune Miku         ♡           ink\n#HatsuneMiku #MikuArt #初音ミク https://t.co/AdIf0bJY2M"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106928067973099520",
+            "3_2106928073857806336",
+            "3_2106928078676987904"
+          ]
+        },
+        "author_id": "1869730109969584128",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2106928087132688690",
+        "created_at": "2026-10-05T02:02:55.000Z",
+        "display_text_range": [
+          0,
+          64
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T03:02:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106928087132688690"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 49,
+              "start": 37,
+              "tag": "HatsuneMiku"
+            },
+            {
+              "end": 58,
+              "start": 50,
+              "tag": "MikuArt"
+            },
+            {
+              "end": 64,
+              "start": 59,
+              "tag": "初音ミク"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/AdIf0bJY2M",
+              "end": 88,
+              "expanded_url": "https://x.com/0INK_BLACK/status/2106928087132688690/photo/1",
+              "media_key": "3_2106928067973099520",
+              "start": 65,
+              "url": "https://t.co/AdIf0bJY2M"
+            },
+            {
+              "display_url": "pic.x.com/AdIf0bJY2M",
+              "end": 88,
+              "expanded_url": "https://x.com/0INK_BLACK/status/2106928087132688690/photo/1",
+              "media_key": "3_2106928073857806336",
+              "start": 65,
+              "url": "https://t.co/AdIf0bJY2M"
+            },
+            {
+              "display_url": "pic.x.com/AdIf0bJY2M",
+              "end": 88,
+              "expanded_url": "https://x.com/0INK_BLACK/status/2106928087132688690/photo/1",
+              "media_key": "3_2106928078676987904",
+              "start": 65,
+              "url": "https://t.co/AdIf0bJY2M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106928087132688690",
+        "lang": "et",
+        "media_metadata": [
+          {
+            "media_key": "3_2106928067973099520"
+          },
+          {
+            "media_key": "3_2106928073857806336"
+          },
+          {
+            "media_key": "3_2106928078676987904"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 82,
+          "impression_count": 6481,
+          "like_count": 1224,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 97
+        },
+        "reply_settings": "everyone",
+        "text": "Hatsune Miku         ♡           ink\n#HatsuneMiku #MikuArt #初音ミク https://t.co/AdIf0bJY2M"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2107385451703410768",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2710,
+          "following_count": 4215,
+          "like_count": 90006,
+          "listed_count": 15,
+          "media_count": 713,
+          "tweet_count": 26258
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-12-19T13:03:17.000Z",
+        "description": "Artista independiente que está empezando en el mundo del arte y fotografía :)\n\nPIXIV\nhttps://t.co/stlEHMY1IA",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "pixiv.net/en/users/12649…",
+                "end": 108,
+                "expanded_url": "https://www.pixiv.net/en/users/126499825",
+                "start": 85,
+                "url": "https://t.co/stlEHMY1IA"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "youtube.com/@ink-black-0?s…",
+                "end": 23,
+                "expanded_url": "https://youtube.com/@ink-black-0?si=eenAVGv3yzz4tRPY",
+                "start": 0,
+                "url": "https://t.co/QeSMDDQQNf"
+              }
+            ]
+          }
+        },
+        "id": "1869730109969584128",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2107303456180408407",
+        "name": "INK-BLACK",
+        "pinned_tweet_id": "2032969411292729470",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1869730109969584128/1788832423",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2035177078753013760/tLpcX9aP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2589,
+          "following_count": 739,
+          "like_count": 14578,
+          "listed_count": 12,
+          "media_count": 553,
+          "tweet_count": 2790
+        },
+        "url": "https://t.co/QeSMDDQQNf",
+        "username": "0INK_BLACK",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

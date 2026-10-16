@@ -1,0 +1,193 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2074697515946148102",
+    "created_at": "2026-09-30T12:38:56.000Z",
+    "display_text_range": [
+      12,
+      13
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T13:38:56.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105276205310365733"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2035758475209572352",
+          "start": 0,
+          "username": "LoveMikuBX"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105276205310365733",
+    "in_reply_to_user_id": "2035758475209572352",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2074697515946148102",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@LoveMikuBX 👀"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2074697515946148102].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2074697515946148102",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2074697515946148102"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2074697515946148102",
+        "created_at": "2026-09-30T12:38:56.000Z",
+        "display_text_range": [
+          12,
+          13
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T13:38:56.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105276205310365733"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2035758475209572352",
+              "start": 0,
+              "username": "LoveMikuBX"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105276205310365733",
+        "in_reply_to_user_id": "2035758475209572352",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2074697515946148102",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@LoveMikuBX 👀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2105276205310365733",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2679,
+          "following_count": 4183,
+          "like_count": 86978,
+          "listed_count": 14,
+          "media_count": 701,
+          "tweet_count": 25429
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-03-22T16:40:39.000Z",
+        "description": "",
+        "id": "2035758475209572352",
+        "is_identity_verified": true,
+        "location": "Fukien Ningteh,China",
+        "most_recent_tweet_id": "2074697515946148102",
+        "name": "💮伴下💮",
+        "pinned_tweet_id": "2054149752208679110",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2035758475209572352/1781198369",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2062897677717946368/bHujNViG_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 1261,
+          "following_count": 1660,
+          "like_count": 19145,
+          "listed_count": 0,
+          "media_count": 414,
+          "tweet_count": 5672
+        },
+        "url": "",
+        "username": "LoveMikuBX",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

@@ -1,0 +1,615 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2097926590466490368"
+      ],
+      "media_source_tweet_id": [
+        "2097926625518313930"
+      ]
+    },
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "1480827185451573250",
+          "name": "Wordle"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1480827185451573250",
+          "name": "Wordle"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491040597867589632",
+          "name": "Word games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491897540404408320",
+          "name": "Casual games"
+        }
+      }
+    ],
+    "conversation_id": "2105080993472463208",
+    "created_at": "2026-09-29T23:43:14.000Z",
+    "display_text_range": [
+      0,
+      138
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T00:43:14.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105080993472463208"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 18,
+          "id": "1723093297",
+          "start": 3,
+          "username": "AUTOMATONJapan"
+        }
+      ],
+      "urls": [
+        {
+          "description": "Pocke氏は9月4日、ブラウザゲーム『ネスゴシ』を公開した。",
+          "display_url": "automaton-media.com/articles/newsj…",
+          "end": 114,
+          "expanded_url": "https://automaton-media.com/articles/newsjp/20260910-466518/",
+          "images": [
+            {
+              "height": 1000,
+              "url": "https://pbs.twimg.com/news_img/2102222166343528448/lz-BYb-t?format=jpg&name=orig",
+              "width": 1600
+            },
+            {
+              "height": 150,
+              "url": "https://pbs.twimg.com/news_img/2102222166343528448/lz-BYb-t?format=jpg&name=150x150",
+              "width": 150
+            }
+          ],
+          "start": 91,
+          "status": 200,
+          "title": "路線図だけみて駅名当てゲーム『ネスゴシ』無料公開。わからなかったら線路を広げる「Wordle」風ルールで日本全国600路線、素人には意味不明 - AUTOMATON",
+          "unwound_url": "https://automaton-media.com/articles/newsjp/20260910-466518/",
+          "url": "https://t.co/m4ReZf7tPU"
+        },
+        {
+          "display_url": "pic.x.com/Ry3cfbwwpn",
+          "end": 138,
+          "expanded_url": "https://x.com/AUTOMATONJapan/status/2097926625518313930/video/1",
+          "media_key": "13_2097926590466490368",
+          "start": 115,
+          "url": "https://t.co/Ry3cfbwwpn"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105080993472463208",
+    "lang": "ja",
+    "media_metadata": [
+      {
+        "media_key": "13_2097926590466490368"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 358
+    },
+    "referenced_tweets": [
+      {
+        "id": "2097926625518313930",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @AUTOMATONJapan: 路線図だけみて駅名当てゲーム『ネスゴシ』無料公開。わからなかったら線路を広げる「Wordle」風ルールで日本全国600路線、素人には意味不明\nhttps://t.co/m4ReZf7tPU https://t.co/Ry3cfbwwpn"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 35766,
+        "height": 720,
+        "media_key": "13_2097926590466490368",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2097926590466490368/img/1wwVxZbXuoz5IAtv.jpg",
+        "public_metrics": {
+          "view_count": 39806
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 256000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097926590466490368/vid/avc1/424x270/YuPmzs5ruPPe0ABz.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097926590466490368/vid/avc1/566x360/Bn-1lMVVmG6lAZh1.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2097926590466490368/vid/avc1/1134x720/KQrZSrOiKY5kxSId.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2097926590466490368/pl/Vi9eoOt42fnYbMx9.m3u8"
+          }
+        ],
+        "width": 1134
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097926590466490368"
+          ],
+          "media_source_tweet_id": [
+            "2097926625518313930"
+          ]
+        },
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1480827185451573250",
+              "name": "Wordle"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1480827185451573250",
+              "name": "Wordle"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491040597867589632",
+              "name": "Word games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897540404408320",
+              "name": "Casual games"
+            }
+          }
+        ],
+        "conversation_id": "2105080993472463208",
+        "created_at": "2026-09-29T23:43:14.000Z",
+        "display_text_range": [
+          0,
+          138
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T00:43:14.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105080993472463208"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 18,
+              "id": "1723093297",
+              "start": 3,
+              "username": "AUTOMATONJapan"
+            }
+          ],
+          "urls": [
+            {
+              "description": "Pocke氏は9月4日、ブラウザゲーム『ネスゴシ』を公開した。",
+              "display_url": "automaton-media.com/articles/newsj…",
+              "end": 114,
+              "expanded_url": "https://automaton-media.com/articles/newsjp/20260910-466518/",
+              "images": [
+                {
+                  "height": 1000,
+                  "url": "https://pbs.twimg.com/news_img/2102222166343528448/lz-BYb-t?format=jpg&name=orig",
+                  "width": 1600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2102222166343528448/lz-BYb-t?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 91,
+              "status": 200,
+              "title": "路線図だけみて駅名当てゲーム『ネスゴシ』無料公開。わからなかったら線路を広げる「Wordle」風ルールで日本全国600路線、素人には意味不明 - AUTOMATON",
+              "unwound_url": "https://automaton-media.com/articles/newsjp/20260910-466518/",
+              "url": "https://t.co/m4ReZf7tPU"
+            },
+            {
+              "display_url": "pic.x.com/Ry3cfbwwpn",
+              "end": 138,
+              "expanded_url": "https://x.com/AUTOMATONJapan/status/2097926625518313930/video/1",
+              "media_key": "13_2097926590466490368",
+              "start": 115,
+              "url": "https://t.co/Ry3cfbwwpn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105080993472463208",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2097926590466490368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 358
+        },
+        "referenced_tweets": [
+          {
+            "id": "2097926625518313930",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @AUTOMATONJapan: 路線図だけみて駅名当てゲーム『ネスゴシ』無料公開。わからなかったら線路を広げる「Wordle」風ルールで日本全国600路線、素人には意味不明\nhttps://t.co/m4ReZf7tPU https://t.co/Ry3cfbwwpn"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2097926590466490368"
+          ]
+        },
+        "author_id": "1723093297",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "1480827185451573250",
+              "name": "Wordle"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1480827185451573250",
+              "name": "Wordle"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491040597867589632",
+              "name": "Word games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491897540404408320",
+              "name": "Casual games"
+            }
+          }
+        ],
+        "conversation_id": "2097926625518313930",
+        "created_at": "2026-09-10T05:54:19.000Z",
+        "display_text_range": [
+          0,
+          94
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-10T06:54:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2097926625518313930"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "description": "Pocke氏は9月4日、ブラウザゲーム『ネスゴシ』を公開した。",
+              "display_url": "automaton-media.com/articles/newsj…",
+              "end": 94,
+              "expanded_url": "https://automaton-media.com/articles/newsjp/20260910-466518/",
+              "images": [
+                {
+                  "height": 1000,
+                  "url": "https://pbs.twimg.com/news_img/2102222166343528448/lz-BYb-t?format=jpg&name=orig",
+                  "width": 1600
+                },
+                {
+                  "height": 150,
+                  "url": "https://pbs.twimg.com/news_img/2102222166343528448/lz-BYb-t?format=jpg&name=150x150",
+                  "width": 150
+                }
+              ],
+              "start": 71,
+              "status": 200,
+              "title": "路線図だけみて駅名当てゲーム『ネスゴシ』無料公開。わからなかったら線路を広げる「Wordle」風ルールで日本全国600路線、素人には意味不明 - AUTOMATON",
+              "unwound_url": "https://automaton-media.com/articles/newsjp/20260910-466518/",
+              "url": "https://t.co/m4ReZf7tPU"
+            },
+            {
+              "display_url": "pic.x.com/Ry3cfbwwpn",
+              "end": 118,
+              "expanded_url": "https://x.com/AUTOMATONJapan/status/2097926625518313930/video/1",
+              "media_key": "13_2097926590466490368",
+              "start": 95,
+              "url": "https://t.co/Ry3cfbwwpn"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2097926625518313930",
+        "lang": "ja",
+        "media_metadata": [
+          {
+            "media_key": "13_2097926590466490368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 413,
+          "impression_count": 132537,
+          "like_count": 861,
+          "quote_count": 37,
+          "reply_count": 2,
+          "retweet_count": 358
+        },
+        "reply_settings": "everyone",
+        "text": "路線図だけみて駅名当てゲーム『ネスゴシ』無料公開。わからなかったら線路を広げる「Wordle」風ルールで日本全国600路線、素人には意味不明\nhttps://t.co/m4ReZf7tPU https://t.co/Ry3cfbwwpn"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2105080993472463208",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2673,
+          "following_count": 4178,
+          "like_count": 86791,
+          "listed_count": 14,
+          "media_count": 696,
+          "tweet_count": 25354
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2013-09-02T18:07:14.000Z",
+        "description": "AUTOMATON（オートマトン）は、今話題のニュースやコミュニティ発のトピックを深掘りし、Veracity in Gaming、すなわち「ゲームと誠実に向き合い、正しく伝えること」をコンセプトとするゲーム情報サイトです。\n\nEnglish : @AUTOMATON_ENG",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 137,
+                "start": 123,
+                "username": "AUTOMATON_ENG"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "automaton-media.com",
+                "end": 23,
+                "expanded_url": "https://automaton-media.com/",
+                "start": 0,
+                "url": "https://t.co/PkwejcIM7E"
+              }
+            ]
+          }
+        },
+        "id": "1723093297",
+        "is_identity_verified": false,
+        "location": "大阪 大阪市 西区",
+        "most_recent_tweet_id": "2104918710503051630",
+        "name": "AUTOMATON（オートマトン）",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1723093297/1407304777",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1774674661277827072/W8jqk2Kz_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 433272,
+          "following_count": 9386,
+          "like_count": 12069,
+          "listed_count": 4695,
+          "media_count": 45690,
+          "tweet_count": 48422
+        },
+        "url": "https://t.co/PkwejcIM7E",
+        "username": "AUTOMATONJapan",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

@@ -1,0 +1,497 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Illinois",
+          "id": "1004437399626080256",
+          "name": "Illinois"
+        }
+      },
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "California",
+          "id": "856860158428798977",
+          "name": "California"
+        }
+      },
+      {
+        "domain": {
+          "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+          "id": "159",
+          "name": "States"
+        },
+        "entity": {
+          "description": "Colorado",
+          "id": "856862177474433024",
+          "name": "Colorado"
+        }
+      }
+    ],
+    "conversation_id": "2104387640296628719",
+    "created_at": "2026-09-28T01:48:05.000Z",
+    "display_text_range": [
+      0,
+      140
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T02:48:05.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104387640296628719"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1547929727960199180",
+          "start": 3,
+          "username": "Pirat_Nation"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104387640296628719",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 386
+    },
+    "referenced_tweets": [
+      {
+        "id": "2100480623337255257",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @Pirat_Nation: Your PC might soon ask how old you are before you can use it.\n\nCalifornia, Colorado, and Illinois have passed laws requir…"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 768,
+        "media_key": "3_2100325797319884800",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSXbL0XXQAAZBwo.jpg",
+        "width": 1024
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Illinois",
+              "id": "1004437399626080256",
+              "name": "Illinois"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "California",
+              "id": "856860158428798977",
+              "name": "California"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Colorado",
+              "id": "856862177474433024",
+              "name": "Colorado"
+            }
+          }
+        ],
+        "conversation_id": "2104387640296628719",
+        "created_at": "2026-09-28T01:48:05.000Z",
+        "display_text_range": [
+          0,
+          140
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T02:48:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104387640296628719"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1547929727960199180",
+              "start": 3,
+              "username": "Pirat_Nation"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104387640296628719",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 386
+        },
+        "referenced_tweets": [
+          {
+            "id": "2100480623337255257",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @Pirat_Nation: Your PC might soon ask how old you are before you can use it.\n\nCalifornia, Colorado, and Illinois have passed laws requir…"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2100325797319884800"
+          ]
+        },
+        "author_id": "1547929727960199180",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10027232467",
+              "name": "Microsoft"
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026364281",
+              "name": "Apple"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10027604610",
+              "name": "Microsoft Windows"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1303989823011606528",
+              "name": "Tech events"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Illinois",
+              "id": "1004437399626080256",
+              "name": "Illinois"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "California",
+              "id": "856860158428798977",
+              "name": "California"
+            }
+          },
+          {
+            "domain": {
+              "description": "States, provinces, or prefectures, like California or Fukushima Prefecture",
+              "id": "159",
+              "name": "States"
+            },
+            "entity": {
+              "description": "Colorado",
+              "id": "856862177474433024",
+              "name": "Colorado"
+            }
+          }
+        ],
+        "conversation_id": "2100480623337255257",
+        "created_at": "2026-09-17T07:03:00.000Z",
+        "display_text_range": [
+          0,
+          273
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-17T08:03:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2100480623337255257"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/DJoVKKWjb5",
+              "end": 297,
+              "expanded_url": "https://x.com/Pirat_Nation/status/2100480623337255257/photo/1",
+              "media_key": "3_2100325797319884800",
+              "start": 274,
+              "url": "https://t.co/DJoVKKWjb5"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2100480623337255257",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_2100325797319884800"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "Your PC might soon ask how old you are before you can use it.\n\nCalifornia, Colorado, and Illinois have passed laws requiring operating systems like Windows and macOS to collect users’ ages.\n\nCalifornia’s law starts in 2027. For now, simply declaring your age is enough, but companies could eventually use facial scans, government IDs or other verification methods to prevent minors from simply lying.\n\nThe really important part is that these laws could have effects far beyond the states that passed them. Apple, Google and Microsoft may decide it’s easier to build one age-verification system for everyone rather than completely different systems for each state"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 365,
+          "impression_count": 267750,
+          "like_count": 1889,
+          "quote_count": 109,
+          "reply_count": 230,
+          "retweet_count": 386
+        },
+        "reply_settings": "everyone",
+        "text": "Your PC might soon ask how old you are before you can use it.\n\nCalifornia, Colorado, and Illinois have passed laws requiring operating systems like Windows and macOS to collect users’ ages.\n\nCalifornia’s law starts in 2027. For now, simply declaring your age is enough, but https://t.co/DJoVKKWjb5"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2104387640296628719",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2679,
+          "following_count": 4178,
+          "like_count": 86307,
+          "listed_count": 13,
+          "media_count": 691,
+          "tweet_count": 25221
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1986176138612203520/7i9dNuHe_bigger.png",
+          "description": "Skins.com",
+          "url": "https://twitter.com/skinscom",
+          "user_id": [
+            "1813448243281330176"
+          ]
+        },
+        "created_at": "2022-07-15T13:03:09.000Z",
+        "description": "Tech & gaming analysis with the latest updates | TV & Films | alt: @piratnation | Official @skinscom Affiliate",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 67,
+                "username": "piratnation"
+              },
+              {
+                "end": 100,
+                "start": 91,
+                "username": "skinscom"
+              }
+            ]
+          }
+        },
+        "id": "1547929727960199180",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2104376293152227626",
+        "name": "Pirat_Nation 🔴",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1547929727960199180/1714831454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795139938586890240/fQtS5oQr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 351392,
+          "following_count": 107,
+          "like_count": 41203,
+          "listed_count": 1138,
+          "media_count": 22238,
+          "tweet_count": 31350
+        },
+        "url": "",
+        "username": "Pirat_Nation",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

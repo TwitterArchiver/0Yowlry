@@ -1,0 +1,457 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Top level entities that describe a Brands industry",
+          "id": "45",
+          "name": "Brand Vertical"
+        },
+        "entity": {
+          "id": "781974597310615553",
+          "name": "Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974597218340864",
+          "name": "Video Games - Entertainment"
+        }
+      },
+      {
+        "domain": {
+          "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+          "id": "46",
+          "name": "Business Taxonomy"
+        },
+        "entity": {
+          "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+          "id": "1557696940178935808",
+          "name": "Gaming Business"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "10043689888",
+          "name": "Minecraft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A video game like Overwatch",
+          "id": "71",
+          "name": "Video Game"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10043689888",
+          "name": "Minecraft"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "description": "Gaming",
+          "id": "847527650667094017",
+          "name": "Gaming"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1070028159964262400",
+          "name": "Video games"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1491899619193749511",
+          "name": "Sandbox games"
+        }
+      }
+    ],
+    "conversation_id": "2107446477178151393",
+    "created_at": "2026-10-06T12:22:49.000Z",
+    "display_text_range": [
+      0,
+      132
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T13:22:49.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2107446477178151393"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 37,
+          "id": "64565898",
+          "start": 27,
+          "username": "Minecraft"
+        },
+        {
+          "end": 45,
+          "id": "282348945",
+          "start": 38,
+          "username": "Mojang"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107446477178151393",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "reply_settings": "everyone",
+    "text": "WTF??? MINECRAFT居然要出新维度了？？？@Minecraft @Mojang \nMojang在2026年9月Minecraft Live正式公布了新维度，名叫：The Sift\n它会在2027年同时加入Minecraft JavaE和BedrockE"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597310615553",
+              "name": "Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597218340864",
+              "name": "Video Games - Entertainment"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A video game like Overwatch",
+              "id": "71",
+              "name": "Video Game"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10043689888",
+              "name": "Minecraft"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Gaming",
+              "id": "847527650667094017",
+              "name": "Gaming"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1070028159964262400",
+              "name": "Video games"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1491899619193749511",
+              "name": "Sandbox games"
+            }
+          }
+        ],
+        "conversation_id": "2107446477178151393",
+        "created_at": "2026-10-06T12:22:49.000Z",
+        "display_text_range": [
+          0,
+          132
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T13:22:49.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107446477178151393"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 37,
+              "id": "64565898",
+              "start": 27,
+              "username": "Minecraft"
+            },
+            {
+              "end": 45,
+              "id": "282348945",
+              "start": 38,
+              "username": "Mojang"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107446477178151393",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "WTF??? MINECRAFT居然要出新维度了？？？@Minecraft @Mojang \nMojang在2026年9月Minecraft Live正式公布了新维度，名叫：The Sift\n它会在2027年同时加入Minecraft JavaE和BedrockE"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2107446477178151393",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2709,
+          "following_count": 4215,
+          "like_count": 90214,
+          "listed_count": 15,
+          "media_count": 715,
+          "tweet_count": 26321
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2105689920853688320/cc0SLz6Y_bigger.jpg",
+          "description": "XBOX | Emergence Begins",
+          "url": "https://twitter.com/XBOX",
+          "user_id": [
+            "24742040"
+          ]
+        },
+        "created_at": "2009-08-11T00:22:27.000Z",
+        "description": "Survive the night, or build a work of art. News, game updates, and all things Minecraft. ESRB RATING: EVERYONE 10+ with Fantasy Violence",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "linktr.ee/minecraft",
+                "end": 23,
+                "expanded_url": "https://linktr.ee/minecraft",
+                "start": 0,
+                "url": "https://t.co/lzbvMhKI3A"
+              }
+            ]
+          }
+        },
+        "id": "64565898",
+        "is_identity_verified": false,
+        "location": "Stockholm, Sweden",
+        "most_recent_tweet_id": "2107166096075727086",
+        "name": "Minecraft",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/64565898/1790713314",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2097709491571548160/JXdDpNFx_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8447340,
+          "following_count": 61,
+          "like_count": 1830,
+          "listed_count": 5770,
+          "media_count": 3546,
+          "tweet_count": 5435
+        },
+        "url": "https://t.co/lzbvMhKI3A",
+        "username": "Minecraft",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2105689920853688320/cc0SLz6Y_bigger.jpg",
+          "description": "XBOX | Emergence Begins",
+          "url": "https://twitter.com/XBOX",
+          "user_id": [
+            "24742040"
+          ]
+        },
+        "created_at": "2011-04-15T01:34:01.000Z",
+        "description": "Founded in 2009, we’re the game studio who developed a little game called @Minecraft. Follow us for the latest news!",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 84,
+                "start": 74,
+                "username": "Minecraft"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "mojang.com",
+                "end": 23,
+                "expanded_url": "http://mojang.com",
+                "start": 0,
+                "url": "https://t.co/nxX6bdudL1"
+              }
+            ]
+          }
+        },
+        "id": "282348945",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "1532261596776521728",
+        "name": "Mojang",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/282348945/1479134105",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1265649882930561024/NdGg8ipX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1234660,
+          "following_count": 43,
+          "like_count": 18,
+          "listed_count": 2888,
+          "media_count": 65,
+          "tweet_count": 1276
+        },
+        "url": "https://t.co/nxX6bdudL1",
+        "username": "Mojang",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

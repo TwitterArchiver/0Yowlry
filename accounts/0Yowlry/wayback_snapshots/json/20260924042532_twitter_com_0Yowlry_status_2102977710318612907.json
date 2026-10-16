@@ -1,0 +1,288 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1168499224297656321",
+          "name": "Discord"
+        }
+      },
+      {
+        "domain": {
+          "description": "for individual and types of technology, e.g., food technology, 3D printing",
+          "id": "165",
+          "name": "Technology"
+        },
+        "entity": {
+          "id": "1196446161223028736",
+          "name": "Social media"
+        }
+      }
+    ],
+    "conversation_id": "2096254531399291223",
+    "created_at": "2026-09-24T04:25:32.000Z",
+    "display_text_range": [
+      12,
+      27
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-24T05:25:32.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2102977710318612907"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2080362460306132993",
+          "start": 0,
+          "username": "aglzmv1011"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2102977710318612907",
+    "in_reply_to_user_id": "2080362460306132993",
+    "lang": "en",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2096254531399291223",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@aglzmv1011 弄discord server"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2096254531399291223",
+        "created_at": "2026-09-24T04:25:32.000Z",
+        "display_text_range": [
+          12,
+          27
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-24T05:25:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2102977710318612907"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2080362460306132993",
+              "start": 0,
+              "username": "aglzmv1011"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2102977710318612907",
+        "in_reply_to_user_id": "2080362460306132993",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2096254531399291223",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@aglzmv1011 弄discord server"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2080362460306132993",
+        "conversation_id": "2096254531399291223",
+        "created_at": "2026-09-05T15:10:01.000Z",
+        "display_text_range": [
+          0,
+          15
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-05T16:10:01.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2096254531399291223"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2096254531399291223",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6799,
+          "like_count": 32,
+          "quote_count": 0,
+          "reply_count": 27,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "我想弄个推特群 有人想进来耍吗"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2102977710318612907",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2661,
+          "following_count": 4142,
+          "like_count": 85134,
+          "listed_count": 12,
+          "media_count": 682,
+          "tweet_count": 24751
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-07-23T18:41:03.000Z",
+        "description": "有人和我说说话我会很开心的 不过基于我的神必性格最好不要哦 大概率互fo",
+        "id": "2080362460306132993",
+        "is_identity_verified": false,
+        "most_recent_tweet_id": "2102785109136965810",
+        "name": "宁",
+        "pinned_tweet_id": "2096254531399291223",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2093679539486638080/DO28V0M5_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 155,
+          "following_count": 105,
+          "like_count": 482,
+          "listed_count": 0,
+          "media_count": 66,
+          "tweet_count": 1110
+        },
+        "url": "",
+        "username": "aglzmv1011",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

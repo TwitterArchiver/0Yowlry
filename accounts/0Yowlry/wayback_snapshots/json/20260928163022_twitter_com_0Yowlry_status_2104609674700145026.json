@@ -1,0 +1,320 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2101513778777235869",
+    "created_at": "2026-09-28T16:30:22.000Z",
+    "display_text_range": [
+      14,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-28T17:30:22.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104609674700145026"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1769078117052854272",
+          "start": 0,
+          "username": "huahuojiang_"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/Hornstrandiir/…",
+          "end": 37,
+          "expanded_url": "https://x.com/Hornstrandiir/status/2104506148615495735?s=20",
+          "start": 14,
+          "url": "https://t.co/A9JAYBbg7O"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104609674700145026",
+    "in_reply_to_user_id": "1769078117052854272",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2104506148615495735",
+        "type": "quoted"
+      },
+      {
+        "id": "2101513778777235869",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@huahuojiang_ https://t.co/A9JAYBbg7O\n什么东西"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2104506148615495735].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2104506148615495735",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2104506148615495735"
+    }
+  ],
+  "includes": {
+    "media": [
+      {
+        "height": 2532,
+        "media_key": "3_2101513761299607553",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSoTobDbsAEnjgF.jpg",
+        "width": 1170
+      },
+      {
+        "height": 2532,
+        "media_key": "3_2101513761286946816",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HSoTobAagAASjbV.jpg",
+        "width": 1170
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2101513778777235869",
+        "created_at": "2026-09-28T16:30:22.000Z",
+        "display_text_range": [
+          14,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-28T17:30:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104609674700145026"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1769078117052854272",
+              "start": 0,
+              "username": "huahuojiang_"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Hornstrandiir/…",
+              "end": 37,
+              "expanded_url": "https://x.com/Hornstrandiir/status/2104506148615495735?s=20",
+              "start": 14,
+              "url": "https://t.co/A9JAYBbg7O"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104609674700145026",
+        "in_reply_to_user_id": "1769078117052854272",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2104506148615495735",
+            "type": "quoted"
+          },
+          {
+            "id": "2101513778777235869",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@huahuojiang_ https://t.co/A9JAYBbg7O\n什么东西"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2101513761299607553",
+            "3_2101513761286946816"
+          ]
+        },
+        "author_id": "1769078117052854272",
+        "conversation_id": "2101513778777235869",
+        "created_at": "2026-09-20T03:28:23.000Z",
+        "display_text_range": [
+          0,
+          60
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-20T04:28:23.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2101513778777235869"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/0PJnjE9oCf",
+              "end": 84,
+              "expanded_url": "https://x.com/huahuojiang_/status/2101513778777235869/photo/1",
+              "media_key": "3_2101513761299607553",
+              "start": 61,
+              "url": "https://t.co/0PJnjE9oCf"
+            },
+            {
+              "display_url": "pic.x.com/0PJnjE9oCf",
+              "end": 84,
+              "expanded_url": "https://x.com/huahuojiang_/status/2101513778777235869/photo/1",
+              "media_key": "3_2101513761286946816",
+              "start": 61,
+              "url": "https://t.co/0PJnjE9oCf"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2101513778777235869",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2101513761299607553"
+          },
+          {
+            "media_key": "3_2101513761286946816"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 1798,
+          "like_count": 21,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 1
+        },
+        "reply_settings": "everyone",
+        "text": "😅😅😅😅貨幣信用跟社會道德有關係那看來央行也沒必要維持獨立性了，政府亂印鈔票沒人要就說是國民道德淪喪，對的👍👍👍👍👍👍👍 https://t.co/0PJnjE9oCf"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2104609674700145026",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2676,
+          "following_count": 4175,
+          "like_count": 86425,
+          "listed_count": 14,
+          "media_count": 692,
+          "tweet_count": 25260
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-03-16T19:07:54.000Z",
+        "description": "诶嘿～好无聊呀~｜加点东西@这里没有人｜换一个提问箱：https://t.co/0C8gTeJyHd",
+        "entities": {
+          "description": {
+            "urls": [
+              {
+                "display_url": "ngl.link/huahuojiang2",
+                "end": 50,
+                "expanded_url": "https://ngl.link/huahuojiang2",
+                "start": 27,
+                "url": "https://t.co/0C8gTeJyHd"
+              }
+            ]
+          }
+        },
+        "id": "1769078117052854272",
+        "is_identity_verified": false,
+        "location": "匹诺康尼",
+        "most_recent_tweet_id": "2104608511175049597",
+        "name": "花火酱～",
+        "pinned_tweet_id": "2101513778777235869",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1769078117052854272/1774973744",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2039013777560227840/6M7222YJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7850,
+          "following_count": 3934,
+          "like_count": 105874,
+          "listed_count": 18,
+          "media_count": 10219,
+          "tweet_count": 108516
+        },
+        "url": "",
+        "username": "huahuojiang_",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

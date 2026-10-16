@@ -1,0 +1,309 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2103192038099612056",
+    "created_at": "2026-09-27T14:20:02.000Z",
+    "display_text_range": [
+      41,
+      42
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-27T15:20:02.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2104214486521712685"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "1457263132934656001",
+          "start": 0,
+          "username": "xjclen111"
+        },
+        {
+          "end": 26,
+          "id": "2086311187361181696",
+          "start": 11,
+          "username": "YukiYuna198964"
+        },
+        {
+          "end": 40,
+          "id": "1839865017392394240",
+          "start": 27,
+          "username": "zhiyun114514"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2104214486521712685",
+    "in_reply_to_user_id": "1457263132934656001",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2103198124131135912",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@xjclen111 @YukiYuna198964 @zhiyun114514 👀"
+  },
+  "errors": [
+    {
+      "detail": "Sorry, you are not authorized to see the Tweet with referenced_tweets.id: [2103198124131135912].",
+      "parameter": "referenced_tweets.id",
+      "resource_id": "2103198124131135912",
+      "resource_type": "tweet",
+      "section": "includes",
+      "title": "Authorization Error",
+      "type": "https://api.x.com/2/problems/not-authorized-for-resource",
+      "value": "2103198124131135912"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2103192038099612056",
+        "created_at": "2026-09-27T14:20:02.000Z",
+        "display_text_range": [
+          41,
+          42
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-27T15:20:02.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2104214486521712685"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "1457263132934656001",
+              "start": 0,
+              "username": "xjclen111"
+            },
+            {
+              "end": 26,
+              "id": "2086311187361181696",
+              "start": 11,
+              "username": "YukiYuna198964"
+            },
+            {
+              "end": 40,
+              "id": "1839865017392394240",
+              "start": 27,
+              "username": "zhiyun114514"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2104214486521712685",
+        "in_reply_to_user_id": "1457263132934656001",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2103198124131135912",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@xjclen111 @YukiYuna198964 @zhiyun114514 👀"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2104214486521712685",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2678,
+          "following_count": 4177,
+          "like_count": 86163,
+          "listed_count": 13,
+          "media_count": 690,
+          "tweet_count": 25177
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2021-11-07T08:26:29.000Z",
+        "description": "居住在明斯克（2020-now）各种人格都有😋。喜欢飞行✈️。误ban抱歉.\n语言：汉语，英语，俄语，白俄罗斯语。Слава Україні! Путін-хуйло!",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "hao123.com",
+                "end": 23,
+                "expanded_url": "http://www.hao123.com",
+                "start": 0,
+                "url": "https://t.co/BLWwZO8Pvn"
+              }
+            ]
+          }
+        },
+        "id": "1457263132934656001",
+        "is_identity_verified": false,
+        "location": "Republic of Belarus",
+        "most_recent_tweet_id": "2074119450844905648",
+        "name": "ВЯВЯ ✈️",
+        "pinned_tweet_id": "1831277688944009590",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1457263132934656001/1725260759",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1815375102776881152/9OIcIfWn_normal.jpg",
+        "protected": true,
+        "public_metrics": {
+          "followers_count": 370,
+          "following_count": 1070,
+          "like_count": 20311,
+          "listed_count": 2,
+          "media_count": 409,
+          "tweet_count": 3489
+        },
+        "url": "https://t.co/BLWwZO8Pvn",
+        "username": "xjclen111",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-08-09T04:41:15.000Z",
+        "description": "#川粉TV MK2",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 5,
+                "start": 0,
+                "tag": "川粉TV"
+              }
+            ]
+          }
+        },
+        "id": "2086311187361181696",
+        "is_identity_verified": false,
+        "location": "Super Earth",
+        "most_recent_tweet_id": "2104208501128249430",
+        "name": "矢口莲花酥8964🇺🇦",
+        "pinned_tweet_id": "2103551343268884942",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2086311187361181696/1786250855",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2101401512404500480/Yutl6RE0_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 194,
+          "following_count": 815,
+          "like_count": 4366,
+          "listed_count": 0,
+          "media_count": 85,
+          "tweet_count": 1216
+        },
+        "url": "",
+        "username": "YukiYuna198964",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-09-28T03:10:03.000Z",
+        "description": "我叫知雲！(三世)\n中国人\n(有多少人认识我？)\n二世:@zhi96886   小号:@zhiyun1919810一世找不到了\n日本語を勉強したいのですが、今のところ五十音図しかできません🥺/社民/历史/想要互fo/拙见如有错误请指出来🥹/尽量的不极端\n\nI want to make more friend",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 37,
+                "start": 28,
+                "username": "zhi96886"
+              },
+              {
+                "end": 57,
+                "start": 43,
+                "username": "zhiyun1919810"
+              }
+            ]
+          }
+        },
+        "id": "1839865017392394240",
+        "is_identity_verified": false,
+        "location": "毛泽东帝国-邓小平尼亚-习近平堡",
+        "most_recent_tweet_id": "2104199173151273144",
+        "name": "矢口雨云",
+        "pinned_tweet_id": "2100570653334348012",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839865017392394240/1779546626",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2072974559704481792/whDv4RKJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 3568,
+          "following_count": 976,
+          "like_count": 16278,
+          "listed_count": 8,
+          "media_count": 1536,
+          "tweet_count": 8822
+        },
+        "url": "",
+        "username": "zhiyun114514",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

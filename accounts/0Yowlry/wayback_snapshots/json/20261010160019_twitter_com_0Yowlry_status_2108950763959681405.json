@@ -1,0 +1,612 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "1976892267911680470",
+    "created_at": "2026-10-10T16:00:19.000Z",
+    "display_text_range": [
+      14,
+      37
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-10T17:00:19.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2108950763959681405"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "1547929727960199180",
+          "start": 0,
+          "username": "Pirat_Nation"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/0Yowlry/status…",
+          "end": 37,
+          "expanded_url": "https://x.com/0Yowlry/status/2108950215814430904?s=20",
+          "start": 14,
+          "url": "https://t.co/pCogt4mxer"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2108950763959681405",
+    "in_reply_to_user_id": "1547929727960199180",
+    "lang": "qme",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2108950215814430904",
+        "type": "quoted"
+      },
+      {
+        "id": "1976892267911680470",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Pirat_Nation https://t.co/pCogt4mxer"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1095,
+        "media_key": "3_1976818434395578368",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G28R5HeXoAAa4HL.jpg",
+        "width": 1095
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "1976892267911680470",
+        "created_at": "2026-10-10T16:00:19.000Z",
+        "display_text_range": [
+          14,
+          37
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T17:00:19.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2108950763959681405"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1547929727960199180",
+              "start": 0,
+              "username": "Pirat_Nation"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/0Yowlry/status…",
+              "end": 37,
+              "expanded_url": "https://x.com/0Yowlry/status/2108950215814430904?s=20",
+              "start": 14,
+              "url": "https://t.co/pCogt4mxer"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108950763959681405",
+        "in_reply_to_user_id": "1547929727960199180",
+        "lang": "qme",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2108950215814430904",
+            "type": "quoted"
+          },
+          {
+            "id": "1976892267911680470",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Pirat_Nation https://t.co/pCogt4mxer"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_1976818434395578368"
+          ]
+        },
+        "author_id": "1547929727960199180",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Information Security",
+              "id": "1047123725525479425",
+              "name": "Information security"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Security",
+              "id": "1047123725525479425",
+              "name": "Information security"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Privacy",
+              "id": "1088443224425807872",
+              "name": "Information Privacy Worldwide"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "1976892267911680470",
+        "created_at": "2025-10-11T06:07:00.000Z",
+        "display_text_range": [
+          0,
+          246
+        ],
+        "edit_controls": {
+          "editable_until": "2025-10-11T07:07:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "1976892267911680470"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/V5WHjQfs1J",
+              "end": 270,
+              "expanded_url": "https://x.com/Pirat_Nation/status/1976892267911680470/photo/1",
+              "media_key": "3_1976818434395578368",
+              "start": 247,
+              "url": "https://t.co/V5WHjQfs1J"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "1976892267911680470",
+        "lang": "en",
+        "media_metadata": [
+          {
+            "media_key": "3_1976818434395578368"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 78,
+          "impression_count": 48560,
+          "like_count": 1058,
+          "quote_count": 29,
+          "reply_count": 46,
+          "retweet_count": 151
+        },
+        "reply_settings": "everyone",
+        "text": "It's confirmed that at least 70,000 Discord users had their government-issued ID images leaked in the recent support system breach.\n\nHackers claim the actual number is higher, citing over 520,000 age verification tickets and 1.6TB of stolen data. https://t.co/V5WHjQfs1J"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to Banks, Credit cards, Insurance, Investments, Stocks ",
+              "id": "1557696848252391426",
+              "name": "Financial Services Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to softwares, apps, communication equipments, hardwares",
+              "id": "1557697333571112960",
+              "name": "Technology Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "description": "Information Security",
+              "id": "1047123725525479425",
+              "name": "Information security"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Politics",
+              "id": "847878884917886977",
+              "name": "Politics"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Technology and computing",
+              "id": "848920371311001600",
+              "name": "Technology"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Political issues",
+              "id": "900740740468191232",
+              "name": "Political issues"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Security",
+              "id": "1047123725525479425",
+              "name": "Information security"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Information Privacy",
+              "id": "1088443224425807872",
+              "name": "Information Privacy Worldwide"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1168499224297656321",
+              "name": "Discord"
+            }
+          },
+          {
+            "domain": {
+              "description": "for individual and types of technology, e.g., food technology, 3D printing",
+              "id": "165",
+              "name": "Technology"
+            },
+            "entity": {
+              "id": "1196446161223028736",
+              "name": "Social media"
+            }
+          }
+        ],
+        "conversation_id": "2108950215814430904",
+        "created_at": "2026-10-10T15:58:08.000Z",
+        "display_text_range": [
+          0,
+          245
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-10T16:58:08.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2108950215814430904"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Pirat_Nation/s…",
+              "end": 269,
+              "expanded_url": "https://twitter.com/Pirat_Nation/status/1976892267911680470",
+              "start": 246,
+              "url": "https://t.co/kGCWLTAX31"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2108950215814430904",
+        "lang": "en",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 4,
+          "like_count": 1,
+          "quote_count": 1,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "1976892267911680470",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "this is why Australia, the EU, and the UK are mandating that users upload ID for age verification. governments are using high-sounding pretexts to expand their powers and harvest citizen data, laying the groundwork to crush dissent down the road https://t.co/kGCWLTAX31"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2108950763959681405",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2725,
+          "following_count": 4241,
+          "like_count": 91236,
+          "listed_count": 15,
+          "media_count": 733,
+          "tweet_count": 26693
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/1986176138612203520/7i9dNuHe_bigger.png",
+          "description": "Skins.com",
+          "url": "https://twitter.com/skinscom",
+          "user_id": [
+            "1813448243281330176"
+          ]
+        },
+        "created_at": "2022-07-15T13:03:09.000Z",
+        "description": "Tech & gaming analysis with the latest updates | TV & Films | alt: @piratnation | Official @skinscom Affiliate Business: piratnation@protonmail.com",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 79,
+                "start": 67,
+                "username": "piratnation"
+              },
+              {
+                "end": 100,
+                "start": 91,
+                "username": "skinscom"
+              }
+            ]
+          }
+        },
+        "id": "1547929727960199180",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2108949007720488963",
+        "name": "Pirat_Nation 🔴",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1547929727960199180/1714831454",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1795139938586890240/fQtS5oQr_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 358987,
+          "following_count": 109,
+          "like_count": 41969,
+          "listed_count": 1168,
+          "media_count": 22531,
+          "tweet_count": 31660
+        },
+        "url": "",
+        "username": "Pirat_Nation",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

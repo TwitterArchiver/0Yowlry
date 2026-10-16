@@ -1,0 +1,489 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {
+      "media_keys": [
+        "13_2107136602673909760"
+      ],
+      "media_source_tweet_id": [
+        "2107136617182040201"
+      ]
+    },
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Named people in the world like Nelson Mandela",
+          "id": "10",
+          "name": "Person"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+          "id": "122",
+          "name": "Fictional Character"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1104125539877412864",
+          "name": "Miku Hatsune"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1247236287485997056",
+          "name": "Vocaloid"
+        }
+      }
+    ],
+    "conversation_id": "2107386050306011319",
+    "created_at": "2026-10-06T08:22:42.000Z",
+    "display_text_range": [
+      0,
+      54
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-06T09:22:42.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2107386050306011319"
+    ],
+    "entities": {
+      "hashtags": [
+        {
+          "end": 24,
+          "start": 19,
+          "tag": "重音テト"
+        },
+        {
+          "end": 30,
+          "start": 25,
+          "tag": "初音ミク"
+        }
+      ],
+      "mentions": [
+        {
+          "end": 17,
+          "id": "1544015020425904129",
+          "start": 3,
+          "username": "PainLemonTree"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "pic.x.com/DiU2QmbH4Q",
+          "end": 54,
+          "expanded_url": "https://x.com/PainLemonTree/status/2107136617182040201/video/1",
+          "media_key": "13_2107136602673909760",
+          "start": 31,
+          "url": "https://t.co/DiU2QmbH4Q"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2107386050306011319",
+    "lang": "qme",
+    "media_metadata": [
+      {
+        "media_key": "13_2107136602673909760"
+      }
+    ],
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 190
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107136617182040201",
+        "type": "retweeted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "RT @PainLemonTree: #重音テト #初音ミク https://t.co/DiU2QmbH4Q"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 4066,
+        "height": 720,
+        "media_key": "13_2107136602673909760",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2107136602673909760/img/mey0XrJD0_i-d9Br.jpg",
+        "public_metrics": {
+          "view_count": 4014
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 432000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107136602673909760/vid/avc1/320x320/yP-nnAT-Gv9RNcTK.mp4"
+          },
+          {
+            "bit_rate": 832000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107136602673909760/vid/avc1/540x540/3GzkrkpCD5AVBkwR.mp4"
+          },
+          {
+            "bit_rate": 1280000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2107136602673909760/vid/avc1/720x720/Fc2fdeOmx-TWg6rc.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2107136602673909760/pl/0xN6dT6fWD_pUvXs.m3u8"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2107136602673909760"
+          ],
+          "media_source_tweet_id": [
+            "2107136617182040201"
+          ]
+        },
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2107386050306011319",
+        "created_at": "2026-10-06T08:22:42.000Z",
+        "display_text_range": [
+          0,
+          54
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-06T09:22:42.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2107386050306011319"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 24,
+              "start": 19,
+              "tag": "重音テト"
+            },
+            {
+              "end": 30,
+              "start": 25,
+              "tag": "初音ミク"
+            }
+          ],
+          "mentions": [
+            {
+              "end": 17,
+              "id": "1544015020425904129",
+              "start": 3,
+              "username": "PainLemonTree"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DiU2QmbH4Q",
+              "end": 54,
+              "expanded_url": "https://x.com/PainLemonTree/status/2107136617182040201/video/1",
+              "media_key": "13_2107136602673909760",
+              "start": 31,
+              "url": "https://t.co/DiU2QmbH4Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107386050306011319",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "13_2107136602673909760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 190
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107136617182040201",
+            "type": "retweeted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "RT @PainLemonTree: #重音テト #初音ミク https://t.co/DiU2QmbH4Q"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2107136602673909760"
+          ]
+        },
+        "author_id": "1544015020425904129",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Named people in the world like Nelson Mandela",
+              "id": "10",
+              "name": "Person"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A person or other being in a narrative work of art, like Tom Sawyer or Jon Snow",
+              "id": "122",
+              "name": "Fictional Character"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1104125539877412864",
+              "name": "Miku Hatsune"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1247236287485997056",
+              "name": "Vocaloid"
+            }
+          }
+        ],
+        "conversation_id": "2107136617182040201",
+        "created_at": "2026-10-05T15:51:32.000Z",
+        "display_text_range": [
+          0,
+          11
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T16:51:32.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107136617182040201"
+        ],
+        "entities": {
+          "hashtags": [
+            {
+              "end": 5,
+              "start": 0,
+              "tag": "重音テト"
+            },
+            {
+              "end": 11,
+              "start": 6,
+              "tag": "初音ミク"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "pic.x.com/DiU2QmbH4Q",
+              "end": 35,
+              "expanded_url": "https://x.com/PainLemonTree/status/2107136617182040201/video/1",
+              "media_key": "13_2107136602673909760",
+              "start": 12,
+              "url": "https://t.co/DiU2QmbH4Q"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107136617182040201",
+        "lang": "qme",
+        "media_metadata": [
+          {
+            "media_key": "13_2107136602673909760"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 245,
+          "impression_count": 10243,
+          "like_count": 1507,
+          "quote_count": 1,
+          "reply_count": 3,
+          "retweet_count": 190
+        },
+        "reply_settings": "everyone",
+        "text": "#重音テト #初音ミク https://t.co/DiU2QmbH4Q"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2107386050306011319",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2710,
+          "following_count": 4215,
+          "like_count": 90012,
+          "listed_count": 15,
+          "media_count": 713,
+          "tweet_count": 26260
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-07-04T17:48:06.000Z",
+        "description": "くぁwせdrftgyふじこlp",
+        "id": "1544015020425904129",
+        "is_identity_verified": false,
+        "location": "19↑",
+        "most_recent_tweet_id": "2107262111147765984",
+        "name": "PLT",
+        "pinned_tweet_id": "1794389227637223702",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1544015020425904129/1757845223",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2018658012647620608/ZIJ3Y-ln_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7795,
+          "following_count": 443,
+          "like_count": 168787,
+          "listed_count": 28,
+          "media_count": 7001,
+          "tweet_count": 13616
+        },
+        "url": "",
+        "username": "PainLemonTree",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

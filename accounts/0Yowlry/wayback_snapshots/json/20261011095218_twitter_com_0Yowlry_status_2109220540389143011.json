@@ -1,0 +1,358 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2107025936721838176",
+    "created_at": "2026-10-11T09:52:18.000Z",
+    "display_text_range": [
+      17,
+      25
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-11T10:52:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2109220540389143011"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1586736411838906368",
+          "start": 0,
+          "username": "VirginiePerez15"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2109220540389143011",
+    "in_reply_to_user_id": "1586736411838906368",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2107025936721838176",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@VirginiePerez15 不以为耻反以为荣"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 25006,
+        "height": 1024,
+        "media_key": "13_2105690061555843073",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2105690061555843073/img/-Z9jADloRNoQ5f3K.jpg",
+        "public_metrics": {
+          "view_count": 1864078
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105690061555843073/vid/avc1/320x568/gBoDO009qoInEDvm.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105690061555843073/vid/avc1/480x852/ezEYQMved2HYAyJO.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2105690061555843073/vid/avc1/576x1024/pSkW_FPAm03WdZbI.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2105690061555843073/pl/WHKIWhYpoRSD7i8T.m3u8?v=97a"
+          }
+        ],
+        "width": 576
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2107025936721838176",
+        "created_at": "2026-10-11T09:52:18.000Z",
+        "display_text_range": [
+          17,
+          25
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-11T10:52:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2109220540389143011"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1586736411838906368",
+              "start": 0,
+              "username": "VirginiePerez15"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2109220540389143011",
+        "in_reply_to_user_id": "1586736411838906368",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2107025936721838176",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@VirginiePerez15 不以为耻反以为荣"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2105690061555843073"
+          ],
+          "media_source_tweet_id": [
+            "2105690231685132677"
+          ]
+        },
+        "author_id": "1586736411838906368",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Types of sports, like soccer and basketball",
+              "id": "11",
+              "name": "Sport"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A sports team organization, like Arsenal and the Boston Celtics",
+              "id": "12",
+              "name": "Sports Team"
+            },
+            "entity": {
+              "id": "731226231832633344",
+              "name": "France"
+            }
+          },
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to sports nutrition, athletic apparel, sports apps, fitness venues",
+              "id": "1557697289971322880",
+              "name": "Sports & Fitness Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "731226231832633344",
+              "name": "France"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "733756536430809088",
+              "name": "Soccer"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "Sports",
+              "id": "847900493514891265",
+              "name": "Sports"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "description": "National Soccer Teams",
+              "id": "1100397500890996736",
+              "name": "Men's national soccer teams"
+            }
+          }
+        ],
+        "conversation_id": "2107025936721838176",
+        "created_at": "2026-10-05T08:31:44.000Z",
+        "display_text_range": [
+          0,
+          236
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-05T09:31:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2107025936721838176"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/YAuoSh3P0M",
+              "end": 236,
+              "expanded_url": "https://x.com/songpinganq/status/2105690231685132677/video/1",
+              "media_key": "13_2105690061555843073",
+              "start": 213,
+              "url": "https://t.co/YAuoSh3P0M"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2107025936721838176",
+        "lang": "fr",
+        "media_metadata": [
+          {
+            "media_key": "13_2105690061555843073"
+          }
+        ],
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1513,
+          "impression_count": 4555426,
+          "like_count": 4075,
+          "quote_count": 685,
+          "reply_count": 852,
+          "retweet_count": 477
+        },
+        "reply_settings": "everyone",
+        "text": "🇫🇷🇨🇳Pendant que nos «étudiants » cassent tout en France , parce qu’ils trouvent que 27 h de cours par semaine, pauses comprises, c’est trop, les lycéens chinois sortent de l’étude à 22h, week-ends souvent inclus. https://t.co/YAuoSh3P0M"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2109220540389143011",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2729,
+          "following_count": 4248,
+          "like_count": 91389,
+          "listed_count": 15,
+          "media_count": 739,
+          "tweet_count": 26742
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2022-10-30T15:07:26.000Z",
+        "description": "Fil d’actu sur l’ère Trump. Infos insolites sur l’Amérique et sur le reste du monde. \nPeace First 🕊️ \nAnti-guerre, anti-interventionniste",
+        "id": "1586736411838906368",
+        "is_identity_verified": false,
+        "location": "France , UK, USA",
+        "most_recent_tweet_id": "2109219840145682467",
+        "name": "🇺🇸Trump Times 🇺🇸",
+        "pinned_tweet_id": "2108977908048171294",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1586736411838906368/1774274808",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2036081447191388160/-dBZrRw1_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50884,
+          "following_count": 11934,
+          "like_count": 208380,
+          "listed_count": 332,
+          "media_count": 15568,
+          "tweet_count": 65797
+        },
+        "url": "",
+        "username": "VirginiePerez15",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}

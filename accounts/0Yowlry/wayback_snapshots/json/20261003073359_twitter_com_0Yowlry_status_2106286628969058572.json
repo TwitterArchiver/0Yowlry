@@ -1,0 +1,540 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "context_annotations": [
+      {
+        "domain": {
+          "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+          "id": "30",
+          "name": "Entities [Entity Service]"
+        },
+        "entity": {
+          "id": "781974596752842752",
+          "name": "Services"
+        }
+      },
+      {
+        "domain": {
+          "description": "Brands and Companies",
+          "id": "47",
+          "name": "Brand"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+          "id": "48",
+          "name": "Product"
+        },
+        "entity": {
+          "id": "1395474411180892160",
+          "name": "Google brand conversation"
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "10026378521",
+          "name": "Google "
+        }
+      },
+      {
+        "domain": {
+          "description": "A taxonomy of user interests. ",
+          "id": "131",
+          "name": "Unified Twitter Taxonomy"
+        },
+        "entity": {
+          "id": "1436053202835689485",
+          "name": "Events"
+        }
+      }
+    ],
+    "conversation_id": "2106281014649848105",
+    "created_at": "2026-10-03T07:33:59.000Z",
+    "display_text_range": [
+      30,
+      40
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-03T08:33:59.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106286628969058572"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 10,
+          "id": "4810524492",
+          "start": 0,
+          "username": "JesseLiOH"
+        },
+        {
+          "end": 18,
+          "id": "20536157",
+          "start": 11,
+          "username": "Google"
+        },
+        {
+          "end": 29,
+          "id": "1806359170830172162",
+          "start": 19,
+          "username": "GeminiApp"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106286628969058572",
+    "in_reply_to_user_id": "4810524492",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106285852955742536",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@JesseLiOH @Google @GeminiApp 还真是，本来就是弱智"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2106281014649848105",
+        "created_at": "2026-10-03T07:33:59.000Z",
+        "display_text_range": [
+          30,
+          40
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T08:33:59.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106286628969058572"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 10,
+              "id": "4810524492",
+              "start": 0,
+              "username": "JesseLiOH"
+            },
+            {
+              "end": 18,
+              "id": "20536157",
+              "start": 11,
+              "username": "Google"
+            },
+            {
+              "end": 29,
+              "id": "1806359170830172162",
+              "start": 19,
+              "username": "GeminiApp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106286628969058572",
+        "in_reply_to_user_id": "4810524492",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106285852955742536",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JesseLiOH @Google @GeminiApp 还真是，本来就是弱智"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "4810524492",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974596752842752",
+              "name": "Services"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "Products created by Brands.  Examples: Ford Explorer, Apple iPhone.",
+              "id": "48",
+              "name": "Product"
+            },
+            "entity": {
+              "id": "1395474411180892160",
+              "name": "Google brand conversation"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10026378521",
+              "name": "Google "
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "1436053202835689485",
+              "name": "Events"
+            }
+          }
+        ],
+        "conversation_id": "2106281014649848105",
+        "created_at": "2026-10-03T07:30:54.000Z",
+        "display_text_range": [
+          28,
+          56
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-03T08:30:54.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106285852955742536"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1839263401845075974",
+              "start": 0,
+              "username": "0Yowlry"
+            },
+            {
+              "end": 16,
+              "id": "20536157",
+              "start": 9,
+              "username": "Google"
+            },
+            {
+              "end": 27,
+              "id": "1806359170830172162",
+              "start": 17,
+              "username": "GeminiApp"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106285852955742536",
+        "in_reply_to_user_id": "1839263401845075974",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 8,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106281014649848105",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@0Yowlry @Google @GeminiApp gemini本来就low iq 还jb限制 还用毛线以后"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2106286628969058572",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2693,
+          "following_count": 4199,
+          "like_count": 88356,
+          "listed_count": 14,
+          "media_count": 708,
+          "tweet_count": 25827
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2016-01-25T04:15:00.000Z",
+        "description": "(he/him) Life is flying, maths and Touhou. SE - AC*G 普通话|English|日本語|français",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "my.flightradar24.com/ForeverZZR_666",
+                "end": 23,
+                "expanded_url": "https://my.flightradar24.com/ForeverZZR_666",
+                "start": 0,
+                "url": "https://t.co/Vwzjqpf9R8"
+              }
+            ]
+          }
+        },
+        "id": "4810524492",
+        "is_identity_verified": false,
+        "location": "Calgary, Alberta",
+        "most_recent_tweet_id": "2106285852955742536",
+        "name": "🇨🇦 That SkyCards Spotter at CYYC",
+        "pinned_tweet_id": "2065679351367291321",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/4810524492/1677862355",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1739637897207398400/ifL0uran_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1118,
+          "following_count": 1836,
+          "like_count": 11624,
+          "listed_count": 5,
+          "media_count": 3655,
+          "tweet_count": 14721
+        },
+        "url": "https://t.co/Vwzjqpf9R8",
+        "username": "JesseLiOH",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2009-02-10T19:14:39.000Z",
+        "description": "Here to help.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "blog.google/newsletter-sub…",
+                "end": 23,
+                "expanded_url": "https://blog.google/newsletter-subscribe/",
+                "start": 0,
+                "url": "https://t.co/RS3iU87BGe"
+              }
+            ]
+          }
+        },
+        "id": "20536157",
+        "is_identity_verified": false,
+        "location": "Mountain View, CA",
+        "most_recent_tweet_id": "2106117314664169551",
+        "name": "Google",
+        "pinned_tweet_id": "2105388143902175529",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/20536157/1780004508",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2042749771337564160/AgOFPEL3_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 31908249,
+          "following_count": 298,
+          "like_count": 5327,
+          "listed_count": 89937,
+          "media_count": 38271,
+          "tweet_count": 251787
+        },
+        "url": "https://t.co/RS3iU87BGe",
+        "username": "Google",
+        "verified": true,
+        "verified_type": "business"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2042749771337564160/AgOFPEL3_bigger.jpg",
+          "description": "Google",
+          "url": "https://twitter.com/Google",
+          "user_id": [
+            "20536157"
+          ]
+        },
+        "created_at": "2024-06-27T16:10:25.000Z",
+        "description": "The Gemini app turns research into reality, bringing frontier AI experiences like Omni, Deep Think, Nano Banana, and more to hundreds of millions of people.",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "gemini.google.com",
+                "end": 23,
+                "expanded_url": "http://gemini.google.com",
+                "start": 0,
+                "url": "https://t.co/lc7BAJqH5u"
+              }
+            ]
+          }
+        },
+        "id": "1806359170830172162",
+        "is_identity_verified": false,
+        "location": "Mountain View, CA",
+        "most_recent_tweet_id": "2106079691337867687",
+        "name": "Google Gemini",
+        "pinned_tweet_id": "2090165248196252003",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1806359170830172162/1779216202",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1940093473564073984/jiafRcO0_normal.png",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 583402,
+          "following_count": 53,
+          "like_count": 4835,
+          "listed_count": 5213,
+          "media_count": 535,
+          "tweet_count": 15321
+        },
+        "url": "https://t.co/lc7BAJqH5u",
+        "username": "GeminiApp",
+        "verified": true,
+        "verified_type": "business"
+      }
+    ]
+  }
+}

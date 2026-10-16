@@ -1,0 +1,395 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2106634971888681130",
+    "created_at": "2026-10-04T07:08:47.000Z",
+    "display_text_range": [
+      13,
+      61
+    ],
+    "edit_controls": {
+      "editable_until": "2026-10-04T08:08:47.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2106642675197976890"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1165044876297134080",
+          "start": 0,
+          "username": "realNyarime"
+        },
+        {
+          "end": 45,
+          "id": "1804764703891361792",
+          "start": 30,
+          "username": "tangsunny_1225"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2106642675197976890",
+    "in_reply_to_user_id": "1165044876297134080",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 1,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2106634971888681130",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@realNyarime 澳门大部分地方都不允许停车我记得 @tangsunny_1225 是这样吗👀\n而且还是八达通好（"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2343,
+        "media_key": "3_2106634955854168065",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTxFVLcbwAEJzae.jpg",
+        "width": 1080
+      },
+      {
+        "height": 1469,
+        "media_key": "3_2106634965371002880",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HTxFVu5bIAAzBHp.jpg",
+        "width": 1080
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2106634971888681130",
+        "created_at": "2026-10-04T07:08:47.000Z",
+        "display_text_range": [
+          13,
+          61
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T08:08:47.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2106642675197976890"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1165044876297134080",
+              "start": 0,
+              "username": "realNyarime"
+            },
+            {
+              "end": 45,
+              "id": "1804764703891361792",
+              "start": 30,
+              "username": "tangsunny_1225"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106642675197976890",
+        "in_reply_to_user_id": "1165044876297134080",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2106634971888681130",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@realNyarime 澳门大部分地方都不允许停车我记得 @tangsunny_1225 是这样吗👀\n而且还是八达通好（"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2106634955854168065",
+            "3_2106634965371002880"
+          ]
+        },
+        "author_id": "1165044876297134080",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to travel as airlines, travel agencies, hotels",
+              "id": "1557697439489880065",
+              "name": "Travel & Transportation Business"
+            }
+          },
+          {
+            "domain": {
+              "description": "Top level entities that describe a Brands industry",
+              "id": "45",
+              "name": "Brand Vertical"
+            },
+            "entity": {
+              "id": "781974597302226944",
+              "name": "Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Entity Service top level domain, every item that is in Entity Service should be in this domain",
+              "id": "30",
+              "name": "Entities [Entity Service]"
+            },
+            "entity": {
+              "id": "781974597251964928",
+              "name": "Car Rental/Sharing - Transportation"
+            }
+          },
+          {
+            "domain": {
+              "description": "Brands and Companies",
+              "id": "47",
+              "name": "Brand"
+            },
+            "entity": {
+              "id": "10040709681",
+              "name": "Uber"
+            }
+          },
+          {
+            "domain": {
+              "description": "A taxonomy of user interests. ",
+              "id": "131",
+              "name": "Unified Twitter Taxonomy"
+            },
+            "entity": {
+              "id": "10040709681",
+              "name": "Uber"
+            }
+          }
+        ],
+        "conversation_id": "2106634971888681130",
+        "created_at": "2026-10-04T06:38:11.000Z",
+        "display_text_range": [
+          0,
+          150
+        ],
+        "edit_controls": {
+          "editable_until": "2026-10-04T07:38:11.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2106634971888681130"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/h8K8nQOPRM",
+              "end": 174,
+              "expanded_url": "https://x.com/realNyarime/status/2106634971888681130/photo/1",
+              "media_key": "3_2106634955854168065",
+              "start": 151,
+              "url": "https://t.co/h8K8nQOPRM"
+            },
+            {
+              "display_url": "pic.x.com/h8K8nQOPRM",
+              "end": 174,
+              "expanded_url": "https://x.com/realNyarime/status/2106634971888681130/photo/1",
+              "media_key": "3_2106634965371002880",
+              "start": 151,
+              "url": "https://t.co/h8K8nQOPRM"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2106634971888681130",
+        "lang": "zh",
+        "media_metadata": [
+          {
+            "media_key": "3_2106634955854168065"
+          },
+          {
+            "media_key": "3_2106634965371002880"
+          }
+        ],
+        "note_tweet": {
+          "entities": {},
+          "text": "这次跟家里人5人出行港澳，打车用了Uber Taxi和澳门电召，分享下我遇到的问题\n\n香港大部分出租都是4座，通过滴滴和高德叫到的车都是这种。少数有5座、6座车，而UberXL提供了6座反而更省心\n澳门也可以用Uber不过我更习惯电召，最多可座5人，氹仔好叫但北边老城区不好叫，只好坐6块一口价的澳巴\n\n因此最佳出行还是得控制在4人内，人少地铁公交、人多打车。上环坐船大概200每人。金巴（港珠澳大桥穿梭巴士）只要65每人小孩半价需要人工买票，算起来比船票还省钱省时，而且中间还是内地基站信号没开漫游也能上网\n\n这次国庆给我的感觉就是，澳门比香港的人还密集。特别是大三巴那边澳巴都不停了，最后到关闸坐发财车到赌场门口再坐发财车到港珠澳大桥澳方口岸，澳门的车巨难打！如果要坐出租车，最好是绕一圈到关闸，再拦出租前往目的地"
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 1182,
+          "like_count": 11,
+          "quote_count": 0,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "这次跟家里人5人出行港澳，打车用了Uber Taxi和澳门电召，分享下我遇到的问题\n\n香港大部分出租都是4座，通过滴滴和高德叫到的车都是这种。少数有5座、6座车，而UberXL提供了6座反而更省心\n澳门也可以用Uber不过我更习惯电召，最多可座5人，氹仔好叫但北边老城区不好叫，只好坐6块一口价的澳巴 https://t.co/h8K8nQOPRM"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2106642675197976890",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2698,
+          "following_count": 4206,
+          "like_count": 88747,
+          "listed_count": 14,
+          "media_count": 709,
+          "tweet_count": 25927
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {
+          "badge_url": "https://pbs.twimg.com/profile_images/2078902183391641601/1KanNUZG_bigger.jpg",
+          "description": "GM Wallet",
+          "url": "https://twitter.com/GMWallet",
+          "user_id": [
+            "11768102"
+          ]
+        },
+        "created_at": "2019-08-23T23:35:25.000Z",
+        "description": "乃月希, aka Nyarime｜Founder of Naixi Networks｜Developer｜Photographer｜可以叫我希酱｜玩eSIM上奶昔论坛｜zh-cn/en｜❤️ @realYingxi｜Views are my own.",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 107,
+                "start": 96,
+                "username": "realYingxi"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "naixi.net",
+                "end": 23,
+                "expanded_url": "https://naixi.net",
+                "start": 0,
+                "url": "https://t.co/Gp1bHdXykZ"
+              }
+            ]
+          }
+        },
+        "id": "1165044876297134080",
+        "is_identity_verified": true,
+        "location": "Xiamen, Fujian, PR. China",
+        "most_recent_tweet_id": "2106638094342717522",
+        "name": "奶昔🥤",
+        "pinned_tweet_id": "2082953928388571362",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1165044876297134080/1774534874",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2100861677411647488/qLK34Cve_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 50318,
+          "following_count": 672,
+          "like_count": 23523,
+          "listed_count": 217,
+          "media_count": 3026,
+          "tweet_count": 19607
+        },
+        "url": "https://t.co/Gp1bHdXykZ",
+        "username": "realNyarime",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2024-06-23T06:33:43.000Z",
+        "description": "一個港澳推主中文圈的綜合食瓜族｜日本語上手&勉強中 広東語、中国語、英語OK｜佛系更新，分享日常生活&外國行",
+        "id": "1804764703891361792",
+        "is_identity_verified": false,
+        "location": "虛擬澳門區部門",
+        "most_recent_tweet_id": "2106454632839118976",
+        "name": "SunnyTang（废话摸鱼小推友）",
+        "pinned_tweet_id": "2090070220060938706",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1804764703891361792/1764645137",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1995692460371300352/yF48Zthp_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 218,
+          "following_count": 127,
+          "like_count": 3075,
+          "listed_count": 0,
+          "media_count": 230,
+          "tweet_count": 1596
+        },
+        "url": "",
+        "username": "tangsunny_1225",
+        "verified": false,
+        "verified_type": "none"
+      }
+    ]
+  }
+}

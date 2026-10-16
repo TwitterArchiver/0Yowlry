@@ -1,0 +1,300 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1839263401845075974",
+    "conversation_id": "2082050423683477993",
+    "created_at": "2026-09-30T11:24:31.000Z",
+    "display_text_range": [
+      41,
+      44
+    ],
+    "edit_controls": {
+      "editable_until": "2026-09-30T12:24:31.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2105257481194877084"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 9,
+          "id": "2026283442259017729",
+          "start": 0,
+          "username": "bigjusir"
+        },
+        {
+          "end": 25,
+          "id": "1635476041438461952",
+          "start": 10,
+          "username": "JiaweiShen2568"
+        },
+        {
+          "end": 40,
+          "id": "1622066090074607616",
+          "start": 26,
+          "username": "hoshinofujivy"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2105257481194877084",
+    "in_reply_to_user_id": "2026283442259017729",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "paid_partnership": false,
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082128522827710583",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@bigjusir @JiaweiShen2568 @hoshinofujivy 为什么"
+  },
+  "errors": [
+    {
+      "detail": "User has been suspended: [hoshinofujivy].",
+      "parameter": "entities.mentions.username",
+      "resource_id": "hoshinofujivy",
+      "resource_type": "user",
+      "title": "Forbidden",
+      "type": "https://api.x.com/2/problems/resource-not-found",
+      "value": "hoshinofujivy"
+    }
+  ],
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1839263401845075974",
+        "conversation_id": "2082050423683477993",
+        "created_at": "2026-09-30T11:24:31.000Z",
+        "display_text_range": [
+          41,
+          44
+        ],
+        "edit_controls": {
+          "editable_until": "2026-09-30T12:24:31.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2105257481194877084"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 9,
+              "id": "2026283442259017729",
+              "start": 0,
+              "username": "bigjusir"
+            },
+            {
+              "end": 25,
+              "id": "1635476041438461952",
+              "start": 10,
+              "username": "JiaweiShen2568"
+            },
+            {
+              "end": 40,
+              "id": "1622066090074607616",
+              "start": 26,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2105257481194877084",
+        "in_reply_to_user_id": "2026283442259017729",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082128522827710583",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@bigjusir @JiaweiShen2568 @hoshinofujivy 为什么"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2026283442259017729",
+        "conversation_id": "2082050423683477993",
+        "created_at": "2026-07-28T15:38:18.000Z",
+        "display_text_range": [
+          31,
+          35
+        ],
+        "edit_controls": {
+          "editable_until": "2026-07-28T16:38:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082128522827710583"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1635476041438461952",
+              "start": 0,
+              "username": "JiaweiShen2568"
+            },
+            {
+              "end": 30,
+              "id": "1622066090074607616",
+              "start": 16,
+              "username": "hoshinofujivy"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082128522827710583",
+        "in_reply_to_user_id": "1635476041438461952",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "paid_partnership": false,
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 619,
+          "like_count": 7,
+          "quote_count": 1,
+          "reply_count": 4,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082127717483327984",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@JiaweiShen2568 @hoshinofujivy 动保的事"
+      }
+    ],
+    "users": [
+      {
+        "affiliation": {},
+        "created_at": "2024-09-26T11:19:31.000Z",
+        "description": "Anime|Minecraft|GirlsBand|Game|Journey|NaturalScience|InformationTech|Aerospace|AmongUs|Magical Girl Witch Trials|Plants vs. Zombies",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "mail.shungleemain.com",
+                "end": 23,
+                "expanded_url": "https://mail.shungleemain.com/",
+                "start": 0,
+                "url": "https://t.co/t6gS8jViy0"
+              }
+            ]
+          }
+        },
+        "id": "1839263401845075974",
+        "is_identity_verified": false,
+        "location": "Neoaurorium City",
+        "most_recent_tweet_id": "2105257481194877084",
+        "name": "𝓶𝓸𝓻𝓽𝓲𝓼ですわ",
+        "pinned_tweet_id": "2089409688328884515",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/1839263401845075974/1738872464",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971955303194546176/7EbSCYUF_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2679,
+          "following_count": 4184,
+          "like_count": 86885,
+          "listed_count": 14,
+          "media_count": 696,
+          "tweet_count": 25393
+        },
+        "url": "https://t.co/t6gS8jViy0",
+        "username": "0Yowlry",
+        "verified": false,
+        "verified_type": "none"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2026-02-24T13:10:10.000Z",
+        "description": "内容创作者，二次元爱好者，时政评论",
+        "id": "2026283442259017729",
+        "is_identity_verified": true,
+        "most_recent_tweet_id": "2105257407148646681",
+        "name": "jusir",
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/2026283442259017729/1783157974",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2026287531831259136/bziZOz9V_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 7190,
+          "following_count": 4410,
+          "like_count": 10571,
+          "listed_count": 22,
+          "media_count": 1459,
+          "tweet_count": 5650
+        },
+        "url": "",
+        "username": "bigjusir",
+        "verified": true,
+        "verified_type": "blue"
+      },
+      {
+        "affiliation": {},
+        "created_at": "2023-03-14T03:01:07.000Z",
+        "description": "最近听到字节跳槽出来的管理带来一些新的词汇，以前腾讯是拉通，字节喜欢说对齐。\n我不懂啥是对齐。有人说就是对齐思路，比如你在网上和人对线，那就是对齐。我说抱歉，真对齐不了一点儿。",
+        "id": "1635476041438461952",
+        "is_identity_verified": false,
+        "location": "广州，深圳",
+        "most_recent_tweet_id": "2105255211073728677",
+        "name": "渡边君",
+        "pinned_tweet_id": "1949724676168786000",
+        "profile_banner_url": "",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1698170245012410368/-hDgjw5G_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 38941,
+          "following_count": 2423,
+          "like_count": 67298,
+          "listed_count": 134,
+          "media_count": 6628,
+          "tweet_count": 47753
+        },
+        "url": "",
+        "username": "JiaweiShen2568",
+        "verified": true,
+        "verified_type": "blue"
+      }
+    ]
+  }
+}
